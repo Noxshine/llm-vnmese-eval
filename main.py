@@ -6,18 +6,20 @@ import numpy as np
 from dotenv import load_dotenv
 import google.generativeai as genai
 
+from torchmetrics.text import CharErrorRate, WordErrorRate
+
 load_dotenv()
 
 VSEC_PATH = 'data/VSEC.jsonl'
 
 prompt_spell_correction = """[INST] <<SYS>>Hãy xem mình là một Bot có thể tìm và sửa các lỗi sai chính tả có trong một câu tiếng Việt. 
-    Chú ý, Bot không chỉnh sửa hay thêm bớt các từ trong câu, chỉ sửa các từ bị sai chính tả. 
+    Chú ý, Bot không chỉnh sửa, tự động xoá khoảng trắng hay thêm bớt các từ trong câu, chỉ sửa các từ bị sai chính tả. 
     Bot không tự trả lời hay giả dạng thành Khách. 
     Và đây là cuộc trò chuyện mới nhất giữa Bot và Khách. <</SYS>> 
     Khách :  "Tôi thíc ăn nhìu món ăn khác nhau."  
     Bot :  "Tôi thích ăn nhiều món ăn khác nhau."  
-    Khách :  "Chúng ta cần bão quãn thực phẩm tốt hơn."  
-    Bot :  "Chúng ta cần bảo quản thực phẩm tốt hơn."  
+    Khách :  "Chúng ta cần bão quãn thực phẩm tốt hơn , trong thời tiết lạnh giá này."  
+    Bot :  "Chúng ta cần bảo quản thực phẩm tốt hơn , trong thời tiết lạnh giá này."  
     Khách : "Hôm nay thời tiếc rất đep."  
     Bot : "Hôm nay thời tiết rất đẹp."  
     Khách : "{query}"
@@ -26,7 +28,7 @@ prompt_spell_correction = """[INST] <<SYS>>Hãy xem mình là một Bot có th�
 def generate_prompt_data(prompt):
     try:
         genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
-        model = genai.GenerativeModel("gemini-1.5-pro")
+        model = genai.GenerativeModel("gemini-2.0-flash-exp")
         response = model.generate_content(prompt)
 
         return preprocess_generate_data(response.text)
@@ -39,6 +41,7 @@ def generate_prompt_data(prompt):
 def preprocess_generate_data(input_string):
     input_string = input_string.strip()
     input_string.replace("\n", "")
+    input_string.replace(" ,", ",")
     if input_string.startswith('"') and input_string.endswith('"'):
         return input_string[1:-1]  # Remove the surrounding quotes
     return input_string  # Return as-is if no quotes
@@ -55,112 +58,139 @@ def VSEC_evaluate(dataset):
     EM = 0
 
 
-    for i in range(0, 1):
+    for i in range(0, 10):
 
         # data loading
         data = dataset[i]
 
         # get detail data
         wrong_sentence = data['text']   # full sentence with spell incorrect
+
+        print("[WRONG] :", wrong_sentence)
         annotations = data['annotations']
+
+        # get ground truth
+        gr_truth = wrong_sentence.split(' ')
+        for anno in annotations:
+            if not anno["is_correct"]:
+                id = anno["id"]
+                gr_truth[id - 1] = anno["alternative_syllables"][0]
+
+        gr_truth = " ".join(gr_truth) # groud truth
+        print("[TRUTH] :", gr_truth)
 
         # predict
         prompt = prompt_spell_correction_loading(wrong_sentence)
+        predict_sentence = generate_prompt_data(prompt) # predict
+        print("[PRED] :", predict_sentence)
 
-        predict_sentence = generate_prompt_data(prompt)
+        # calculate CER
+        print("CER: ", calculate_cer(predict_sentence, gr_truth))
 
-        # calculate EM
-        EM_step = calculate_em(wrong_sentence, predict_sentence=predict_sentence, annotations=annotations)
+        # calculate WER
+        print("WER: ", calculate_wer(predict_sentence, gr_truth))
 
-        if EM == 0:
-            EM = EM + EM_step
-        else:
-            EM = (EM * i + EM_step) / (i + 1)
+        # calculate CED
+        print("CED: ", calculate_ced("xin chào", gr_truth))
 
-        print("----------------- : ", EM)
-        time.sleep(40)
+        # calculate WED
+        print("WED: ", calculate_wed("xin chào", gr_truth))
 
-
-def calculate_em(wrong_sentence, predict_sentence, annotations):
-    total_incorrect = 0
-    total_true_predict = 0
-
-    print(wrong_sentence)
-    print(predict_sentence)
-
-    # preprocess predict string -> list[]
-    predict_sentence = predict_sentence.split(' ')
-
-    # evaluate
-    for anno in annotations:
-        if not anno["is_correct"]:
-            total_incorrect = total_incorrect + 1
-
-            id = anno["id"]
-
-            cur_word = anno["current_syllable"]  # current word
-            print("current_syllable :", cur_word)
-
-            alter_sys = anno["alternative_syllables"]  # word can be replace
-            print("alternative_syllables :", alter_sys)
-
-            predict_word = predict_sentence[id - 1]  # predict word
-            print("predict :", predict_word)
-
-            if predict_word in alter_sys:
-                total_true_predict = total_true_predict + 1
-
-    return total_true_predict/total_incorrect
+        # time.sleep(30)
 
 
-def calculate_cer(reference, hypothesis):
+def calculate_em(pred, target):
+    pass
+
+def calculate_cer(pred, target):
     """
     Calculate the Character Error Rate (CER) between two strings.
 
     Args:
-        reference (str): The ground truth string.
-        hypothesis (str): The predicted string.
+        pred (str): The ground truth string.
+        targets (str): The predicted string.
 
     Returns:
         float: The CER value.
     """
-    # Create a matrix for Levenshtein distance computation
-    ref_len = len(reference)
-    hyp_len = len(hypothesis)
-    dp = np.zeros((ref_len + 1, hyp_len + 1), dtype=int)
+    cer = CharErrorRate()
+    return cer(pred, target).item()
 
-    # Initialize the matrix
-    for i in range(ref_len + 1):
-        dp[i][0] = i
-    for j in range(hyp_len + 1):
-        dp[0][j] = j
+def calculate_wer(pred, targets):
+    wer = WordErrorRate()
+    return wer(pred, targets).item()
 
-    # Compute Levenshtein distance
-    for i in range(1, ref_len + 1):
-        for j in range(1, hyp_len + 1):
-            if reference[i - 1] == hypothesis[j - 1]:
-                dp[i][j] = dp[i - 1][j - 1]  # No change needed
-            else:
-                dp[i][j] = 1 + min(dp[i - 1][j],    # Deletion
-                                   dp[i][j - 1],    # Insertion
-                                   dp[i - 1][j - 1])  # Substitution
 
-    # Levenshtein distance
-    levenshtein_distance = dp[ref_len][hyp_len]
+def calculate_ced(str1, str2):
+    '''
+    Calculate Levenshtein_distance
 
-    # CER calculation
-    cer = levenshtein_distance / ref_len if ref_len > 0 else 0.0
-    return cer
+    :param str1:
+    :param str2:
+    :return:
+    '''
+    # Create a matrix to store distances
+    len_str1 = len(str1)
+    len_str2 = len(str2)
 
-def calculate_wer():
-    pass
+    # Initialize a matrix of size (len_str1 + 1) x (len_str2 + 1)
+    matrix = [[0] * (len_str2 + 1) for _ in range(len_str1 + 1)]
 
-def calculate_ced():
-    pass
+    # Initialize the first row and column
+    for i in range(len_str1 + 1):
+        matrix[i][0] = i
+    for j in range(len_str2 + 1):
+        matrix[0][j] = j
 
-def calculate_wed():
-    pass
+    # Fill the matrix with the Levenshtein distance values
+    for i in range(1, len_str1 + 1):
+        for j in range(1, len_str2 + 1):
+            cost = 0 if str1[i - 1] == str2[j - 1] else 1
+            matrix[i][j] = min(matrix[i - 1][j] + 1,  # Deletion
+                               matrix[i][j - 1] + 1,  # Insertion
+                               matrix[i - 1][j - 1] + cost)  # Substitution
 
+    # The Levenshtein distance is found at the bottom-right corner of the matrix
+    return matrix[len_str1][len_str2]
+
+
+def calculate_wed(predicted, reference, ):
+    '''
+    Calculate word edit distance
+    
+    :param reference: 
+    :param predicted: 
+    :return: 
+    '''
+    # Split the reference and predicted texts into words
+    reference_words = reference.split()
+    predicted_words = predicted.split()
+
+    len_ref = len(reference_words)
+    len_pred = len(predicted_words)
+
+    # Create a matrix to store distances
+    matrix = [[0] * (len_pred + 1) for _ in range(len_ref + 1)]
+
+    # Initialize the first row and column
+    for i in range(len_ref + 1):
+        matrix[i][0] = i
+    for j in range(len_pred + 1):
+        matrix[0][j] = j
+
+    # Fill the matrix with the WED distance values
+    for i in range(1, len_ref + 1):
+        for j in range(1, len_pred + 1):
+            cost = 0 if reference_words[i - 1] == predicted_words[j - 1] else 1
+            matrix[i][j] = min(matrix[i - 1][j] + 1,  # Deletion
+                               matrix[i][j - 1] + 1,  # Insertion
+                               matrix[i - 1][j - 1] + cost)  # Substitution
+
+    # The WED is the number of errors divided by the number of words in the reference
+    total_errors = matrix[len_ref][len_pred]
+    wed_value = total_errors / len_ref
+
+    return wed_value
 
 def calculate_ppl():
     pass
@@ -171,10 +201,6 @@ def load_data(file_path):
         return data
 
 if __name__ == '__main__':
-
-    # query = "Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường sanh , sạch , đẹp."
-    # prompt = prompt_spell_correction.format(query=query)
-    # generate_prompt_data(prompt)
 
     # load dataset
     dataset = load_data(VSEC_PATH)
