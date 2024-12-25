@@ -1,0 +1,11 @@
+---------------------------
+[No67]
+[WRONG]: Điều này phản ánh thực tế là các hoạt động học trong lao động và trong hoạt đông thể dục, thể thao không được đánh giá cao, cần có sự cải thiện và thiết kế chương trình sao cho phù hợp với lứa tuổi mẫu giáo.
+[TRUTH]: Điều này phản ánh thực tế là các hoạt động học trong lao động và trong hoạt động thể dục, thể thao không được đánh giá cao, cần có sự cải thiện và thiết kế chương trình sao cho phù hợp với lứa tuổi mẫu giáo.
+[PRED] : Điều này phản ánh thực tế là các hoạt động học trong lao động và trong hoạt động thể dục, thể thao không được đánh giá cao, cần có sự cải thiện và thiết kế chương trình sao cho phù hợp với lứa tuổi mẫu giáo.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
