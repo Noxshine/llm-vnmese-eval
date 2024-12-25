@@ -1,0 +1,715 @@
+---------------------------
+[No1]
+[WRONG]: Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường sanh , sạch , đẹp.
+[TRUTH]: Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường xanh , sạch , đẹp.
+[PRED] : Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường xanh , sạch , đẹp.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No2]
+[WRONG]: Do đó, doanh nghiệp cần chú trọng đến yếu tố này để là thỏa mãn, hài lòng các nhóm đối tượng này.
+[TRUTH]: Do đó, doanh nghiệp cần chú trọng đến yếu tố này để làm thỏa mãn, hài lòng các nhóm đối tượng này.
+[PRED] : Do đó, doanh nghiệp cần chú trọng đến yếu tố này để làm thỏa mãn, hài lòng các nhóm đối tượng này.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No3]
+[WRONG]: Giữ được chỉ số này không giam mà còn tăng thêm cũng được xem là một bức thành công của Ngân hàng.
+[TRUTH]: Giữ được chỉ số này không giảm mà còn tăng thêm cũng được xem là một bước thành công của Ngân hàng.
+[PRED] : Giữ được chỉ số này không giảm mà còn tăng thêm cũng được xem là một bước thành công của Ngân hàng.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No4]
+[WRONG]: Đúng trước thực tế này đòi hỏi chúng ta cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm của người tiêu dùng ở TP.
+[TRUTH]: Đứng trước thực tế này đòi hỏi chúng ta cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm của người tiêu dùng ở TP.
+[PRED] : Đứng trước thực tế này đòi hỏi chúng ta cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm của người tiêu dùng ở TP.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No5]
+[WRONG]: Trình độ học vấn của nhân viên được tuyển dụng ngày cang cao hơn, thợ lành nghề cũng được sàng lọc kỹ hơn.
+[TRUTH]: Trình độ học vấn của nhân viên được tuyển dụng ngày càng cao hơn, thợ lành nghề cũng được sàng lọc kỹ hơn.
+[PRED] : Trình độ học vấn của nhân viên được tuyển dụng ngày càng cao hơn, thợ lành nghề cũng được sàng lọc kỹ hơn.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No6]
+[WRONG]: Ở các nước phát triển, đa số các ấn phẩm nhật báo hoặc tuần báo có con số từ vài chục đến hàng trăm trang (tính cả phụ trang quảng cáo, dịch vụ xa hội).
+[TRUTH]: Ở các nước phát triển, đa số các ấn phẩm nhật báo hoặc tuần báo có con số từ vài chục đến hàng trăm trang (tính cả phụ trang quảng cáo, dịch vụ xã hội).
+[PRED] : Ở các nước phát triển, đa số các ấn phẩm nhật báo hoặc tuần báo có con số từ vài chục đến hàng trăm trang (tính cả phụ trang quảng cáo, dịch vụ xã hội).
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No7]
+[WRONG]: Các bất cập đó đã làm nảy sinh ra việc sử dụng đất chưa hợp lí, ảnh hưởng từ quá trình công nghệp hóa làm suy giảm diện tích đất nông nghiệp.
+[TRUTH]: Các bất cập đó đã làm nảy sinh ra việc sử dụng đất chưa hợp lí, ảnh hưởng từ quá trình công nghiệp hóa làm suy giảm diện tích đất nông nghiệp.
+[PRED] : Các bất cập đó đã làm nảy sinh ra việc sử dụng đất chưa hợp lý, ảnh hưởng từ quá trình công nghiệp hóa làm suy giảm diện tích đất nông nghiệp.
+EM: 0.8571428571428571
+CER: 0.007042253389954567
+WER: 0.03125
+CED: 1
+WED: 0.03125
+---------------------------
+---------------------------
+[No8]
+[WRONG]: Các lệnh được gửi tử Home Gateway mà ổ điện thông minh cần xử lý ở đây sẽ thường là yêu cầu bật/tắt ổ điện, yêu cầu thông báo trạng thái bật/tắt của ổ điện, yêu cầu thông báo vị trí nắp đặt của ổ điện.
+[TRUTH]: Các lệnh được gửi từ Home Gateway mà ổ điện thông minh cần xử lý ở đây sẽ thường là yêu cầu bật/tắt ổ điện, yêu cầu thông báo trạng thái bật/tắt của ổ điện, yêu cầu thông báo vị trí lắp đặt của ổ điện.
+[PRED] : Các lệnh được gửi từ Home Gateway mà ổ điện thông minh cần xử lý ở đây sẽ thường là yêu cầu bật/tắt ổ điện, yêu cầu thông báo trạng thái bật/tắt của ổ điện, yêu cầu thông báo vị trí lắp đặt của ổ điện.
+EM: 0.875
+CER: 0.006161971716210246
+WER: 0.02734375
+CED: 0.875
+WED: 0.02734375
+---------------------------
+---------------------------
+[No9]
+[WRONG]: Với khuôn khổ này, chính trị học so sánh có thế áp dụng vào phân tích nhằm xác định được sự tương đồng và khác biệt giữa các quá trình chính trị, tương ứng với sự tương đồng và khác biệt của cấu trúc chính trị.
+[TRUTH]: Với khuôn khổ này, chính trị học so sánh có thể áp dụng vào phân tích nhằm xác định được sự tương đồng và khác biệt giữa các quá trình chính trị, tương ứng với sự tương đồng và khác biệt của cấu trúc chính trị.
+[PRED] : Với khuôn khổ này, chính trị học so sánh có thể áp dụng vào phân tích nhằm xác định được sự tương đồng và khác biệt giữa các quá trình chính trị, tương ứng với sự tương đồng và khác biệt của cấu trúc chính trị.
+EM: 0.8888888888888888
+CER: 0.0054773081921868855
+WER: 0.024305555555555556
+CED: 0.7777777777777778
+WED: 0.024305555555555556
+---------------------------
+---------------------------
+[No10]
+[WRONG]: Việc điều khiển xe sẽ trở lên dễ dàng hơn nếu các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế, việc đặt sai góc sẽ tạo ra tính ổn định khi lái kém và khiến lốp xe nhanh mòn.
+[TRUTH]: Việc điều khiển xe sẽ trở nên dễ dàng hơn nếu các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế, việc đặt sai góc sẽ tạo ra tính ổn định khi lái kém và khiến lốp xe nhanh mòn.
+[PRED] : Việc điều khiển xe sẽ trở nên dễ dàng hơn nếu các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế, việc đặt sai góc sẽ tạo ra tính ổn định khi lái kém và khiến lốp xe nhanh mòn.
+EM: 0.9
+CER: 0.004929577372968197
+WER: 0.021875
+CED: 0.7
+WED: 0.021875
+---------------------------
+---------------------------
+[No11]
+[WRONG]: Trong chương này, ta nêu nên những cơ sở lý thuyết được áp dụng trong việc giải quyết bài toán xây dựng hệ thống.
+[TRUTH]: Trong chương này, ta nêu lên những cơ sở lý thuyết được áp dụng trong việc giải quyết bài toán xây dựng hệ thống.
+[PRED] : Trong chương này, ta nêu lên những cơ sở lý thuyết được áp dụng trong việc giải quyết bài toán xây dựng hệ thống.
+EM: 0.9090909090909091
+CER: 0.0044814339754256334
+WER: 0.019886363636363636
+CED: 0.6363636363636364
+WED: 0.019886363636363636
+---------------------------
+---------------------------
+[No12]
+[WRONG]: Tài liệu bồi dưỡng và nâng cao năng lực chuyên môn nghiêp vụ và đạo đức nghề nghiệp cho cán bộ công nhân viên.
+[TRUTH]: Tài liệu bồi dưỡng và nâng cao năng lực chuyên môn nghiệp vụ và đạo đức nghề nghiệp cho cán bộ công nhân viên.
+[PRED] : Tài liệu bồi dưỡng và nâng cao năng lực chuyên môn nghiệp vụ và đạo đức nghề nghiệp cho cán bộ công nhân viên.
+EM: 0.9166666666666666
+CER: 0.004107981144140164
+WER: 0.018229166666666668
+CED: 0.5833333333333334
+WED: 0.018229166666666668
+---------------------------
+---------------------------
+[No13]
+[WRONG]: Xây dụng nội dung học dưới dạng các tư liệu học tập: phiếu học tập.
+[TRUTH]: Xây dựng nội dung học dưới dạng các tư liệu học tập: phiếu học tập.
+[PRED] : Xây dựng nội dung học dưới dạng các tư liệu học tập: phiếu học tập.
+EM: 0.9230769230769231
+CER: 0.0037919825945909205
+WER: 0.016826923076923076
+CED: 0.5384615384615384
+WED: 0.016826923076923076
+---------------------------
+---------------------------
+[No14]
+[WRONG]: Người đến thăm chùa Bà Đá, dự lễ kỷ niệm Khổng Tử và đến thăm các phòng triển lãm tranhh của các họa sĩ nổi tiếng.
+[TRUTH]: Người đến thăm chùa Bà Đá, dự lễ kỷ niệm Khổng Tử và đến thăm các phòng triển lãm tranh của các họa sĩ nổi tiếng.
+[PRED] : Người đến thăm chùa Bà Đá, dự lễ kỷ niệm Khổng Tử và đến thăm các phòng triển lãm tranh của các họa sĩ nổi tiếng.
+EM: 0.9285714285714286
+CER: 0.0035211266949772835
+WER: 0.015625
+CED: 0.5
+WED: 0.015625
+---------------------------
+---------------------------
+[No15]
+[WRONG]: Kho chứa cốt thép phải có nền cao ráo, không để nước mưa chẩy vào, mái và tường không bị dột, không bị nước mưa hắt, có khả năng chống ẩm.
+[TRUTH]: Kho chứa cốt thép phải có nền cao ráo, không để nước mưa chảy vào, mái và tường không bị dột, không bị nước mưa hắt, có khả năng chống ẩm.
+[PRED] : Kho chứa cốt thép phải có nền cao ráo, không để nước mưa chảy vào, mái và tường không bị dột, không bị nước mưa hắt, có khả năng chống ẩm.
+EM: 0.9333333333333333
+CER: 0.003286384915312131
+WER: 0.014583333333333334
+CED: 0.4666666666666667
+WED: 0.014583333333333334
+---------------------------
+---------------------------
+[No16]
+[WRONG]: Tuy nh iên, mục tiêu của P4 là còn có thể tái cấu hình với cả các ASIC có chức năng cố định.
+[TRUTH]: Tuy  nhiên, mục tiêu của P4 là còn có thể tái cấu hình với cả các ASIC có chức năng cố định.
+[PRED] : Tuy nhiên, mục tiêu của P4 là còn có thể tái cấu hình với cả các ASIC có chức năng cố định.
+EM: 0.28125
+CER: 0.003760333696845919
+WER: 0.013671875
+CED: 0.5
+WED: 0.013671875
+---------------------------
+---------------------------
+[No17]
+[WRONG]: Nhờ việc hoạt động theo nhóm, học sinh được rèn luyện các kỹ năng cần thiết như hợp tác, trình bày trước đám đông, kỹ năng lập kế hoạch, thực hiện kế hoạch và đánh giá kế hoạc.
+[TRUTH]: Nhờ việc hoạt động theo nhóm, học sinh được rèn luyện các kỹ năng cần thiết như hợp tác, trình bày trước đám đông, kỹ năng lập kế hoạch, thực hiện kế hoạch và đánh giá kế hoạch.
+[PRED] : Nhờ việc hoạt động theo nhóm, học sinh được rèn luyện các kỹ năng cần thiết như hợp tác, trình bày trước đám đông, kỹ năng lập kế hoạch, thực hiện kế hoạch và đánh giá kế hoạch.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No18]
+[WRONG]: Trong công tác tuyền dụng cán bộ làm công tác thẩm định dự án, báo cáo kinh tế kỹ thuật đầu tư đòi hỏi phải có trình độ chuyên môn nghiệp vụ theo quy định, cán bộ thẩm định phải có kinh nghiệm.
+[TRUTH]: Trong công tác tuyển dụng cán bộ làm công tác thẩm định dự án, báo cáo kinh tế kỹ thuật đầu tư đòi hỏi phải có trình độ chuyên môn nghiệp vụ theo quy định, cán bộ thẩm định phải có kinh nghiệm.
+[PRED] : Trong công tác tuyển dụng cán bộ làm công tác thẩm định dự án, báo cáo kinh tế kỹ thuật đầu tư đòi hỏi phải có trình độ chuyên môn nghiệp vụ theo quy định, cán bộ thẩm định phải có kinh nghiệm.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No19]
+[WRONG]: Nhưng trong nhiều lớp bồi dưỡng vân chưa chú ý đến các phương pháp tích cực.
+[TRUTH]: Nhưng trong nhiều lớp bồi dưỡng vẫn chưa chú ý đến các phương pháp tích cực.
+[PRED] : Nhưng trong nhiều lớp bồi dưỡng vẫn chưa chú ý đến các phương pháp tích cực.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No20]
+[WRONG]: Vì vậy qua những câu chuyện với mục đích cung cấp hiểu biết về sự thích nghi của động thực vật với môi trường, về qúa trình phát triển của chúng.
+[TRUTH]: Vì vậy qua những câu chuyện với mục đích cung cấp hiểu biết về sự thích nghi của động thực vật với môi trường, về quá trình phát triển của chúng.
+[PRED] : Vì vậy qua những câu chuyện với mục đích cung cấp hiểu biết về sự thích nghi của động thực vật với môi trường, về quá trình phát triển của chúng.
+EM: 1.0
+CER: 0.0
+WER: 0.0
+CED: 0
+WED: 0.0
+---------------------------
+---------------------------
+[No21]
+[WRONG]: Nestle đã từng bước khẳng định được vị trị của bản thân mình bằng cách vươn xa, mở rộng phạm vi hoạt động trên toàn thế giới.
+[TRUTH]: Nestle đã từng bước khẳng định được vị trí của bản thân mình bằng cách vươn xa, mở rộng phạm vi hoạt động trên toàn thế giới.
+[PRED] : Nestlé đã từng bước khẳng định được vị trí của bản thân mình bằng cách vươn xa, mở rộng phạm vi hoạt động trên toàn thế giới.
+EM: 0.9523809523809523
+CER: 0.00800000037997961
+WER: 0.03703703731298447
+CED: 1
+WED: 0.037037037037037035
+---------------------------
+---------------------------
+[No22]
+[WRONG]: Học sinh quan sát tranh, cảm nhận và nghi nhớ.
+[TRUTH]: Học sinh quan sát tranh, cảm nhận và ghi nhớ.
+[PRED] : Học sinh quan sát tranh, cảm nhận và ghi nhớ.
+EM: 0.9545454545454546
+CER: 0.007636363999071446
+WER: 0.03535353561693972
+CED: 0.9545454545454546
+WED: 0.03535353535353535
+---------------------------
+---------------------------
+[No23]
+[WRONG]: Dưới triều Lê Sơ, Ngự sử đài vẫn là cơ quan có vai trò lớn hơn Lục khoa, quan lại thuộc Ngự sử đài là những người có quyền lục từ Tể tướng đến Võ tướng - những chức vụ cao nhất trong triều.
+[TRUTH]: Dưới triều Lê Sơ, Ngự sử đài vẫn là cơ quan có vai trò lớn hơn Lục khoa, quan lại thuộc Ngự sử đài là những người có quyền lực từ Tể tướng đến Võ tướng - những chức vụ cao nhất trong triều.
+[PRED] : Dưới triều Lê Sơ, Ngự sử đài vẫn là cơ quan có vai trò lớn hơn Lục khoa, quan lại thuộc Ngự sử đài là những người có quyền lực từ Tể tướng đến Võ tướng - những chức vụ cao nhất trong triều.
+EM: 0.9565217391304348
+CER: 0.007304348173024861
+WER: 0.033816425372724945
+CED: 0.9130434782608695
+WED: 0.033816425120772944
+---------------------------
+---------------------------
+[No24]
+[WRONG]: Mỗi tháng 1 lần, công ty sẽ tổ chức một buổi giao lưu chia sẽ kinh nghiệm giữa các nhân viên với nhau và đào tạo thêm về các kỹ năng ứng xử khác cho nhân viên.
+[TRUTH]: Mỗi tháng 1 lần, công ty sẽ tổ chức một buổi giao lưu chia sẻ kinh nghiệm giữa các nhân viên với nhau và đào tạo thêm về các kỹ năng ứng xử khác cho nhân viên.
+[PRED] : Mỗi tháng 1 lần, công ty sẽ tổ chức một buổi giao lưu chia sẻ kinh nghiệm giữa các nhân viên với nhau và đào tạo thêm về các kỹ năng ứng xử khác cho nhân viên.
+EM: 0.9583333333333334
+CER: 0.007000000332482159
+WER: 0.03240740764886141
+CED: 0.875
+WED: 0.032407407407407406
+---------------------------
+---------------------------
+[No25]
+[WRONG]: Trạng thái phòng đã đươc thuê và không cần thêm người ở ghép.
+[TRUTH]: Trạng thái phòng đã được thuê và không cần thêm người ở ghép.
+[PRED] : Trạng thái phòng đã được thuê và không cần thêm người ở ghép.
+EM: 0.96
+CER: 0.006720000319182873
+WER: 0.031111111342906953
+CED: 0.84
+WED: 0.031111111111111107
+---------------------------
+---------------------------
+[No26]
+[WRONG]: Display ads: Quảng cáo hiện thị, có nhiều dạng định dạng khác nhau: chữ, hình ảnh, video flash.
+[TRUTH]: Display ads: Quảng cáo hiển thị, có nhiều dạng định dạng khác nhau: chữ, hình ảnh, video flash.
+[PRED] : Display ads: Quảng cáo hiển thị, có nhiều dạng định dạng khác nhau: chữ, hình ảnh, video flash.
+EM: 0.9615384615384616
+CER: 0.00646153876844507
+WER: 0.02991453013741053
+CED: 0.8076923076923077
+WED: 0.029914529914529912
+---------------------------
+---------------------------
+[No27]
+[WRONG]: Nền kinh tế nước ta đang tiến từng bước vững chắc tới công cuộc cải cachh kinh tế theo hướng mở cửa để nhanh chóng hòa nhập với nền kinh tế thế giới.
+[TRUTH]: Nền kinh tế nước ta đang tiến từng bước vững chắc tới công cuộc cải cách kinh tế theo hướng mở cửa để nhanh chóng hòa nhập với nền kinh tế thế giới.
+[PRED] : Nền kinh tế nước ta đang tiến từng bước vững chắc tới công cuộc cải cách kinh tế theo hướng mở cửa để nhanh chóng hòa nhập với nền kinh tế thế giới.
+EM: 0.9629629629629629
+CER: 0.00622222251776192
+WER: 0.028806584576765697
+CED: 0.7777777777777778
+WED: 0.028806584362139915
+---------------------------
+---------------------------
+[No28]
+[WRONG]: Trong trường hợp có hai người hoặc nhiều người cùng sáng tạo ra tác phẩm thì những người đó lả đồng tác giả.
+[TRUTH]: Trong trường hợp có hai người hoặc nhiều người cùng sáng tạo ra tác phẩm thì những người đó là đồng tác giả.
+[PRED] : Trong trường hợp có hai người hoặc nhiều người cùng sáng tạo ra tác phẩm thì những người đó là đồng tác giả.
+EM: 0.9642857142857143
+CER: 0.006000000284984708
+WER: 0.02777777798473835
+CED: 0.75
+WED: 0.027777777777777773
+---------------------------
+---------------------------
+[No29]
+[WRONG]: Nghiên cứu về "Phát triển nhanh và bền vững nền kinh tế Việt Nam (2011-2020)", Bùi Tất Thắng (2010), đã đi sâu vào phân tích các lý thuyết về phát triển nhanh và bền vững của các hoc giả trên thế giới.
+[TRUTH]: Nghiên cứu về "Phát triển nhanh và bền vững nền kinh tế Việt Nam (2011-2020)", Bùi Tất Thắng (2010), đã đi sâu vào phân tích các lý thuyết về phát triển nhanh và bền vững của các học giả trên thế giới.
+[PRED] : Nghiên cứu về "Phát triển nhanh và bền vững nền kinh tế Việt Nam (2011-2020)", Bùi Tất Thắng (2010), đã đi sâu vào phân tích các lý thuyết về phát triển nhanh và bền vững của các học giả trên thế giới.
+EM: 0.9655172413793104
+CER: 0.005793103723433511
+WER: 0.02681992357147151
+CED: 0.7241379310344828
+WED: 0.026819923371647507
+---------------------------
+---------------------------
+[No30]
+[WRONG]: Chú ý đến việc giảm giá thành sản phẩm bằng cách hạn chế đế mức thấp nhất tỷ lệ hao hụt, giảm các công đoạn thừa, không tạo ra giá trị.
+[TRUTH]: Chú ý đến việc giảm giá thành sản phẩm bằng cách hạn chế đến mức thấp nhất tỷ lệ hao hụt, giảm các công đoạn thừa, không tạo ra giá trị.
+[PRED] : Chú ý đến việc giảm giá thành sản phẩm bằng cách hạn chế đến mức thấp nhất tỷ lệ hao hụt, giảm các công đoạn thừa, không tạo ra giá trị.
+EM: 0.9666666666666667
+CER: 0.005600000265985727
+WER: 0.025925926119089126
+CED: 0.7
+WED: 0.02592592592592592
+---------------------------
+---------------------------
+[No31]
+[WRONG]: Từ sơ đồ phản ứng, sản phẩm chính phụ tố chức cho HS nhận xét rút ra hướng phản ứng và đi đến quy tắc Mac-côp-nhi-côp.
+[TRUTH]: Từ sơ đồ phản ứng, sản phẩm chính phụ tổ chức cho HS nhận xét rút ra hướng phản ứng và đi đến quy tắc Mac-côp-nhi-côp.
+[PRED] : Từ sơ đồ phản ứng, sản phẩm chính phụ giúp cho HS nhận xét rút ra hướng phản ứng và đi đến quy tắc Mac-côp-nhi-côp.
+EM: 0.45161290322580644
+CER: 0.007332969066356459
+WER: 0.027570995592301892
+CED: 0.9032258064516129
+WED: 0.027570995312930793
+---------------------------
+---------------------------
+[No32]
+[WRONG]: Khó khăn trong việc truyền đạt đầy đủ kiên thức cho HS để HS hiểu rõ tác phẩm và thể loại.
+[TRUTH]: Khó khăn trong việc truyền đạt đầy đủ kiến thức cho HS để HS hiểu rõ tác phẩm và thể loại.
+[PRED] : Khó khăn trong việc truyền đạt đầy đủ kiến thức cho HS để HS hiểu rõ tác phẩm và thể loại.
+EM: 0.46875
+CER: 0.00710381378303282
+WER: 0.026709401980042458
+CED: 0.875
+WED: 0.026709401709401705
+---------------------------
+---------------------------
+[No33]
+[WRONG]: Xây dựng mô hình để chuyển giao nhanh giống mới, phương pháp canh tác tiến tiến, tiến bộ khoa học và công nghệ cho nông dân.
+[TRUTH]: Xây dựng mô hình để chuyển giao nhanh giống mới, phương pháp canh tác tiên tiến, tiến bộ khoa học và công nghệ cho nông dân.
+[PRED] : Xây dựng mô hình để chuyển giao nhanh giống mới, phương pháp canh tác tiên tiến, tiến bộ khoa học và công nghệ cho nông dân.
+EM: 0.48484848484848486
+CER: 0.006888546698698492
+WER: 0.025900026162465412
+CED: 0.8484848484848485
+WED: 0.025900025900025894
+---------------------------
+---------------------------
+[No34]
+[WRONG]: Bên cạnh đó, ai trong forum cũng có quyền lên tiếng nói, có quyền ự do ngôn luận do đó forum cũng là một phương tiện truyề tải thông tin eWOM hiệu quả.
+[TRUTH]: Bên cạnh đó, ai trong forum cũng có quyền lên tiếng nói, có quyền tự do ngôn luận do đó forum cũng là một phương tiện truyền tải thông tin eWOM hiệu quả.
+[PRED] : Bên cạnh đó, ai trong forum cũng có quyền lên tiếng nói, có quyền tự do ngôn luận do đó forum cũng là một phương tiện truyền tải thông tin eWOM hiệu quả.
+EM: 0.5
+CER: 0.006685942384030889
+WER: 0.025138260687098783
+CED: 0.8235294117647058
+WED: 0.025138260432378073
+---------------------------
+---------------------------
+[No35]
+[WRONG]: Đồng thời, tác gỉa cũng đã chỉ ra những khó khăn trong thực hiện các chính sách an sinh xã hội ở Việt Nam những năm gần đây trên cơ sở phân tích những đánh giá của nhóm cán bộ thực hiện và các đối tượng thụ hưởng chính sách an sinh xã hội.
+[TRUTH]: Đồng thời, tác giả cũng đã chỉ ra những khó khăn trong thực hiện các chính sách an sinh xã hội ở Việt Nam những năm gần đây trên cơ sở phân tích những đánh giá của nhóm cán bộ thực hiện và các đối tượng thụ hưởng chính sách an sinh xã hội.
+[PRED] : Đồng thời, tác giả cũng đã chỉ ra những khó khăn trong thực hiện các chính sách an sinh xã hội ở Việt Nam những năm gần đây trên cơ sở phân tích những đánh giá của nhóm cán bộ thực hiện và các đối tượng thụ hưởng chính sách an sinh xã hội.
+EM: 0.5142857142857142
+CER: 0.006494915458772864
+WER: 0.02442002466746739
+CED: 0.8
+WED: 0.024420024420024417
+---------------------------
+---------------------------
+[No36]
+[WRONG]: Tác giả cũng cho rằng, việc lập kế hoạch đầu tư công phải được kiểm soát chăt chẽ và thông qua bởi cơ quan hành chính cao nhất và phải được công khai trước công chúng.
+[TRUTH]: Tác giả cũng cho rằng, việc lập kế hoạch đầu tư công phải được kiểm soát chặt chẽ và thông qua bởi cơ quan hành chính cao nhất và phải được công khai trước công chúng.
+[PRED] : Tác giả cũng cho rằng, việc lập kế hoạch đầu tư công phải được kiểm soát chặt chẽ và thông qua bởi cơ quan hành chính cao nhất và phải được công khai trước công chúng.
+EM: 0.5277777777777778
+CER: 0.006314501140473617
+WER: 0.02374169064892663
+CED: 0.7777777777777778
+WED: 0.02374169040835707
+---------------------------
+---------------------------
+[No37]
+[WRONG]: Phấn đấu dến năm 2020, toàn tỉnh có 60% số xã có cơ sở hạ tầng kinh tế xã hội cơ bản đạt tiêu chí NTM.
+[TRUTH]: Phấn đấu đến năm 2020, toàn tỉnh có 60% số xã có cơ sở hạ tầng kinh tế xã hội cơ bản đạt tiêu chí NTM.
+[PRED] : Phấn đấu đến năm 2020, toàn tỉnh có 60% số xã có cơ sở hạ tầng kinh tế xã hội cơ bản đạt tiêu chí NTM.
+EM: 0.5405405405405406
+CER: 0.006143838947487844
+WER: 0.023100023334090773
+CED: 0.7567567567567568
+WED: 0.023100023100023095
+---------------------------
+---------------------------
+[No38]
+[WRONG]: Các nhà kinh doanh báo chí sẽ đưa ra câu hỏi, liệu độc giả ở những vùng sâu, vùng xa chậm phát triển có nhu cầu mua báo hơn như cầu mua nhiều thứ thiết thực hơn.
+[TRUTH]: Các nhà kinh doanh báo chí sẽ đưa ra câu hỏi, liệu độc giả ở những vùng sâu, vùng xa chậm phát triển có nhu cầu mua báo hơn nhu cầu mua nhiều thứ thiết thực hơn.
+[PRED] : Các nhà kinh doanh báo chí sẽ đưa ra câu hỏi, liệu độc giả ở những vùng sâu, vùng xa chậm phát triển có nhu cầu mua báo hơn nhu cầu mua nhiều thứ thiết thực hơn.
+EM: 0.5526315789473685
+CER: 0.005982158975185533
+WER: 0.02249212798319365
+CED: 0.7368421052631579
+WED: 0.022492127755285647
+---------------------------
+---------------------------
+[No39]
+[WRONG]: Khi đầm lớp bê tông phía trên phải ăn sâu xuống lớp bê tông phía dưới khoảng 5-10 cm để lam cho 2 lớp bê tông liên kết với nhau.
+[TRUTH]: Khi đầm lớp bê tông phía trên phải ăn sâu xuống lớp bê tông phía dưới khoảng 5-10 cm để làm cho 2 lớp bê tông liên kết với nhau.
+[PRED] : Khi đầm lớp bê tông phía trên phải ăn sâu xuống lớp bê tông phía dưới khoảng 5-10 cm để làm cho 2 lớp bê tông liên kết với nhau.
+EM: 0.5641025641025642
+CER: 0.0058287702835141085
+WER: 0.02191540675285535
+CED: 0.717948717948718
+WED: 0.021915406530791142
+---------------------------
+---------------------------
+[No40]
+[WRONG]: Năng suất lao động của công nhân tăng thêm 6% đến 7% bằng cách chú trọng đạo tạo chuyên môn, nâng cao tay nghề, tuyển chọn những lao động có trình độ cao hơn.
+[TRUTH]: Năng suất lao động của công nhân tăng thêm 6% đến 7% bằng cách chú trọng đào tạo chuyên môn, nâng cao tay nghề, tuyển chọn những lao động có trình độ cao hơn.
+[PRED] : Năng suất lao động của công nhân tăng thêm 6% đến 7% bằng cách chú trọng đào tạo chuyên môn, nâng cao tay nghề, tuyển chọn những lao động có trình độ cao hơn.
+EM: 0.5750000000000001
+CER: 0.005683051026426256
+WER: 0.021367521584033967
+CED: 0.7
+WED: 0.021367521367521364
+---------------------------
+---------------------------
+[No41]
+[WRONG]: Ở dạng quỹ đạo này vệ tinh bay trực tiếp trên mặt phẳng quỹ đạo trùng với mặt phẳng xích đạo, nó thích hợp với các vệ tinh thông tinh.
+[TRUTH]: Ở dạng quỹ đạo này vệ tinh bay trực tiếp trên mặt phẳng quỹ đạo trùng với mặt phẳng xích đạo, nó thích hợp với các vệ tinh thông tin
+[PRED] : Ở dạng quỹ đạo này vệ tinh bay trực tiếp trên mặt phẳng quỹ đạo trùng với mặt phẳng xích đạo, nó thích hợp với các vệ tinh thông tin.
+EM: 0.5609756097560976
+CER: 0.005729214606306902
+WER: 0.021659370693491727
+CED: 0.7073170731707317
+WED: 0.02165937043985824
+---------------------------
+---------------------------
+[No42]
+[WRONG]: Do vậy, trên thế giới ngoài những vấn đề nóng do tranh chấp lượng dữ trữ năng lượng hóa thạch thì năng lượng tái tao, một nguồn năng lượng sạch và vô tận ,đang được ưu tiên, đầu tư cho nghiên cứu, khai thác và sử dụng.
+[TRUTH]: Do vậy, trên thế giới ngoài những vấn đề nóng do tranh chấp lượng dự trữ năng lượng hóa thạch thì năng lượng tái tạo, một nguồn năng lượng sạch và vô tận ,đang được ưu tiên, đầu tư cho nghiên cứu, khai thác và sử dụng.
+[PRED] : Do vậy, trên thế giới ngoài những vấn đề nóng do tranh chấp lượng dự trữ năng lượng hóa thạch thì năng lượng tái tạo, một nguồn năng lượng sạch và vô tận ,đang được ưu tiên, đầu tư cho nghiên cứu, khai thác và sử dụng.
+EM: 0.5714285714285715
+CER: 0.005592804734728166
+WER: 0.021143671391265734
+CED: 0.6904761904761905
+WED: 0.02114367114367114
+---------------------------
+---------------------------
+[No43]
+[WRONG]: Sau quá trình hoạt động của công ty nguồn vốn công ty mới được huy động them từ bên ngoài.
+[TRUTH]: Sau quá trình hoạt động của công ty nguồn vốn công ty mới được huy động thêm từ bên ngoài.
+[PRED] : Sau quá trình hoạt động của công ty, nguồn vốn công ty mới được huy động thêm từ bên ngoài.
+EM: 0.558139534883721
+CER: 0.005721137447412624
+WER: 0.021814748818098115
+CED: 0.6976744186046512
+WED: 0.021814748558934602
+---------------------------
+---------------------------
+[No44]
+[WRONG]: Tạo ra múc độ hứng thú của HS qua phương pháp học tập mới, thông qua các hình thức học khác nhau từ đó lựa chọn các hình thức học mang tính khả thi và hiệu quả nhất.
+[TRUTH]: Tạo ra mức độ hứng thú của HS qua phương pháp học tập mới, thông qua các hình thức học khác nhau từ đó lựa chọn các hình thức học mang tính khả thi và hiệu quả nhất.
+[PRED] : Tạo ra mức độ hứng thú của HS qua phương pháp học tập mới, thông qua các hình thức học khác nhau từ đó lựa chọn các hình thức học mang tính khả thi và hiệu quả nhất.
+EM: 0.5681818181818182
+CER: 0.005591111596335064
+WER: 0.02131895907223225
+CED: 0.6818181818181818
+WED: 0.021318958818958816
+---------------------------
+---------------------------
+[No45]
+[WRONG]: Mức tái cấp vốn tối đa không vượt quá mức cung ứng dành cho mục tiêu cung ứng phương tiên thanh toán trong năm.
+[TRUTH]: Mức tái cấp vốn tối đa không vượt quá mức cung ứng dành cho mục tiêu cung ứng phương tiện thanh toán trong năm.
+[PRED] : Mức tái cấp vốn tối đa không vượt quá mức cung ứng dành cho mục tiêu cung ứng phương tiện thanh toán trong năm.
+EM: 0.5777777777777778
+CER: 0.005466864671972063
+WER: 0.020845204426182644
+CED: 0.6666666666666666
+WED: 0.02084520417853751
+---------------------------
+---------------------------
+[No46]
+[WRONG]: aNăng lực rút gọn quá trình lập luận toán học vàahệ thống các phép tính.
+[TRUTH]: Năng lực rút gọn quá trình lập luận toán học và hệ thống các phép tính.
+[PRED] : Năng lực rút gọn quá trình lập luận toán học và hệ thống các phép tính.
+EM: 0.5869565217391305
+CER: 0.0053480197877987575
+WER: 0.020392047808222152
+CED: 0.6521739130434783
+WED: 0.020392047565960608
+---------------------------
+---------------------------
+[No47]
+[WRONG]: Để bắt kịp nhu cầu của khách hàng các ngân hàng cần cõ những bước đi đầy sáng tạo.
+[TRUTH]: Để bắt kịp nhu cầu của khách hàng các ngân hàng cần có những bước đi đầy sáng tạo.
+[PRED] : Để bắt kịp nhu cầu của khách hàng các ngân hàng cần có những bước đi đầy sáng tạo.
+EM: 0.5957446808510639
+CER: 0.0052342321327392095
+WER: 0.019958174450600406
+CED: 0.6382978723404256
+WED: 0.019958174213493364
+---------------------------
+---------------------------
+[No48]
+[WRONG]: Khảo sát được đưa ra nhằm thu thập thông tin, ý kiến khác nhau để phục vụ cho việc nghiên cứu để tài.
+[TRUTH]: Khảo sát được đưa ra nhằm thu thập thông tin, ý kiến khác nhau để phục vụ cho việc nghiên cứu đề tài.
+[PRED] : Khảo sát được đưa ra nhằm thu thập thông tin, ý kiến khác nhau để phục vụ cho việc nghiên cứu đề tài.
+EM: 0.6041666666666667
+CER: 0.005125185629973809
+WER: 0.01954237914954623
+CED: 0.625
+WED: 0.01954237891737892
+---------------------------
+---------------------------
+[No49]
+[WRONG]: Momen phanh sỉnh ra trên 1 cơ cấu phanh điã được xác định theo công thức :
+[TRUTH]: Momen phanh sinh ra trên 1 cơ cấu phanh đĩa được xác định theo công thức :
+[PRED] : Mômen phanh sinh ra trên 1 cơ cấu phanh đĩa được xác định theo công thức :
+EM: 0.6020408163265307
+CER: 0.005296376001621995
+WER: 0.020344035281818745
+CED: 0.6326530612244898
+WED: 0.020344035049917403
+---------------------------
+---------------------------
+[No50]
+[WRONG]: Fanpage của Hưng Việt đã cung cấp đầy đủ cụ thể thông tin về công ty như tên , địa chỉ, cách thức liên hệ,… đông thời cũng giới thiệu tổng quan về công ty.
+[TRUTH]: Fanpage của Hưng Việt đã cung cấp đầy đủ cụ thể thông tin về công ty như tên , địa chỉ, cách thức liên hệ,… đồng thời cũng giới thiệu tổng quan về công ty.
+[PRED] : Fanpage của Hưng Việt đã cung cấp đầy đủ cụ thể thông tin về công ty như tên , địa chỉ, cách thức liên hệ,… đồng thời cũng giới thiệu tổng quan về công ty.
+EM: 0.6100000000000001
+CER: 0.005190448481589556
+WER: 0.01993715457618237
+CED: 0.62
+WED: 0.019937154348919055
+---------------------------
+---------------------------
+[No51]
+[WRONG]: Chỉ đạo tổ trưởng chuyên môn/nhóm trưởng hướng dẫn GV, nhân viên chăm sóc trẻ lập kế hoạch cá nhân và duyệt kế hoạch của từng bộ phân, cá nhân.
+[TRUTH]: Chỉ đạo tổ trưởng chuyên môn/nhóm trưởng hướng dẫn GV, nhân viên chăm sóc trẻ lập kế hoạch cá nhân và duyệt kế hoạch của từng bộ phận cá nhân.
+[PRED] : Chỉ đạo tổ trưởng chuyên môn/nhóm trưởng hướng dẫn GV, nhân viên chăm sóc trẻ lập kế hoạch cá nhân và duyệt kế hoạch của từng bộ phận, cá nhân.
+EM: 0.5980392156862746
+CER: 0.0052267583817535756
+WER: 0.02019982478197884
+CED: 0.6274509803921569
+WED: 0.020199824525084044
+---------------------------
+---------------------------
+[No52]
+[WRONG]: Giai đoạn giới thiệu: Đây là một giai đoạn khó khăn nhất đối với Colgate và ở thị trưởng Việt Nam, Colgate gần như thất bại ở giai đoạn này.
+[TRUTH]: Giai đoạn giới thiệu: Đây là một giai đoạn khó khăn nhất đối với Colgate và ở thị trường Việt Nam, Colgate gần như thất bại ở giai đoạn này.
+[PRED] : Giai đoạn giới thiệu: Đây là một giai đoạn khó khăn nhất đối với Colgate và ở thị trường Việt Nam, Colgate gần như thất bại ở giai đoạn này.
+EM: 0.6057692307692308
+CER: 0.005126243797489083
+WER: 0.01981136661309463
+CED: 0.6153846153846154
+WED: 0.019811366361140118
+---------------------------
+---------------------------
+[No53]
+[WRONG]: Bồi dưỡng và khuyến khích giáo viên âm nhạc tiểu học tích cực tự học nâng cao trình độ sử dụng ngoại ngữ dưới nhiều hình thức qua đó nâng cao năng lực nghiên cứu, đọc tài liệu bằng tiếng anh nằm phát triển năng lực của mỗi giáo viên âm nhạc tiểu học.
+[TRUTH]: Bồi dưỡng và khuyến khích giáo viên âm nhạc tiểu học tích cực tự học nâng cao trình độ sử dụng ngoại ngữ dưới nhiều hình thức qua đó nâng cao năng lực nghiên cứu, đọc tài liệu bằng tiếng anh nhằm phát triển năng lực của mỗi giáo viên âm nhạc tiểu học.
+[PRED] : Bồi dưỡng và khuyến khích giáo viên âm nhạc tiểu học tích cực tự học nâng cao trình độ sử dụng ngoại ngữ dưới nhiều hình thức qua đó nâng cao năng lực nghiên cứu, đọc tài liệu bằng tiếng Anh nhằm phát triển năng lực của mỗi giáo viên âm nhạc tiểu học.
+EM: 0.5943396226415095
+CER: 0.005104693232701634
+WER: 0.019786973255422887
+CED: 0.6226415094339622
+WED: 0.01978697300561896
+---------------------------
+---------------------------
+[No54]
+[WRONG]: Theo đó thay vị sử dụng chuỗi ký tự đặc biệt, bản tin được chia thành các block với giá trị chiều dài ngẫu nhiên được thêm vào phía trước.
+[TRUTH]: Theo đó thay vì sử dụng chuỗi ký tự đặc biệt, bản tin được chia thành các block với giá trị chiều dài ngẫu nhiên được thêm vào phía trước.
+[PRED] : Theo đó thay vì sử dụng chuỗi ký tự đặc biệt, bản tin được chia thành các block với giá trị chiều dài ngẫu nhiên được thêm vào phía trước.
+EM: 0.6018518518518519
+CER: 0.005010161876540493
+WER: 0.019420547824766907
+CED: 0.6111111111111112
+WED: 0.019420547579588977
+---------------------------
+---------------------------
+[No55]
+[WRONG]: Mặc dù thừa hưởng hoàn toàn từ phiên bản tại Hà Quốc nhưng Baemin vẫn tiếp tục được đầu tư, thiết kế dành riêng cho thị trường VN, từ màu xanh thương hiệu đến font chữ hay biểu tượng "Mèo Mập".
+[TRUTH]: Mặc dù thừa hưởng hoàn toàn từ phiên bản tại Hàn Quốc nhưng Baemin vẫn tiếp tục được đầu tư, thiết kế dành riêng cho thị trường VN, từ màu xanh thương hiệu đến font chữ hay biểu tượng "Mèo Mập".
+[PRED] : Mặc dù thừa hưởng hoàn toàn từ phiên bản tại Hàn Quốc nhưng Baemin vẫn tiếp tục được đầu tư, thiết kế dành riêng cho thị trường VN, từ màu xanh thương hiệu đến font chữ hay biểu tượng "Mèo Mập".
+EM: 0.6090909090909091
+CER: 0.0049190680242397564
+WER: 0.019067446955225692
+CED: 0.6
+WED: 0.019067446714505543
+---------------------------
+---------------------------
+[No56]
+[WRONG]: Bản chất của hoạt động SMM: Quá trình trao đổi nội dung giữa hương hiệu và khách hàng trong đó thương hiệu chủ động tạo ra cuộc đối thoại một cách có mục đích chứ không phải là người quyết định nội dung cho cuộc hội thoại đó.
+[TRUTH]: Bản chất của hoạt động SMM: Quá trình trao đổi nội dung giữa thương hiệu và khách hàng trong đó thương hiệu chủ động tạo ra cuộc đối thoại một cách có mục đích chứ không phải là người quyết định nội dung cho cuộc hội thoại đó.
+[PRED] : Bản chất của hoạt động SMM: Quá trình trao đổi nội dung giữa thương hiệu và khách hàng trong đó thương hiệu chủ động tạo ra cuộc đối thoại một cách có mục đích chứ không phải là người quyết định nội dung cho cuộc hội thoại đó.
+EM: 0.6160714285714286
+CER: 0.004831227523806904
+WER: 0.018726956831025234
+CED: 0.5892857142857143
+WED: 0.018726956594603657
+---------------------------
+---------------------------
+[No57]
+[WRONG]: Các thức thực hiện: Giáo viên hướng dẫn học sinh giải các bào toán cơ bản từ đó rèn luyện kỹ năng cho học sinh giải các bài toán tương tự thông qua hệ thống các bài tập giao về nhà đã được biên soạn.
+[TRUTH]: Cách thức thực hiện: Giáo viên hướng dẫn học sinh giải các bài toán cơ bản từ đó rèn luyện kỹ năng cho học sinh giải các bài toán tương tự thông qua hệ thống các bài tập giao về nhà đã được biên soạn.
+[PRED] : Các bước thực hiện: Giáo viên hướng dẫn học sinh giải các bài toán cơ bản từ đó rèn luyện kỹ năng cho học sinh giải các bài toán tương tự thông qua hệ thống các bài tập giao về nhà đã được biên soạn.
+EM: 0.6052631578947368
+CER: 0.005097346331335996
+WER: 0.019178140843123727
+CED: 0.6491228070175439
+WED: 0.019178140591969286
+---------------------------
+---------------------------
+[No58]
+[WRONG]: Với hình thức này vừa tạo cho trẻ không khí thoải mái, vui vẽ sau hoạt động nhưng cũng thông qua đó cơ thể trẻ được chuyển trạng thái từ tỉnh sang động.
+[TRUTH]: Với hình thức này vừa tạo cho trẻ không khí thoải mái, vui vẻ sau hoạt động nhưng cũng thông qua đó cơ thể trẻ được chuyển trạng thái từ tĩnh sang động.
+[PRED] : Với hình thức này vừa tạo cho trẻ không khí thoải mái, vui vẻ sau hoạt động nhưng cũng thông qua đó cơ thể trẻ được chuyển trạng thái từ tĩnh sang động.
+EM: 0.6120689655172413
+CER: 0.0050094610497612374
+WER: 0.018847483242380215
+CED: 0.6379310344827587
+WED: 0.018847482995556022
+---------------------------
+---------------------------
+[No59]
+[WRONG]: Hạn chế của nhân tố kinh tế đối với doanh nghiệp là Việt Nam mở của nền kinh tế thị trường (gia nhập WTO) tạo nên nhiều đối thủ cạnh tranh - nhiều tập đoàn bán lẻ hùng mạnh trên thế giới và khu vực ra nhập thị trường Việt Nam.
+[TRUTH]: Hạn chế cửa nhân tố kinh tế đối với doanh nghiệp là Việt Nam mở của nền kinh tế thị trường (gia nhập WTO) tạo nên nhiều đối thủ cạnh tranh - nhiều tập đoàn bán lẻ hùng mạnh trên thế giới và khu vực gia nhập thị trường Việt Nam.
+[PRED] : Hạn chế của nhân tố kinh tế đối với doanh nghiệp là Việt Nam mở cửa nền kinh tế thị trường (gia nhập WTO) tạo nên nhiều đối thủ cạnh tranh - nhiều tập đoàn bán lẻ hùng mạnh trên thế giới và khu vực gia nhập thị trường Việt Nam.
+EM: 0.6016949152542372
+CER: 0.005073886664615849
+WER: 0.019192707046108738
+CED: 0.6610169491525424
+WED: 0.01919270677994507
+---------------------------
+---------------------------
+[No60]
+[WRONG]: Có thể nêu ra một số điểm mới của luận văn về để tài "Lỗi trong trách nhiệm dân sự bồi thường thiệt hại ngoài hợp đồng" như sau:
+[TRUTH]: Có thể nêu ra một số điểm mới của luận văn về đề tài "Lỗi trong trách nhiệm dân sự bồi thường thiệt hại ngoài hợp đồng" như sau:
+[PRED] : Có thể nêu ra một số điểm mới của luận văn về đề tài "Lỗi trong trách nhiệm dân sự bồi thường thiệt hại ngoài hợp đồng" như sau:
+EM: 0.6083333333333333
+CER: 0.0049893218868722515
+WER: 0.01887282859534026
+CED: 0.65
+WED: 0.018872828333612653
+---------------------------
+---------------------------
+[No61]
+[WRONG]: Đồng thời, doanh nghiệp cố gắng đàm phán đê có lợi nhất cho phía mình trong mọi tình huống.
+[TRUTH]: Đồng thời, doanh nghiệp cố gắng đàm phán để có lợi nhất cho phía mình trong mọi tình huống.
+[PRED] : Đồng thời, doanh nghiệp cố gắng đàm phán để có lợi nhất cho phía mình trong mọi tình huống.
+EM: 0.6147540983606558
+CER: 0.004907529724792379
+WER: 0.018563437962629763
+CED: 0.639344262295082
+WED: 0.018563437705192774
+---------------------------
+---------------------------
+[No62]
+[WRONG]: V ai trò của văn hóa đọc đối với sinh viên Đại học Kinh tế - Đại học Quốc gia Hà Nội.
+[TRUTH]:  Vai trò của văn hóa đọc đối với sinh viên Đại học Kinh tế - Đại học Quốc gia Hà Nội.
+[PRED] : Vai trò của văn hóa đọc đối với sinh viên Đại học Kinh tế - Đại học Quốc gia Hà Nội.
+EM: 0.45161290322580644
+CER: 0.005018129343948056
+WER: 0.018264027672909928
+CED: 0.6451612903225806
+WED: 0.01826402741962515
+---------------------------
+---------------------------
+[No63]
+[WRONG]: Mười hai cộng ba mưởi lăm.
+[TRUTH]: Mười hai cộng ba mươi lăm.
+[PRED] : Mười hai cộng ba mươi lăm.
+EM: 0.4603174603174603
+CER: 0.004938476497218723
+WER: 0.01797412247175263
+CED: 0.6349206349206349
+WED: 0.01797412222248824
+---------------------------
+---------------------------
+[No64]
+[WRONG]: Các em có những kỹ năng tổ chức hoạt động tự duy, tiến hành các thao tác như so sánh, hệ thống hóa, phân loại nhằm ghi nhớ tài liệu.
+[TRUTH]: Các em có những kỹ năng tổ chức hoạt động tư duy, tiến hành các thao tác như so sánh, hệ thống hóa, phân loại nhằm ghi nhớ tài liệu.
+[PRED] : Các em có những kỹ năng tổ chức hoạt động tư duy, tiến hành các thao tác như so sánh, hệ thống hóa, phân loại nhằm ghi nhớ tài liệu.
+EM: 0.46875
+CER: 0.00486131280194968
+WER: 0.017693276808131493
+CED: 0.625
+WED: 0.017693276562761862
+---------------------------
+---------------------------
+[No65]
+[WRONG]: Gần đây công tác đấu thầu qua mạng đang được tiếp cận, tuy vẫn còn găp khó khăn trong việc tiếp cận, kiểm tra giám sát hồ sơ trước khi thẩm định.
+[TRUTH]: Gần đây công tác đấu thầu qua mạng đang được tiếp cận, tuy vẫn còn gặp khó khăn trong việc tiếp cận, kiểm tra giám sát hồ sơ trước khi thẩm định.
+[PRED] : Gần đây công tác đấu thầu qua mạng đang được tiếp cận, tuy vẫn còn gặp khó khăn trong việc tiếp cận, kiểm tra giám sát hồ sơ trước khi thẩm định.
+EM: 0.47692307692307695
+CER: 0.004786523374227377
+WER: 0.017421072549544853
+CED: 0.6153846153846154
+WED: 0.01742107230795014
+---------------------------

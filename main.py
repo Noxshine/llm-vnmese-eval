@@ -1,16 +1,17 @@
 import json
 import os
 import time
-import numpy as np
 
 from dotenv import load_dotenv
 import google.generativeai as genai
 
 from torchmetrics.text import CharErrorRate, WordErrorRate
+from Levenshtein import distance
 
 load_dotenv()
 
 VSEC_PATH = 'data/VSEC.jsonl'
+LOG_FILE_VSEC = 'log/VSEC_spell_correction.txt'
 
 prompt_spell_correction = """[INST] <<SYS>>Hãy xem mình là một Bot có thể tìm và sửa các lỗi sai chính tả có trong một câu tiếng Việt. 
     Chú ý, Bot không chỉnh sửa, tự động xoá khoảng trắng hay thêm bớt các từ trong câu, chỉ sửa các từ bị sai chính tả. 
@@ -52,13 +53,21 @@ def prompt_spell_correction_loading(query):
 
 def VSEC_evaluate(dataset):
 
+    # create log file
+    if not os.path.exists(LOG_FILE_VSEC):
+        os.makedirs(os.path.dirname(LOG_FILE_VSEC), exist_ok=True)
+
     '''
     @metric
     '''
     EM = 0
+    CER = 0
+    WER = 0
+    CED = 0
+    WED = 0
 
-
-    for i in range(0, 10):
+    for i in range(16, 100):
+        wr_num = 0
 
         # data loading
         data = dataset[i]
@@ -76,7 +85,10 @@ def VSEC_evaluate(dataset):
                 id = anno["id"]
                 gr_truth[id - 1] = anno["alternative_syllables"][0]
 
+                wr_num = wr_num + 1
+
         gr_truth = " ".join(gr_truth) # groud truth
+        gr_truth = gr_truth.strip() # remove blank first and last
         print("[TRUTH] :", gr_truth)
 
         # predict
@@ -84,23 +96,67 @@ def VSEC_evaluate(dataset):
         predict_sentence = generate_prompt_data(prompt) # predict
         print("[PRED] :", predict_sentence)
 
+        # calculate EM
+        EM = calculate_mean(EM, calculate_em(predict_sentence, gr_truth, wr_num), i)
+        print("EM: ", EM)
+
         # calculate CER
-        print("CER: ", calculate_cer(predict_sentence, gr_truth))
+        CER = calculate_mean(CER, calculate_cer(predict_sentence, gr_truth), i)
+        print("CER: ", CER)
 
         # calculate WER
-        print("WER: ", calculate_wer(predict_sentence, gr_truth))
+        WER = calculate_mean(WER, calculate_wer(predict_sentence, gr_truth), i)
+        print("WER: ", WER)
 
         # calculate CED
-        print("CED: ", calculate_ced("xin chào", gr_truth))
+        CED = calculate_mean(CED, calculate_ced(predict_sentence, gr_truth), i)
+        print("CED: ", CED)
 
         # calculate WED
-        print("WED: ", calculate_wed("xin chào", gr_truth))
+        WED = calculate_mean(WED, calculate_wed(predict_sentence, gr_truth), i)
+        print("WED: ", WED)
 
-        # time.sleep(30)
+
+        with open(LOG_FILE_VSEC, 'a', encoding='utf-8') as f:
+            f.write("---------------------------\n")
+            f.write(f"[No{i+1}]\n")
+            f.write(f"[WRONG]: {wrong_sentence}\n")
+            f.write(f"[TRUTH]: {gr_truth}\n")
+            f.write(f"[PRED] : {predict_sentence}\n")
+            f.write(f"EM: {EM}\n")
+            f.write(f"CER: {CER}\n")
+            f.write(f"WER: {WER}\n")
+            f.write(f"CED: {CED}\n")
+            f.write(f"WED: {WED}\n")
+            f.write("---------------------------\n")
+
+        time.sleep(30)
 
 
-def calculate_em(pred, target):
-    pass
+def calculate_mean(x, x_step, i):
+    return x_step if x == 0 else (x * i + x_step) / (i + 1)
+
+
+def calculate_em(pred, target, wr_num):
+
+    """
+    Calculate extract match
+    :param pred: predict sentence
+    :param target: ground truth sentence
+    :param wr_num: total false of input data
+    :return:
+    """
+    wr_pre = 0
+
+    pred = pred.split(" ")
+    target = target.split(" ")
+
+    for i in range(0, len(pred)):
+        if pred[i] != target[i]:
+            wr_pre = wr_pre + 1
+
+    print("number wrong: ", wr_num, " number predict true: ", wr_num - wr_pre)
+    return (wr_num - wr_pre) / wr_num
 
 def calculate_cer(pred, target):
     """
@@ -129,32 +185,10 @@ def calculate_ced(str1, str2):
     :param str2:
     :return:
     '''
-    # Create a matrix to store distances
-    len_str1 = len(str1)
-    len_str2 = len(str2)
-
-    # Initialize a matrix of size (len_str1 + 1) x (len_str2 + 1)
-    matrix = [[0] * (len_str2 + 1) for _ in range(len_str1 + 1)]
-
-    # Initialize the first row and column
-    for i in range(len_str1 + 1):
-        matrix[i][0] = i
-    for j in range(len_str2 + 1):
-        matrix[0][j] = j
-
-    # Fill the matrix with the Levenshtein distance values
-    for i in range(1, len_str1 + 1):
-        for j in range(1, len_str2 + 1):
-            cost = 0 if str1[i - 1] == str2[j - 1] else 1
-            matrix[i][j] = min(matrix[i - 1][j] + 1,  # Deletion
-                               matrix[i][j - 1] + 1,  # Insertion
-                               matrix[i - 1][j - 1] + cost)  # Substitution
-
-    # The Levenshtein distance is found at the bottom-right corner of the matrix
-    return matrix[len_str1][len_str2]
+    return distance(str1, str2)
 
 
-def calculate_wed(predicted, reference, ):
+def calculate_wed(predicted, reference):
     '''
     Calculate word edit distance
     
