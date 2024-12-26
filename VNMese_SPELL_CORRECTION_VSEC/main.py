@@ -57,7 +57,7 @@ def VSEC_evaluate(dataset):
         os.makedirs(os.path.dirname(LOG_FILE_VSEC), exist_ok=True)
 
     '''
-    @metric
+    @metric - fix to last value whenever continue running
     '''
     EM = 0
     CER = 0
