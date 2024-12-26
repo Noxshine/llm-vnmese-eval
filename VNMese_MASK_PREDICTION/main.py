@@ -62,7 +62,7 @@ def eval_MLQA(PATH_DIR):
         os.makedirs(os.path.dirname(LOG_FILE_MLQA), exist_ok=True)
 
     '''
-    @metric
+    @metric - fix to last value whenever continue running
     '''
     EM = 0
     CER = 0
@@ -70,7 +70,7 @@ def eval_MLQA(PATH_DIR):
     CED = 0
     WED = 0
 
-    for i in range(0, 5):
+    for i in range(0, 100):
         data = df.iloc[i]
 
         gr_truth = data['text']
@@ -116,7 +116,7 @@ def eval_MLQA(PATH_DIR):
             f.write(f"WED: {WED}\n")
             f.write("---------------------------\n")
 
-        time.sleep(20)
+        time.sleep(30)
 
 def calculate_em(predict_sentence, gr_truth, masked_text):
     predict_sentence = predict_sentence.split()
