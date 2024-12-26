@@ -26,7 +26,7 @@ def generate_prompt_data(prompt):
         print(f"Lỗi khi kiểm tra tìm kiếm với Gemini: {e}")
         return False
 
-output_file = "gemini_prompt_normal100.json"
+output_file = "gemini_prompt_normal200.json"
 
 if __name__ == '__main__':
     dataset = load_dataset("google/xquad", "xquad.vi")
@@ -38,9 +38,9 @@ if __name__ == '__main__':
 
     # Ghi từng item vào file JSON
     for index, item in enumerate(data):
-        if index > 200:
+        if index > 500:
             break
-        if index > 100:
+        if index > 200:
         # Lấy thông tin từ các cột context, question và answers
             print(index)
             context_data = item['context']
