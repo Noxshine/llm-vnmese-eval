@@ -5,12 +5,10 @@ import time
 import google.generativeai as genai
 from dotenv import load_dotenv
 
-from metric import calculate_cer, calculate_wer, calculate_ced, calculate_wed
-
 load_dotenv()
 
 VSEC_PATH = '../data/VSEC.jsonl'
-LOG_FILE_VSEC = 'log/VSEC_spell_correction.txt'
+
 
 prompt_spell_correction = """[INST] <<SYS>>Hãy xem mình là một Bot có thể tìm và sửa các lỗi sai chính tả có trong một câu tiếng Việt. 
     Chú ý, Bot không chỉnh sửa, tự động xoá khoảng trắng hay thêm bớt các từ trong câu, chỉ sửa các từ bị sai chính tả. 
@@ -27,7 +25,7 @@ prompt_spell_correction = """[INST] <<SYS>>Hãy xem mình là một Bot có th�
 
 def generate_prompt_data(prompt):
     try:
-        genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
+        genai.configure(api_key=os.environ.get("GEMINI_API_KEY_1"))
         model = genai.GenerativeModel("gemini-2.0-flash-exp")
         response = model.generate_content(prompt)
 
@@ -65,7 +63,7 @@ def VSEC_evaluate(dataset):
     CED = 0
     WED = 0
 
-    for i in range(65, 100):
+    for i in range(600, 800):
         wr_num = 0
 
         # data loading
@@ -95,41 +93,15 @@ def VSEC_evaluate(dataset):
         predict_sentence = generate_prompt_data(prompt) # predict
         print("[PRED] :", predict_sentence)
 
-        # calculate EM
-        EM = calculate_mean(EM, calculate_em(predict_sentence, gr_truth, wr_num), i)
-        print("EM: ", EM)
-
-        # calculate CER
-        CER = calculate_mean(CER, calculate_cer(predict_sentence, gr_truth), i)
-        print("CER: ", CER)
-
-        # calculate WER
-        WER = calculate_mean(WER, calculate_wer(predict_sentence, gr_truth), i)
-        print("WER: ", WER)
-
-        # calculate CED
-        CED = calculate_mean(CED, calculate_ced(predict_sentence, gr_truth), i)
-        print("CED: ", CED)
-
-        # calculate WED
-        WED = calculate_mean(WED, calculate_wed(predict_sentence, gr_truth), i)
-        print("WED: ", WED)
-
-
         with open(LOG_FILE_VSEC, 'a', encoding='utf-8') as f:
             f.write("---------------------------\n")
             f.write(f"[No{i+1}]\n")
             f.write(f"[WRONG]: {wrong_sentence}\n")
             f.write(f"[TRUTH]: {gr_truth}\n")
             f.write(f"[PRED] : {predict_sentence}\n")
-            f.write(f"EM: {EM}\n")
-            f.write(f"CER: {CER}\n")
-            f.write(f"WER: {WER}\n")
-            f.write(f"CED: {CED}\n")
-            f.write(f"WED: {WED}\n")
             f.write("---------------------------\n")
 
-        time.sleep(30)
+        time.sleep(20)
 
 
 def calculate_mean(x, x_step, i):
@@ -161,10 +133,45 @@ def load_data(file_path):
         data = [json.loads(line) for line in file]
         return data
 
+def convert_txt_to_json(file_path, output_path):
+    result = []
+
+    with open(file_path, 'r', encoding='utf-8', errors='replace') as file:
+        lines = file.readlines()
+
+    record = {}
+    for line in lines:
+        line = line.strip()
+        if line.startswith("[WRONG]"):
+            record['wrong'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[TRUTH]"):
+            record['truth'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[PRED]"):
+            record['pred'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[No"):
+            if record:
+                result.append(record)
+                record = {}
+    if record:  # Add the last record if exists
+        result.append(record)
+
+    with open(output_path, 'w') as json_file:
+        json.dump(result, json_file, indent=4)
+
+LOG_FILE_VSEC = 'log/VSEC_spell_correction.txt'
+LOG_FILE_VSEC_JSON = 'log/VSEC_spell_correction.json'
+
 if __name__ == '__main__':
 
     # load dataset
-    dataset = load_data(VSEC_PATH)
+    # dataset = load_data(VSEC_PATH)
 
     # evaluate EM
-    VSEC_evaluate(dataset)
+    # VSEC_evaluate(dataset)
+
+    # save txt to json file
+    convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
+
+    # df = pd.read_json(LOG_FILE_VSEC_JSON)
+
+    # print(df.iloc[0]["pred"])

@@ -1,16 +1,13 @@
+import json
 import os
+import random
 import time
 
-import pandas as pd
 import google.generativeai as genai
+import pandas as pd
 from dotenv import load_dotenv
-import random
-
-from VNMese_SPELL_CORRECTION_VSEC.main import calculate_mean, calculate_em
-from metric import calculate_cer, calculate_wer, calculate_ced, calculate_wed
 
 load_dotenv()
-
 
 MLQA_PATH = '../data/mlqa-vi.json'
 MLQA_MASKED_PATH = '../data/mlqa-masked-vi.json'
@@ -61,16 +58,7 @@ def eval_MLQA(PATH_DIR):
     if not os.path.exists(LOG_FILE_MLQA):
         os.makedirs(os.path.dirname(LOG_FILE_MLQA), exist_ok=True)
 
-    '''
-    @metric - fix to last value whenever continue running
-    '''
-    EM = 0
-    CER = 0
-    WER = 0
-    CED = 0
-    WED = 0
-
-    for i in range(0, 100):
+    for i in range(370, 400):
         data = df.iloc[i]
 
         gr_truth = data['text']
@@ -78,30 +66,8 @@ def eval_MLQA(PATH_DIR):
 
         predict_sentence = preprocess_generate_data(generate_prompt_data(get_prompt(masked_text)))
 
-        # print(text)
-        # print(predict)
-
-        # calculate EM
-        EM = calculate_mean(EM, calculate_em(predict_sentence, gr_truth, masked_text), i)
-        print("EM: ", EM)
-
-        # calculate CER
-        CER = calculate_mean(CER, calculate_cer(predict_sentence, gr_truth), i)
-        print("CER: ", CER)
-
-        # calculate WER
-        WER = calculate_mean(WER, calculate_wer(predict_sentence, gr_truth), i)
-        print("WER: ", WER)
-
-        # calculate CED
-        CED = calculate_mean(CED, calculate_ced(predict_sentence, gr_truth), i)
-        print("CED: ", CED)
-
-        # calculate WED
-        WED = calculate_mean(WED, calculate_wed(predict_sentence, gr_truth), i)
-        print("WED: ", WED)
-
-
+        print(masked_text)
+        print(predict_sentence)
 
         with open(LOG_FILE_MLQA, 'a', encoding='utf-8') as f:
             f.write("---------------------------\n")
@@ -109,14 +75,9 @@ def eval_MLQA(PATH_DIR):
             f.write(f"[WRONG]: {masked_text}\n")
             f.write(f"[TRUTH]: {gr_truth}\n")
             f.write(f"[PRED] : {predict_sentence}\n")
-            f.write(f"EM: {EM}\n")
-            f.write(f"CER: {CER}\n")
-            f.write(f"WER: {WER}\n")
-            f.write(f"CED: {CED}\n")
-            f.write(f"WED: {WED}\n")
             f.write("---------------------------\n")
 
-        time.sleep(30)
+        time.sleep(20)
 
 def calculate_em(predict_sentence, gr_truth, masked_text):
     predict_sentence = predict_sentence.split()
@@ -145,6 +106,34 @@ def mask_random_word(sentence, mask_percentage=0.1):
 
     return ' '.join(words)  # Join the remaining words back into a sentence
 
+def convert_txt_to_json(file_path, output_path):
+    result = []
+
+    with open(file_path, 'r', encoding='utf-8', errors='replace') as file:
+        lines = file.readlines()
+
+    record = {}
+    for line in lines:
+        line = line.strip()
+        if line.startswith("[WRONG]"):
+            record['wrong'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[TRUTH]"):
+            record['truth'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[PRED]"):
+            record['pred'] = line.split(":", 1)[1].strip()
+        elif line.startswith("[No"):
+            if record:
+                result.append(record)
+                record = {}
+    if record:  # Add the last record if exists
+        result.append(record)
+
+    with open(output_path, 'w') as json_file:
+        json.dump(result, json_file, indent=4)
+
+LOG_FILE_VSEC = 'log/MLQA_mask_prediction.txt'
+LOG_FILE_VSEC_JSON = 'log/MLQA_mask_prediction.json'
+
 if __name__ == '__main__':
 
     '''
@@ -165,8 +154,9 @@ if __name__ == '__main__':
     # df['masked_text'] = df['text'].apply(mask_random_word)
     # df.to_json(MLQA_MASKED_PATH, orient='records', lines=True, force_ascii=False)
 
-
     '''
     Test 
     '''
-    eval_MLQA(MLQA_MASKED_PATH)
+    # eval_MLQA(MLQA_MASKED_PATH)
+
+    convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
