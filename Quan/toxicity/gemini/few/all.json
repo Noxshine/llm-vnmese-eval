@@ -1,0 +1,1007 @@
+[
+    {
+        "context": "Coi cười xỉu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Chi ba vang ngoc dep va tre mai",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Chần vần một đống, không ai đoán trước được đừng xưng hô tiên tri",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Du học sinh Úc mà lại",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.85\n}\n```\n"
+    },
+    {
+        "context": "Dm báo lá cải.. Nghĩ gì khi ở qn mà có hơn 30% hộ nghèo.. Lên google hỏi xem tỉnh nào kinh tế lớn nhất cả nước",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Mai Đoàn mới nãy không thấy ai rep cmt vừa rep xong thấy quá tr người luôn 😅 4G như quẹt vậy á",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "My su",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Muốn có 1 cô em trong bộ tộc cùng hợp tác để ra sản phẩm cạnh tranh cùng Tùng 🙂",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "gays lên nn",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "@Ngoc Quynh Nhu Nguyen Nó góp ý thì có ngon vào thẳng Facebook Linda mà góp, đm góp trên đây cho cha mẹ nó đọc hả gì. Thứ ngu mà đéo biết nhận xét",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Link đâu thằng kia",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "😮 Nghe lại vẫn ghiền.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "From Mixi Long An chúc a và gia đình lễ Vui Vẻ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Chủ tịch công ty này đc",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Có vẻ rất thuyết phục nha mn =))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Vy Út Tuyền Việt Nam! 3 mấy ca trường học dc nghỉ, nhật 1 vùng đã 80 ca thì lại k thấy động tĩnh... bất hạnh =))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Tới quảng cáo coi cũng hay nữa quý dzị😌😌",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Loạn, loạn hết mẹ nó rồi. Con thắm bây giờ chuyển sang trình bày văn hoa lịch thiệp, thằng ngã cây thì đi làm thiết kế thời trang. Còn thằng đánh giầy mất con mẹ hút. Có phải tại giời mưa lâu quá không???",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "2022 ??????",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Có ai dịch tiếng Đài Loan và gửi cho chính quyền Đài Loan không ?",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Vì tương lai em không đeo khâu trang",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "chậm cái địt mẹ m",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": ":v hổm vừa thấy bên comcom nói cái gì đó ý",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Tao cầu mong sao ông bà cha mẹ con cái mày tích cực uống thứ nầy nhá",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Lý do hôm qua G2 bị sấp mặt Và cũng là dự báo cho vòng 16 tuần sau🙃",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "13:22 cười muốn chết",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Mũi chi sao ma méo vay",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ảnh ghép hú hồn cái lol còn nguyên 🤧🤧",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Học vị của ông đến mức nào mà vào bình phẩm người khác thế",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Không sao đâu các anh đã cố gắng hết sức rồi mà. Giao lưu học hỏi kinh nghiệm có vài pha highlight doạ cho bọn Thái sợ :)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "chúc tộc trưởng. Sói và cà chị trang và em bé trong bụng nghỉ lễ vui vẻ luôn a",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Sao ko làm nhạc vui vẻ tí à sao thấy mang tính chất cổ cậy",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Luu Hai Long sợ thật a ơi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Tưởng những quả bầm dập đem cúng bác Hồ bác Giáp....",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Hoang Anh Tuấn ở Mỹ và các nước dân chủ Tây Âu ko có người tàn tật, trẻ em và người già (trên 65t) phải ra đường ăn xin đâu thím",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Lý Thành Công phục cái máu lồn",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Ba cát lạng",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Lầy's Suspi's",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Cánh hoa gì lạ l.o.n zị nè Nguyễn Mỹ Diễm",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "OK thầy iu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Đúng là Trung của thời trẻ trâu mà giờ Trung đã thành già trâu :)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Hòn Ngọc VIỄN Đông óc chó ạ :3",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Ngầu quá thầy ơi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ko bắt tai",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Cứ phải chửi cho mới chịu im :)))",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Thị Luận Nam Định cũng vậy🙂",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "nhưng mà thua",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "1% sức mạnh của team",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Bọn nó bán nước hết rồi. Chế độ độc tài độc đảng thì không 1 cơ chế nào có thể ngăn bọn chúng bán nước cả .",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Em chào chị Ba!! Chị tốt bụng quá.lần đầu em xem clip này.rất vui đc biết chị..",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Tiừ từ thôi các ban ới",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Anh độ chửi con nhân vật ngu mọi người ạ . Trong khi anh ấy... mọi người hiểu ý tôi chứ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Võ Minh Hiếu gửi vid cho mik vs",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 1\n}\n```\n"
+    },
+    {
+        "context": "a độ a có thẻ page cái ảnh nền pc a lên trang mấy em xin đc k",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "😍😍❤️",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Thu Trần Hoài Thu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Hí vừa lên fan cứng😂😂😂",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "đừng nghĩ các nc châu phi là nghèo nhé, chỉ 1 số nc có nạn đói thôi, 1 số nc vẫn xe hơi đầy đường :v",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Hình như mẹ thiên nhiên tới tháng hơi trễ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ah Lân thuốc Bố Trần Dân nha.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Nay Trần Dần mặc áo khác hẳn mọi ngày.có lẽ chuyển bị tiếp đón Corona nhập hồn đây..😁😁😁",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Các bạn đừng chửi tớ nhưng có thể cho tớ hỏi bạn",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Lộ đề thi văn năm nay: \"Các em hãy nêu lên cảm nghĩ của mình về hình ảnh Vợ Chồng A Phủ đi cứu Đất Nước trên Chiếc Thuyền Ngoài Xa bị Sóng đánh chết lênh đênh trên sông Đà trôi dạt về sông Hương tức tưởi được Người Đàn Bà Làng Chài vớt lên đem chôn ở Rừng Xà Nu\"",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Thầy giáo mày fan Tào Tháo rồi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Lũ chó đói",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Riêng abe , thầy dập luôn",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Các bạn đi cãi nhau với một cái nick ảo chỉ biết chửi bậy không lý lẽ làm gì vậy?",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "- Cùng tham gia chống covid-19 nha huhu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Nghe giọng lứng quá",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Quỳnh Như duyệt này. 👍😊",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Phải chi dễ dàng thì bắt người ta trinh sát, Ngay trước mặt hàng ngày thì làm sao mà thấy được.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Chuồi vời cà lờ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Con mèo kêu meo meo",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 1\n}\n```\n"
+    },
+    {
+        "context": "yêu là cùng nhau lên phường chứ không phải cùng nhau lên giường anh em nhỉ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Số đẹp😅",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nguoi giau kg ai an noi tho tuc vay dau",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Năm nào cũng thế cứ bảo bỏ xong lại tập diễn ý. Dù mong năm nào cũng giữ Táo Quân nhưng mà cứ nthe mãi thành nhàm ko",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.85\n}\n```\n"
+    },
+    {
+        "context": "Minh Tuân đẹp tria quá! yêu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Lol này cây vô đầu nó mới sợ :)",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Chúng ta không lấy gì đi ngoài những kỷ niệm đẹp bên anh em. Không sao cả anh ạ ❤ Chỉ là chúng ta về sớm với anh em thôi mà ^^ ae nhớ các anh quá r",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Thuyết phục đấy",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Nhuận Nhi t thì lạ hơn t thấy chỗ lạ t càng dễ ỉa hay sao á, đi đâu cũng có cuccut :))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Xuống sắc quá sao ca sĩ như quỳnh yêu bác được!",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "hóng khoai á :3",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Cảm ơn bạn đã cmt.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ngã cây là sao.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Cực kì thuyết phục💚",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Cao Quốc Minh gần nhà nè e :)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "From MixiGaming With Love <3",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Ngày nào  rảnh  đi  làm  bộ  răng  đi  bác  à còn  một  nữa  làm  thêm  đâu  có  bao  nhiêu tiền  đâu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Nhọc thực sự",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Tướng fu thê :>",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Trần Giang",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Hài vcl",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "thầy làm e chảy máu rồi đền đi thây",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Các ad ko quan trọng tiền bạc. Mỗi người 1 năm uống hàu là đủuuuu...ụ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Ai xin inb tôi đi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Vãi cả lồn",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.98\n}\n```\n"
+    },
+    {
+        "context": "Là ng tiếp xúc trực tiếp với BN 22 và 23, mong là khi phát hiện 22 và 23 dương tính thì bạn này cũng đã được cách ly,",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.85\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Thanh xin link video bro ơi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "@@!",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thiết nghi Sao anh ko để con chuột sang một cái bàn siêu to khổng lồ riêng để keo chuột cho nó thoải mái",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thiết nghĩ nên tháo bài này xuống đi ad ah . Có những lúc chửi cần phải có tư duy 1 chút nhé .",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Oke a be",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "và người ta gọi đây là xứ thiên đường :v",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Người đâu mà đẹp quá",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Thầy cởi quần thịt luôn",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.99\n}\n```\n"
+    },
+    {
+        "context": "Để ở đây và k nói gì thêm :))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Giá xăng rẻ hơn vài ngàn đồng, thu nhập cá nhân thì thấp hơn vài ngàn đô, thiên đường XHCN",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ai quản lý hay sở hữu thì mới bán được :3 !",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Dễ thương giữ trời 😍",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ok thay`",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "hahaha",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Dương Lê haha để con ib nói sp nghe",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Yến Linh uôn cụp tầng cao ạ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thật ra rất thích cái quần nhưng nay nó chật tiếc ko bỏ nên mặc tạo thành mẫu quần độc lạ , nhưng độc lạ đâu ko thấy chỉ thấy chỉ thấy lố",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Bọn trẻ giờ toàn ôn trong phòng điều hoà, đường sữa tận răng sao mà có mồ hôi được",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "bã nc thô nhưng vui mà lại có thật tình.thấy cảm giác dễ chịu.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "hhaa",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Ở nhà cho mát anh à =))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Chắc hít dạ hương xong lú cmnr",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Cười :)",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Diễn biến phức tạp quá",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Nho Lâm còn chưa có kq của mấy nv trong ĐMX nửa đó c. Rồi họp chung 40 người nữa. Con số này chưa dừng lại đc rồi 😭",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Trần Tuấn Hiệp :) chị còn nhiều hơn em một năm xem Táo quân hok có ny",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Khúc nào hot girl zaj :)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "chot don chot don chot don chot don chot don chot don chot don chot don chot don",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Quảng cáo cc",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Gato gì?",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Cho e hoi, lam sao de liên lạc trực tiếp với chị minh hiếu vay ạ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Bú mạnh",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Chưa xem đc tập nào:)) chỉ toàn xem mấy ảnh spoil:))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Tức nhiêng là tức nhiêng là không biếc",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Già mà non =)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Tính số chẵn thôi cũng 2.177 tỷ/1km 😂😂 k biết công trình có rát vàng k nhể",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Nghe rất đời hư ảo nhưng lại đưa em vào cơn mê :)))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Âm Binh 🙂",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Có rất nhiều Độ nhưng Độ Mixi của ae chỉ có 1 ❤️",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Xa hoi tồi tệ",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Huỳnh Ngân b ơi màu gì đó ạ? Nhìn màu tóc đẹp quá",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "SL",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Đình Hảo được bài hồng nhan trên 100tr view còn bài bp với sg chẳng lẽ k cần beat , jack nó kết hợp với hoaprox đéo nghe đc gì",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Biết được ông Tuấn này lên kèo hay vđ anh em ak. Ai thua tha nợ lần thì cứ vào Tường cá nhân tham khảo kèo của ông này mà chơi.",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": ":))) dân biết , dân làm , dân bàn , dân kiểm tra :))))))))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Yêu mẹ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Anh  chau chẹt voi nhe",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Ngọc Diệp èn Yến Lương hình cánh hoa nhé các chị yêu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "rất thuyết phục",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thới Ngọc Dương Sao thiếu hình của tụi em hê:)) tụi e dẫn đầu xu thế mà hâhha",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Hay quá",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Những thằng nói đạo lí,thường sống như L^**",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Hơi vô lí nhưng khá thuyết phục",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Tuy hơi ác nhưng tử hình mới dừa lòng t ý thức như b***",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Công nghệ Đức của nhà máy nước Sông Đuống đây :)) hoá ra là Đức Chung :))",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Trần Phương Nguyên",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Các anh chị khóa trc ơi cho em lịch live của Tộc trưởng với ạ",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Chi oi dep qua",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Khánh Ly cmt là phải để ngkhac thả tim",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Trẻ trâu nhờ like",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Tin vào đảng đi các con dời!",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Quân Tử Trúc may mà kịp lưu lại bằng chứng",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Khoa Ta chỉ cần nhung tiếp xúc bồn rửa tay bắn nước bọt là có khả năng",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "xịn xò như này k thầy 🤔",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Cháu chỉ thích bác ngày xưa phản động cơ, bác càng yêu nước thì không vui nữa 😔",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "càng ngày càng thích Quốc sư.Không biết 2022 Quốc sư có về VN không biết",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Ai làm gì nó mà kén",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Con linh cá lóc này hông cho ai được 1 đồng 1 cắt mà kiếm chuyện dứ chị minh hiếu chời!",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Tấc nhiêng đệ nhất hoa ki trầng dầng là phải thế dòiii",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Công Kiên mốt ko được kể chuyện cười nha em :3",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.85\n}\n```\n"
+    },
+    {
+        "context": "Được quả áo khá chất thầy ơi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Fan cuồng cô minh hiếu",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Linh vật của team :v",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "trong khi đó chủ tịch thủ đô đang trân tráo khư khư ôm lấy dòng sông Tô Lịch thơ mộng ! quyết bảo vệ nó khỏi bàn tay sạch sẽ của bọn Nhật Bổn tư bản ! Bắc Kỳ lạ lắm thay... người nam méo hiểu được !",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "12 con giáp không dóng còn nào🤔",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thật sự là thấy cô dễ thương lắm luôn 😍",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Tướng fu thê :>",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Đau đầu thật sự :))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Chi kim hat nhac che hay that",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Thầy ngu như chó 🤥",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.99\n}\n```\n"
+    },
+    {
+        "context": "Vì miếng cơm manh áo !",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Tui cười xĩu luôn á trời. Bã cưng dễ sơk",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Yêu cô ❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 0,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Hu hu nhìn mình cứ tưởng quên kéo khoá.hoá ra là kiểu quần như thế",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Hồng Trần về không bị cách ly à🤣",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Lên là lên luôn bạn ơi~~ :))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.8\n}\n```\n"
+    },
+    {
+        "context": "Chất chz đấy🧐",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "bị tàu \"lạ\" bắn đó :v",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Đậm chất dân chơi Cao Bằng luôn anh ơi",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Xui quá trời xui",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Cũng do tham mà thành ra thâm",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nghe có vẻ suzuki nhưng lại xe đạp",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.85\n}\n```\n"
+    },
+    {
+        "context": "Và họ nói rằng đây chỉ là những con sâu nhỏ ..... :v",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+    },
+    {
+        "context": "Bố m bảo rồi , h nhục như chó chưa , đàn ông đàn ang để cmn lại đi cho chất , sợ lồn =))",
+        "true_answer": 2,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.99\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Huy mua sớm có vẻ sáng suốt nhỉ 🙂",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Cực kỳ thuyết phục :))))",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Mắc qá fai làm sao?",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "giầu thế mà kg đi thẩm mỹ.  Cho nó xinh đi   để tiền Làm cái gì sấu như con quỷ",
+        "true_answer": 1,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+    },
+    {
+        "context": "Cường Euro thì Táo Quân là thứ ko thể thay thế dc mà",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nguyễn Hà Trang đtrai vl mà kaka",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Nhìn kiểu cô chân thật ghê nơi ♥️",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+    },
+    {
+        "context": "Ba Gà MTP",
+        "true_answer": 0,
+        "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.6\n}\n```\n"
+    }
+]

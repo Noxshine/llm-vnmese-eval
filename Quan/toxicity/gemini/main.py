@@ -46,7 +46,7 @@ Bot: ```json
 }
 '''
 
-output_file = "gemini_prompt_few1.json"
+output_file = "gemini_prompt_few100.json"
 
 if __name__ == '__main__':
     
@@ -65,9 +65,9 @@ if __name__ == '__main__':
         print(f"Text: {text} | Label ID: {label}")  
         query = query_toxic.replace("{context}", text).replace("{few_shot}", few_show_exp)
 
-        if index > 100:
+        if index > 200:
             break
-        if index > -1:
+        if index > 100:
             print(index)
                     
             gen_answer = generate_prompt_data(query)
