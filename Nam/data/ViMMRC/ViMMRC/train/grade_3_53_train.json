@@ -1,0 +1,57 @@
+{
+    "article": "Ngày đẹp lắm bạn ơi\nNắng vàng trải khắp nơi\nChim ca trong bóng lá\nRa sân ta cùng chơi.\n\nQuả cầu giấy xanh xanh\nQua chân tôi, chân anh\nBay lên rồi lộn xuống\nĐi từng vòng quanh quanh.\n\nAnh nhìn cho tinh mắt\nTôi đá thật dẻo chân\nCho cầu bay trên sân\nĐừng để rơi xuống đất.\n\nTrong nắng vàng tươi mát\nCùng chơi cho khỏe người\nTiếng cười xen tiếng hát\nChơi vui học càng vui.",
+    "questions": [
+        "Có bao nhiêu khổ thơ trong bài thơ này?",
+        "Bài thơ miêu tả hoạt động gì của học sinh?",
+        "Khổ thơ thứ nhất miêu tả về điều gì?",
+        "Học sinh đang chơi trò chơi gì trên sân trường?",
+        "Khổ thơ thứ mấy có nội dung: chơi thể thao vừa giúp rèn luyện sức khỏe, vừa đem lại niềm vui cho các bạn học sinh?",
+        "Bài thơ giúp chúng ta nhận ra bài học gì?"
+    ],
+    "options": [
+        [
+            "Bốn khổ.",
+            "Tám khổ.",
+            "Bảy khổ.",
+            "Hai khổ."
+        ],
+        [
+            "Học tập.",
+            "Tham quan.",
+            "Chơi đá cầu.",
+            "Thi đấu."
+        ],
+        [
+            "Cảnh ngày khai trường rộn rã.",
+            "Khung cảnh ngày tươi đẹp.",
+            "Cảnh các bạn học sinh vui chơi.",
+            "Khung cảnh lớp học trang nghiêm."
+        ],
+        [
+            "Trốn tìm.",
+            "Nhảy dây.",
+            "Đá cầu.",
+            "Trồng cây hoa."
+        ],
+        [
+            "Khổ 1.",
+            "Khổ 2.",
+            "Khổ 3.",
+            "Khổ 4."
+        ],
+        [
+            "Nên tăng cường rèn luyện sự khéo léo và dẻo dai để đối mặt với khó khăn.",
+            "Nên tăng cường tinh thần đoàn kết và vui chơi hòa hợp, thân ái với bạn bè.",
+            "Nên tăng cường thể dục thể thao để sức khỏe tốt hơn, học tập hiệu quả hơn.",
+            "Nên tăng cường giao lưu với các bạn bè."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "C",
+        "D",
+        "C"
+    ]
+}

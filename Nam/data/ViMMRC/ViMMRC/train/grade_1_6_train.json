@@ -1,0 +1,49 @@
+{
+    "article": "Hai người bạn đang đi trong rừng, bỗng đâu, một con gấu chạy xộc tới. Một người bỏ chạy, vội trèo lên cây.\n\nNgười kia ở lại một mình, chẳng biết làm thế nào, đành nằm yên, giả vờ chết.\n\nGấu đến ghé sát mặt ngửi ngửi, cho là người chết, bỏ đi. Khi gấu đã đi xa, người bạn tụt xuống, cười hỏi:\n\n– Ban nãy, gấu thì thầm với cậu gì thế?\n\n– À, nó bảo rằng kẻ bỏ bạn trong lúc hoạn nạn là người tồi.",
+    "questions": [
+        "Gấu đã nói gì với người giả chết?",
+        "Hai người bạn đã làm gì khi gặp sự tấn công của con gấu?",
+        "Câu chuyện khuyên chúng ta điều gì?",
+        "Gấu đã làm gì khi thấy người đã chết?",
+        "Người bạn bỏ bạn lúc hoạn nạn và khó khăn là người như thế nào?"
+    ],
+    "options": [
+        [
+            "Người bỏ bạn lúc gặp khó khăn là người tồi.",
+            "Đừng nên chơi với người bạn tồi.",
+            "Hãy đối xử tốt với loài gấu.",
+            "Hãy quý trọng thiên nhiên."
+        ],
+        [
+            "Một người leo lên cây, một người nằm im giả vờ chết.",
+            "Hai người bạn bỏ chạy về nhà.",
+            "Nằm im giả vờ chết tại chỗ.",
+            "Hai người cùng nhau leo lên cây cao su."
+        ],
+        [
+            "Không nên nói xấu bạn bè xung quanh.",
+            "Cần bảo vệ loài gấu một cách khẩn cấp.",
+            "Cần bảo vệ thiên nhiên ngay lập tức.",
+            "Bạn bè cần giúp đỡ nhau khi gặp hoạn nạn và khó khăn."
+        ],
+        [
+            "Bỏ đi.",
+            "Tiếp tục tấn công.",
+            "Nói thầm vào tai.",
+            "Nằm kế bên người."
+        ],
+        [
+            "Tốt.",
+            "Tồi.",
+            "Rộng lượng.",
+            "Thứ tha."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "A",
+        "B"
+    ]
+}

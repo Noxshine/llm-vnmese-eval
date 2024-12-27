@@ -1,0 +1,65 @@
+{
+    "article": "Gần như đêm nào tôi cũng nghe thấy tiếng rao ấy: “Bánh… giò…ò…ò…!” Tiếng rao đều đều, khan khan kéo dài trong đêm khuya tĩnh mịch, nghe buồn não ruột.\n\nRồi một đêm, vừa thiếp đi, tôi bỗng giật mình vì những tiếng la: “Cháy! Cháy nhà!”…\n\nNgôi nhà đầu hẻm đang bốc lửa phừng phừng. Tiếng kêu cứu thảm thiết vọng lại. Trong ánh lửa, tôi thấy một bóng người cao, gầy, khập khiễng chạy tới ngôi nhà cháy, xô cánh cửa đổ rầm. Mấy người trong nhà vọt ra, khung cửa ập xuống, khói bụi mịt mù…\n\nRồi từ trong nhà, vẫn cái bóng cao, khập khiễng ấy lom khom như đang che chở vật gì, phóng thẳng ra đường. Qua khỏi thềm nhà, người đó vừa té quỵ thì một cây rầm sập xuống. Mọi người xô đến. Ai nấy bàng hoàng vì trong cái bọc chăn còn vương khói mà người ấy đang ôm khư khư là một đứa bé mặt mày đen nhẻm, thất thần, khóc không thành tiếng. Mọi người khiêng người đàn ông ra xa. Người anh mềm nhũn. Người ta cấp cứu cho anh. Ai đó thảng thốt kêu: “Ô… này!”, rồi cầm cái chân cứng ngắc của nạn nhân giơ lên: thì ra là một cái chân gỗ.\n\nNgười ta lần tìm tung tích nạn nhân. Anh công an tìm ra từ túi áo nạn nhân một mớ giấy tờ. Ai nấy bàng hoàng khi thấy trong xấp giấy một tấm thẻ thương binh. Bấy giờ người ta mới để ý đến chiếc xe đạp nằm lăn lóc ở góc tường và những chiếc bánh giò tung tóe… Thì ra người bán bánh giò là một thương binh. Chính anh đã phát hiện ra đám cháy, đã báo động và cứu một gia đình.\n\nVừa lúc đó, chiếc xe cấp cứu ào tới chở nạn nhân đi…",
+    "questions": [
+        "Nhân vật \"tôi\" nghe thấy tiếng rao trong thời gian nào?",
+        "Nhân vật \"tôi\" có cảm giác như thế nào khi nghe thấy tiếng rao đêm?",
+        "Người dũng cảm cứu em bé là ai?",
+        "Chi tiết nào sau đây miêu tả ngoại hình của người bán bánh giò?",
+        "Người bán bánh giò thực chất có thân thế ra sao?",
+        "Trong câu chuyện, chiến công mà anh thương binh lập được là gì?",
+        "Anh thương binh trong câu chuyện có phẩm chất gì?"
+    ],
+    "options": [
+        [
+            "Đêm khuya.",
+            "Đêm khuya tĩnh mịch.",
+            "Đêm khuya hiu hắt.",
+            "Đêm khuya vắng vẻ."
+        ],
+        [
+            "Nghe vang vọng.",
+            "Nghe buồn não ruột.",
+            "Nghe nặng nề.",
+            "Nghe xót xa."
+        ],
+        [
+            "Người bán bánh giò.",
+            "Nhân vật \"tôi\".",
+            "Anh công an.",
+            "Người qua đường."
+        ],
+        [
+            "Cao, gầy, đi lầm lũi từng bước.",
+            "Cao, gầy, nhanh nhẹn, tháo vát.",
+            "Cao, gầy, khập khiễng.",
+            "Béo tròn chắc nịch."
+        ],
+        [
+            "Là một thương binh.",
+            "Là một chiến sĩ nằm vùng.",
+            "Là một bệnh binh.",
+            "Là người về hưu."
+        ],
+        [
+            "Phát hiện đám cháy, đã báo động và cứu một gia đình.",
+            "Chiến thắng bản thân mình.",
+            "Đánh thắng giặc cướp.",
+            "Cứu 2 em nhỏ khỏi chết đuối."
+        ],
+        [
+            "Cần cù.",
+            "Thông minh.",
+            "Dũng cảm.",
+            "Yếu đuối."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "A",
+        "C",
+        "A",
+        "A",
+        "C"
+    ]
+}

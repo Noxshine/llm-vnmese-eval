@@ -1,0 +1,57 @@
+{
+    "article": "- A ! Mẹ đã về !\n\nPhượng, Hà cùng reo lên rồi chạy nhanh ra cổng đón mẹ - Mẹ đã gánh lúa về. Áo mẹ ướt đẫm mồ hôi. Mặt mẹ đỏ bừng …\n\nHà chạy ù vào nhà lấy quạt, rối rít hỏi :\n\n- Mẹ có mệt lắm không ? Sao mẹ gánh nặng thế ? Mẹ ngồi xuống đây, chúng con quạt cho mẹ.",
+    "questions": [
+        "Tại sao mẹ mệt nhọc và cảm thấy nóng bức?",
+        "Hà đã làm gì để cho mẹ bớt mệt?",
+        "Ai là người đã đón mẹ ở cổng?",
+        "Những dấu hiệu nào cho biết mẹ mệt?",
+        "Ai là người dùng quạt tạo gió mát cho mẹ?",
+        "Trong bài đọc này, nhân vật mẹ có bao nhiêu người con được nhắc đến?"
+    ],
+    "options": [
+        [
+            "Mẹ đi chợ mua đồ về.",
+            "Mẹ gánh lúa nặng.",
+            "Mẹ dạy em học chăm chỉ.",
+            "Mẹ đi chơi về."
+        ],
+        [
+            "Lấy nước cho mẹ uống để giải nhiệt.",
+            "Tâm sự với mẹ.",
+            "Gánh hộ mẹ lúa vào nhà.",
+            "Quạt cho mẹ."
+        ],
+        [
+            "Phượng.",
+            "Hà.",
+            "Phượng và Hà.",
+            "Mẹ."
+        ],
+        [
+            "Ướt đẫm mồ hôi và mặt đỏ bừng.",
+            "Thở hổn hển.",
+            "Ướt đẫm mồ hôi.",
+            "Mặt mẹ đỏ."
+        ],
+        [
+            "Hai đứa con.",
+            "Phượng và Hà.",
+            "Hà.",
+            "Phượng."
+        ],
+        [
+            "Hai người con.",
+            "Ba người con.",
+            "Bốn người con.",
+            "Sáu người con."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "C",
+        "A",
+        "C",
+        "A"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Đã có ai lắng nghe \nTiếng mưa trong rừng cọ\nNhư tiếng thác dội về\nNhư ào ào trận gió.\n\nĐã ai lên rừng cọ\nGiữa một buổi trưa hè\nGối đầu lên thảm cỏ\nNhìn trời xanh, lá che...\n\nĐã có ai dậy sớm\nNhìn lên rừng cọ tươi\nLá xòe từng tia nắng\nGiống hệt như mặt trời.\n\nRừng cọ ơi! Rừng cọ!\nLá đẹp, lá ngời ngời\nTôi yêu thường vẫn gọi\nMặt trời xanh của tôi.",
+    "questions": [
+        "Vào mùa hạ, rừng cọ có gì thú vị?",
+        "Trong khổ thơ thứ ba, tác giả thấy lá cọ giống với thứ gì?",
+        "Tại sao tác giả thấy lá cọ giống như mặt trời?",
+        "Lá cọ được tác giả gọi bằng cái tên đáng yêu nào khác?",
+        "Tiếng mưa trong rừng cọ được so sánh với loại âm thanh nào?"
+    ],
+    "options": [
+        [
+            "Tác giả thấy trời xanh qua từng kẽ lá.",
+            "Tác giả thấy lá cọ như mặt trời xanh.",
+            "Tác giả thấy mặt trời có màu xanh.",
+            "Tác giả thấy mát mẻ, yên bình."
+        ],
+        [
+            "Mặt trời.",
+            "Chiếc quạt.",
+            "Bầu trời.",
+            "Hồ nước."
+        ],
+        [
+            "Vì cọ có màu xanh.",
+            "Vì cọ mọc rất nhiều trên đồi.",
+            "Vì cọ có quả ăn rất bùi.",
+            "Vì lá cọ hình quạt, cũng có những gân lá xòe ra như mặt trời."
+        ],
+        [
+            "Quả bóng xanh.",
+            "Bầu trời xanh.",
+            "Mặt trời hồng.",
+            "Mặt trời xanh."
+        ],
+        [
+            "Như từng chiếc lá rơi.",
+            "Như tiếng thác dội về.",
+            "Như từng hòn đá nhỏ.",
+            "Như tiếng suối vọng về."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "D",
+        "B"
+    ]
+}

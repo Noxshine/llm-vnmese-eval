@@ -1,0 +1,65 @@
+{
+    "article": "Ngay từ nhỏ, Trương Bạch đã rất yêu thích thiên nhiên. Lúc nhàn rỗi, cậu nặn những con giống bằng đất sét trông y như thật.\n\nLớn lên, Trương Bạch xin đi làm ở một cửa hàng đồ ngọc. Anh say mê làm việc hết mình, không bao giờ chịu dừng khi thấy những chỗ cần gia công tinh tế mà mình chưa làm được. Sự kiên nhẫn của Trương Bạch khiến người dạy nghề cũng phải kinh ngạc.\n\nMột hôm có người mang một khối ngọc thạch đến và nhờ anh tạc cho một pho tượng Quan Âm. Trương Bạch tự nhủ sẽ gắng công tạo nên một tác phẩm tuyệt trần, mĩ mãn.\n\nPho tượng làm xong, quả là một tác phẩm trác tuyệt. Từ dung mạo đến dáng vẻ của Quan Âm đều toát lên sự ung dung và cực kì mĩ lệ. Điều vô cùng lí thú là pho tượng sống động đến lạ lùng, giống như một người sống vậy. Nếu đi một ṿòng xung quanh pho tượng, đôi mắt Quan Âm như biết nhìn theo. Hiển nhiên đây là điều không thể nào tưởng tượng nổi.",
+    "questions": [
+        "Từ nhỏ, Trương Bạch đã có niềm yêu thích, say mê gì?",
+        "Trương Bạch khiến người dạy nghề cũng phải kinh ngạc nhờ sự?",
+        "Điều không thể nào tưởng tượng nổi ở pho tượng là gì?",
+        "Điều kiện nào là quan trọng nhất khiến Trương Bạch trở thành một nghệ nhân tài giỏi?",
+        "Dòng nào dưới đây chỉ gồm các từ láy?",
+        "Trương Bạch tạo ra một tác phẩm như thế nào? tự nhủ sẽ gắng công tạo nên một tác phẩm tuyệt trần, mĩ mãn\" có:",
+        "Anh có thể tạc giúp tôi một pho tượng Quan Âm không?\" được dùng làm gì?"
+    ],
+    "options": [
+        [
+            "Thiên nhiên.",
+            "Đất sét.",
+            "Đồ ngọc.",
+            "Con giống."
+        ],
+        [
+            "Tinh tế.",
+            "Chăm chỉ.",
+            "Kiên nhẫn.",
+            "Gắng công."
+        ],
+        [
+            "Pho tượng cực kì mỹ lệ.",
+            "Đôi mắt pho tượng như biết nhìn theo.",
+            "Pho tượng như toát lên sự ung dung.",
+            "Pho tượng sống động đến lạ lùng."
+        ],
+        [
+            "Say mê, kiên nhẫn và làm việc hết mình.",
+            "Có tài nặn con giống y như thật ngay từ nhỏ.",
+            "Gặp được thầy giỏi truyền nghề.",
+            "Gắng công tạo nên một tác phẩm tuyệt trần."
+        ],
+        [
+            "Ung dung, sống động, mỹ lệ.",
+            "Ung dung, lạ lùng, tưởng tượng.",
+            "Sống động, lạ lùng, mỹ mãn.",
+            "Tưởng tượng, lạ lùng, mỹ lệ."
+        ],
+        [
+            "Siêu đẹp.",
+            "Tuyệt trần và mĩ mãn.",
+            "Đẹp như thiên nhiên.",
+            "Làm người kinh ngạc."
+        ],
+        [
+            "Để hỏi.",
+            "Nói lên sự khẳng định, phủ định.",
+            "Tỏ thái độ khen, chê.",
+            "Để yêu cầu, đề nghị, mong muốn."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "D",
+        "A",
+        "B",
+        "B",
+        "D"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Một người có hai chiếc chậu lớn để khuân nước. Một trong hai chiếc chậu có một vết nứt. Khi từ giếng về nhà, nước trong chậu này chỉ còn một nửa. Chiếc chậu còn nguyên vẹn rất tự hào về sự hoàn hảo của mình, còn chiếc chậu nứt luôn bị cắn rứt vì không thể hoàn thành nhiệm vụ. Một ngày nọ, chiếc chậu nứt nói với người chủ: \"Tôi thật sự xấu hổ về mình. Tôi muốn xin lỗi ông!\". Người chủ hỏi: \"Ngươi xấu hổ về chuyện gì?\". Chiếc chậu nứt đáp:\n\n- Chỉ vì lỗi của tôi mà ông không nhận được đầy đủ những gì xứng đáng với công sức của ông!\"\n\nNgười chủ liền khuyên chiếc chậu này chú ý đến những luống hoa bên vệ đường khi đi lấy nước về. Quả thật, dọc theo bên đường là những luống hoa rực rỡ khiến chiếc chậu nứt rất vui vẻ. Tuy nhiên, khi về đến nhà thì nó lại xin lỗi ông chủ vì nước mà nó mang vẫn chỉ còn một nửa. Người đó đáp: \"Nhờ có nước chảy ra từ vết nứt của ngươi mà những cây hoa này mới khoe sắc được. Ta đã hái những bông hoa đó để trang hoàng cho căn nhà của ta thêm ấm cúng và duyên dáng!\"\n\nMỗi chúng ta đều có thể sống như cái chậu nứt: hãy biết tận dụng \"vết nứt\" của mình.",
+    "questions": [
+        "Vì sao chiếc chậu nứt thấy cắn rứt và xin lỗi ông chủ?",
+        "Người chủ đã tận dụng vết nứt của chiếc chậu để làm gì?",
+        "Em hiểu việc tận dụng \"vết nứt\" của mình là làm gì?",
+        "Tác nhân nào đã làm những bông hoa tươi tốt và khoe sắc?",
+        "Cái gì còn nguyên vẹn rất tự hào về sự hoàn hảo của mình?",
+        "Dòng nào gồm các từ chỉ đặc điểm của sự vật?"
+    ],
+    "options": [
+        [
+            "Vì nó bị cái chậu lành trêu chọc.",
+            "Vì vẻ ngoài xấu xí của nó khiến ông chủ xấu hổ.",
+            "Vì nó không thể mang về đủ nước như cái chậu còn nguyên vẹn.",
+            "Vì cái chậu bị vỡ."
+        ],
+        [
+            "Làm giảm lượng nước phải mang về.",
+            "Tưới nước cho các cây hoa ở ven đường.",
+            "Tỏ vẻ mình yêu thương hai cái chậu như nhau dù một chiếc bị nứt.",
+            "Cắt một vật khác."
+        ],
+        [
+            "Luôn nhìn vào những điểm xấu của mình để buồn rầu, cắn rứt.",
+            "Tạo ra nhiều đặc điểm xấu của mình để giống như chiếc chậu nứt.",
+            "Sử dụng những gì mà bản thân có để làm những việc có ích.",
+            "Sử dụng những thứ tốt của bản thân vào những việc khó."
+        ],
+        [
+            "Nước chảy từ vết nứt.",
+            "Được chăm sóc.",
+            "Do đất trồng tốt.",
+            "Do có nhiều người chăm sóc."
+        ],
+        [
+            "Chiếc thao.",
+            "Chiếc chậu.",
+            "Rất tự hào về sự hoàn hảo của mình.",
+            "Cái tô."
+        ],
+        [
+            "Hoàn hảo, khoe sắc, rực rỡ.",
+            "Hoàn hảo, rực rỡ, duyên dáng.",
+            "Hoàn hảo, rực rỡ, xấu hổ.",
+            "Hoà nhập và duyên dáng."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "B",
+        "B"
+    ]
+}

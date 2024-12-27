@@ -1,0 +1,57 @@
+{
+    "article": "Dải mây trắng đỏ dần trên đỉnh núi\nSương hồng lam ôm ấp nóc nhà gianh\nTrên con đường viền trắng mép đồi xanh\nNgười các ấp tưng bừng ra chợ Tết\nHọ vui vẻ kéo hàng trên cỏ biếc\nNhững thằng cu áo đỏ chạy lon xon\nVài cụ già chống gậy bước lom khom\nCô yếm thắm che môi cười lặng lẽ\nThằng em bé nép đầu bên yếm mẹ\nHai người thôn gánh lợn chạy đi đầu\nCon bò vàng ngộ nghĩnh đuổi theo sau\nSương trắng rỏ đầu cành như giọt sữa\nTia nắng tía nháy hoài trong ruộng lúa\nNúi uốn mình trong chiếc áo the xanh\nĐồi thoa son nằm dưới ánh bình minh\nNgười mua bán ra vào đầy cổng chợ.",
+    "questions": [
+        "Người trong các ấp đi chợ Tết trong khung cảnh như thế nào?",
+        "Bên cạnh dáng vẻ riêng, những người đi chợ Tết có đặc điểm chung nào?",
+        "Màu sắc nào không xuất hiện trong bức tranh của chợ Tết?",
+        "Màu đỏ trong các hình ảnh nào với nghĩa là mới?",
+        "Trên đỉnh núi, người dân thấy gì?",
+        "Những con vật nào được nhắc đến trong bài thơ?"
+    ],
+    "options": [
+        [
+            "Đẹp và tươi vui.",
+            "Đẹp nhưng vắng vẻ.",
+            "Nhợt nhạt và thiếu sức sống.",
+            "Buồn và u ám."
+        ],
+        [
+            "Họ đều hi vọng mọi điều tốt đẹp sẽ tới trong năm mới.",
+            "Họ đều có quần áo mới.",
+            "Họ đều mang hàng ra chợ để bán và trao đổi.",
+            "Họ đi chợ Tết với tâm trạng vui vẻ và náo nức."
+        ],
+        [
+            "Đỏ.",
+            "Vàng.",
+            "Tía.",
+            "Xám."
+        ],
+        [
+            "Dải mây trắng đỏ dần.",
+            "Những thằng cu áo đỏ.",
+            "Sương hồng lam.",
+            "Đồi thoa son."
+        ],
+        [
+            "Dải mây trắng đỏ.",
+            "Sương hồng lam.",
+            "Con đường viền trắng.",
+            "Những thằng cu áo đỏ."
+        ],
+        [
+            "Chỉ có con bò vàng.",
+            "Con bò và heo vàng.",
+            "Con khỉ và con bò vàng.",
+            "Con bò vàng và con cá sấu."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "D",
+        "B",
+        "A",
+        "A"
+    ]
+}

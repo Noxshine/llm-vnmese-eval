@@ -1,0 +1,57 @@
+{
+    "article": "Về cách xử phạt\nChuyện nhỏ thì xử nhẹ, chuyện lớn thì xử nặng; chuyện giữa những người bà con, anh em cũng xử như vậy.\nNếu là chuyện nhỏ thì phạt tiền một song, chuyện lớn thì phạt tiền một co. Nếu là chuyện quá sức con người, gánh không nổi, vác không kham thì người phạm tội phải chịu chết.\n\nVề tang chứng và nhân chứng\nPhải nhìn tận mặt, phải bắt tận tay kẻ phạm tội; phải lấy được, giữ được gùi, khăn, áo, dao,... của kẻ phạm tội. Phải khoanh một vòng tròn dưới đất, khắc một dấu trên cột nhà; nếu ở trong rừng phải bẻ nhánh cây, khắc dấu vào cây rừng để làm dấu nơi xảy ra sự việc.\nPhải có bốn năm người hoặc vài ba người có mặt khi việc xảy ra. Mọi người tai đều đã nghe, mắt đều đã thấy. Có như vậy, các tang chứng mới chắc chắn.\n\nVề các tội\n- Tội không hỏi cha mẹ\nCó cây đa phải hỏi cây đa, có cây sung phải hỏi cây sung, có mẹ cha phải hỏi mẹ cha. Đi rừng lấy củi mà không hỏi cha, đi suối lấy nước mà chẳng nói với mẹ; bán cái này, mua cái nọ mà không hỏi ông già bà cả là sai; phải đưa ra xét xử.\n\n- Tội ăn cắp\nKẻ thò tay ra để đánh cắp của người khác là kẻ có tội. Kẻ đó phải trả lại đủ giá; ngoài ra phải bồi thường gấp đôi số của cải đã lấy cắp.\n\n- Tội giúp kẻ có tội\nKẻ đi cùng đi, bước cùng bước, nói cùng nói với kẻ có tội cũng là có tội.\n\n- Tội dẫn đường cho địch đến đánh làng mình\nKẻ mà địch không đi được thì cõng, địch không ăn được thì mớm, địch không biết thì nói cho biết, làm hàng trăm dân làng bị địch bắt, hàng nghìn dân làng bị địch giết là kẻ có tội lớn. Phải xử kẻ đó bằng dao sắc, gươm lớn và bỏ xác hắn cho diều tha quạ mổ.",
+    "questions": [
+        "Người xưa đặt ra luật tục để làm gì?",
+        "Trong đoạn văn bản trên, luật nào không được nhắc đến",
+        "\"Có cây đa phải hỏi cây đa, có cây sung phải hỏi cây sung, có mẹ cha phải hỏi mẹ cha. Đi rừng lấy củi mà không hỏi cha, đi suối lấy nước mà chẳng nói với mẹ; bán cái này, mua cái nọ mà không hỏi ông già bà cả là sai; phải đưa ra xét xử.\" Đoạn văn trên được nói đến trong tội nào?",
+        "Khi phạm tội ăn cắp, người phạm tội sẽ bị xử phạt như thế nào?",
+        "Trong luật tục của người Ê-đê, hành động như thế nào thì bị khép vào tội giúp kẻ có tội?",
+        "Theo luật tục của người Ê-đê xưa, khi phạm tội dẫn đường cho địch đến đánh làng mình, người phạm tội sẽ bị xử phạt như thế nào?"
+    ],
+    "options": [
+        [
+            "Để giúp cho cuộc sống của mọi người rập khuôn theo luật.",
+            "Để mọi người yên tâ m sống trong cộng đồng.",
+            "Để trừng phạt người phạm luật.",
+            "Để mọi người cùng tuân theo, góp phần giữ gìn và bảo vệ cuộc sống bình yên cho buôn làng, cộng đồng."
+        ],
+        [
+            "Về các tội.",
+            "Về tang chứng và nhân chứng.",
+            "Về tội tham nhũng.",
+            "Về cách xử phạt."
+        ],
+        [
+            "Tội ăn cắp.",
+            "Tội không hỏi cha mẹ.",
+            "Tội giúp kẻ có tội.",
+            "Tội dẫn đường cho địch đến đánh làng mình."
+        ],
+        [
+            "Phải trả lại đủ giá; ngoài ra phải bồi thường gấp đôi số của cải đã lấy cắp.",
+            "Phải đưa ra xét xử.",
+            "Phải phạt một co.",
+            "Phải xử kẻ đó bằng dao sắc, gươm lớn và bỏ xác hắn cho diều tha quạ mổ."
+        ],
+        [
+            "Bao biện cho kẻ có tội.",
+            "Ăn cắp của người khác.",
+            "Giúp địch làm hại dân làng.",
+            "Đi cùng đi, nói cùng nói, bước cùng bước với kẻ có tội."
+        ],
+        [
+            "Xử kẻ đó bằng dao sắc, gươm lớn và bỏ xác hắn cho diều tha quạ mổ.",
+            "Đem ra đánh chết và cho vứt xác ngoài nương.",
+            "Đem ra xử bắn.",
+            "Đem ra hành hạ đến chết, để xác cho diều tha quạ mổ."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "B",
+        "A",
+        "D",
+        "A"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "1. Một hôm, Hà nhờ mẹ tết cho hai bím tóc nhỏ, mỗi bím tóc buộc một cái nơ.\n\n2. Khi Hà đến trường, mấy bạn gái cùng lớp reo lên: \"Ái chà chà! Bím tóc đẹp quá!\" Điều đó làm Hà rất vui. Nhưng Tuấn bỗng sấn tới, nắm bím tóc và nói:\n\n- Tớ mệt quá. Cho tớ vịn vào nó một lúc.\n\nTuấn lớn hơn Hà. Vì vậy, mỗi lần cậu kéo bím tóc, cô bé lại loạng choạng và cuối cùng ngã phịch xuống đất. Tuấn vẫn đùa dai, cứ cầm bím tóc mà kéo. Hà òa khóc. Rồi vừa khóc, em vừa chạy đi mách thầy.\n\n3. Thầy giáo nhìn hai bím tóc xinh xinh của Hà, vui vẻ nói:\n\n- Đừng khóc, tóc của em đẹp lắm!\n\nHà ngước khuôn mặt đầm đìa nước mắt lên hỏi:\n\n- Thật không ạ?\n\n- Thật chứ!\n\nNghe thầy nói thế, Hà nín hẳn:\n\n- Thưa thầy, em sẽ không khóc nữa.\n\nThầy giáo cười. Hà cũng cười.\n\n4. Tan học, Tuấn đến trước mặt Hà, gãi đầu ngượng nghịu:\n\n- Tớ xin lỗi vì lúc nãy kéo bím tóc của bạn. Thầy giáo đã phê bình tớ. Thầy bảo phải đối xử tốt với các bạn gái.",
+    "questions": [
+        "Ai là người đã tạo ra 2 bím tóc xinh đẹp của Hà?",
+        "Vì sao Hà khóc?",
+        "Thầy giáo làm cho Hà vui lên bằng cách nào?",
+        "Nghe lời thầy, Tuấn đã làm gì với Hà?",
+        "Vật gì xuất hiện trên hai bím tóc của Hà?",
+        "Thầy đã dạy bảo Tuấn như thế nào?",
+        "Những nhân vật/người nào xuất hiện trong bài đọc nào?"
+    ],
+    "options": [
+        [
+            "Mẹ Hà.",
+            "Mẹ thầy.",
+            "Mẹ bạn.",
+            "Cô giáo."
+        ],
+        [
+            "Vì Hà bị ngã xuống đất.",
+            "Vì bị hỏng bím tóc đẹp.",
+            "Vì Tuấn đùa dai với mình.",
+            "Vì tóc hay bị gãy."
+        ],
+        [
+            "Khen Hà ngoan.",
+            "Trách mắng Tuấn.",
+            "Khen tóc của Hà đẹp.",
+            "Cho vài cục kẹo."
+        ],
+        [
+            "Nói lời xin lỗi Hà.",
+            "Bảo Hà đừng khóc.",
+            "Khen Hà có bím tóc đẹp.",
+            "Phải đối xử tốt với các bạn gái."
+        ],
+        [
+            "Cái nơ.",
+            "Cái khăn.",
+            "Bông hoa.",
+            "Chiếc lá."
+        ],
+        [
+            "Đối xử tốt với người khác giới.",
+            "Phải luôn giúp đỡ các bạn nam.",
+            "Phải yêu thương con người.",
+            "Phải học hành chăm chỉ."
+        ],
+        [
+            "Học sinh, phụ huynh và thầy giáo.",
+            "Hà, Tuấn và thầy của Tuấn.",
+            "Thầy, Hà và Tuấn.",
+            "Các bạn học sinh và thầy giáo."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "A",
+        "A",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Là cửa nhưng không then khóa\nCũng không khép lại bao giờ\nMênh mông một vùng sóng nước\nMở ra bao nỗi đợi chờ.\n\nNơi những dòng sông cần mẫn\nGửi lại phù sa bãi bồi\nĐể nước ngọt ùa ra biển\nSau cuộc hành trình xa xôi.\n\nNơi biển tìm về với đất\nBằng con sóng nhớ bạc đầu\nChất muối hòa trong vị ngọt\nThành vũng nước lợ nông sâu.\n\nNơi cá đối vào đẻ trứng\nNơi tôm rảo đến búng càng\nCần câu uốn cong lưỡi sóng\nThuyền ai lấp lóa đêm trăng.\n\nNơi con tàu chào mặt đất\nCòi ngân lên khúc giã từ\nCửa sông tiễn người ra biển\nMây trắng lành như phong thư.\n\nDù giáp mặt cùng biển rộng\nCửa sông chẳng dứt cội nguồn\nLá xanh mỗi lần trôi xuống\nBỗng… nhớ một vùng núi non",
+    "questions": [
+        "Đọc bốn câu thơ đầu tiên, hãy cho biết cửa sông có điều gì đặc biệt so với những loại cửa khác?",
+        "Đâu không phải là đặc điểm của cửa sông?",
+        "Cho đoạn thơ:  Dù giáp mặt cùng biển rộng  Cửa sông chẳng dứt cội nguồn  Lá xanh mỗi lần trôi xuống  Bỗng… nhớ một vùng núi non  Đoạn thơ trên nói lên điều gì về tấm lòng của sông?",
+        "Đâu không phải là đặc điểm của cửa sông?",
+        "Những con vật nào được nhắc đến trong đoạn thơ?",
+        "Cá đối vào cửa sông để làm gì?"
+    ],
+    "options": [
+        [
+            "Nối sông ra biển.",
+            "Không then khóa.",
+            "Không có sóng.",
+            "Cửa của vũ trụ."
+        ],
+        [
+            "Nơi biển cả tìm về với đất liền.",
+            "Nơi nước ngọt chảy vào biển rộng.",
+            "Nơi nước ngọt của những con sông và nước mặn của biển hòa lẫn vào nhau.",
+            "Nơi những người thân được gặp lại nhau."
+        ],
+        [
+            "Sông không giờ quên cội nguồn.",
+            "Sông không bao giờ quên biển.",
+            "Sông không bao giờ xa biển.",
+            "Sông luôn gắn bó với núi non."
+        ],
+        [
+            "Nơi biển cả tìm về với đất liền.",
+            "Nơi nước ngọt chảy vào biển rộng.",
+            "Nơi nước ngọt của những con sông và nước mặn của biển hòa lẫn vào nhau.",
+            "Nơi những người thân được gặp lại nhau."
+        ],
+        [
+            "Cá đối và tôm rảo.",
+            "Chim và tôm.",
+            "Gà và cá.",
+            "Diều hâu và đại bàng."
+        ],
+        [
+            "Để đẻ.",
+            "Để sinh sống.",
+            "Để dạo chơi.",
+            "Để tìm về nơi bình yên."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "1. Hôm ấy, chúng tôi đến thăm một trường tiểu học. Cô hiệu trưởng mời đoàn vào thăm lớp 6A. Điều bất ngờ là tất cả học sinh đều lần lượt giới thiệu bằng tiếng Việt: \"Em là Mô-ni-ca\", \"Em là Giét-xi-ca\",... Mở đầu cuộc gặp, các em hát tặng đoàn bài hát \"Kìa con bướm vàng\" bằng tiếng Việt. Rồi các em giới thiệu những vật sưu tầm được như đàn tơ-rưng, cái nón, tranh cây dừa, ảnh xích lô,... Các em còn vẽ Quốc kì Việt Nam và nói được bằng tiếng Việt: \"Việt Nam, Hồ Chí Minh\".\n\n2. Hóa ra cô giáo của em đã từng ở Việt Nam hai năm. Cô thích Việt Nam nên đã dạy các em tiếng Việt và kể cho các em nghe nhiều điều tốt đẹp về đất nước và con người Việt Nam. Các em còn tìm hiểu về Việt Nam trên in-tơ-nét. Về phần mình, các em đặt cho chúng tôi rất nhiều câu hỏi về thiếu nhi Việt Nam: \"Học sinh Việt Nam học những môn gì?\", \"Trẻ em Việt Nam thích những bài hát nào?\", \"Ở Việt Nam, trẻ em chơi những trò chơi gì?\",...\n\n3. Đã đến lúc chia tay. Dưới làn tuyết bay mù mịt, các em vẫn đứng vẫy tay chào lưu luyến, cho đến khi xe của chúng tôi khuất hẳn trong dòng người và xe cộ tấp nập của thành phố châu Âu hoa lệ, mến khách.",
+    "questions": [
+        "Đoàn cán bộ đến thăm trường học ở nước nào?",
+        "Đoàn cán bộ đến thăm ở đâu của Lúc-xăm-bua?",
+        "Đoàn cán bộ Việt Nam khi đến thăm một trường tiểu học, họ cảm thấy như thế nào?",
+        "Vì sao các bạn lớp 6A có nhiều đồ vật của Việt Nam?",
+        "Khi chia tay, các bạn nhỏ ở Lúc-xăm-bua như thế nào?",
+        "Lời phúc đáp nào mà chúng ta có thể nói với các bạn nhỏ lớp 6A ở Lúc-xăm-bua?"
+    ],
+    "options": [
+        [
+            "Trung Quốc.",
+            "Lúc-xăm-bua.",
+            "Việt Nam.",
+            "Pháp."
+        ],
+        [
+            "Nhà hát lớn.",
+            "Tòa thị chính.",
+            "Quảng trường.",
+            "Trường tiểu học."
+        ],
+        [
+            "Bất nhờ thú vị.",
+            "Hạnh phúc.",
+            "Buồn bả.",
+            "Không có cảm xúc."
+        ],
+        [
+            "Đã sưu tầm nhiều đồ vật đến từ Việt Nam.",
+            "Nhận đồ từ bạn bè.",
+            "Đoàn đem cho.",
+            "Mua qua mạng."
+        ],
+        [
+            "Nhút nhát, rụt rè.",
+            "Kiêu ngạo, khó gần.",
+            "Xinh xắn, năng động.",
+            "Thân thiện, mến khách."
+        ],
+        [
+            "Xin lỗi các bạn vì chưa thể đến thăm đất nước Lúc-xăm-bua.",
+            "Trách móc các bạn vì chưa đến thăm đất nước Việt Nam.",
+            "Cảm ơn các bạn vì đã yêu mến đất nước Việt Nam.",
+            "Rất nhớ các bạn."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "A",
+        "D",
+        "C"
+    ]
+}

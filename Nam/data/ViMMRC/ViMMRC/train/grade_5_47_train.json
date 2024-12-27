@@ -1,0 +1,49 @@
+{
+    "article": "Ngày 2-11-1965, một công dân Mĩ tên là Mo-ri-xơn đã tự thiêu để phản đối cuộc chiến tranh xâm lược của chính quyền Mĩ ở Việt Nam. Xúc động trước hành động của anh, nhà thơ Tố Hữu viết bài thơ Ê-mi-li, con ... Bài thơ gợi lại hình ảnh Mo-ri-xơn bế con gái là bé Ê-mi-li 18 tháng tuổi đến trụ sở Bộ Quốc Phòng Mĩ, nơi anh tự thiêu vì hòa bình ở Việt Nam.\nÊ - mi - li, con đi cùng cha\nSau khôn lớn, con thuộc đường, khỏi lạc ...\n- Đi đâu cha?\n- Ra bờ sông Pô - tô - mác\n- Xem gì cha?\n- Không, con ơi, chỉ có Lầu Ngũ Giác.\nGiôn - xơn! Tội ác bay chồng chất\nNhân danh ai\nBay mang những B52\nNhững napan, hơi độc\nĐến Việt Nam\nĐể đốt những nhà thương, trường học\nGiết những con người chỉ biết yêu thương\nGiết những trẻ em chỉ biết đến trường\nGiết những đồng xanh bốn mùa hoa lá\nVà giết cả những dòng sông của thơ ca nhạc họa?\nÊ - mi - li con ôi!\nTrời sắp tối rồi...\nCha không bế con về được nữa!\nKhi đã sáng bùng lên ngọn lửa\nĐêm nay mẹ đến tìm con\nCon sẽ ôm lấy mẹ mà hôn\nCho cha nhé\nVà con sẽ nói giùm với mẹ:\nCha vui đi, xin mẹ đừng buồn!\nOa - sinh - tơn \nBuổi hoàng hôn\nÔi những linh hồn\nCòn, mất?\nĐã đến phút lòng ta sáng nhất!\nTa đốt thân ta, cho ngọn lửa sáng lòa\nSự thật.",
+    "questions": [
+        "Mo-ri-xơn bế con đến Lầu Ngũ Giác tự thiêu để làm gì?",
+        "Mo-ri-xơn đã làm gì để phản đối cuộc chiến tranh của Mĩ ở Việt Nam?",
+        "Lầu Ngũ Giác là trụ sở của cơ quan nào?",
+        "Vì sao chú Mo-ri-xơn lên án cuộc chiến tranh xâm lược của chính quyền Mĩ?",
+        "Chú Mo-ri-xơn nói gì với con trước khi từ biệt?"
+    ],
+    "options": [
+        [
+            "Ủng hộ chiến tranh của Mĩ ở Việt Nam.",
+            "Phản đối chiến tranh của Mĩ ở Việt Nam.",
+            "Phản đối chiến tranh phi nghĩa.",
+            "Ủng hộ cuộc chiến tranh vì chính nghĩa."
+        ],
+        [
+            "Tự thiêu để phản đối.",
+            "Đàm phán với chính phủ Mĩ.",
+            "Kêu gọi mọi người biểu tình.",
+            "Kiện Lầu Ngũ Giác."
+        ],
+        [
+            "Nội các Hoa Kỳ.",
+            "Bộ Quốc phòng Mĩ.",
+            "Quốc hội.",
+            "Sở công thương."
+        ],
+        [
+            "Vì Việt Nam là quê hương của chú Mo-ri-xơn.",
+            "Vì chú Mo-ri-xơn muốn đến thăm Việt Nam.",
+            "Vì đó là cuộc chiến tranh phi nghĩa.",
+            "Vì cha mẹ của chú Mo-ri-xơn đang ở Việt Nam."
+        ],
+        [
+            "Cha con mình sẽ cùng đi tới Lầu Ngũ Giác để phản đối chiến tranh.",
+            "Đừng buồn khi không có cha ở bên, cha mong con sẽ sống yên bình.",
+            "Con lớn lên cũng phải có tinh thần phản đối chiến tranh phi nghĩa.",
+            "Cha không thể bế con về được vì cha đang sáng bừng ngọn lửa."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

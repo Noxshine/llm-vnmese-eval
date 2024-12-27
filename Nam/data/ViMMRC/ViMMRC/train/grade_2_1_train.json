@@ -1,0 +1,73 @@
+{
+    "article": "Sông Hương là một bức tranh phong cảnh gồm nhiều đoạn mà mỗi đoạn đều có vẻ đẹp riêng của nó. Bao trùm lên cả bức tranh là một màu xanh có nhiều sắc độ đậm nhạt khác nhau: màu xanh thẳm của da trời, màu xanh biếc của lá cây, màu xanh non của những bãi ngô, thảm cỏ in trên mặt nước.\n\nMỗi mùa hè tới, hoa phượng vĩ nở đỏ rực hai bên bờ. Hương Giang bỗng thay chiếc áo xanh hằng ngày thành dải lụa đào ửng hồng cả phố phường.\n\nNhững đêm trăng sáng, dòng sông là một đường trăng lung linh dát vàng. \n\nSông Hương là một đặc ân của thiên nhiên dành cho Huế, làm cho không khí thành phố trở nên trong lành, làm tan biến những tiếng ồn ào của chợ búa, tạo cho thành phố một vẻ đẹp êm đềm.",
+    "questions": [
+        "Bài đọc miêu tả về cảnh đẹp gì?",
+        "Sông Hương là bức tranh phong cảnh gồm nhiều đoạn nhưng mỗi đoạn đều có vẻ đẹp như thế nào?",
+        "Vào mùa hạ, sông Hương thay đổi màu sắc như thế nào?",
+        "Vào những đêm trăng, sông Hương thay đổi màu như thế nào?",
+        "Sông Hương đã tạo cho thành phố Huế một vẻ đẹp như thế nào?",
+        "Màu sắc sông Hương như thế nào vào mùa hạ?",
+        "Sông Hương là đặc ân của ai dành cho thành phố Huế?",
+        "Nội dung chính của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Tả cảnh đẹp của bức tranh.",
+            "Tả cảnh đẹp một miền quê.",
+            "Tả cảnh đẹp sông Hương.",
+            "Tả cảnh đẹp xứ Huế."
+        ],
+        [
+            "Tiếng nói riêng.",
+            "Vẻ đẹp riêng.",
+            "Màu sắc chung.",
+            "Tính cách riêng."
+        ],
+        [
+            "Trở thành đường trăng lung linh dát vàng.",
+            "Trở thành dải lụa đào ửng hồng cả phố phường.",
+            "Trở nên xanh biếc như lá cây.",
+            "Trở nên xanh non như những bãi ngô, thẳm cỏ."
+        ],
+        [
+            "Dòng sông trải một màu xanh biếc như lá cây.",
+            "Dòng sông trải một màu xanh non như bãi ngô, thảm cỏ.",
+            "Dòng sông là một dải lụa đào ửng hồng  cả phố phường.",
+            "Dòng sông là một đường trăng lung linh dát vàng."
+        ],
+        [
+            "Êm đềm.",
+            "Sinh động.",
+            "Lung linh.",
+            "Huyền ảo."
+        ],
+        [
+            "Trở thành đường trăng lung linh dát vàng.",
+            "Trở thành dải lụa đào ửng hồng cả phố phường.",
+            "Trở nên xanh biếc như lá cây.",
+            "Trở nên xanh non như những bãi ngô, thẳm cỏ."
+        ],
+        [
+            "Vị thần.",
+            "Ông bụt.",
+            "Thiên nhiên.",
+            "Vua chúa."
+        ],
+        [
+            "Vẻ đẹp dịu dàng của con người xứ Huế.",
+            "Vẻ đẹp của một dòng sông quê hương.",
+            "Vẻ đẹp của xứ Huế đầy êm đềm, thơ mộng.",
+            "Vẻ đẹp sắc nước của dòng sông Hương."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "B",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

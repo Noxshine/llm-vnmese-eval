@@ -1,0 +1,49 @@
+{
+    "article": "1. Xưa có chàng trai thấy một bọn trẻ định giết con rắn nước liền bỏ tiền ra mua, rồi thả rắn đi. Không ngờ con rắn ấy là con của Long Vương. Đền ơn chàng trai, Long Vương tặng chàng một viên ngọc quý.\n\n2. Có người thợ kim hoàn biết đó là viên ngọc hiếm, bèn đánh tráo. Chàng trai rất buồn. Thấy vậy, Chó và Mèo xin chủ đi tìm ngọc,\n\n3. Đến nhà người thợ kim hoàn, Mèo bắt một con chuột đi tìm ngọc. Quả nhiên, con chuột tìm được.\n\n4. Ra về, Chó tranh ngậm ngọc. Lúc qua sông, nó làm rơi viên ngọc xuống nước. Một con cá lớn thấy viên ngọc, đớp ngay. Chó nghĩ ra cách rình ở bên sông, chờ ai câu được con cá nuốt ngọc thì lấy lại.\n\nMấy hôm sau, có người đánh được con cá lớn, mổ ruột ra có viên ngọc. Mèo liền nhảy tới ngoạm ngọc chạy biến.\n\n5. Lần này, Mèo đội ngọc lên đầu. Nào ngờ, vừa đi một quãng thì có con quạ sà xuống đớp ngọc rồi bay lên trời cao. Mèo nghĩ ra một mẹo. Nó nằm phơi bụng vờ chết. Quạ trúng kế, sà xuống toan rỉa thịt Mèo. Mèo nhảy xổ lên vồ. Quạ van lạy, xin trả lại ngọc.\n\n6. Lần này, Chó và Mèo mang ngọc về được nhà. Chàng trai vô cùng mừng rỡ, càng thêm yêu quý hai con vật thông minh, tình nghĩa.",
+    "questions": [
+        "Nguyên nhân nào mà chàng trai có viên ngọc quý?",
+        "Chàng trai cứu con của Long Vương và được trả ơn như thế nào?",
+        "Người nào đã đánh tráo viên ngọc của chàng trai?",
+        "Con vật nào được nuôi bởi chàng trai?",
+        "Ở nhà người thợ kim hoàn, Mèo và Chó đã làm cách gì để lấy lại viên ngọc?"
+    ],
+    "options": [
+        [
+            "Chàng trai bỏ tiền ra mua lại của mấy đứa trẻ ven đường.",
+            "Chàng trai mò ốc dưới sông và nhặt được nó.",
+            "Chàng trai cứu con rắn là con của Long Vương.",
+            "Chàng trai giết con rắn là con của Long Vương."
+        ],
+        [
+            "Long Vương thưởng cho chàng nhiều châu báu.",
+            "Long Vương mời chàng xuống ở luôn dưới thủy cung.",
+            "Long Vương mời chàng xuống tham quan thủy cung.",
+            "Long Vương tặng chàng một viên ngọc quý."
+        ],
+        [
+            "Cá và Quạ.",
+            "Chó và Mèo.",
+            "Người thợ kim hoàn.",
+            "Chuột nhắt."
+        ],
+        [
+            "Quạ.",
+            "Cá.",
+            "Chuột.",
+            "Chó và mèo."
+        ],
+        [
+            "Chó cướp ngọc từ tay người thợ.",
+            "Chó chờ cá đớp rồi lấy lại.",
+            "Mèo bắt chuột đi tìm ngọc.",
+            "Mèo giả chết để quạ sà xuống rỉa."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "D"
+    ]
+}

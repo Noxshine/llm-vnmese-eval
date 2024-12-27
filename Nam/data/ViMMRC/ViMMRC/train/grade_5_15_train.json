@@ -1,0 +1,65 @@
+{
+    "article": "Xưa, có một vị quan án rất tài. Vụ án nào, ông cũng tìm ra manh mối và phân xử công bằng.\n\nMột hôm, có hai người đàn bà đến công đường. Một người mếu máo:\n\n- Bẩm quan, con mang vải đi chợ, bà này hỏi mua, rồi cướp tấm vải, bảo là của mình.\n\nNgười kia cũng rưng rưng nước mắt:\n\n- Tấm vải là của con. Bà này lấy trộm.\n\nĐòi người làm chứng nhưng không có, quan cho lính về nhà họ xem. Cả hai đều có khung cửi như nhau, cùng mang vải ra chợ bán hôm ấy. Ngẫm một lát, quan ôn tồn bảo:\n\n- Hai người đều có lí nên ta xử thế này: tấm vải xé đôi, mỗi người một nửa.\n\nThừa lệnh, lính đo vải xé ngay. Một người đàn bà bật khóc. Lập tức, quan đưa cả tấm vải cho người này rồi thét trói người kia lại. Sau một hồi tra hỏi, kẻ kia phải cúi đầu nhận tội.\n\nLần khác, quan tới vãn cảnh một ngôi chùa. Sư cụ đón tiếp kính cẩn, rồi nhờ tìm hộ số tiền của nhà chùa bị mất.\n\nQuan nói sư cụ biện lễ cúng Phật, rồi gọi hết sư vãi, kẻ ăn người ở trong chùa ra, giao cho mỗi người cầm một nắm thóc và bảo:\n\n- Chùa ta mất tiền, chưa rõ thủ phạm. Mỗi người hãy cầm một nắm thóc đã ngâm nước rồi vừa chạy đàn, vừa niệm Phật. Đức Phật rất thiêng. Ai gian, Phật sẽ làm cho thóc trong tay kẻ đó nảy mầm. Như vậy, ngay gian sẽ rõ.\n\nMới vài vòng chạy, đã thấy một chú tiểu thỉnh thoảng hé bàn tay cầm thóc ra xem. Quan lập tức cho bắt chú tiểu vì chỉ kẻ có tật mới hay giật mình. Chú tiểu kia đành nhận tội.",
+    "questions": [
+        "Hai người đàn bà đến công đường nhờ quan phân xử việc gì?",
+        "Trong vụ án tìm người lấy cắp tấm vải, quan xử người không khóc chính là người lấy cắp vì sao?",
+        "Trong màn xử kiện tìm người lấy trộm vải cho thấy viên quan là người như thế nào?",
+        "Khi đến vãn cảnh chùa, viên quan được sư cụ nhờ việc gì?",
+        "Khi cho lính về nhà hai người đàn bà, họ phát hiện cả hai nhà đều có vật dụng gì?",
+        "Đâu là lí lẽ giúp viên quan khi nhận ra người ăn cắp tiền của nhà chùa?",
+        "Hai người đàn bà đến công đường nhờ quan phân xử việc gì?"
+    ],
+    "options": [
+        [
+            "Về việc bị mất cắp tấm vải, người mua hàng lấy trộm tấm vải của người bán.",
+            "Về việc bị mất cắp tấm vải, người nọ tố người kia lấy trộm tấm vải của mình.",
+            "Về việc bà mua hàng hỏi mua tấm vải rồi lấy trộm.",
+            "Về việc người mua hàng tố bà bán hàng lấy trộm tấm vải của mình."
+        ],
+        [
+            "Của cải do bàn tay mình làm ra thì mình mới tiếc, không nỡ phá hủy.",
+            "Quan cho rằng người khóc là người biết giá trị vật chất của miếng vải, khi bị xé đôi thì giá trị không còn nguyên vẹn nữa.",
+            "Quan cho rằng người không khóc là người không có tình cảm, là người dễ ăn cắp của người khác.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Biết tận dụng thời cơ.",
+            "Thông minh.",
+            "Có tài lãnh đạo.",
+            "Ngu ngốc."
+        ],
+        [
+            "Phân xử chuyện tranh cãi ở nhà chùa.",
+            "Tìm hộ số tiền của nhà chùa đã bị mất.",
+            "Phân xử chuyện chú tiểu trong chùa bị mất tiền.",
+            "Phân xử chuyện gia nhân trong chùa bị oan."
+        ],
+        [
+            "Bút lông.",
+            "Cái cày.",
+            "Khung cửi.",
+            "Cối xay."
+        ],
+        [
+            "Đức Phật rất thiêng. Ai gian, Phật sẽ làm cho thóc trong tay kẻ đó nảy mầm.",
+            "Người ăn cắp là người trong chùa.",
+            "Người trong chùa tin vào sự linh thiêng của Đức Phật.",
+            "Chỉ kẻ có tật mới hay giật mình."
+        ],
+        [
+            "Về việc bị mất cắp tấm vải, người mua hàng lấy trộm tấm vải của người bán.",
+            "Về việc bà mua hàng hỏi mua tấm vải rồi lấy trộm.",
+            "Về việc bị mất cắp tấm vải, người nọ tố người kia lấy trộm tấm vải của mình.",
+            "Về việc người mua hàng tố bà bán hàng lấy trộm tấm vải của mình."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "C"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "article": "Tre xanh, \nXanh tự bao giờ?\nChuyện ngày xưa... đã có bờ tre xanh\nThân gầy guộc, lá mong manh\nMà sao nên lũy nên thành tre ơi?\nỞ đâu tre cũng xanh tươi\nCho dù đất sỏi đất vôi bạc màu?\nCó gì đâu, có gì đâu\nMỡ màu ít, chắt dồn lâu hóa nhiều\nRễ siêng không ngại đất nghèo\nTre bao nhiêu rễ bấy nhiêu cần cù.\nVươn mình trong gió tre đu\nCây kham khổ vẫn hát ru lá cành\nYêu nhiều nắng nỏ trời xanh\nTre xanh không đứng khuất mình bóng râm.\nBão bùng thân bọc lấy thân\nTay ôm tay níu tre gần nhau thêm\nThương nhau tre chẳng ở riêng\nLũy thành từ đó mà nên hỡi người\nChẳng may thân gãy cành rơi\nVẫn nguyên cái gốc truyền đời cho măng\nNòi tre đâu chịu mọc cong\nChưa lên đã nhọn như chông lạ thường.\nLưng trần phơi nắng phơi sương\nCó manh áo cộc, tre nhường cho con.\nMăng non là búp măng non.\nĐã mang dáng thẳng thân tròn của tre.\nNăm qua đi, tháng qua đi\nTre già măng mọc có gì lạ đâu\nMai sau,\nMai sau,\nMai sau,\nĐất xanh tre mãi xanh màu tre xanh.",
+    "questions": [
+        "Bài thơ được viết bởi thể thơ nào?",
+        "Cho dù đất không được tốt nhưng tre vẫn như thế nào?",
+        "Qua bài thơ, chúng ta thấy được khả năng thích nghi của cây tre như thế nào?",
+        "Hình dáng của cây tre như thế nào?",
+        "Bốn câu thơ \"Chẳng may thân gãy cành rơi / Vẫn nguyên cái gốc truyền đời cho măng / Nòi tre đâu chịu mọc cong / Chưa lên đã nhọn như chông lạ thường.\" thể hiện đức tính gì của cây tre Việt Nam?",
+        "Hai câu thơ \"Lưng trần phơi nắng phơi sương / Có manh áo cộc, tre nhường cho con.\" cho thấy đức tính gì của cây tre?",
+        "Hai dòng thơ \"Nòi tre đâu chịu mọc cong / Chưa lên đã nhọn như chông lạ thường.\" cho thấy đức tính gì của cây tre Việt Nam?",
+        "Bài thơ này đã cho thấy những đức tính nào của cây tre?"
+    ],
+    "options": [
+        [
+            "Bảy chữ.",
+            "Lục bát.",
+            "Tự do.",
+            "Năm chữ."
+        ],
+        [
+            "Héo úa.",
+            "Không được tươi tốt.",
+            "Xanh tươi.",
+            "Vẫn sống."
+        ],
+        [
+            "Cần có chế độ chăm sóc đặc biệt.",
+            "Có thể sống những vùng đất màu mỡ.",
+            "Thấp.",
+            "Cao."
+        ],
+        [
+            "Dáng thẳng thân tròn.",
+            "Dáng nghiên thân dẹp.",
+            "Dáng thẳng thân dẹp.",
+            "Dáng nghiên thân tròn."
+        ],
+        [
+            "Tình yêu thương đồng loại.",
+            "Cần cù, chịu khó.",
+            "Đùm bọc, yêu thương.",
+            "Ngay thẳng."
+        ],
+        [
+            "Hi sinh, nhường nhịn.",
+            "Tinh thần đoàn kết.",
+            "Chịu khó, cần cù.",
+            "Ngay thẳng, bất khuất."
+        ],
+        [
+            "Đoàn kết, đùm bọc nhau.",
+            "Khỏe khoắn, ngay thẳng, bất khuất.",
+            "Khỏe khoắn, vững chắc.",
+            "Chịu thương, chịu khó."
+        ],
+        [
+            "Đoàn kết, sẻ chia, gắn bó với nhau.",
+            "Cần cù, đoàn kết, ngay thẳng.",
+            "Ngay thẳng, bất khuất, kiên cường.",
+            "Cần cù, chịu thương chịu khó."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "D",
+        "A",
+        "D",
+        "A",
+        "B",
+        "B"
+    ]
+}

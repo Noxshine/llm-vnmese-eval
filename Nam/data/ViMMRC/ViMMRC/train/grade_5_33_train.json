@@ -1,0 +1,49 @@
+{
+    "article": "Hạt gạo làng ta \nCó vị phù sa \nCủa sông Kinh Thầy \nCó hương sen thơm \nTrong hồ nước đầy \nCó lời mẹ hát \nNgọt bùi đắng cay... \n\nHạt gạo làng ta \nCó bão tháng bảy \nCó mưa tháng ba \nGiọt mồ hôi sa \nNhững trưa tháng sáu \nNước như ai nấu \nChết cả cá cờ \nCua ngoi lên bờ \nMẹ em xuống cấy... \n\nHạt gạo làng ta \nNhững năm bom Mỹ \nTrút trên mái nhà \nNhững năm khẩu súng \nTheo người đi xa \nNhững năm băng đạn \nVàng như lúa đồng \nBát cơm mùa gặt \nThơm hào giao thông... \n\nHạt gạo làng ta \nCó công các bạn \nSớm nào chống hạn \nVục mẻ miệng gàu \nTrưa nào bắt sâu \nLúa cao rát mặt \nChiều nào gánh phân \nQuang trành quết đất \n\nHạt gạo làng ta \nGửi ra tiền tuyến \nGửi về phương xa \nEm vui em hát \nHạt vàng làng ta...",
+    "questions": [
+        "Hạt gạo làng ta được làm nên từ những gì?",
+        "Khổ thơ thứ mấy có những hình ảnh nói lên nỗi vất vả của người nông dân?",
+        "Tuổi nhỏ đã góp công sức như thế nào để làm ra hạt gạo?",
+        "Trong bài thơ nhắc đến những năm tháng kháng chiến chống quân xâm lược nào?",
+        "Trong bài thơ, hạt gạo không được gửi đi địa điểm nào?"
+    ],
+    "options": [
+        [
+            "Vị phù sa của sông Kinh Thầy.",
+            "Bão tháng 7.",
+            "Mưa tháng 3.",
+            "Giọt mồ hôi."
+        ],
+        [
+            "1.",
+            "2.",
+            "3.",
+            "4."
+        ],
+        [
+            "Xuống cấy những trưa tháng 6.",
+            "Chiều gánh phân quang trành quét đất.",
+            "Buổi tối đi be bờ.",
+            "Buổi trưa đi gieo mạ."
+        ],
+        [
+            "Pháp.",
+            "Nhật.",
+            "Mỹ.",
+            "Trung Quốc."
+        ],
+        [
+            "Ra nước ngoài.",
+            "Ra tiền tuyến.",
+            "Về phương xa.",
+            "Ra mặt trận."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "A"
+    ]
+}

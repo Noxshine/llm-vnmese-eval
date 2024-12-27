@@ -1,0 +1,73 @@
+{
+    "article": "Tết Trung thu, cu Chắt được món quà. Đó là một chàng kị sĩ rất bảnh, cưỡi ngựa tía, dây cương vàng và một nàng công chúa mặt trắng, ngồi trong mái lầu son. Chắt còn một đồ chơi nữa là chú bé bằng đất em nặn lúc đi chăn trâu.\n\nCu Chắt cất đồ chơi vào cái nắp tráp hỏng. Hai người bột và chú bé Đất làm quen với nhau. Sáng hôm sau, chàng kị sĩ phàn nàn với nàng công chúa:\n\n- Cu Đất thật đoảng. Mới chơi với nó một tí mà chúng mình đã bẩn hết quần áo đẹp.\n\nCu Chắt bèn bỏ hai người bột vào cái lọ thủy tinh.\n\nCòn một mình, chú bé Đất nhớ quê, tìm đường ra cánh đồng. Mới đến chái bếp, gặp trời đổ mưa, chú ngấm nước, rét quá. Chú bèn vào bếp, cời đống rấm ra sưởi. Ban đầu thấy ấm và khoan khoái. Lúc sau nóng rát cả chân tay. Chú sợ, lùi lại.\n\nÔng Hòn Rấm cười bảo:\n\n- Sao chú mày nhát thế? Đất có thể nung trong lửa kia mà!\n\nChú bé Đất ngạc nhiên hỏi lại:\n\n- Nung ấy ạ?\n\n- Chứ sao? Đã là người thì phải dám xông pha, làm được nhiều việc có ích.\n\nNghe thế, chú bé Đất không thấy sợ nữa. Chú vui vẻ bảo:\n\n- Nào, nung thì nung!\n\nTừ đấy, chú thành Đất Nung.",
+    "questions": [
+        "Tên của cậu bé là chủ của những đồ chơi là gì?",
+        "Tên món đồ chơi nào không phải của cu Chắt?",
+        "Tại sao chàng kị sĩ phàn nàn khi chơi với cu Đất?",
+        "Chú bé Đất còn một mình, chú cảm thấy như thế nào và đã làm gì?",
+        "Chú bé Đất đã đi đến nơi nào và gặp chuyện gì?",
+        "Trời đang rét, chú chui vào bếp và nói chuyện với ai?",
+        "Tại sao chú bé Đất quyết định nhảy vào lửa trong bếp?",
+        "Chú bé Đất nhảy vào lửa trong bếp và trở thành thứ gì?"
+    ],
+    "options": [
+        [
+            "Cu Chắt.",
+            "Chú bé Đất.",
+            "Ông Hòn Rấm.",
+            "Nàng công chúa."
+        ],
+        [
+            "Chàng kị sĩ.",
+            "Chú bé Đất.",
+            "Nàng công chúa.",
+            "Ông Hòn Rấm."
+        ],
+        [
+            "Vì bị làm bẩn hết quần áo đẹp.",
+            "Vì cu Đất còn nhỏ quá.",
+            "Vì cu Đất hư quá, hay quấy chàng kị sĩ.   Tất cả các ý trên.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Nhớ cậu chủ, gọi cu Chắt ra chơi cùng.",
+            "Nhớ quê, tìm đường ra cánh đồng.",
+            "Đi chơi với nàng công chúa.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chú tìm được đường về nhà và đoàn tụ cùng gia đình.",
+            "Chú gặp mưa, ngấm nước, tan chảy trở thành bùn đất.",
+            "Chú đi đến chái bếp, gặp mưa, ngấm nước, chú bị rét.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cu Chắt.",
+            "Nàng công chúa.",
+            "Chàng kị sĩ.",
+            "Ông Hòn Rấm."
+        ],
+        [
+            "Vì chú muốn sưởi cả người cho ấm, khô cong.",
+            "Vì chú buồn, chỉ có một mình, không ai chơi với.",
+            "Vì chú nghe lời khuyên của ông Hòn Rấm.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Tượng gốm.",
+            "Chú bé Nhút Nhát.",
+            "Chú bé Đất Nung.",
+            "Bùn đất khô khốc."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D",
+        "C",
+        "C"
+    ]
+}

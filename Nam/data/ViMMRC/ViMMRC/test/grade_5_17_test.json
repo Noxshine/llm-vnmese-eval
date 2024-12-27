@@ -1,0 +1,57 @@
+{
+    "article": "Cụ Ún làm nghề thầy cúng đã lâu năm. Khắp làng xa bản gần, nhà nào có người ốm \ncũng nhờ cụ đến cúng để đuổi tà ma. Nhiều người tôn cụ làm thầy, cắp sách theo cụ học nghề cúng bái.\n\nVậy mà gần một năm nay, chẳng hiểu cái ma nào làm cho cụ Ún ốm. Bụng cụ đau quặn, lắm lúc tưởng như có con dao cứa mạnh vào từng khúc ruột. Các học trò của cụ đã nhiều lần cúng cho thầy mà bệnh tình không thuyên giảm.\n\nThấy cha ngày càng đau nặng, con trai cụ khẩn khoản xin đưa cụ đi bệnh viện. Anh nói mãi, nể lời, cụ mới chịu đi.\n\nBác sĩ bảo cụ bị sỏi thận, phải mổ lấy sỏi ra. Cụ sợ mổ. Hơn nữa, cụ không tin bác sĩ người Kinh bắt được con ma người Thái. Thế là cụ trốn về nhà. Nhưng về đến nhà, cụ lại lên cơn đau quằn quại. Cụ bắt con mời thầy Vui, học trò giỏi nhất của cụ, đến cúng trừ ma. Cúng suốt ngày đêm, bệnh vẫn không lui.\n\nSáng hôm sau, bỗng có hai người áo trắng tất tả phi ngựa đến. Hóa ra họ là bác sĩ và y tá bệnh viện đi tìm cụ Ún. Bác sĩ tiêm thuốc giảm đau, cụ Ún thấy đỡ. Ngồi bên giường người bệnh, ông bác sĩ ôn tồn giải thích. Gia đình lại đưa cụ lên bệnh viện.\n\nNửa tháng sau, cụ Ún khỏi bệnh. Về nhà, cụ nói với bà con:\n\n- Từ nay, tôi dứt khoát bỏ nghề thầy cúng. Bà con ốm đau nên đi bệnh viện.",
+    "questions": [
+        "Cụ Ún làm nghề gì?",
+        "Khi mắc bệnh, cụ Ún đã chữa trị bằng cách nào và kết quả ra sao?",
+        "Vì sao bị sỏi thận mà cụ Ún trốn về nhà, không chịu mổ?",
+        "Nhờ đâu mà cụ Ún khỏi bệnh?",
+        "Khi cụ Ún bị bệnh, ai là người xin đưa cụ đi bệnh viện",
+        "Câu nói cuối bài giúp em hiểu cụ Ún đã thay đổi cách nghĩ như thế nào ?"
+    ],
+    "options": [
+        [
+            "Bác sĩ.",
+            "Thầy thuốc.",
+            "Thầy cúng.",
+            "Thầy giáo."
+        ],
+        [
+            "Cụ Ún tự chữa bằng cách cúng bái nhưng bệnh tình không thuyên giảm.",
+            "Cụ Ún đi bác sĩ khám nhưng bệnh tình không thuyên giảm.",
+            "Cụ Ún đi bác sĩ khám và khỏi bệnh.",
+            "Cụ Ún tự chữa bằng cách cúng bái và đã khỏi bệnh."
+        ],
+        [
+            "Vì cụ sợ bác sĩ làm đau cụ.",
+            "Vì cụ không tin bác sĩ người Kinh bắt được con ma người Thái.",
+            "Vì cụ sợ bác sĩ không cứu được cụ.",
+            "Vì cụ không có tiền đóng viện phí."
+        ],
+        [
+            "Nhờ cụ tự bắt được con ma người Thái.",
+            "Nhờ bệnh viện mổ lấy sỏi thận cho cụ.",
+            "Nhờ thầy cúng khác bắt con ma trong người cụ.",
+            "Nhờ cụ gặp thuốc tiên."
+        ],
+        [
+            "Bác sĩ đến nhà chữa.",
+            "Hàng xóm.",
+            "Con trai cụ.",
+            "Bạn bè cụ."
+        ],
+        [
+            "Cụ hiểu thầy cúng không chữa khỏi bệnh cho con người, chỉ có thầy thuốc mới giúp con người chữa khỏi bệnh.",
+            "Cụ nhận ra thầy thuốc không chữa được bệnh như con cụ nói.",
+            "Cụ nhận ra bác sĩ người Kinh không bắt được con ma người Thái..",
+            "Có bệnh phải cúng bái tứ phương."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "B",
+        "C",
+        "A"
+    ]
+}

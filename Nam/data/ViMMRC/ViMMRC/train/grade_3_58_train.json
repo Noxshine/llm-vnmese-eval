@@ -1,0 +1,49 @@
+{
+    "article": "Mái nhà của chim\nLợp nghìn lá biếc\nMái nhà của cá\nSóng xanh rập rình.\n\nMái nhà của dím\nSâu trong lòng đất\nMái nhà của ốc\nTròn vo bên mình.\n\nMái nhà của em\nNghiêng giàn gấc đỏ\nMái nhà của bạn\nHoa giấy lợp hồng.\n\nMọi mái nhà riêng\nCó mái nhà chung\nLà bầu trời xanh\nXanh đến vô cùng.\n\nMọi mái nhà riêng\nCó mái nhà chung\nRực rỡ vòm cao\nBảy sắc cầu vồng.\n\nBạn ơi, ngước mắt\nNgước mắt lên trông\nBạn ơi, hãy hát\nHát câu cuối cùng:\nMột mái nhà chung\nMột mái nhà chung...",
+    "questions": [
+        "Ba khổ thơ đầu nói gì về \"những mái nhà\"?",
+        "Bài thơ được chia thành bao nhiêu khổ thơ?",
+        "Những con vật nào được nhắc đến trong bài thơ?",
+        "Mái nhà chung của muôn loài là gì?",
+        "Khổ thơ nào trong bài có cấu trúc đặc biệt so với những khổ thơ khác?"
+    ],
+    "options": [
+        [
+            "Mái nhà chung.",
+            "Mái nhà riêng.",
+            "Nhà mái ngói.",
+            "Mái nhà rơm."
+        ],
+        [
+            "5 khổ.",
+            "4 khổ.",
+            "7 khổ.",
+            "6 khổ."
+        ],
+        [
+            "Chim, cá, dím và ốc.",
+            "Chim, cá, dím và sâu.",
+            "Chim, cá, dím và heo.",
+            "Chim, cá, dím và gấu."
+        ],
+        [
+            "Bầu trời.",
+            "Không khí.",
+            "Làn gió.",
+            "Mặt đất."
+        ],
+        [
+            "Khổ 1.",
+            "Khổ 3.",
+            "Khổ 5.",
+            "Khổ 6."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Một tối mất điện, ngọn nến được đem ra đặt giữa phòng. Người ta châm lửa cho ngọn nến và nến lung linh cháy sáng. Nến hân hoan nhận ra rằng ngọn lửa nhỏ nhoi của nó đã mang lại ánh sáng cho cả căn phòng.\nMọi người đều trầm trồ: “Ồ ngọn nến sáng quá, thật may, nếu không chúng ta sẽ chẳng nhìn thấy gì mất”. Nghe thấy vậy, nến vui sướng dùng hết sức mình đẩy lùi bóng tối xung quanh. Thế nhưng, những dòng sáp nóng đã bắt đầu chảy ra, lăn dài theo thân nến. Nến thấy mình càng lúc càng ngắn lại. Đến khi chỉ còn một nửa, nến giật mình: “Chết mất, ta mà cứ cháy mãi thế này thì chẳng bao lâu sẽ tàn mất thôi. Tại sao ta phải thiệt thòi như vậy?”.\nNghĩ rồi, nến nương theo một cơn gió thoảng để tắt phụt đi. Một sợi khói mỏng manh bay lên rồi nến im lìm.\nMọi người trong phòng nhốn nháo bảo nhau: “Nến tắt mất rồi, tối quá, làm sao bây giờ?”. Ngọn nến mỉm cười tự mãn và hãnh diện vì tầm quan trọng của mình. Nhưng bỗng một người đề nghị: “Nến dễ bị gió thổi tắt lắm, để tôi đi tìm cái đèn dầu”. Đèn dầu được thắp lên, còn ngọn nến đang cháy dở thì bị bỏ vào ngăn kéo tủ.\nNgọn nến buồn thiu. Thế là từ nay nó sẽ bị nằm trong ngăn kéo, khó có dịp cháy sáng nữa. Nến chợt hiểu rằng hạnh phúc của nó là được cháy sáng vì mọi người, dù chỉ có thể cháy với ánh lửa nhỏ và dù sau đó nó sẽ tan chảy đi. Bởi vì nó là ngọn nến.",
+    "questions": [
+        "Khi mang lại ánh sáng cho căn phòng và được mọi người khen ngợi thì ngọn nến cảm thấy thế nào?",
+        "Khi mang lại ánh sáng cho căn phòng và được mọi người khen ngợi thì ngọn nến cảm thấy thế nào?",
+        "Tại sao ngọn nến lại nương theo gió và tắt phụt đi?",
+        "Thân phận của nến ra sao khi đèn dầu được thắp lên?",
+        "Nến buồn thiu và chợt nhận ra điều gì?",
+        "Đồ vật chính nào được nhắc đến trong đoạn văn này?",
+        "Vì sao ngọn nến buồn?"
+    ],
+    "options": [
+        [
+            "Tự mãn và hãnh diện.",
+            "Hân hoan, vui sướng.",
+            "Buồn thiu vì thiệt thòi.",
+            "Lung linh cháy sáng."
+        ],
+        [
+            "Tự mãn và hãnh diện.",
+            "Hân hoan, vui sướng.",
+            "Buồn thiu vì thiệt thòi.",
+            "Lung linh cháy sáng."
+        ],
+        [
+            "Vì nó đã cháy hết mình.",
+            "Vì nó cảm thấy mình không còn cần thiết nữa.",
+            "Vì đã có đèn dầu.",
+            "Vì nó cảm thấy thiệt thòi."
+        ],
+        [
+            "Nến bị gió thổi tắt phụt đi.",
+            "Nến càng lúc càng ngắn lại.",
+            "Bị bỏ vào ngăn kéo tủ, khó có dịp được cháy sáng.",
+            "Nến vui sướng vì không phải cháy sáng nữa."
+        ],
+        [
+            "Thấy mình chỉ còn một nửa.",
+            "Hạnh phúc của nó là được cháy sáng vì mọi người.",
+            "Chẳng bao lâu nữa sẽ tàn mất thôi.",
+            "Ánh sáng của nó đã đẩy lùi bóng tối xung quanh."
+        ],
+        [
+            "Nến.",
+            "Cây đèn.",
+            "Ngọn lửa.",
+            "Quạt."
+        ],
+        [
+            "Do đèn dầu được thấp lên, nến đang cháy dở thì bị bỏ vào ngăn tủ.",
+            "Do sắp hết sáp.",
+            "Do có nhiều chỗ bất đồng với đèn.",
+            "Do cần có lửa mới phát sáng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "C",
+        "B",
+        "C",
+        "A"
+    ]
+}

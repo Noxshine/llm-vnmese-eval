@@ -1,0 +1,81 @@
+{
+    "article": "1. Bà mẹ chạy ra ngoài, hớt hải gọi con. Suốt mấy đêm ròng thức trông con ốm, bà vừa thiếp đi một lúc, Thần Chết đã bắt nó đi.\n\nThần Đêm Tối đóng giả một cụ già mặc áo choàng đen, bảo bà:\n\n- Thần Chết chạy nhanh hơn gió và chẳng bao giờ trả lại những người lão đã cướp đi đâu.\n\nBà mẹ khẩn khoản cầu xin Thần chỉ đường cho mình đuổi theo Thần Chết. Thần Đêm Tối chỉ đường cho bà.\n\n2. Đến một ngã ba đường, bà mẹ không biết phải đi lối nào. Nơi đó có một bụi gai băng tuyết bám đầy. Bụi gai bảo:\n\n- Tôi sẽ chỉ đường cho bà, nếu bà ủ ấm tôi.\n\nBà mẹ ôm ghì bụi gai vào lòng để sưởi ấm nó. Gai đâm vào da thịt bà, máu nhỏ xuống từng giọt đậm. Bụi gai đâm chồi, nảy lộc và nở hoa ngay giữa mùa đông buốt giá. Bụi gai chỉ đường cho bà.\n\n3. Bà đến một hồ lớn. Không có một bóng thuyền. Nước hồ quá sâu. Nhưng bà nhất định vượt qua hồ để tìm con. Hồ bảo:\n\n- Tôi sẽ giúp bà, nhưng bà phải cho tôi đôi mắt. Hãy khóc đi, cho đến khi đôi mắt rơi xuống!\n\nBà mẹ khóc, nước mắt tuôn rơi lã chã, đến nỗi đôi mắt theo dòng lệ rơi xuống hồ, hóa thành hai hòn ngọc. Thế là bà được đưa đến nơi lạnh lẽo của Thần Chết.",
+    "questions": [
+        "Bà mẹ đã làm gì khi con của bà bị thần chết cướp đi?",
+        "Thần Đêm Tối đã mặc áo màu gì?",
+        "Thần Chết đã làm gì với bà mẹ?",
+        "Bà mẹ đã cầu xin người nào chỉ đường cho mình đi tìm đứa con?",
+        "Bụi gai đã đưa ra yêu cầu gì trước khi nhận việc chỉ đường cho bà mẹ?",
+        "Bà mẹ đã phải ủ ấm bụi gai ra sao để được chỉ đường?",
+        "Hồ nước đã yêu cầu thứ gì để chỉ đường cho bà mẹ?",
+        "Bà mẹ đã làm gì để hồ nước chỉ đường cho bà?",
+        "Nội dung của câu chuyện \"Người mẹ\" là gì?"
+    ],
+    "options": [
+        [
+            "Bà mẹ đi tìm Thần Chết và cầu xin Thần Đêm Tối chỉ đường, may sao Thần đồng ý.",
+            "Bà mẹ có đứa con bị Thần Chết cướp đi, bà mải miết tìm tới nơi ở của Thần Chết.",
+            "Bà mẹ hớt hải tìm đứa con bị Thần Chết cướp đi và được Thần Đêm Tối chỉ đường.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Mặc áo choàng đỏ.",
+            "Mặc áo choàng xanh.",
+            "Mặc áo choàng đen.",
+            "Mặc áo choàng nâu."
+        ],
+        [
+            "Cướp đi đôi mắt của bà mẹ.",
+            "Lấy đi đứa con của bà mẹ.",
+            "Lấy đi dòng máu của bà mẹ.",
+            "Cướp đi hơi ấm của bà mẹ."
+        ],
+        [
+            "Các vị thần.",
+            "Thần Đêm Tối.",
+            "Thần Chết.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Bà mẹ yêu bụi gai.",
+            "Bà mẹ chăm sóc bụi gai.",
+            "Bà mẹ tỉa bụi gai.",
+            "Bà mẹ ủ ấm bụi gai."
+        ],
+        [
+            "Gai đâm vào da thịt bà, máu nhỏ xuống từng giọt đậm.",
+            "Bụi gai đâm chồi, nảy lộc và nở hoa giữa mùa đông buốt giá.",
+            "Bà mẹ ôm ghì bụi gai vào lòng để sưởi ấm nó.",
+            "Bà mẹ ôm ghì bụi gai vào lòng để sưởi ấm nó. Gai đâm vào da thịt bà, máu nhỏ xuống từng giọt đậm."
+        ],
+        [
+            "Hơi ấm.",
+            "Giọt máu.",
+            "Nước mắt.",
+            "Đôi mắt."
+        ],
+        [
+            "Bà mẹ đã khóc đến nỗi nước mắt kết thành dòng lệ.",
+            "Bà mẹ đã khóc đến nỗi nước mắt cạn khô, lòa cả hai mắt.",
+            "Bà mẹ đã khóc đến nỗi đôi mắt theo dòng lệ rơi xuống hồ.",
+            "Mẹ đã khóc đến nỗi nước mắt biến thành những hạt ngọc."
+        ],
+        [
+            "Mẹ là người không sợ Thần Chết.",
+            "Mẹ là người rất tài giỏi.",
+            "Mẹ có thể hi sinh tất cả vì con.",
+            "Mẹ là người rất dũng cảm."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "B",
+        "D",
+        "D",
+        "D",
+        "C",
+        "C"
+    ]
+}

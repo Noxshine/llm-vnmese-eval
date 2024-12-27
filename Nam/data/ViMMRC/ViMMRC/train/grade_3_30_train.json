@@ -1,0 +1,65 @@
+{
+    "article": "Quay vòng, quay vòng\nNgồi vào buồng lái\nBé thành phi công.\n\nQuay vòng, quay vòng\nKhông chen, không vượt\nĐội bay hàng một\nKhông ai cuối cùng.\n\nHồ nước lùi dần\nCái cây chạy ngược\nNgôi nhà hiện ra\nCon đường biến mất\nKhông run, không run\nMẹ vẫn dưới đất\nĐang cười đấy thôi...\n\nCuồn cuộn máy bay\nÀo ào gió lốc\nQuay vòng quay vòng\nBay lên cao tít.\n\nLại gặp mặt đất\nLại gặp hàng cây\nÔ tô đang chạy\nCon vịt đang bơi.\n\nBay đến đỉnh trời\nPhi công buồn ngủ\n- Mẹ ơi, mẹ bế!\nThế là xuống ngay\nSà vào lòng mẹ\nMẹ là sân bay.",
+    "questions": [
+        "Bé chơi trò chơi gì trong bài thơ này?",
+        "Khổ thơ thứ mấy cho thấy chú bé tỏ ra rất dũng cảm?",
+        "Những khổ thơ nào thể hiện rằng chú bé rất ngộ nghĩnh và đáng yêu?",
+        "Chú bé có đức tính gì đáng khen?",
+        "Dòng nào miêu tả đúng về đức tính của chú bé?",
+        "Từ \"phi công\" có nghĩa là gì?",
+        "\"Bé thành phi công ý\" nhằm chỉ điều gì?"
+    ],
+    "options": [
+        [
+            "Bé chơi trò đố vui.",
+            "Bé chơi trò cưỡi ngựa.",
+            "Bé chơi trò nhảy dây.",
+            "Bé chơi trò đu quay."
+        ],
+        [
+            "Khổ 3, 4.",
+            "Khổ 5, 6.",
+            "Khổ 1, 2.",
+            "Khổ 1, 3."
+        ],
+        [
+            "Khổ thơ 3, 4.",
+            "Khổ thơ 5.",
+            "Khổ thơ 6.",
+            "Khổ thơ 1, 2."
+        ],
+        [
+            "Rất dũng cảm.",
+            "Rất hèn nhát.",
+            "Rất chăm chỉ, chịu khó.",
+            "Rất già dặn, hiểu biết."
+        ],
+        [
+            "Chú bé rất chững chạc, người lớn và rất dịu dàng.",
+            "Chú bé rất tình cảm, rất yêu thương và quý mến mẹ.",
+            "Chú bé rất vui tươi, hồn nhiên và cũng rất dũng cảm.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Phi công là người làm máy bay.",
+            "Phi công là người chăm sóc con công.",
+            "Phi công là người công nhân nhà máy.",
+            "Phi công là người lái máy bay."
+        ],
+        [
+            "Một công việc.",
+            "Một tên gọi.",
+            "Một trò chơi.",
+            "Một ước mơ."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "C",
+        "A",
+        "C",
+        "D",
+        "D"
+    ]
+}

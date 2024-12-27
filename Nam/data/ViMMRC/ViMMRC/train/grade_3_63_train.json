@@ -1,0 +1,57 @@
+{
+    "article": "Bé kẹp lại tóc, thả ống quần xuống, lấy cái nón của má đội lên đầu. Nó cố bắt chước dáng đi khoan thai của cô giáo khi cô bước vào lớp. Mấy đứa nhỏ làm y hệt đám học trò, đứng cả dậy, khúc khích cười chào cô.\n\nBé treo nón, mặt tỉnh khô, bẻ một nhánh trâm bầu làm thước. Mấy đứa em chống hai tay ngồi nhìn chị. Làm như cô giáo, Bé đưa mắt nhìn đám học trò, tay cầm nhánh trâm bầu nhịp nhịp trên tấm bảng. Nó đánh vần từng tiếng. Đàn em ríu rít đánh vần theo. Thằng Hiển ngọng líu, nói không kịp hai đứa lớn. Cái Anh hai má núng nính, ngồi gọn tròn như củ khoai, bao giờ cũng giành phần đọc xong trước. Cái Thanh ngồi cao hơn hai em một đầu. Nó mở to đôi mắt hiền dịu nhìn tấm bảng, vừa đọc vừa mân mê mớ tóc mai.",
+    "questions": [
+        "Tên ba đứa em của bạn nhỏ là gì?",
+        "Cử chỉ gì của Bé khiến những đứa em cười khúc khích?",
+        "Bé đã đóng vai gì?",
+        "Các em của Bé đã đóng vai gì?",
+        "Biểu hiện nào của Bé giống hệt cô giáo?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Hiền, Anh và Thanh.",
+            "Hiển, Anh và Thanh.",
+            "Hiển, Bé và Thanh.",
+            "Hiền, Bé và Anh."
+        ],
+        [
+            "Bé kẹp lại tóc, thả ống quần xuống, đội nón của má, bắt chước dáng đi khoan thai của cô.",
+            "Bắt chước dáng đi khoan thai của cô.",
+            "Bé kẹp lại tóc, thả ống quần xuống, đội nón của má.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Học sinh.",
+            "Cô giáo.",
+            "Má.",
+            "Ba."
+        ],
+        [
+            "Học sinh.",
+            "Trẻ hàng xóm.",
+            "Cô giáo.",
+            "Khán giả."
+        ],
+        [
+            "Cái Anh hai má núng nính, ngồi gọn tròn như củ khoai, bao giờ cũng giành phần đọc xong trước.",
+            "Bé đưa mắt nhìn đám học trò, tay cầm nhánh trâm bầu nhịp nhịp trên tấm bảng, đánh vần từng tiếng.",
+            "Thằng Hiển ngọng líu, nói không kịp hai đứa lớn.",
+            "Cái Thanh ngồi cao hơn hai em một đầu, mở to đôi mắt hiền dịu nhìn tấm bảng, mân mê mớ tóc mai."
+        ],
+        [
+            "Thể hiện ước muốn làm học sinh của ba bạn nhỏ.",
+            "Mô tả trò chơi lớp học đầy ngộ nghĩnh, qua đó thể hiện ước muốn trở thành cô giáo của bạn nhỏ.",
+            "Thể hiện ước mơ muốn trở thành cô giáo của bạn nhỏ.",
+            "Mô tả trò chơi lớp học đầy ngộ nghĩnh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "A",
+        "B",
+        "B"
+    ]
+}

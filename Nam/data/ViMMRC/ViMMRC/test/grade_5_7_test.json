@@ -1,0 +1,49 @@
+{
+    "article": "Ngày xưa, có vị quốc vương nọ có một quy định rất đặc biệt. Bất cứ ai đến tham gia bữa tiệc của ngài đều không được lật giở thức ăn mà chỉ có thể ăn phần bên trên của món ăn đó.\n\nMột sứ giả đến vương quốc này, quốc vương vô cùng vui mừng đặt tiệc chiêu đãi sứ giả. Người hầu bưng ra một đĩa cá rất thơm ngon. Sứ giả không biết quy định của quốc vương liền lật con cá lên.\n\nCác đại thần thấy vậy liền nói: “Thưa bệ hạ, hành động kia đã phạm tội khi quân! Chưa ai dám làm nhục bệ hạ như vậy, ngài phải xử tội sứ giả đó đi!”\n\nQuốc vương thở dài nói với sứ giả: “Ngươi nghe thấy không? Nếu ta không bắt ngươi chết, ta sẽ bị các đại thần cười nhạo. Nhưng vì mối quan hệ tốt đẹp giữa quý quốc và nước ta, trước khi ngươi chết, ta cho phép ngươi cầu xin một việc, ta hứa sẽ thực hiện.”\n\nVị sứ giả nghĩ ngợi một lúc rồi nói: “Việc đã như vậy, tôi chẳng còn cách nào khác. Tôi chỉ xin ngài một ân huệ nhỏ.”\n\nQuốc vương nói: “Được, ngoài cho ngươi tính mạng, còn những yêu cầu khác, ta có thể đáp ứng hết.”\n\nNghe vậy, sứ giả nói: “Thần hi vọng trước khi thần chết, ngài hãy cho thần đôi mắt của những người đã nhìn thấy thần lật con cá đó.”\n\nQuốc vương kinh hãi, vội vàng thề rằng mình không nhìn thấy gì cả, chỉ nghe người khác nói như vậy mà thôi. Tiếp đó đến hoàng hậu bên cạnh cũng nói: “Ta cũng chẳng thấy gì cả”. Các đại thần nhìn nhau, sau đó từng người đứng dậy chỉ tay lên trời và thề mình không nhìn thấy.\n\nCuối cùng, vị sứ giả mỉm cười và đứng dậy nói: “Không có ai nhìn thấy tôi lật con cá, vậy chúng ta tiếp tục dùng bữa nhé!”\n\nVà như vậy, nhờ trí thông minh, vị sứ giả đã giữ được tính mạng của mình.",
+    "questions": [
+        "Theo em, quốc vương đặt tiệc mời sứ giả nhằm mục đích gì?",
+        "Vị sứ giả đã làm gì để thoát khỏi tình huống nguy hiểm?",
+        "Tại sao lúc sau, tất cả mọi người tham dự bữa tiệc lại phủ nhận hành động “lật con cá lên” của vị sứ giả?",
+        "Qua chuyện, em thấy vị sứ giả là người như thế nào?",
+        "Câu tục ngữ, thành ngữ nào dưới đây phù hợp khi nói về tình huống và cách giải quyết của vị sứ giả trong câu chuyện trên?"
+    ],
+    "options": [
+        [
+            "Để tạo ra một cái bẫy nhằm gây chiến với nước láng giềng.",
+            "Ông muốn thử thách trí thông minh của sứ giả nước bạn.",
+            "Ông muốn tỏ rõ sự hiếu khách và trân trọng của mình đối với sứ giả nước bạn.",
+            "Ông muốn cho sứ giả thấy sự giàu có, xa hoa của vương quốc mình."
+        ],
+        [
+            "Ông đã đi cầu xin các vị đại thần để họ coi như chưa từng nhìn thấy hành động của mình trong bữa tiệc.",
+            "Ông đã cầu xin quốc vương ban cho mình đôi mắt của những người đã nhìn thấy ông lật con cá trong bữa tiệc.",
+            "Ông đã xin quốc vương ban cho mình cái chết bằng cách chết vì tuổi già.",
+            "Ông đã mang mối quan hệ tốt đẹp giữa hai đất nước ra để quốc vương phải suy nghĩ lại quyết định của mình."
+        ],
+        [
+            "Vì mọi người không muốn làm mất thể diện của quốc vương trước mặt vị sứ giả nước láng giềng.",
+            "Vì không ai muốn dâng đôi mắt của mình cho vị sứ giả trước khi ông ta chết.",
+            "Vì mọi người không muốn làm mất hòa khí giữa hai nước.",
+            "Vì không ai muốn làm mất tình láng giềng."
+        ],
+        [
+            "Có ý chí, nghị lực.",
+            "Tốt bụng, giàu lòng yêu thương.",
+            "Lạc quan, yêu đời.",
+            "Thông minh, nhanh trí."
+        ],
+        [
+            "Cái khó ló cái khôn.",
+            "Cái kim trong bọc lâu ngày cũng phải lộ ra.",
+            "Ăn cây táo rào cây sung.",
+            "Có công mài sắc có ngày nên kim."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "D",
+        "A"
+    ]
+}

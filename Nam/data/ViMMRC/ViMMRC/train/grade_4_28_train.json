@@ -1,0 +1,49 @@
+{
+    "article": "Một buổi sáng, tôi thức dậy với một tâm trạng nặng nề và chán nản: cuộc sống chẳng dành cho tôi chút ưu ái nào!\n\nTrên xe buýt, tôi đưa mắt nhìn qua băng ghế đối diện. Một cô bé có khuôn mặt xinh xắn và ánh mắt sáng ngời khẽ gật đầu chào tôi với nụ cười rạng rỡ. Khi xe đến trạm cuối cùng, mọi người nhanh chân bước xuống, chỉ riêng cô bé lê từng bước. Tôi bất giác nhìn lại và bàng hoàng nhận ra, cô bé đang phải di chuyển rất khó nhọc bằng đôi nạng gỗ.\n\nSau một ngày làm việc căng thẳng, tôi tranh thủ ghé vào tiệm tạp hóa để mua thực phẩm, một cậu bé chứng mười tuổi đang giúp mẹ bán hàng. Cậu nghiêng đầu mỉm cười khi trao cho tôi túi hàng đã được buộc chặt. Trước khi bước ra, tôi âu yếm xoa đầu và hỏi tên. Cậu bé chỉ lắc đầu quầy quậy rồi đưa mắt nhìn mẹ như muốn nói điều gì.\n\n- Cháu nó không nói được cô ạ … \n- Người mẹ hạ giọng trả lời thay con.\n\nKhi băng qua đường, tôi bắt gặp một cậu bé đang đứng khép mình nơi góc tường mắt chăm chú dõi theo những đứa trẻ khác chơi đùa trên hè phố, rồi khúc khích cười theo. Tôi đến bên cạnh và hỏi:\n\n- Sao cháu không cùng chơi với các bạn?\n\nCậu bé không trả lời, đôi mắt vẫn hướng về phía trước. Tôi chợt nhận ra cậu không thể nghe được lời tôi nói\n\nBây giờ, tôi mới nhận ra mình mới thật là diễm phúc vì được cuộc sống ban tặng một cơ thể lành lặn và khỏe mạnh.\n\nTôi tự nhủ sẽ sống thật xứng đáng với những điều may mắn mà cuộc sống đã ban tặng.\n\nTrong hành trình đầy thử thách của cuộc đời, tôi và các bạn, tất cả chúng ta đều luôn phải đối mặt với những khó khăn. Hãy sẵn sàng đón nhận những gì cuộc sống mang đến và cố gắng vượt qua mọi thử thách. Hãy tin yêu và đón nhận cuộc sống này bằng tâm hồn lạc quan và niềm tin mãnh liệt như những cố bé, cậu bé đáng yêu kia.\n\nHôm nay, những cô bé, cậu bé ấy đã cho tôi một bài học về giá trị bản thân và ý nghĩa cuộc sống mà tôi may mắn có được.",
+    "questions": [
+        "Cô bé mà tác giả gặp trên xe buýt có thái độ như thế nào với mọi người xung quanh?",
+        "Cậu bé giúp mẹ bán hàng trong tiệm tạp hóa có thái độ như thế nào với khách?",
+        "Cậu bé mà tác giả gặp trên hè phố đã “chơi” cùng các bạn như thế nào?",
+        "Những cô bé, cậu bé gặp trên đường đã để lại ấn tượng gì cho tác giả?",
+        "Câu văn nào sau đây nói rõ nhất ý nghĩa của câu chuyện?"
+    ],
+    "options": [
+        [
+            "Luôn chào hỏi mọi người với thái độ thân thiện.",
+            "Gật đầu chào hỏi mọi người với nụ cười rạng rỡ.",
+            "Vui vẻ hỏi thăm mọi người.",
+            "Buồn vì không ai hỏi thăm."
+        ],
+        [
+            "Luôn chào hỏi khách.",
+            "Luôn tận tình hướng dẫn các mặt hàng mới.",
+            "Nghiêng đầu mỉm cười khi trao túi hàng đã buộc chặt.",
+            "Lòng hiếu khách."
+        ],
+        [
+            "Chơi đuổi bắt cùng các bạn.",
+            "Chăm chú theo dõi các bạn chơi đùa rồi khúc khích cười theo.",
+            "Chơi đánh trận giả cùng các bạn.",
+            "Chăm chú vào những trận đánh giả cùng các bạn."
+        ],
+        [
+            "Cho tác giả một bài học về giá trị bản thân và ý nghĩa cuộc sống.",
+            "Tác giả vô cùng thương xót các em và tự nhủ phải làm một điều gì đó cho các em.",
+            "Tác giả thấy mình thật may mắn quá vì không bị khuyết tật như các em.",
+            "Tác giả thấy mình vô cùng thương xót."
+        ],
+        [
+            "Trong hành trình đầy thử thách của cuộc đời, tôi và các bạn, tất cả chúng ta đều luôn phải đối mặt với những khó khăn.",
+            "Hãy sẵn sàng đón nhận những gì cuộc sống mang đến và cố gắng vượt qua mọi thử thách.",
+            "Hãy tin yêu và đón nhận cuộc sống này bằng tâm hồn lạc quan và niềm tin mãnh liệt.",
+            "Hãy sẵn sàng đón nhận những gì cuộc sống hằng ngày mang đến."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "B",
+        "A",
+        "C"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "article": "Lúc ấy, tôi đang đi trên phố. Một người ăn xin già lọm khọm đứng ngay trước mặt tôi. \n\nĐôi mắt ông lão đỏ đọc và giàn giụa nước mắt. Đôi môi tái nhợt, áo quần tả tơi thảm hại... Chao ôi! Cảnh nghèo đói đã gặm nát con người đau khổ kia thành xấu xí biết nhường nào!\n\nÔng già chìa trước mặt tôi bàn tay sưng húp, bẩn thỉu. Ông rên rỉ cầu xin cứu giúp.\n\nTôi lục tìm hết túi nọ túi kia, không có tiền, không có đồng hồ, không có cả một chiếc khăn tay. Trên người tôi chẳng có tài sản gì.\n\nNgười ăn xin vẫn đợi tôi. Tay vẫn chìa ra, run lẩy bẩy.\n\nTôi chẳng biết làm cách nào. Tôi nắm chặt lấy bàn tay run rẩy kia:\n\n- Ông đừng giận cháu, cháu không có gì để cho ông cả.\n\nNgười ăn xin nhìn tôi chằm chằm bằng đôi mắt ướt đẫm. Đôi môi tái nhợt nở nụ cười và tay ông cũng xiết lấy tay tôi: \n\n- Cháu ơi, cảm ơn cháu ! Như vậy là cháu đã cho lão rồi. - Ông lão nói bằng giọng khản đặc.\n\nKhi ấy, tôi chợt hiểu rằng: cả tôi nữa, tôi cũng vừa nhận được chút gì của ông lão.",
+    "questions": [
+        "Về dáng vẻ, ông lão ăn xin được miêu tả như thế nào?",
+        "Ông lão có hành động gì khi gặp cậu bé?",
+        "Khi ông lão xin, cậu bé có hành động như thế nào?",
+        "Khi không có gì để cho ông lão, cậu bé đã nói gì?",
+        "Điều gì được chứng tỏ qua những lời nói và hành động ân cần của cậu bé?",
+        "Cậu bé đã không có gì để cho ông lão nhưng ông lão lại nói: \"Như vậy là cháu đã cho lão rồi\".   Suy cho cùng, cậu bé đã cho ông lão điều gì?",
+        "Khi ông lão cảm ơn cậu bé, cậu bé nhận ra: mình đã nhận được điều gì từ ông lão ăn xin?",
+        "Ông lão nói: \"Như vậy cháu đã cho lão rồi\", câu nói có nghĩa là gì?",
+        "Câu chuyện này truyền tải nội dung gì?",
+        "\"Dáng vẻ già yếu, lưng còng, chậm chạp\" tương đồng với nghĩa của từ nào sau đây?",
+        "\"Nước mắt tràn ra nhiều, không kìm giữ được\" tương đồng với nghĩa của từ nào?"
+    ],
+    "options": [
+        [
+            "Đôi môi tái nhợt.",
+            "Đôi mắt đỏ đọc và giàn giụa nước mắt.",
+            "Áo quần tả tơi thảm hại.",
+            "Người ăn xin già lọm khọm."
+        ],
+        [
+            "Chìa bàn tay sưng húp bẩn thỉu, rên rỉ cầu xin cứu giúp.",
+            "Nhìn cậu bé chằm chằm bằng đôi mắt ướt đẫm, nở nụ cười.",
+            "Cháu ơi, ông cho cháu có gì cho ông ăn với! Ông đói quá!.",
+            "Cháu ơi, cảm ơn cháu! Như vậy cháu đã cho lão rồi."
+        ],
+        [
+            "Lục túi và quyết định tặng ông ổ bánh mì mình vừa mua.",
+            "Lục túi và cho ông số tiền xu trong túi.",
+            "Xua tay và nói: \"Cháu chẳng có gì để cho ông hết!\".",
+            "Lục hết túi nọ túi kia nhưng chẳng có gì để cho ông lão."
+        ],
+        [
+            "Ông đừng giận cháu, cháu không có gì để cho ông cả.",
+            "Ông à, cháu chỉ có số tiền xu ít ỏi này, cháu không thể cho ông được.",
+            "Ông ơi! Ông về nhà cháu đi, cháu sẽ chăm sóc ông.",
+            "Ông hãy theo cháu về nhà, cháu sẽ mời ông ăn cơm."
+        ],
+        [
+            "Cậu bé rất thương ông lão ăn xin.",
+            "Cậu bé rất sợ ông lão ăn xin.",
+            "Cậu bé không thích giúp đỡ ông lão ăn xin.",
+            "Cậu bé rất ghét ông lão ăn xin."
+        ],
+        [
+            "Một chút bánh mì và thức ăn.",
+            "Sự thông cảm và kính trọng.",
+            "Một lời xin lỗi mong ông đừng giận.",
+            "Một chút tiền lẻ để mua áo ấm."
+        ],
+        [
+            "Cậu nhận được sự thương cảm từ ông lão ăn xin.",
+            "Cậu nhận được lòng biết ơn, sự đồng cảm từ ông lão ăn xin.",
+            "Cậu nhận được một lời xin lỗi từ ông lão ăn xin.",
+            "Cậu nhận được một bài học từ ông lão ăn xin."
+        ],
+        [
+            "Ông lão cảm ơn vì cậu bé đã cho ông thứ gì đó.",
+            "Ông lão đã thương cảm rằng cậu cũng không có gì cả.",
+            "Ông lão đã hiểu rằng cậu không có gì để cho lão.",
+            "Ông lão đã thấu hiểu tấm lòng chân thành của cậu."
+        ],
+        [
+            "Ca ngợi cậu bé chân thật, dốc lòng cứu giúp người khác.",
+            "Ca ngợi cậu bé có tấm lòng trong sáng, ngây thơ.",
+            "Ca ngợi cậu bé có tấm lòng nhân ái, biết thương xót người bất hạnh.",
+            "Ca ngợi ông lão ăn xin có tấm lòng nhân hậu."
+        ],
+        [
+            "Lọm khọm.",
+            "Cắm cúi.",
+            "Lúi húi.",
+            "Già nua."
+        ],
+        [
+            "Lộp bộp.",
+            "Giàn mướp.",
+            "Giàn giụa.",
+            "Lỏng tỏng."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "A",
+        "B",
+        "B",
+        "D",
+        "C",
+        "A",
+        "C"
+    ]
+}

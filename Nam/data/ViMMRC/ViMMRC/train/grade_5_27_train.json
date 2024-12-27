@@ -1,0 +1,73 @@
+{
+    "article": "Một cô giáo đã giúp tôi hiểu rõ ý nghĩa phức tạp của việc cho và nhận.\n\nKhi thấy tôi cầm sách trong giờ tập đọc, cô đã nhận thấy có gì không bình thường, cô liền thu xếp cho tôi đi khám mắt. Cô không đưa tôi đến bệnh viện, mà dẫn tôi đến bác sĩ nhãn khoa riêng của cô. Ít hôm sau, như với một người bạn, cô đưa cho tôi một cặp kính.\n\n- Em không thể nhận được! Em không có tiền trả đâu thưa cô! – Tôi nói, cảm thấy ngượng ngùng vì nhà mình nghèo.\n\nThấy vậy, cô liền kể một câu chuyện cho tôi nghe. Chuyện kể rằng: \"Hồi cô còn nhỏ, một người hàng xóm đã mua kính cho cô. Bà ấy bảo, một ngày kia cô sẽ trả cho cặp kính đó bằng cách tặng cho một cô bé khác. Em thấy chưa, cặp kính này đã được trả tiền từ trước khi em ra đời\". Thế rồi, cô nói với tôi những lời nồng hậu nhất, mà chưa ai khác từng nói với tôi: \"Một ngày nào đó, em sẽ mua kính cho một cô bé khác\".\n\nCô nhìn tôi như một người cho. Cô làm cho tôi thành người có trách nhiệm. Cô tin tôi có thể có một cái gì để trao cho người khác. Cô chấp nhận tôi như thành viên của cùng một thế giới mà cô đang sống. Tôi bước ra khỏi phòng, tay giữ chặt kính trong tay, không phải như kẻ vừa được nhận món quà, mà như người chuyển tiếp món quà cho người khác với tấm lòng tận tụy.",
+    "questions": [
+        "Vì sao cô giáo lại dẫn bạn học sinh đi khám mắt?",
+        "Cô giáo đã làm gì để bạn học sinh vui vẻ nhận kính?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Khi thấy học sinh của mình không bình thường lúc cầm sách lên đọc thì cô giáo xử lý như thế nào?",
+        "Dòng nào dưới đây nêu đúng nghĩa của từ \"trật tự\"?",
+        "Việc cô thuyết phục bạn học sinh nhận kính của mình cho thấy cô là người thế nào?",
+        "Trong các từ sau đây, từ nào có tiếng \"công\" có nghĩa là của chung, của nhà nước?",
+        "Các câu trong đoạn văn sau \"Cô nhìn tôi như một người cho. Cô làm cho tôi thành người có trách nhiệm. Cô tin tôi có thể có một cái gì để trao cho người khác. Cô chấp nhận tôi như thành viên của cùng một thế giới mà cô đang sống.\" Liên kiết với nhau bằng cách lặp lại từ:"
+    ],
+    "options": [
+        [
+            "Vì bạn ấy bị đau mắt.",
+            "Vì bạn ấy không có tiền.",
+            "Vì bạn ấy không biết chỗ khám mắt.",
+            "Vì cô đã thấy bạn ấy cầm sách đọc một cách không bình thường."
+        ],
+        [
+            "Nói rằng đó là cặp kính rẻ tiền nên bạn không phải bận tâm.",
+            "Nói rằng có ai đó nhờ cô mua tặng bạn.",
+            "Kể cho bạn nghe một câu chuyện để bạn hiểu rằng bạn không phải là người được nhận quà mà chỉ là người chuyền tiếp món quà cho người khác.",
+            "Vì lời ngọt ngào, dễ thương của cô."
+        ],
+        [
+            "Không cần phải lo lắng gì, người khác sẽ tự cho mình cái mình muốn.",
+            "Khuyên chúng ta sống không chỉ biết nhận mà còn phải biết cho.",
+            "Tất cả đều đúng.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Một cô giáo đã giúp tôi hiểu rõ ý nghĩa phức tạp của việc cho và nhận.",
+            "Cô liền thu xếp cho tôi đi khám mắt.",
+            "Thấy vậy, cô liền kể một câu chuyện cho tôi nghe.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Tình trạng ổn định, có tổ chức, có kỉ luật.",
+            "Trạng thái bình yên, không có chiến tranh.",
+            "Trạng thái yên ổn, bình lặng, không ồn ào.",
+            "Tất cả đều đúng."
+        ],
+        [
+            "Cô là người thường dùng phần thưởng để khuyến khích học sinh.",
+            "Cô là người hiểu rất rõ ý nghĩa của việc cho và nhận.",
+            "Cô là người biết làm cho người khác vui lòng.",
+            "Cô là người luôn sống vì người khác."
+        ],
+        [
+            "Công minh.",
+            "Công nhân.",
+            "Công cộng.",
+            "Công lí."
+        ],
+        [
+            "Cô.",
+            "Tôi.",
+            "Cô và tôi.",
+            "Tất cả đều sai."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "B",
+        "B",
+        "A",
+        "B",
+        "C",
+        "C"
+    ]
+}

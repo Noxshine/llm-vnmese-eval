@@ -1,0 +1,49 @@
+{
+    "article": "Ở một khúc quanh con đê, ngay ngã ba đầu làng, cạnh ngôi đền cổ, có một cây đề. Cây đề như vẫy gọi nguời xa, như vỗ về kẻ ở bằng màu xanh um tùm cao ngất với vô vàn lá hình tim. Lá đề không mọc ngang như lá đa mà cứ treo nghiêng hờ hững cho gió lách mình qua để rung lên niềm thanh thoát nhẹ nhàng, xao xuyến.\n\nMùa xuân khi đề ra lộc, hình như chúa xuân đã dát mỏng những tấm đồng điếu thành từng chiếc lá màu đỏ au hơi ánh tím. Phải nắng lên chói chang, lá đề mới xanh óng nuột nà. Cho đến khi đông sang, lá mới ngả màu nâu thẫm trước khi rơi về gốc mẹ lạnh lùng. Những chiếc lá đề cuối cùng còn sót lại vẫn treo nghiêng như để an ủi gốc cây vặn mình trong giá rét. Cho đến khi mưa xuân phủ tấm màn voan mỏng lên cây, lá đề ướt đẫm nước mắt trời không ai biết.\n\nCây đề thường cổ thụ. Gốc cây đề vừa là gốc vừa là rễ xoắn xuýt vào nhau, sừng sững vượt qua bão bùng mưa nắng bất chấp mọi ganh đua, chẳng màng đến niềm vui thông tục. Đền đài miếu mạo chính là chỗ cho cây đề gửi thân nương hồn như nhà tu hành đắc đạo. Trong tâm khảm người Việt Nam, cây đề không phải là kỷ niệm mà là niềm sùng kính. Đó cũng là cây mà Đức Phật Thích Ca đã ngồi thiền, đã giác ngộ, đã thành Đức Phật Tổ từ trên hai nghìn năm trăm năm nay. Vì thế, nó được chăm chút trong mỗi làng quê từ đời này sang đời khác, vững chắc, trường tồn.\n\nTrên đất Thăng Long thời hiện đại, có biết bao nơi còn lưu giữ bóng đề, một thứ cây cổ tích, trầm tư suy ngẫm, một thứ cây reo reo rung động lòng người bằng muôn vàn trái tim đồng cảm trong gió mơn man. Đó cũng là chút hồn non nước lắng sâu trong mỗi chúng ta chăng?",
+    "questions": [
+        "Nhân dân ta thường trồng cây đề ở đâu?",
+        "Cây đề ra lộc vào mùa nào?",
+        "Khi miêu tả lá đề, tác giả đã khéo léo dùng những từ chỉ màu sắc nào dưới đây?",
+        "Gốc cây đề có điểm gì đặc biệt?",
+        "Trong tâm khảm người Việt nam, cây đề là gì?"
+    ],
+    "options": [
+        [
+            "Ở một khúc quanh con đê, ngay ngã ba đầu làng, cạnh ngôi đền cổ.",
+            "Cạnh giếng nước, mái đình.",
+            "Bên cạnh thác nước.",
+            "Trồng ở cuối làng."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa hạ.",
+            "Mùa thu.",
+            "Mùa đông."
+        ],
+        [
+            "Đỏ au, ánh tím, xanh óng, vàng hoe, nâu đỏ.",
+            "Đỏ au, xanh óng, vàng hoe, ánh tím, đẫm nước.",
+            "Đỏ au, ánh tím, xanh óng, nuột nà, nâu thẫm.",
+            "Đỏ au, vàng hoe, nâu thẫm, nuột nà, xanh ngắt."
+        ],
+        [
+            "Vừa là gốc vừa là rễ xoắn xuýt vào nhau, sừng sững vượt qua bão bùng mưa nắng bất chấp mọi ganh đua, chẳng màng đến niềm vui thông tục.",
+            "Gốc có màu nâu thẫm và nhiều rễ.",
+            "Không mọc ngang như lá đa mà cứ treo nghiêng hờ hững.",
+            "Gốc đề là nơi mọi người ngồi tránh nắng những khi trưa hè."
+        ],
+        [
+            "Kỉ niệm thời thơ ấu.",
+            "Niềm sùng kính.",
+            "Biểu tượng của tình mẹ con.",
+            "Biểu trưng của thời hiện đại."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "B"
+    ]
+}

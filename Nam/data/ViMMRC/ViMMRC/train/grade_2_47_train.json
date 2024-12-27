@@ -1,0 +1,65 @@
+{
+    "article": "1. Một ngày đầu năm, bốn nàng tiên Xuân, Hạ, Thu, Đông gặp nhau. Đông cầm tay Xuân, bảo: \n\n- Chị là người sung sướng nhất đấy! Ai cũng yêu chị. Chị về, vườn cây nào cũng đâm chồi nảy lộc.\n\nXuân nói:\n\n- Nhưng phải có nắng của em Hạ, cây trong vườn mới đơm trái ngọt. Có em Hạ, các cô cậu học trò mới được nghỉ hè. \n\nCô nàng Hạ tinh nghịch xen vào:\n\n- Thế mà thiếu nhi lại thích em Thu nhất. Không có Thu, làm sao có vườn bưởi chín vàng, có đêm trăng rằm rước đèn, phá cỗ,...\n\nĐông, giọng buồn buồn:\n\n- Chỉ có em là chẳng ai yêu.\n\nThu đặt tay lên vai Đông, thủ thỉ:\n\n- Có em mới bập bùng bếp lửa nhà sàn, có giấc ngủ ấm trong chăn. Sao lại có người không thích em được?\n\n2. Bốn nàng tiên mải chuyện trò, không biết bà Đất đã đến bên cạnh từ lúc nào. Bà vui vẻ góp chuyện:\n\n- Các cháu mỗi người một vẻ. Xuân làm cho cây lá tươi tốt. Hạ cho trái ngọt, hoa thơm. Thu làm cho trời xanh cao, cho học sinh nhớ ngày tựu trường. Còn cháu Đông, ai mà ghét cháu được! Cháu có công ấp ủ mầm sống để cây cối đâm chồi nảy lộc. Các cháu đều có ích, đều đáng yêu.",
+    "questions": [
+        "Theo lời của nàng tiên Đông, mùa xuân mang lại lợi ích gì khi nó xuất hiện?",
+        "Theo lời của bà Đất thì những mùa nào mang lợi ích?",
+        "\"Thời tiết se lạnh, trời cao trong xanh, hoa cúc vàng, hương cốm mới, mùa tựu trường của học sinh\" là đặc điểm của mùa nào?",
+        "Những dấu hiệu \"nóng bức\" đang nhắc đến mùa nào trong năm?",
+        "Những dấu hiệu \"Hoa thơm trái ngọt, ve kêu râm ran, hoa phượng đỏ, thời tiết oi ả,...\" nhắc đến mùa nào trong năm?",
+        "Theo lời của bà Đất thì những mùa nào mang lợi ích?",
+        "Theo lời của nàng tiên Đông, mùa xuân mang lại lợi ích gì khi nó xuất hiện?"
+    ],
+    "options": [
+        [
+            "Chị làm bập bùng bếp lửa nhà sàn, giấc ngủ ấm trong chăn.",
+            "Chị làm vườn bưởi chín vàng, có đêm trăng rước đèn...",
+            "Chị làm cây vườn đơm trái ngọt, hoa thơm.",
+            "Chị về, vườn cây nào cũng đâm chồi nảy lộc."
+        ],
+        [
+            "Xuân và Hạ.",
+            "Hạ và Đông.",
+            "Thu và Xuân.",
+            "Xuân, Hạ, Thu và Đông."
+        ],
+        [
+            "Xuân.",
+            "Hạ.",
+            "Thu.",
+            "Đông."
+        ],
+        [
+            "Xuân.",
+            "Hạ.",
+            "Thu.",
+            "Đông."
+        ],
+        [
+            "Xuân.",
+            "Hạ.",
+            "Thu.",
+            "Đông."
+        ],
+        [
+            "Xuân và Hạ.",
+            "Hạ và Đông.",
+            "Thu và Xuân.",
+            "Xuân, Hạ, Thu và Đông."
+        ],
+        [
+            "Chị làm bập bùng bếp lửa nhà sàn, giấc ngủ ấm trong chăn.",
+            "Chị làm vườn bưởi chín vàng, có đêm trăng rước đèn...",
+            "Chị làm cây vườn đơm trái ngọt, hoa thơm.",
+            "Chị về, vườn cây nào cũng đâm chồi nảy lộc."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "C",
+        "B",
+        "B",
+        "D",
+        "D"
+    ]
+}

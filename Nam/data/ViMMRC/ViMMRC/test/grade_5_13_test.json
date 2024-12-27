@@ -1,0 +1,57 @@
+{
+    "article": "Hai Long phóng xe về phía Phú Lâm tìm hộp thư mật.\n\nNgười đặt hộp thư lần nào cũng tạo cho anh sự bất ngờ. Bao giờ hộp thư cũng được đặt tại một nơi dễ tìm mà lại ít bị chú ý nhất. Nhiều lúc, người liên lạc còn gửi gắm vào đây một chút tình cảm của mình, thường bằng những vật gợi ra hình chữ V mà chỉ anh mới nhận thấy. Đó là tên Tổ quốc Việt Nam, là lời chào chiến thắng. Đôi lúc Hai Long đã đáp lại.\n\nAnh dừng xe trước một cột cây số ven đường, giữa cánh đồng vắng. Tháo chiếc bu-gi ra xem, nhưng đôi mắt anh không nhìn chiếc bu-gi mà chăm chú quan sát mặt đất phía sau một cây số. Nó kia rồi! Một hòn đá hình mũi tên (lại hình chữ V quen thuộc) trỏ vào một hòn đá dẹt chỉ cách anh ba bước chân.\n\nHai Long tới ngồi cạnh hòn đá, nhìn trước nhìn sau, một tay vẫn cầm chiếc bu-gi, một tay bẩy nhẹ hòn đá. Hộp thư lần này cũng là một chiếc vỏ đựng thuốc đánh răng. Anh nhẹ nhàng cạy đáy hộp thuốc, rút ra một mảnh giấy nhỏ, thay vào đó thư báo cáo của mình, rồi thả hộp thuốc về chỗ cũ.\n\nCông việc thế là xong. Một giờ nữa sẽ có người đến lấy thư. Anh trở lại bên xe, lắp bu-gi vào rồi đạp cần khởi động máy. Tiếng động cơ nổ giòn. Chưa đầy nửa giờ sau, anh đã hòa lẫn vào dòng người giữa phố phường náo nhiệt.",
+    "questions": [
+        "Hộp thư mật được đặt ở vị trí như thế nào?",
+        "Hộp thư mật được ngụy trang khéo léo như thế nào?",
+        "Những vật gợi ra hình chũ V có ý nghĩa biểu tượng chỉ điều gì?",
+        "Nhân vật nhận hộp thư mật được nhắc đến trong câu chuyện có tên là gì?",
+        "Qua những vật có hình chữ V nói lên những phẩm chất gì của những người làm nhiệm vụ liên lạc bí mật?",
+        "Hộp thư lần này anh Hai Long nhận được là gì?"
+    ],
+    "options": [
+        [
+            "Bí mật, khó tìm.",
+            "Dễ tìm mà lại ít bị chú ý nhất.",
+            "Bí mật, được che giấu bởi các vật khác.",
+            "Bí mật nhưng dễ thu hút ​."
+        ],
+        [
+            "Che hộp thư kín đáo giữa những đám cỏ dày và rậm.",
+            "Bỏ báo cáo trong một chiếc hộp đánh răng.",
+            "Bao giờ hộp thư cũng được đặt tại một nơi dễ tìm mà lại ít bị chú ý nhất. Nhiều lúc, người liên lạc còn gửi gắm vào đây một chút tình cảm của mình, thường bằng những vật gợi ra hình chữ V mà chỉ anh mới nhận thấy.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Là lời chào chiến thắng.",
+            "Là kí hiệu của hai ngón tay.",
+            "Là lời chào thân mật.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Hữu Lâm.",
+            "Hải Long.",
+            "Phú Lâm.",
+            "Hai Long."
+        ],
+        [
+            "Lạc quan, biết yêu thương dân nghèo.",
+            "Yêu Tổ quốc, cẩn thận, chăm chỉ.",
+            "Yêu Tổ quốc, yêu đồng đội, sẵn sàng hi sinh vì sự nghiệp chung của dân tộc.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Một ba lô.",
+            "Một chiếc vỏ đựng thuốc đánh răng.",
+            "Một bi-đông đựng nước.",
+            "Một hộp các-tông."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "C",
+        "B"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Thầy giáo dạy cấp một của tôi có một khoảnh vườn tí tẹo, chỉ độ vài mét vuông. Mọc um tùm với nhau là những thứ quen thuộc: xương sông, lá lốt, bạc hà, kinh giới. Có cả cây ớt lẫn cây hoa hồng lúc nào cũng bừng lên bônh hao rức rỡ. Đặc biệt là viền bốn xung quanh mảnh vườn có hàng tóc tiên, xanh và mềm quanh năm. Chắc là những cô tiên không bao giờ già, tóc không bao giờ bạc nên thứ cỏ này mới có tên gọi như thế.\n\nMùa hè, tôi thường đến nhà thầy, đúng mùa hoa tóc tiên. Sáng sáng hoa tóc tiên đua nhau nở rộ như đua nhau khoe màu, biến đường viền xanh thành đường viền hồng cánh sen. Cầm một bông tóc tiên thường là năm cánh, mỏng như lụa, còn mát sương đêm, sẽ thấy mùi hương ngòn ngọt và thơm thơm của phong bánh đậu Hải Dương, muốn ăn ngay.\n\nThầy thường sai tôi ra ngắt dăm bông cắm vào chiếc cốc thủy tinh trong suốt, có nước mưa cũng trong suốt, để lên bàn thầy. Cốc hoa tóc tiên trông mới tinh khiết làm sao, tưởng như tôi vừa cắm cả buổi sáng vào trong cốc, mà cũng tưởng như đó là nếp sống của thầy, tinh khiết, giản dị, trong sáng, trong sáng từ trong đến ngoài.\n\nBây giờ nhiều nơi trồng tóc tiên, hoa tóc tiên có ở nhiều nhà, nhiều vườn, có cả hoa màu trắng, nhưng ít ai cắm hoa tóc tiên trong bình.\n\nRiêng tôi, tôi nhớ cốc hoa tóc tiên trên bàn thầy giáo cách đây mấy chục năm ở một cái thôn hẻo lánh, hoa có màu cánh sen nhẹ, lá thì xanh biếc, còn hương thơm thì thoảng nhẹ và ngon lành như một thứ bánh. Thầy giáo tôi đã mất nhưng chắc ở trên trời, thầy vẫn có cốc hoa tóc tiên tinh khiết của mình ...",
+    "questions": [
+        "Tác giả cho rằng tên gọi cây tóc tiên có nguồn gốc là do đâu?",
+        "Hoa tóc tiên ở vườn nhà thầy giáo có màu gì?",
+        "Tác giả so sánh mùi thơm của hoa tóc tiên với gì?",
+        "Ngắm cốc hoa tóc tiên tinh khiết, tác giả liên tưởng đến điều gì?",
+        "Hoa thuỷ tiên có bao nhiêu cánh?"
+    ],
+    "options": [
+        [
+            "Do thầy giáo chăm sóc tốt.",
+            "Do cây xanh tốt quanh năm.",
+            "Do tóc các cô tiên không bao giờ bạc.",
+            "Do tóc của thầy giáo không bao giờ trắng."
+        ],
+        [
+            "Màu hồng cánh sen.",
+            "Màu hồng cánh sen nhẹ.",
+            "Màu trắng tinh khiết.",
+            "Màu trắng thuần khiết."
+        ],
+        [
+            "Mùi thơm ngọt của phong bánh đậu Hải Dương.",
+            "Mùi thơm mát của sương đêm.",
+            "Mùi thơm ngon lành của một loại bánh.",
+            "Mùi thơm dịu dàng."
+        ],
+        [
+            "Một thứ lụa mỏng manh và tóc những cô tiên.",
+            "Buổi sáng và nếp sống của thầy giáo.",
+            "Những giọt sương đêm.",
+            "Những giọ nước tinh khôi."
+        ],
+        [
+            "5 cánh.",
+            "3 cánh.",
+            "2 cánh.",
+            "4 cánh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "A"
+    ]
+}

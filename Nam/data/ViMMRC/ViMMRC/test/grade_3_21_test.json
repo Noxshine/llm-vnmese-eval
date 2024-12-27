@@ -1,0 +1,65 @@
+{
+    "article": "Mặt trời gác núi\nBóng tối lan dần,\nAnh Đóm chuyên cần\nLên đèn đi gác.\n\nTheo làn gió mát\nĐóm đi rất êm\nĐi suốt một đêm\nLo cho người ngủ.\n\nTiếng chị Cò Bợ:\n\"Ru hỡi! Ru hời!\nHỡi bé tôi ơi,\nNgủ cho ngon giấc\".\n\nNgoài sông thím Vạc\nLặng lẽ mò tôm\nBên cạnh sao Hôm\nLong lanh đáy nước.\n\nTừng bước, từng bước\nVung ngọn đèn lồng\nAnh Đóm quay vòng\nNhư sao bừng nở.\n\nGà đâu rộn rịp\nGáy sáng đằng đông,\nTắt ngọn đèn lồng\nĐóm lui về nghỉ.",
+    "questions": [
+        "Anh Đóm lên đèn để đi đâu?",
+        "Khi nào anh Đóm lên đèn đi gác?",
+        "Tại sao anh Đóm \"gác\" suốt một đêm?",
+        "Vẻ đẹp của anh Đóm được miêu tả như thế nào?",
+        "Hình ảnh anh Đóm phát sáng - ngọn đèn lồng so sánh với sự vật nào?",
+        "Anh Đóm lui về nghỉ ngơi khi nào?",
+        "Nhận xét về anh Đóm là đúng?"
+    ],
+    "options": [
+        [
+            "Đi dạo.",
+            "Đi kiếm ăn.",
+            "Đi săn.",
+            "Đi gác."
+        ],
+        [
+            "Khi mặt trời ló rạng, nắng hồng rực sáng.",
+            "Khi mặt trời rực rỡ, ánh nắng chói chang.",
+            "Khi mặt trời bị mây che khuất, trời sầm sì.",
+            "Khi mặt trời xuống núi, bóng tối lan dần."
+        ],
+        [
+            "Lo cho người ngủ.",
+            "Đi kiếm đồ ăn.",
+            "Giữ trật tự khu vườn.",
+            "Tìm kiếm người bạn."
+        ],
+        [
+            "Ngọn đèn lồng như sao bừng nở.",
+            "Lên đèn đi gác.",
+            "Theo làn gió mát.",
+            "Long lanh đáy nước."
+        ],
+        [
+            "Mặt trời.",
+            "Đèn.",
+            "Sao.",
+            "Trăng."
+        ],
+        [
+            "Khi mặt trăng mọc.",
+            "Khi bông hoa nở.",
+            "Khi mặt trời lặn.",
+            "Khi gà gáy sáng."
+        ],
+        [
+            "Chuyên cần.",
+            "Kêu ngạo.",
+            "Xấu xí.",
+            "Lười nhác."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "A",
+        "A",
+        "B",
+        "D",
+        "A"
+    ]
+}

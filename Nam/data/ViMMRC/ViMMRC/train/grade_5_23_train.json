@@ -1,0 +1,89 @@
+{
+    "article": "Khi tôi sắp học hết lớp 1 thì mẹ bị ốm một trận rất nặng phải vào bệnh viện. Tôi cứ lèo nhèo đòi vào chơi với mẹ nhưng bố kiên quyết không cho. Tôi nhớ mẹ kinh khủng. Đã thế, tôi mặc kệ hết, bố không cho tôi vào thăm thì tôi tự đi! Trưa, ăn cơm xong, tôi đội chiếc mũ vải, hăm hở bước ra khỏi nhà. Nhưng đường thì xa mà trời lại nắng ong ong nên nỗi háo hức ban đầu của tôi bẹp đi. Đi được một nửa đường thì hai “que tăm” của con bé lớp 1 như tôi mỏi ra ra. Tôi ngồi phịch xuống nhưng rồi lại bật đạy ngay. Kiểu gì hôm nay tôi cũng phải gặp mẹ bằng được. Đi được một đoạn thì… phựt! Cái dép đáng ghét của tôi bị đứt quai. Đá sỏi được thể cứ nhè bàn chân của tôi mà chọc, đau buốt. Vậy mà tôi vẫn đến được cái chợ gần bệnh viện. Tối biết mẹ thích ăn bánh khoai nên tôi đã mua năm cái bánh khoai nóng mang vào.\n\nĐến gần cổng bệnh viện, tôi ngẩn ra: Bệnh viện rộng thế thì biết mẹ ở phòng nào? Vậy là tôi ôm gói bánh chạy lung tung tới từng phòng tìm mẹ, mặc cho mỡ thấm vào cái áo trắng mới tinh. Đến phòng thứ mười mấy thì tôi hoảng sợ thực sự, đứng khóc ầm ĩ ở ngoài hành lang. Một bác sĩ mặc áo trắng đi qua dừng lại hỏi chuyện. Nghe tôi vừa nấc vừa nói tên và tả mẹ, bác ấy cười: “Đi theo bác, bác biết chỗ mẹ cháu đấy!”. Tôi chạy theo bác ấy đến khu nhà ở góc bệnh viện. Mẹ đang ngồi đọc sách, thấy tôi vào thì bật dậy….\n\nHôm ấy, tôi bị ăn một cái cốc vào trán và … bốn cái bánh khoai. Mẹ ăn rất nhiệt tình dưới con mắt theo dõi chăm chú của tôi và cũng rất nhiệt tình nhờ tôi … ăn hộ chỗ còn lại. Tôi cũng nhớ là chưa bao giờ được mẹ ôm và thơm vào má nhiều như thế.\n\nTôi vui quá nên cũng chẳng sợ lắm khi bị bố chỉnh cho một trận vì sự liều lĩnh của mình. Mãi về sau, bố mẹ vẫn chưa hết ngạc nhiên tại sao một đứa trẻ sáu tuổi lại có thể tự đi một mình quãng đường dài không dưới 5 cây số như thế.\n\nTôi bây giờ vẫn là một đứa rất thích xê dịch. Hễ có cơ hội là sẵn sàng khoác ngay cái ba lô to vật vã lên lưng, đi. Nhưng chưa có chuyến đi nào nhớ lâu như lần đi thăn mẹ ốm hôm ấy. Đó là chuyến “du lịch bụi” đầu tiên của con bé sáu tuổi như tôi. Chuyến đi dài 5 cây số và rất nhiều yêu thương.",
+    "questions": [
+        "Mẹ bạn nhỏ bị ốm nằm trong bệnh viện khi bạn đang học lớp mấy?",
+        "Bạn nhỏ quyết định làm gì?",
+        "Những khó khăn nào bạn nhỏ đã gặp phải trên đường đến bệnh viện thăm mẹ?",
+        "Theo em vì sao hôm đó bạn nhỏ lại được mẹ ôm và thơm vào má nhiều như thế?",
+        "Trong câu “Tôi vui quá nên cũng chẳng sợ lắm khi bị bố chỉnh cho một trận vì sự liều lĩnh của mình.”, sự liều lĩnh chỉ việc gì?",
+        "Dòng nào nêu nhận xét đúng nhất về bạn nhỏ trong câu chuyện?",
+        "Nhân vật tôi bây giờ vẫn là một đứa trẻ thích điều gì?",
+        "Chuyến đi của cô bé dài bao nhiêu?",
+        "Khi đến phòng thứ mười mấy thì cô bé như thế nào?",
+        "Chuyến đi thăm mẹ ốm được ví như?"
+    ],
+    "options": [
+        [
+            "Lớp 1.",
+            "Lớp 2.",
+            "Lớp 3.",
+            "Lớp 4."
+        ],
+        [
+            "Tự tìm đến bệnh viện thăm mẹ.",
+            "Thuyết phục bố đưa đi thăm mẹ.",
+            "Ở nhà chờ mẹ từ bệnh viện về.",
+            "Cùng ông bà đi đến thăm mẹ."
+        ],
+        [
+            "Đường xa, trời nóng.",
+            "Chân mỏi rã rời, dép đứt.",
+            "Đá sỏi chọc vào chân đau buốt.",
+            "Đường xa, trời nóng, chân mỏi, dép đứt và bị đá sỏi chọc vào chân đau buốt."
+        ],
+        [
+            "Vì mẹ bạn nhỏ lo lắng cho bạn.",
+            "Vì mẹ bạn yêu bạn và rất cảm động trước tình cảm của bạn.",
+            "Vì trông bạn hôm đó rất xinh, đáng yêu.",
+            "Vì cảm thấy bạn thật đáng thương và tội nghiệp."
+        ],
+        [
+            "Chỉ việc một đứa trẻ sáu tuổi tự đi một mình quãng đường dài 5 cây số đến bệnh viện thăm mẹ.",
+            "Chỉ việc một đứa trẻ biết mua bánh khoai ở chợ vào bệnh viện làm quà cho mẹ.",
+            "Chỉ việc một đứa trẻ dám gặp bác sĩ để tìm mẹ.",
+            "Chỉ có một đứa trẻ tìm mẹ."
+        ],
+        [
+            "Bạn là người thật hiếu động.",
+            "Bạn là người mạnh mẽ dũng cảm.",
+            "Bạn là người mạnh mẽ dũng cảm.",
+            "Bạn là người giàu lòng thương người."
+        ],
+        [
+            "Xê dịch.",
+            "Học.",
+            "Chơi.",
+            "Đi tìm chân lý."
+        ],
+        [
+            "Năm km.",
+            "10 km.",
+            "Hai km.",
+            "1 km."
+        ],
+        [
+            "Cô bé chạy theo bác ấy đến khu nhà ở góc bệnh viện.",
+            "Hoảng sợ thực sự, đứng khóc ầm ĩ ở ngoài hành lang.",
+            "Cô bé cứ lèo nhèo đòi vào chơi với mẹ nhưng bố kiến quyết không cho vào.",
+            "Cô bé bây giờ vẫn là một đứa rất thích xê dịch."
+        ],
+        [
+            "Đi học hành chăm chỉ.",
+            "Đi du lịch bụi.",
+            "Đi khám phá thiên nhiên.",
+            "Đi tìm chân lý."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "B",
+        "A",
+        "C",
+        "A",
+        "A",
+        "C",
+        "B"
+    ]
+}

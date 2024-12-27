@@ -1,0 +1,57 @@
+{
+    "article": "1. Ngày xưa có một người săn bắn rất tài. Nếu con thú rừng nào không may gặp bác ta thì hôm ấy coi như tận số.\n\n2. Một hôm, người đi săn xách nỏ vào rừng. Bác thấy một con vượn lông xám đang ngồi ôm con trên tảng đá. Bác nhẹ nhàng rút mũi tên bắn trúng vượn mẹ.\n\nVượn mẹ giật mình, hết nhìn mũi tên lại nhìn về phía người đi săn bằng đôi mắt căm giận, tay không rời con. Máu ở vết thương rỉ ra loang khắp ngực.\n\nNgười đi săn đứng im chờ kết quả...\n\n3. Bỗng vượn mẹ nhẹ nhàng đặt con xuống, vơ vội nắm bùi nhùi gối lên đầu con, rồi nó hái cái lá to, vắt sữa vào vào đặt lên miệng con. \n\nSau đó, vượn mẹ nghiến răng, giật phắt mũi tên ra, hét lên một tiếng thật to rồi ngã xuống.\n\n4. Người đi săn đứng lặng. Hai giọt nước mắt từ từ lăn trên má. Bác cắn môi, bẻ gãy nỏ và lẳng lặng quay gót ra về.\n\nTừ đấy, bác không bao giờ đi săn nữa.",
+    "questions": [
+        "Tài săn bắn của bác thợ săn được miêu tả qua chi tiết nào?",
+        "Một ngày nọ, bác thợ săn vào rừng đã săn được con gì?",
+        "Khi gặp con vượn, tài năng của bác thợ săn được thể hiện qua chi tiết nào?",
+        "Vượn mẹ đã nhìn bác thợ săn với ánh mắt như thế nào khi nó bị thương?",
+        "Ánh mắt căm giận của vượn mẹ đã nói lên điều gì?",
+        "Từ nào có thể miêu tả về vượn mẹ?"
+    ],
+    "options": [
+        [
+            "Bác cắn môi, bẻ gãy nỏ và lẳng lặng quay gót ra về.",
+            "Nếu con thú rừng nào không may gặp bác ta thì hôm ấy coi như tận số.",
+            "Bác thấy một con vượn lông xám đang ngồi ôm con trên tảng đá.",
+            "Một hôm, người đi săn xách nỏ vào rừng."
+        ],
+        [
+            "Con báo.",
+            "Con vượn.",
+            "Con chồn.",
+            "Con công."
+        ],
+        [
+            "Người đi săn đứng lặng. Hai giọt nước mắt từ từ lăn trên má.",
+            "Bác thấy một con vượn lông xám đang ngồi ôm con trên tảng đá.",
+            "Bác cắn môi, bẻ gãy nỏ và lẳng lặng quay gót ra về.",
+            "Bác nhẹ nhàng rút mũi tên bắn trúng vượn mẹ."
+        ],
+        [
+            "Cảm ơn.",
+            "Sợ hãi.",
+            "Căm giận.",
+            "Cầu cứu."
+        ],
+        [
+            "Sợ hãi tài bắn cung của bác thợ săn.",
+            "Khinh bỉ sự độc ác, tàn bạo của bác thợ săn.",
+            "Oán trách sự tàn bạo của bác thợ săn.",
+            "Rất thích thú khi bị như vậy."
+        ],
+        [
+            "Độc ác.",
+            "Tình mẫu tử.",
+            "Dữ dằn .",
+            "Lạnh lùng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "C",
+        "C",
+        "B"
+    ]
+}

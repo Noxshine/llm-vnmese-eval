@@ -1,0 +1,81 @@
+{
+    "article": "Cai: - Hừm! Thằng nhỏ, lại đây. Ông đó phải tía mầy không? Nói dối tao bắn.\nAn: - Dạ, hổng phải tía...\nCai: - (hí hửng) Ờ giỏi! Vậy là ai nào?\nAn: - Dạ, cháu ... kêu bằng ba, chứ hổng phải tía.\nCai: - Thằng ranh! (ngó chú cán bộ) Giấy tờ đâu, đưa coi!\nCán bộ: - (Giọng miễn cưỡng) Để tôi đi lấy (chú toan đi, cai cản lại)\nCai: - Để chị này đi lấy. (Quay sang lính). Mở trói tạm cho chị. (Dì Năm vào buồng)\nDì Năm: - (Nói vọng ra) Ba nó để chỗ nào?\nCán bộ: - Thì coi đâu đó.\nCai: -Trời ơi, con ruồi bay qua là tao biết ngay con đực hay cái mà. Qua mặt tao không nổi đâu!\nCán bộ : - Có không, má thằng An?\nDì Năm: - Chưa thấy.\nCai: - Thôi trói lại dẫn đi\nDì Năm: - Đây rồi nè. Mấy cậu coi. Làng này ai hổng biết Lâm Văn Nên, 31 tuổi, con ông Dừa (đưa giấy cho cai, cai chuyển cho lính)\nCai: - Nè đọc coi! - Lính (đọc): Anh tên ...\nCán bộ: - Lâm Văn Nên, 31 tuổi, con ông ...\nCai (vẻ ngượng ngập): Thôi... thôi được rồi. (ngó dì Năm) Nhà có gà vịt gì không chị Hai? Cho một con nhậu chơi hà!",
+    "questions": [
+        "Sau khi tra hỏi dì Năm, bọn cai, lính tra hỏi đến ai?",
+        "Bé An đã nói gì khiến bọn lính và cai mừng hụt?",
+        "Chú bé An đã gọi cán bộ là gì khiến bọn cai bực tức?",
+        "Sau khi tra hỏi bé An không được, bọn cai đòi xem thứ gì?",
+        "Bọn lính tỏ ra khôn ngoan, cảnh giác như thế nào?",
+        "Tại sao bọn cai lại để dì Năm đi tìm giấy tờ của \"chồng\"?",
+        "Những chi tiết nào cho thấy dì Năm ứng xử rất thông minh?",
+        "Vì sao vở kịch lại có tên là \"Lòng dân\"?",
+        "Vì sao tên lính và cai đều thấy ngượng ngập khi anh cán bộ đọc tên tuổi rõ ràng?"
+    ],
+    "options": [
+        [
+            "Cán bộ.",
+            "Hàng xóm.",
+            "Dì Năm.",
+            "Bé An."
+        ],
+        [
+            "Đây chính là chú cán bộ.",
+            "Đây không phải là tía tôi.",
+            "Cháu nhìn thấy chú cán bộ chạy đằng kia.",
+            "Cháu biết chú cán bộ ở đâu."
+        ],
+        [
+            "Là cha chứ hổng phải tía.",
+            "Là anh họ chứ hổng phải tía.",
+            "Là anh trai chứ hổng phải tía.",
+            "Là ba chứ hổng phải tía."
+        ],
+        [
+            "Giấy chứng nhận.",
+            "Giấy tờ tùy thân.",
+            "Giấy phép lái xe.",
+            "Giấy kết hôn."
+        ],
+        [
+            "Để cán bộ tự đi lấy giấy tờ.",
+            "Để dì Năm đi lấy giấy tờ.",
+            "Để hàng xóm sang chứng thực.",
+            "Để thằng bé An đi lấy giấy tờ."
+        ],
+        [
+            "Vì còn giữ chú cán bộ lại trói.",
+            "Vì nghĩ dì Năm cất giữ.",
+            "Sợ chú cán bộ sẽ chạy trốn.",
+            "Vì sợ chú cán bộ sẽ tự bịa ra giấy tờ."
+        ],
+        [
+            "Dì đã đọc tên thật của chồng mình và bố chồng mình.",
+            "Diễn xuất tự nhiên như đang tìm giấy tờ của người chồng giả.",
+            "Dì đã vờ hỏi chồng giả của mình giấy tờ để chỗ nào, diễn xuất rất tự nhiên.",
+            "Dì đã vờ hỏi và đọc tên người chồng thật khiến địch không nhận ra."
+        ],
+        [
+            "Vì nói lên sự bao bọc của Cách mạng với nhân dân.",
+            "Vì thể hiện sự tin tưởng của nhân dân với Cách mạng.",
+            "Vì thể hiện nhân dân luôn được Cách mạng giúp đỡ.",
+            "Vì thể hiện tấm lòng của nhân dân vì Cách mạng."
+        ],
+        [
+            "Vì chúng không biết đọc chữ nên xấu hổ.",
+            "Vì chúng muốn nhậu ở nhà dì Năm.",
+            "Vì chúng thấy đã lỡ trói anh chồng - người cán bộ.",
+            "Vì chúng nghĩ mình đã bắt trói người vô tội."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "D",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D",
+        "D"
+    ]
+}

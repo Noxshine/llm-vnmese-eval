@@ -1,0 +1,49 @@
+{
+    "article": "Người mẹ đang bận rộn nấu bữa tối trong bếp, bất ngờ câu con trai bé bỏng chạy ùa vào và đưa cho mẹ một mẩu giấy nhỏ. Sau khi lau tay vào chiếc tạp dề, người mẹ mở tờ giấy ra và đọc:\n\nCắt cỏ trong vườn - 5 đô la\nDọn dẹp phòng của con - 1 đô la\nĐi chợ cùng với mẹ - 50 xu\nTrông em giúp mẹ - 25 xu\nĐổ rác - 1 đô la\nKết quả học tập tốt - 5 đô la\nQuét dọn sân - 2 đô la\nMẹ nợ con tổng cộng - 14,75 đôla\n\nSau khi đọc xong, người mẹ nhìn cậu con trai dang đứng chờ với vẻ mặt đầy hi vọng. Bà cầm bút lên, lật mặt sau của tờ giấy và viết:\n\nChín tháng mười ngày con nằm trong bụng mẹ: Miễn phí.\nNhững lúc mẹ ở bên cạnh chăm sóc, cầu nguyện mỗi khi con ốm đau: Miễn phí.\nNhững giọt nước mắt của con làm mẹ khóc trong những năm qua: Miễn phí.\nNhững đêm mẹ không ngủ vì lo lắng cho tương lai của con: Miễn phí.\nTất cả những đồ chơi, thức ăn, quần áo mà mẹ đã nuôi con trong suốt mấy năm qua: Miễn phí.\nVà đắt hơn cả chính là tình yêu của mẹ dành cho con: Cũng miễn phí luôn con ạ.\nKhi đọc những dòng chữ của mẹ, cậu bé vô cùng xúc động, nước mắt lưng tròng. Cậu nhìn mẹ và nói: “Con yêu mẹ nhiều lắm!”. Sau đó, cậu đặt bút viết thêm vào tờ giấy dòng chữ: “MẸ SẼ ĐƯỢC NHẬN LẠI TRỌN VẸN.”",
+    "questions": [
+        "Những điều vô giá có nghĩa là gì?",
+        "Dòng nào nêu đúng và đầy đủ những việc tốt cậu bé trong câu chuyện đã làm được và ghi lại để tính công?",
+        "Những gì mà người mẹ làm cho con được kể ra trong bài?",
+        "Và đắt hơn cả chính là tình yêu của mẹ dành cho con nghĩa là gì?",
+        "Em hiểu cậu bé muốn nói điều gì khi viết “Mẹ sẽ được nhận lại trọn vẹn”?"
+    ],
+    "options": [
+        [
+            "Những điều không có giá trị.",
+            "Những điều rất quý, có giá trị, có ý nghĩa to lớn, không gì sánh được.",
+            "Nhứng điều chưa xác định được giá trị.",
+            "Những điều có giá trị nhưng nhỏ."
+        ],
+        [
+            "Cắt cỏ trong vườn, dọn dẹp phòng của mình, đi chợ cùng mẹ, trông em, đổ rác, kết quả học tập tốt, quét dọn sân.",
+            "Nấu cơm chiều, quét dọn sân, đi chợ cùng mẹ, quét nhà lau nhà, đổ rác, rửa bát, học tập tốt.",
+            "Kết quả học tập tốt, dọn dẹp phòng của mình, đi chợ cùng mẹ, trồng cây trong vườn.",
+            "Cắt cỏ trong vườn, kết quả học tập tốt, dọn dẹp phòng của mình, đi chợ cùng mẹ, trồng cây trong vườn."
+        ],
+        [
+            "Chín tháng mười ngày nằm trong bụng mẹ, chăm sóc cầu nguyện mỗi khi con ốm đau.",
+            "Những giọt nước mắt khi con cái làm mẹ buồn phiền, những đêm lo lắng không ngủ.",
+            "Đưa con đi chơi, dạy con học.",
+            "Dạy con từng ngày khôn lớn."
+        ],
+        [
+            "Tình yêu của người mẹ dành cho con phải mua bằng rất nhiều tiền.",
+            "Tình yêu của người mẹ dành cho con là vô giá, không gì sánh được.",
+            "Tình yêu của người mẹ dành cho con được bán đắt hơn tất cả mọi thứ.",
+            "Tình yêu của người mẹ dành cho con như dòng suối."
+        ],
+        [
+            "Mẹ sẽ nhận được từ con tất cả lòng biết ơn và tình yêu xứng đáng với công ơn và tình yêu thương mà mẹ đã dành cho con.",
+            "Con sẽ tính toán để trả lại tiền cho mẹ đầy đủ.",
+            "Nhận được mọi thứ từ người con.",
+            "Con sẽ trả cho mẹ dần dần."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "B",
+        "A"
+    ]
+}

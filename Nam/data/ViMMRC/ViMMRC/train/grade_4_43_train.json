@@ -1,0 +1,89 @@
+{
+    "article": "An-đrây-ca lên 9, sống với mẹ và ông. Ông em 96 tuổi rồi nên rất yếu. \n\nMột buổi chiều, ông nói với mẹ An-đrây-ca: \"Bố khó thở lắm!...\" Mẹ liền bảo An-đrây-ca đi mua thuốc. Cậu bé nhanh nhẹn đi ngay, nhưng dọc đường lại gặp mấy đứa bạn đang chơi đá bóng rủ nhập cuộc. Chơi một lúc mới nhớ lời mẹ dặn, em vội chạy một mạch đến cửa hàng mua thuốc rồi mang về nhà.\n\nBước vào phòng ông nằm, em hoảng hốt thấy mẹ đang khóc nấc lên. Thì ra ông đã qua đời. \"Chỉ vì mình mải chơi bóng, mua thuốc về chậm mà ông chết.\" - An-đrây-ca òa khóc và kể hết mọi chuyện cho mẹ nghe. Mẹ an ủi em:\n\n- Không, con không có lỗi. Chẳng thuốc nào cứu nổi ông đâu. Ông đã mất từ lúc con vừa ra khỏi nhà.\n\nNhưng An-đrây-ca không nghĩ như vậy. Cả đêm đó, em ngồi nức nở dưới gốc cây táo do tay ông vun trồng. Mãi sau này, khi đã lớn, em vẫn luôn tự dằn vặt: \"Giá mình mua thuốc về kịp thì ông còn sống thêm được ít năm nữa!\"",
+    "questions": [
+        "An-đrây-ca sống chung với ai?",
+        "Ông của An-đrây-ca có sức khỏe như thế nào?",
+        "Mẹ đã bảo An-đrây-ca làm gì?",
+        "An-đrây-ca đã làm gì trên đường khi đi mua thuốc cho ông?",
+        "Chuyện gì đã xảy ra khi An-đrây-ca đem thuốc về nhà?",
+        "An-đrây-ca đã tự dằn vặt mình như thế nào?",
+        "Mẹ đã nói gì với An-đrây-ca khi thấy con mình cảm thấy có lỗi?",
+        "Qua câu chuyện này, An-đrây-ca là cậu bé như thế nào?",
+        "Từ \"dằn vặt\" trong bài có ý nghĩa gì?",
+        "An-đrây-ca đã dằn vặt về điều gì?"
+    ],
+    "options": [
+        [
+            "Mẹ và bà.",
+            "Bố và mẹ.",
+            "Mẹ và ông.",
+            "Ông ngoại."
+        ],
+        [
+            "Rất yếu.",
+            "Khỏe mạnh.",
+            "Bình thường.",
+            "Vừa khỏi ốm."
+        ],
+        [
+            "Mẹ nhờ An-đrây-ca đi gọi bác sĩ.",
+            "Mẹ nhờ An-đrây-ca đi chợ mua đồ cho ông.",
+            "Mẹ nhờ An-đrây-ca đi mua thuốc cho ông.",
+            "Mẹ nhờ An-đrây-ca chăm nom cho ông."
+        ],
+        [
+            "Mải chơi với đám trẻ trong khu phố nên quên luôn lời mẹ dặn.",
+            "Chạy một mạch đi mua thuốc cho ông rồi mang về kịp lúc.",
+            "Mải đá bóng quên lời mẹ dặn, lát sau nhớ ra, chạy đi mua thuốc cho ông.",
+            "Mải đá bóng quên mua thuốc cho ông, đến khi nhớ ra thì trời đã tối."
+        ],
+        [
+            "Mẹ đang khóc nấc lên, ông đã qua đời.",
+            "Mẹ và ông đang chờ em mua thuốc mang về.",
+            "Ông đã khỏi bệnh và không cần thuốc nữa.",
+            "Mẹ em đã mời bác sĩ đến khám cho ông."
+        ],
+        [
+            "An-đrây-ca ngồi mãi dưới gốc cây táo mà nức nở.",
+            "Sau này khi lớn lên, An-đrây-ca vẫn tự dằn vặt: \"Giá mang thuốc về kịp lúc...\".",
+            "Vì mải chơi, mua thuốc về chậm mà ông chết.",
+            "Vì mải chơi, mang thuốc về chậm mà ông chết. Kể cả khi lớn lên, An-đrây-ca vẫn tự dằn vặt bản thân."
+        ],
+        [
+            "Con không có lỗi, ông đã mất từ lúc con vừa ra khỏi nhà.",
+            "Con đừng buồn, ông cũng đã già rồi mà.",
+            "Con thật có lỗi, giá con không mải chơi, mang thuốc về kịp thì...",
+            "Giá như mẹ để con chăm sóc ông và tự đi mua thuốc thì..."
+        ],
+        [
+            "An-đrây-ca là cậu bé hiếu thảo, giàu tình yêu thương và quan tâm đến người thân.",
+            "An-đrây-ca là cậu bé rất yêu thương và quý mến ông.",
+            "An-đrây-ca là người giàu tình cảm, trung thực, nghiêm khắc với lỗi lầm của bản thân.",
+            "An-đrây-ca là cậu bé ham chơi, lười miếng, mải mê quên cả lời mẹ dặn."
+        ],
+        [
+            "Buồn khổ dai dẳng, luôn tự trách mình.",
+            "Luôn cảm thấy nhớ nhung, hồi tưởng.",
+            "Đau đớn, ân hận, sợ hãi điều gì đó.",
+            "Khóc lóc, sợ sệt, hãi hùng trước điều gì đó."
+        ],
+        [
+            "Cảm thấy có lỗi khi quên lời mẹ dặn.",
+            "Cảm thấy ông mất là lỗi của mình.",
+            "Cảm thấy có lỗi khi mải chơi với đám trẻ.",
+            "Cảm thấy có lỗi khi không mua được thuốc."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "C",
+        "A",
+        "D",
+        "A",
+        "C",
+        "A",
+        "B"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "article": "Trăng ơi... từ đâu đến?\nHay từ cánh rừng xa\nTrăng hồng như quả chín\nLửng lơ lên trước nhà\n\nTrăng ơi... từ đâu đến?\nHay biển xanh diệu kì\nTrăng tròn như mắt cá\nChẳng bao giờ chớp mi.\n\nTrăng ơi... từ đâu đến?\nHay từ một sân chơi\nTrăng bay như quả bóng\nBạn nào đá lên trời.\n\nTrăng ơi... từ đâu đến?\nHay từ lời mẹ ru\nThương Cuội không được học\nHú gọi trâu đến giờ!\n\nTrăng ơi... từ đâu đến?\nHay từ đường hành quân\nTrăng soi chú bộ đội\nVà soi vàng góc sân.\n\nTrăng từ đâu... từ đâu?\nTrăng đi khắp mọi miền\nTrăng ơi, có nơi nào\nSáng hơn đất nước em...",
+    "questions": [
+        "Bài thơ được chia làm mấy khổ thơ?",
+        "Hình ảnh trăng hồng được ví với thứ gì?",
+        "Câu thơ nào được lặp đi lặp lại trong bài?",
+        "Sự vật nào được nhắc đi nhắc lại trong mỗi khổ thơ?",
+        "Trong khổ đầu của bài thơ, trăng được so sánh với những gì?",
+        "Trong khổ thơ thứ hai, trăng được so sánh với hình ảnh nào?",
+        "Tình cảm của tác giả đối với ánh trăng và quê hương như thế nào?",
+        "Trong bài thơ, trăng được ví với những hình ảnh nào?"
+    ],
+    "options": [
+        [
+            "7 khổ.",
+            "1 khổ.",
+            "5 khổ.",
+            "6 khổ."
+        ],
+        [
+            "Xanh như cánh rừng.",
+            "Trái thanh long.",
+            "Quả sống.",
+            "Quả chín."
+        ],
+        [
+            "Trăng ơi, có nơi nào.",
+            "Trăng ơi... từ đâu đến?",
+            "Hay từ một sân chơi.",
+            "Trăng bay như quả bóng."
+        ],
+        [
+            "Đất nước.",
+            "Chú cuội.",
+            "Em.",
+            "Mặt trăng."
+        ],
+        [
+            "Cánh rừng.",
+            "Trái hồng.",
+            "Ngôi nhà.",
+            "Quả chín."
+        ],
+        [
+            "Quả bóng.",
+            "Mắt cá.",
+            "Hàng mi.",
+            "Biển xanh."
+        ],
+        [
+            "Thương nhớ, nuối tiếc.",
+            "Yêu mến, tự hào.",
+            "Xa lạ, không cảm xúc.",
+            "Sợ sệt, ám ảnh."
+        ],
+        [
+            "Quả chín, mắt cá và quả bóng.",
+            "Quả cam, mắt voi và quả bóng.",
+            "Quả chín, chú bộ đội và quả bóng.",
+            "Quả chính, mắt cá và mắt chú bộ đội."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "B",
+        "D",
+        "D",
+        "B",
+        "B",
+        "A"
+    ]
+}

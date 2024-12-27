@@ -1,0 +1,81 @@
+{
+    "article": "Bin rất ham vẽ. Trên nền nhà, ngoài sân gạch, chỗ nào cũng có những bức vẽ của em, bức thì vẽ bằng phấn, bức lại vẽ bằng than. Thấy thế, mẹ mua cho em một quyển vở vẽ, một hộp bút chì màu và bảo:\n\n- Con vẽ con ngựa của nhà mình cho mẹ xem!\n\nBin đem vở và bút ra tận chuồng ngựa tập vẽ. Hí hoáy một lúc lâu, vẽ rồi xóa, xóa rồi lại vẽ. Cuối cùng, Bin cũng vẽ xong. Em đem bức vẽ vào khoe với mẹ.\n\nMẹ ngạc nhiên:\n\n- Con vẽ con gì đây?\n\nBin giải thích:\n\n- Con ngựa đấy, mẹ ạ!\n\nMẹ bảo:\n\n- Sao mẹ chẳng thấy giống con ngựa nhỉ?\n\nBin ngắm bức vẽ một hồi, rồi nói:\n\n- Đúng, không phải con ngựa. Thôi, để con vẽ thêm hai cái sừng cho nó thành con bò vậy.",
+    "questions": [
+        "Bin là một cậu bé có sở thích gì?",
+        "Biểu hiện nào cho thấy Bin rất ham vẽ?",
+        "Mẹ đã làm gì khi thấy Bin thích vẽ?",
+        "Thấy Bin có đam mê về vẽ, mẹ đã mua vở, màu vẽ và nói gì với em?",
+        "Bạn Bin đã vẽ con ngựa như thế nào?",
+        "Vì sao mẹ lại hỏi Bin: \"Con vẽ con gì đây?\"?",
+        "Bin đã nói gì để giải thích cho bức vẽ của mình về con ngựa như thế nào?",
+        "Bạn Bin định chữa bức vẽ lỗi của mình như thế nào?",
+        "Lời khuyên nào nên khuyên Bin cho vơi đi nỗi buồn?"
+    ],
+    "options": [
+        [
+            "Rất thích đọc sách.",
+            "Rất thích siêu nhân.",
+            "Rất ham đá bóng.",
+            "Rất ham vẽ."
+        ],
+        [
+            "Em vẽ trên nền nhà, sân gạch, vẽ bằng phấn và than.",
+            "Em vẽ chân dung mọi người, phong cảnh quê hương,...",
+            "Em vẽ đầy các tập vở vẽ mà em có.",
+            "Em vẽ rất đẹp các bài trong  vở vẽ ở lớp."
+        ],
+        [
+            "Sơn trắng bức tường cho em vẽ.",
+            "Cho em đi học thêm môn vẽ.",
+            "Cấm em vẽ linh tinh lên tường.",
+            "Mua cho em màu và vở vẽ."
+        ],
+        [
+            "Con vẽ các thành viên gia đình mình cho mẹ xem!.",
+            "Con hãy dùng vở này mà vẽ, đừng vẽ lên tường!.",
+            "Con vẽ thứ con hay vẽ đẹp nhất cho mẹ xem!.",
+            "Con vẽ con ngựa nhà mình cho mẹ xem!."
+        ],
+        [
+            "Đem vở ra tận chuồng ngựa tập vẽ, hí hoáy, vẽ rồi xóa, xóa rồi vẽ.",
+            "Đặt vở lên bàn, vẽ và tô một mạch, hoàn thành bức vẽ con ngựa.",
+            "Đem vở vẽ ra ngồi trước cửa sổ, bắt đầu tưởng tượng và phác thảo.",
+            "Em hí hoáy không vẽ được vì quen vẽ trên tường và sân gạch hơn."
+        ],
+        [
+            "Vì mẹ chưa bao giờ nhìn thấy con ngựa.",
+            "Vì Bin vẽ ngựa mà chẳng giống con ngựa.",
+            "Vì Bin chưa bao giờ nhìn thấy con ngựa.",
+            "Vì Bin đổi ý vẽ con bò."
+        ],
+        [
+            "Con ngựa đấy, mẹ ạ!.",
+            "Con vẽ bò đấy, mẹ ạ!.",
+            "Con không vẽ con ngựa.",
+            "Con không biết vẽ ngựa."
+        ],
+        [
+            "Vẽ thêm hai cái sừng cho thành con bò.",
+            "Viết chú thích vào bên cạnh bức vẽ.",
+            "Vẽ lại con ngựa vào trang giấy khác.",
+            "Vẽ thêm hai cái sừng cho thành con trâu."
+        ],
+        [
+            "Đừng vẽ nữa, cậu vẽ không đẹp đâu.",
+            "Đừng vẽ nữa, thôi cậu hãy chuyển sang học cái khác đi.",
+            "Đừng có vẽ nữa, chỉ thêm tốn thời gian và công sức.",
+            "Đừng nản lòng, cứ chăm chỉ tập rồi cậu sẽ vẽ đẹp hơn!."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "D",
+        "D",
+        "A",
+        "B",
+        "A",
+        "A",
+        "D"
+    ]
+}

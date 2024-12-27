@@ -1,0 +1,97 @@
+{
+    "article": "Tự xa xưa thuở nào\n\nTrong rừng xanh sâu thẳm\n\nĐôi bạn sống bên nhau\n\nBê Vàng và Dê Trắng\n\nMột năm, trời hạn hán\n\nLấy gì nuôi đôi bạn\n\nChờ mưa đến bao giờ?\n\nBê Vàng đi tìm cỏ\n\nLang thang quên đường về\n\nDê Trắng thương bạn quá\n\nChạy khắp nẻo tìm Bê\n\nĐến bây giờ Dê Trắng\n\nVẫn gọi hoài : \"Bê! Bê!\"",
+    "questions": [
+        "Những con vật nào được nhắc đến trong bài?",
+        "Bê Vàng và Dê Trắng sống ở đâu?",
+        "Vì sao Bê Vàng quyết định đi tìm cỏ?",
+        "Chuyện gì đã xảy ra khi Bê Vàng đi tìm cỏ?",
+        "Khi Bê Vàng quên đường đi lối về, Dê Trắng đã làm gì?",
+        "Dê Trắng có tìm thấy Bê Vàng không?",
+        "Ngày nay, tại sao Dê Trắng vẫn kêu \"bê bê\"?",
+        "Nguyên nhân sâu xa dẫn đến sự chia lìa nhau của Bê Vàng và Bê Trắng?",
+        "Nghĩa của từ \"lang thang\" là gì?",
+        "Bê Vàng và Bê Trắng là gì của nhau?",
+        "Nội dung chính của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Bê Vàng và Dê Vàng.",
+            "Dê Trắng và Bê Trắng.",
+            "Bê Vàng và Dê Trắng.",
+            "Dê Vàng và Bê Trắng."
+        ],
+        [
+            "Ở núi đồi rộng lớn bao la.",
+            "Trong rừng sâu thẳm.",
+            "Ở trong trang trại của người.",
+            "Ở trên thảo nguyên bao la."
+        ],
+        [
+            "Vì đôi bạn cần tích luỹ nhiều cỏ cho mùa đông lạnh lẽo.",
+            "Vì đôi bạn thích hoa thơm cỏ lạ ở cánh đồng khác.",
+            "Vì cỏ trên cánh đồng đã cạn kiệt mà Dê Trắng thì đói.",
+            "Vì khí hậu khắc nghiệt, cây cỏ khô héo, không có gì để ăn."
+        ],
+        [
+            "Dê Trắng đi theo Bê Vàng.",
+            "Bê Vàng quên đường về.",
+            "Bê Vàng mải chơi quên mất bạn.",
+            "Bê Trắng quên đường về."
+        ],
+        [
+            "Dê Trắng thương nhớ bạn mà bị ốm.",
+            "Dê Trắng ở nhà cũng tìm thấy cỏ ăn.",
+            "Dê Trắng thương bạn, chạy đi tìm Bê.",
+            "Dê Trắng cũng ra đi và tìm thấy bạn."
+        ],
+        [
+            "Có gặp lại nhau và sống chung đến cuối đời.",
+            "Không gặp lại nhau.",
+            "Tìm thấy nhưng rồi lại lạc mất nhau thêm một lần nữa.",
+            "Tìm thấy nhưng đôi bạn quyết định không gặp nhau nữa."
+        ],
+        [
+            "Vì Dê Trắng thương nhớ bạn Bê Vàng.",
+            "Vì Dê Trắng đi tìm bạn Bê Vàng.",
+            "Vì Dê Trắng thương nhớ và vẫn chưa tìm thấy bạn nên gọi hoài tên bạn.",
+            "Vì Dê Trắng chỉ có một người bạn là Bê Vàng."
+        ],
+        [
+            "Do thời tiết khắc nghiệt, nên Bê Vàng đi tìm thức ăn ở vùng khác và kể từ đó lạc mất nhau.",
+            "Vì quá đói.",
+            "Vì Bê Vàng muốn đi kiếm bạn mới.",
+            "Tìm đến sự sống mới."
+        ],
+        [
+            "Đi hết chỗ này đến chỗ khác, không dừng lại ở nơi nào.",
+            "Trèo lên những bậc thang, liên tục, không dừng lại.",
+            "Đi đến địa điểm đã vạch sẵn theo kế hoạch.",
+            "Đi du lịch từ nơi này đến nơi khác theo một hành trình."
+        ],
+        [
+            "Là đôi bạn.",
+            "Là kẻ thù.",
+            "Là vợ chồng.",
+            "Là cha con."
+        ],
+        [
+            "Nói về Dê Trắng, đến giờ vẫn có tiếng kêu \"bê bê\".",
+            "Nói lên tình bạn thân thiết gắn bó giữa Bê Vàng và Dê Trắng.",
+            "Nói về đôi bạn chơi thân với nhau là Bê Vàng và Dê Trắng.",
+            "Nói về năm trời hạn, suối cạn, cỏ héo khiến đôi bạn bị lạc nhau."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "D",
+        "B",
+        "C",
+        "B",
+        "C",
+        "A",
+        "A",
+        "A",
+        "B"
+    ]
+}

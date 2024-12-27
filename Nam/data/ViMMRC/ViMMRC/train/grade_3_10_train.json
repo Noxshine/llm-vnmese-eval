@@ -1,0 +1,73 @@
+{
+    "article": "1. Bà khách ước ao được gặp bác sĩ Y-éc-xanh phần vì ngưỡng mộ người đã tìm ra vi trùng dịch hạch, phần vì tò mò. Bà muốn biết điều gì khiến ông ông chọn cuộc sống nơi góc biển chân trời này để nghiên cứu những bệnh nhiệt đới.\n\n2. Y-éc-xanh quả thật khác xa với các nhà bác học trong trí tưởng tượng của bà. Trong bộ quần áo ka ki sờn cũ không là ủi, trông ông như một khách đi tàu ngồi toa hạng ba. Chỉ có đôi mắt đầy bí ẩn của ông làm bà chú ý.\n\n3. Bà khách thổ lộ nỗi băn khoăn của mình:\n\n- Y-éc-xanh kính mến, ông quên nước Pháp rồi ư? Ông định ở đây suốt đời sao?\n\nY-éc-xanh lặng yên nhìn khách, hai bàn tay đan vào nhau, đặt trên đầu gối.\n\n- Tôi là người Pháp. Mãi mãi tôi là công dân Pháp. Người ta không thể nào sống mà không có Tổ quốc.\n\nNgừng một chút, ông tiếp:\n\n- Tuy nhiên, tôi với bà, chúng ta đang sống chung trong một ngôi nhà: trái đất. Trái đất đích thực là ngôi nhà của chúng ta. Những đứa con trong nhà phải thương yêu và có bổn phận giúp đỡ lẫn nhau. Tôi không thể rời khỏi Nha Trang này để sống ở nơi nào khác. Chỉ có ở đây, tâm hồn tôi mới được rộng mở, bình yên.\n\n4. Hai người cùng im lặng. Họ nghe rõ tiếng biển thở dài, đổ nhẹ những con sóng thủy tinh vỡ vụn lên bờ cát.",
+    "questions": [
+        "Y-éc-xanh làm nghề gì và là người nước nào?",
+        "Y-éc-xanh làm nghề gì và là người nước nào?",
+        "Bác sĩ Y-éc-xanh có gì khác so với trí tưởng tượng của bà khách?",
+        "Khác xa so với tưởng tượng nhưng điều gì ở bác sĩ Y-éc-xanh làm bà khách chú ý?",
+        "Câu nói nào của bà khách bộc lộ suy nghĩ rằng bác sĩ Y-éc-xanh quên nước Pháp?",
+        "Những câu nói nào thể hiện lòng yêu nước của Y-éc-xanh?",
+        "Tại sao Y-éc-xanh quyết định ở lại Nha Trang của Việt Nam?",
+        "Bác sĩ Y-éc-xanh là người như thế nào?"
+    ],
+    "options": [
+        [
+            "Bác sĩ người Việt nam.",
+            "Bác sĩ người Pháp.",
+            "Thầy giáo dạy tiếng Pháp.",
+            "Bác sỹ đến từ Mỹ."
+        ],
+        [
+            "Bác sĩ người Việt nam.",
+            "Bác sĩ người Pháp.",
+            "Thầy giáo dạy tiếng Pháp.",
+            "Bác sỹ đến từ Mỹ."
+        ],
+        [
+            "Y-éc-xanh trông như một doanh nhân thành đạt, rắn rỏi trên thương trường.",
+            "Y-éc-xanh trông như một ông lão ăn mày nghèo khổ, vô gia cư, không gia đình.",
+            "Y-éc-xanh trông như một nhà quý tộc ngồi toa hạng sang với bộ vest sang trọng.",
+            "Y-éc-xanh trông như một khách đi tàu ngồi toa hạng ba với bộ ka ki sờn cũ không là ủi."
+        ],
+        [
+            "Tính cách thân thiện.",
+            "Đôi mắt đầy bí ẩn.",
+            "Đôi bàn tay linh hoạt.",
+            "Vầng trán cao, sáng láng."
+        ],
+        [
+            "Tuy nhiên, tôi với bà, chúng ta đang sống chung trong một ngôi nhà: trái đất.",
+            "Y-éc-xanh kính mến, ông quên nước Pháp rồi ư? Ông định ở đây suốt đời sao?",
+            "Tôi là người Pháp. Mãi mãi tôi là công dân Pháp. Người ta không thể nào sống mà không có Tổ quốc.",
+            "Y-éc-xanh kính mến, khi nào thì ông định trở về nước Pháp muôn năm?"
+        ],
+        [
+            "Tôi không thể rời khỏi Nha Trang này để sống ở nơi nào khác. Chỉ có ở đây, tâm hồn tôi mới được rộng mở, bình yên.",
+            "Trái đất đích thực là ngôi nhà của chúng ta. Những đứa con trong nhà phải thương yêu và có bổn phận giúp đỡ lẫn nhau.",
+            "Tuy nhiên, tôi với bà, chúng ta đang sống chung trong một ngôi nhà: trái đất.",
+            "Tôi là người Pháp. Mãi mãi tôi là công dân Pháp. Người ta không thể nào sống mà không có Tổ quốc."
+        ],
+        [
+            "Vì nơi đây có phong cảnh đẹp, khiến tâm hồn ông rộng mở và bình yên.",
+            "Vì ông muốn nghiên cứu, chữa những bệnh nhiệt đới và nơi đây cũng khiến tâm hồn ông thấy rộng mở, bình yên.",
+            "Vì ông muốn ở lại nghiên cứu và chữa những bệnh nhiệt đới cho người dân.",
+            "Vì ở đây có cảng biển rất đẹp."
+        ],
+        [
+            "Y-éc-xanh là người ưa khám phá, mạo hiểm và sống rất giản dị.",
+            "Y-éc-xanh là người thích sống cuộc đời phiêu bạt, giản dị, bình yên.",
+            "Y-éc-xanh là một người yêu nước và là một nhà khoa học chân chính.",
+            "Y-éc-xanh là một bác sĩ tài giỏi và là một doanh nhân thành đạt."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "B",
+        "B",
+        "D",
+        "B",
+        "C"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Về mùa xuân, khi mưa phùn và sương sớm lẫn vào nhau không phân biệt được thì cây gạo ngoài cổng chùa, lối vào chợ quê, bắt đầu bật ra những chiếc hoa đỏ hồng. Hoa gạo làm sáng bừng lên một góc trời quê, tiếng đàn sáo về ríu ran như một cái chợ vừa mở, như một lớp học vừa tan, như một buổi dân ca liên hoan sắp bắt đầu... Nghe nó mà xốn xang mãi không chán. Chúng chuyện trò râm ran, có lẽ mỗi con đều có câu chuyện riêng của mình, giữ mãi trong lòng nay mới được thổ lộ cùng bạn bè nên ai cũng nói, ai cũng lắm lời, bất chấp bạn có lắng nghe hay không.",
+    "questions": [
+        "Loài chim nào xuất hiện trong bài đọc?",
+        "Những từ ngữ nào nói lên cây gạo làm thay đổi khung cảnh làng quê?",
+        "Khi cây gạo ra hoa, loài chim nào về tụ họp đông vui?",
+        "Tiếng đàn chim về trò chuyện với nhau được tác giả so sánh với những gì?",
+        "Đoạn văn diễn tả mùa nào trong năm?"
+    ],
+    "options": [
+        [
+            "Chim sáo.",
+            "Chim quyên.",
+            "Chim chích chèo.",
+            "Chi bồ câu."
+        ],
+        [
+            "Bật ra những chiếc hoa đỏ hồng.",
+            "Làm sáng bừng lên một góc trời quê.",
+            "Đỏ rực cả một góc trời.",
+            "Tô vẻ đẹp thêm cho quê hương."
+        ],
+        [
+            "Chim én.",
+            "Chim sáo.",
+            "Nhiều loài chim.",
+            "Chim ri."
+        ],
+        [
+            "Như một cái chợ vừa mở, như một lớp học vừa tan, như một buổi dân ca liên hoan sắp bắt đầu.",
+            "Như một cái chợ vừa mờ.",
+            "Như một lớp học vừa tan.",
+            "Như một buổi dân ca liên hoan sắp bắt đầu."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa thu.",
+            "Mùa hạ.",
+            "Mùa đông."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "B",
+        "A",
+        "A"
+    ]
+}

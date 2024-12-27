@@ -1,0 +1,49 @@
+{
+    "article": "Ba tôi trồng một cây xoài. Giống xoài quả to, ngọt và thơm lừng. Mùa xoài nào cũng vậy, ba đều đem biếu chú Tư nhà bên vài ba chục quả.\n\nBỗng một năm gió bão làm bật mấy chiếc rễ. Thế là cây xoài nghiêng hẳn một nửa sang vườn nhà chú Tư. Rồi đến mùa quả chín, tôi trèo lên cây để hái. Sơn (con chú Tư) cũng đem cây có móc ra vin cành xuống hái. Tất nhiên tôi ở trên cây nên hái được nhiều hơn. Hái xong, ba tôi vẫn đem biếu chú Tư vài chục quả. Lần này thì chú không nhận. Đợi lúc ba tôi đi vắng, chú Tư ra đốn phần cây xoài ngã sang vườn chú. Các cành thi nhau đổ xuống. Từng chiếc lá xoài rơi lả tả, nhựa cây ứa ra. Ba tôi về thấy vậy chỉ thở dài mà không nói gì.\n\nMùa xoài lại đến. Lần này, ba tôi cũng đem biếu chú Tư vài chục quả. Tôi liền phản đối. Ba chỉ nhỏ nhẹ khuyên tôi:\n\n- Chú Tư sống dở, mình phải sống hay như thế mới tốt, con ạ !\n\nTôi tức lắm nhưng đành phải vâng lời. Lần này chú chỉ nhận mấy quả thôi. Nhưng từ đó cây xoài cành lá lại xum xuê. Đến mùa, cây lại trĩu quả và Sơn cũng chẳng còn ra tranh hái với tôi nữa.",
+    "questions": [
+        "Vì sao cây xoài nhà bạn nhỏ lại nghiêng sang nhà hàng xóm ?",
+        "Tại sao chú hàng xóm lại không nhận xoài biếu như mọi năm?",
+        "Ba của bạn nhỏ đã có thái độ như thế nào khi thấy cây xoài bị đốn phần cành ngả sang nhà hàng xóm?",
+        "Bạn nhỏ đã rút ra điều gì qua câu chuyện này?",
+        "Con chú Tư tên gì?"
+    ],
+    "options": [
+        [
+            "Vì tán cây lan rộng.",
+            "Vì gió bão làm bật rễ.",
+            "Vì cây mọc trên đất của hai nhà.",
+            "Vì cây mọc quanh nhà."
+        ],
+        [
+            "Vì chú không thích ăn xoài.",
+            "Vì xoài năm nay không ngon.",
+            "Vì chú thấy con mình và con hàng xóm tranh nhau hái.",
+            "Vì không có nhiều xoài."
+        ],
+        [
+            "Thở dài không nói gì, vẫn tiếp tục sống tốt và biếu xoài.",
+            "Không có ý kiến gì.",
+            "Tức giận, không biếu xoài nữa.",
+            "Ôn hoà."
+        ],
+        [
+            "Không nên cãi nhau với hàng xóm.",
+            "Bài học về cách sống tốt ở đời.",
+            "Không nên chặt cây cối.",
+            "Bài học về siêng năng và cần cù."
+        ],
+        [
+            "Sơn.",
+            "Nam.",
+            "Thoại.",
+            "Minh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

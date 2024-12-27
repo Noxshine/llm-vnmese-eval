@@ -1,0 +1,73 @@
+{
+    "article": "Phượng không phải là một đóa, không phải vài cành; phượng đây là cả một loạt, cả một vùng, cả một góc trời đỏ rực. Mỗi hoa chỉ là một phần tử của xã hội thắm tươi; người ta quên đóa hoa, chỉ nghĩ đến cây, đến hàng, đến những tán hoa lớn xòe ra như muôn ngàn con bướm thắm đậu khít nhau.\n\nNhưng hoa càng đỏ, lá lại càng xanh. Vừa buồn mà lại vừa vui mới thực là nỗi niềm của bông phượng. Hoa phượng là hoa học trò. Mùa xuân, phượng ra lá. Lá xanh um, mát rượi, ngon lành như lá me non. Lá ban đầu xếp lại, còn e ấp, dần dần xòe ra cho gió đưa đẩy. Lòng cậu học trò phơi phới làm sao! Cậu chăm lo học hành, rồi lâu cũng vô tâm quên mất màu lá phượng. Một hôm, bỗng đâu trên những cành cây, báo một tim thắm: Mùa hoa phượng bắt đầu. Đến giờ chơi, cậu học trò ngạc nhiên trông lên: Hoa nở lúc nào mà bất ngờ vậy?\n\nBình minh của hoa phượng là màu đỏ còn non, nếu có mưa, lại càng tươi dịu. Ngày xuân dần hết, số hoa tăng lên, màu cũng đậm dần. Rồi hòa nhịp với mặt trời chói lọi, màu phượng mạnh mẽ kêu vang: Hè đến rồi! Khắp thành phố bỗng rực lên như đến Tết nhà nhà đều dán câu đối đỏ.",
+    "questions": [
+        "Bài đọc miêu tả về loài cây nào?",
+        "Phượng thuộc loại cây gì?",
+        "Vì sao tác giả lại gọi hoa phượng là \"hoa học trò\"?",
+        "Nội dung của bài đọc là gì?",
+        "Bài đọc miêu tả về loài cây nào?",
+        "Hoa phượng màu gì?",
+        "Hoa phượng đẹp nhất vào mùa nào trong năm?",
+        "Khi thấy hoa phượng nở, người ta sẽ nghĩ đến điều gì?"
+    ],
+    "options": [
+        [
+            "Cây bàng.",
+            "Cây phượng.",
+            "Cây cúc.",
+            "Cây đào."
+        ],
+        [
+            "Cây ăn quả.",
+            "Cây bóng mát.",
+            "Cây lấy gỗ.",
+            "Cây làm cảnh."
+        ],
+        [
+            "Vì hoa phượng là loài hoa trẻ, suốt bốn mùa đều nở hoa đỏ thắm.",
+            "Vì cây hoa phượng rất khiêm tốn và ham học hỏi như người học trò.",
+            "Vì cây hoa phượng thường được trồng ở sân trường nên được gọi là hoa học trò.",
+            "Vì hoa phượng gắn với những kỉ niệm tuổi học trò, với năm tháng cắp sách đến trường của học sinh."
+        ],
+        [
+            "Vẻ đẹp độc đáo, riêng biệt của loài hoa mang tên \"Hoa học trò\".",
+            "Miêu tả quá trình sinh trưởng của cây hoa phượng từ khi còn bé.",
+            "Nêu cách chăm sóc và bảo vệ một loại cây bóng mát: hoa phượng.",
+            "Những kỉ niệm học trò đều gắn với mái trường và hoa phượng vĩ."
+        ],
+        [
+            "Cây bàng.",
+            "Cây phượng.",
+            "Cây cúc.",
+            "Cây đào."
+        ],
+        [
+            "Đỏ.",
+            "Xanh.",
+            "Vàng.",
+            "Tím."
+        ],
+        [
+            "Xuân.",
+            "Hạ.",
+            "Thu.",
+            "Đông."
+        ],
+        [
+            "Một mùa nhập học lại đến.",
+            "Một mùa nghỉ học lại đến.",
+            "Sắp được nghỉ Tết.",
+            "Một mùa nhập học đến."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "A",
+        "B",
+        "A",
+        "B",
+        "B"
+    ]
+}

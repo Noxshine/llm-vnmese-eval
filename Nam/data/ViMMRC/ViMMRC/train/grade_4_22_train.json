@@ -1,0 +1,57 @@
+{
+    "article": "Trời sinh ra trước nhất\nChỉ toàn là trẻ con\nTrên trái đất trụi trần\nKhông dáng cây ngọn cỏ.\n\nMắt trẻ con sáng lắm\nNhưng chưa thấy gì đâu\nMặt trời mới nhô cao\nCho trẻ con nhìn rõ.\n\nNhưng còn cần cho trẻ\nTình yêu và lời ru\nCho nên mẹ sinh ra\nĐể bế bồng chăm sóc.\n\nMuốn cho trẻ hiểu biết\nThế là bố sinh ra\nBố bảo cho biết ngoan\nBố dạy cho biết nghĩ.\n\nRộng lắm là mặt bể\nDài lắm con đường đi\nNúi thì xanh và xa\nHình tròn là trái đất.\n\nChữ bắt đầu có trước\nRồi có ghế có bàn\nRồi có lớp có trường\nVà sinh ra thầy giáo.\n\nCái bảng bằng cái chiếu\nCục phấn từ đá ra\nThầy viết chữ thật to\n\"Chuyện loài người\" trước nhất.",
+    "questions": [
+        "Ai là người được sinh ra đầu tiên?",
+        "Trẻ con ra đời với đôi mắt sáng nhưng chưa nhìn thấy, bởi vậy mới sinh ra thứ gì?",
+        "Trẻ con sinh ra tạo sao cần có ngay người mẹ?",
+        "Bố sinh ra đã giúp trẻ em được những gì?",
+        "Thầy giáo đã dạy cho bé những điều gì?",
+        "Nội dung của bài đọc trên là gì?"
+    ],
+    "options": [
+        [
+            "Thầy giáo.",
+            "Trẻ con.",
+            "Cha.",
+            "Mẹ."
+        ],
+        [
+            "Mặt trăng.",
+            "Bóng đèn.",
+            "Vì sao.",
+            "Mặt trời."
+        ],
+        [
+            "Để trao tình yêu và lời ru cho bé.",
+            "Để dạy cho bé những kiến thức ở trường lớp, sách vở.",
+            "Để dạy bé ngoan và biết nghĩ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Khiến bé nhìn thấy rõ mặt trời.",
+            "Dạy cho trẻ những kiến thức ở trường lớp, sách vở.",
+            "Trao tình yêu, lời ru và chăm sóc bé ân cần.",
+            "Dạy cho trẻ hiểu biết: biết ngoan và biết nghĩ."
+        ],
+        [
+            "Dạy cho bé biết về con đường, trái đất và những ngọn núi.",
+            "Cho bé biết mẹ yêu thương và chăm sóc bé bằng tình yêu vô bờ.",
+            "Dạy cho bé biết ngoan và biết nghĩ, nghe lời bố mẹ.",
+            "Dạy cho bé biết học hành và biết về lịch sử loài người."
+        ],
+        [
+            "Trẻ em mới là người được sinh ra đầu tiên trên trái đất, không phải cha mẹ hay thầy cô giáo.",
+            "Trẻ em là sinh ra rất nhỏ bé và yếu đuối, cần được chăm sóc, dạy dỗ và che chở.",
+            "Mọi vật sinh ra trên trái đất đều là vì con người, vì trẻ em. Hãy dành cho trẻ em những điều tốt đẹp nhất.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "D",
+        "D",
+        "C"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Trước đây các tỉnh ven biển nước ta có diện tích rừng ngập mặn khá lớn. Nhưng do nhiều nguyên nhân như chiến tranh, các quá trình quai đê lấn biển, làm đầm nuôi tôm…, một phần rừng ngập mặn đã mất đi. Hậu quả là lá chắn bảo vệ đê biển không còn nữa, đê điều dễ bị xói lở, bị vỡ khi có gió, bão, sóng lớn.\n\nMấy năm qua, chúng ta đã làm tốt công tác thông tin, tuyên truyền để người dân thấy rõ vai trò của rừng ngập mặn đối với việc bảo vệ đê điều. Vì thế ở ven biển các tỉnh như Cà Mau, Bạc Liêu, Bến Tre, Trà Vinh, Sóc Trăng, Hà Tĩnh, Nghệ An, Thái Bình, Hải Phòng, Quảng Ninh,… đều có phong trào trồng rừng ngập mặn. Rừng ngập mặn còn được trồng ở các đảo mới bồi ngoài biển như Cồn Vành, Cồn Đen (Thái Bình), Cồn Ngạn, Cồn Lu, Cồn Mờ (Nam Định)…\n\nNhờ phục hồi rừng ngặp mặn mà ở nhiều địa phương, môi trường đã có những thay đổi rất nhanh chóng. Đê xã Thái Hải (Thái Bình), từ độ có rừng, không còn bị xói lở, kể cả khi bị cơn bão số 2 năm 1996 tràn qua. Lượng cua con trong vùng rừng ngập mặn phát triển, cung cấp đủ giống không chỉ cho hàng nghìn đầm cua ở địa phương mà còn cho hàng trăm đầm cua ở các vùng lân cận. Tại xã Thạch Khê (Hà Tĩnh), sau bốn năm trồng rừng, lượng hải sản tăng nhiều và các loài chim nước cũng trở nên phong phú. Nhân dân các địa phương đều phấn khởi vì rừng ngập mặn phục hồi đã góp phần đáng kể tăng thêm thu nhập và bảo vệ vững chắc đê điều.",
+    "questions": [
+        "Đâu không phải là nguyên nhân khiến một phần diện tích rừng ngập mặn bị mất?",
+        "Đâu không phải là hậu quả khi phá rừng ngập mặn?",
+        "Vì sao  các tỉnh ven biển có phong trào trồng rừng ngập mặn?",
+        "Đâu không phải là tác dụng của rừng ngập mặn khi được phục hồi?",
+        "Sau bốn năm trồng rừng, xã Thạch Khê có những biến đổi gì?"
+    ],
+    "options": [
+        [
+            "Các quá trình quai đê lấn biển.",
+            "Chiến tranh.",
+            "Làm đầm nuôi tôm.",
+            "Thiên tai."
+        ],
+        [
+            "Lá chắn bảo vệ đê biển không còn nữa.",
+            "Đê điều dễ bị xói lở, bị vỡ khi có gió, bão, sóng lớn.",
+            "Phát triển du lịch thuận lợi.",
+            "Gây triều cường, ngập lụt."
+        ],
+        [
+            "Trồng rừng ngập mặn để đem lại kinh tế từ rừng.",
+            "Trồng rừng ngập mặn để bảo vệ biển.",
+            "Công tác thông tin tuyên truyền được thực hiện tốt để người dân thấy vai trò của rừng ngập mặn.",
+            "Trồng rừng ngập mặn để lấy gỗ."
+        ],
+        [
+            "Lượng cua con trong vùng rừng ngập mặn phát triển.",
+            "Lượng hải sản tăng nhiều và các loài chim nước cũng trở nên phong phú.",
+            "Môi trường đã có những thay đổi rất nhanh chóng.",
+            "Đê điều dễ bị xói lở, bị vỡ khi có gió, bão, sóng lớn."
+        ],
+        [
+            "Lượng cua con trong vùng rừng ngập mặn phát triển.",
+            "Lượng hải sản tăng nhiều và các loài chim nước cũng trở nên phong phú.",
+            "Từ độ có rừng, không còn bị xói lở.",
+            "Tất cả đều đúng."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "C",
+        "D",
+        "B"
+    ]
+}

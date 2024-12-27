@@ -1,0 +1,49 @@
+{
+    "article": "Ngày đó, gia đình tôi còn rất nghèo. Ba làm thợ mộc, mẹ làm ở vườn ươm, nuôi anh trai tôi đi học và tôi – một con bé lên năm tuổi.\n\nAnh em tôi không có nhiều đồ chơi: vài mẩu đồ gỗ ba cho để xếp hình, mấy lọn tơ rối làm tóc giả để chơi biểu diễn thời trang mẹ xin ở xưởng. Hôm nào mà ba mẹ không bắt ngủ trưa là tôi phóng vọt sang nhà cái Ngọc hàng xóm chơi ké. Nhà nó rất giàu, có nhiều đồ chơi và đương nhiên, có cả những con búp bê. Lúc nào tôi cũng mong ước có được một con búp bê như thế. Một hôm cha tôi bảo:\n\n- Hôm nay là ngày Nô-en, trước khi ngủ, con hãy cầu nguyện xin ông già Nô-en cho con một con búp bê. Điều ước sẽ thành sự thật.\n\nSáng hôm sau, tôi hét toáng lên sung sướng khi thấy trong chiếc tất tôi treo ở đầu giường ló ra một cái đầu búp bê. Tôi dốc ngược chiếc tất ra, không phải là một đâu nhé, mà có tới ba em búp bê: một bé trai bằng gỗ, một bé gái bằng vải tóc xoăn bạch kim và một bé gái nhỏ mũm mĩm bằng giấy bìa bồi. Có một mẩu giấy nhỏ rơi ra từ em búp bê trai và anh tôi đã đọc cho tôi nghe những lời như sau:\n\n“Bé Giang thân mến!\n\nDù cháu chỉ xin ông một con búp bê nhưng vì cháu là một em bé ngoan nên ông đã cho cháu một gia đình búp bê. Hãy luôn ngoan và hiếu thảo cháu nhé!\n\nÔng già Nô-en”\n\nMười lăm năm sau, tôi đã lớn khôn, đã trưởng thành. Anh tôi cho tôi biết sự thật về sự ra đời của những con búp bê.\n\nThì ra chẳng có một ông già Nô-en áo đỏ nào tặng quà cho tôi, mà có tới ba ông già Nô-en mặc áo màu đỏ là ba, mẹ và anh tôi. Tối hôm ấy, ba đã tỉ mẩn gọt đẽo khúc gỗ thành con búp bê trai; mẹ cần mẫn chắp những mẩu vải vụn thành bé búp bê; còn anh tôi, loay hoay cả buổi tối để làm xong con búp bê bằng bìa bồi….\n\nNhững ông già Nô-en của con ơi, con thương mọi người nhiều lắm!",
+    "questions": [
+        "Vì sao bạn nhỏ cầu xin ông già Nô-en cho một con búp bê?",
+        "Bạn nhỏ đã nhận được gì?",
+        "Ai đã gửi món quà cho bạn nhỏ?",
+        "Câu chuyện muốn nói với chúng ta điều gì?",
+        "Ba ông già Nô-en là ai?"
+    ],
+    "options": [
+        [
+            "Vì bạn thấy bạn Ngọc nhà hàng xóm có búp bê.",
+            "Vì đây là phong tục trong đêm Giáng sinh.",
+            "Vì gia đình bạn nghèo, không có đồ chơi mà bạn lại rất thích búp bê.",
+            "Đó là sở thích của bạn nhỏ."
+        ],
+        [
+            "Một con búp bê thật xinh.",
+            "Một gia đình búp bê.",
+            "Một chiếc tất chứa đầy đồ chơi đẹp.",
+            "Hai con búp bê."
+        ],
+        [
+            "Bố, mẹ và anh trai.",
+            "Ông già Nô-en.",
+            "Những ông già Nô-en.",
+            "Ông bà ngoại."
+        ],
+        [
+            "Muốn được quà Nô-en hãy cầu nguyện xin ông già Nô-en.",
+            "Muốn được quà Nô-en hãy là một người con ngoan hiếu thảo.",
+            "Thật là hạnh phúc khi được sống trong sự quan tâm, yêu thương của mọi người trong gia đình.",
+            "Tuổi thơ phải gắn liền với búp bê."
+        ],
+        [
+            "Là người trong gia đình của nhân vật tôi.",
+            "Là người bên ngoài gia đình của nhân vật tôi.",
+            "Là nhân vật làm nhiều điều hay cho đời.",
+            "Là nhân vật quyền lực."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "C",
+        "A"
+    ]
+}

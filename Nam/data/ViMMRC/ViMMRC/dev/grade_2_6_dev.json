@@ -1,0 +1,49 @@
+{
+    "article": "Vừa sắp sách vở ra bàn, Tường bỗng nghe có tiếng chuông điện thoại. Tới hồi chuông thứ ba, em đã ở bên máy. Em nhấc ống nghe lên, áp một đầu vào tai:\n\n- A lô! Cháu là Tường, con mẹ Bình, nghe đây ạ.\n\nTrong ống nghe vang lên một giọng cười quen thuộc:\n\n- Chào con. Bố đây mà. Hai mẹ con có khỏe không?\n\nTường mừng quýnh lên:\n\n- Con chào bố. Con khỏe lắm. Mẹ... cũng... Bố thế nào ạ? Bao giờ bố về?\n\nMấy tuần sau, mẹ mệt. Nhưng Tường không muốn làm bố lo. Hình như bố nhận ra giọng ngập ngừng của em. Bố không cười nữa:\n\n- Tuần sau bố về. Con học giỏi nhé!\n\n- Con chào bố. Con chuyển máy cho mẹ nhé?\n\nQuay lại bàn học, Tường bâng khuâng nghĩ đến ngày đón bố trở về.",
+    "questions": [
+        "Việc gì đã xảy ra khi Tường vừa sắp sách vở ra bàn?",
+        "Độ dài của lời nói khác gì so với cách nói chuyện bình thường khi nghe điện thoại?",
+        "Sau câu nói của ông bố: \"Con chuyển máy cho mẹ nhé?\", Tường đã làm gì?",
+        "Vì sao Tường không nghe bố mẹ mình nói chuyện với nhau trên điện thoại?",
+        "Tại sao không nên nghe người khác khi họ nói chuyện điện thoại?"
+    ],
+    "options": [
+        [
+            "Mẹ nhờ Tường đi chợ.",
+            "Có tiếng chuông điện thoại.",
+            "Bạn rủ Tường đi chơi.",
+            "Nghe tiếng ai đó bên ngoài."
+        ],
+        [
+            "Dài dòng.",
+            "Ngắn gọn.",
+            "Xa lạ.",
+            "Không cảm xúc."
+        ],
+        [
+            "Tường không chuyển máy cho mẹ.",
+            "Chuyển máy cho mẹ, quay lại bàn học.",
+            "Chuyển máy cho mẹ và đứng cạnh để nghe.",
+            "Tường nói chào bố."
+        ],
+        [
+            "Vì mẹ Tường sẽ kể lại cho Tường nghe.",
+            "Vì Tường không quan tâm.",
+            "Vì như vậy là mất lịch sự.",
+            "Vì Tường đang bận học."
+        ],
+        [
+            "Vì như vậy là mất lịch sự.",
+            "Vì như vậy là quá lịch sự.",
+            "Vì không nên quan tâm đến người khác.",
+            "Vì nên nghe người khác nói chuyện trực tiếp."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "C",
+        "A"
+    ]
+}

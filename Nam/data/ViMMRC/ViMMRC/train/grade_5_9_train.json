@@ -1,0 +1,49 @@
+{
+    "article": "Căn nhà sàn chật ních người mặc quần áo như đi hội. Mấy cô gái vừa lùi vừa trải những tấm lông thú thẳng tắp từ đầu cầu thang tới cửa bếp giữa sàn. Bấy giờ, người già mới ra hiệu dẫn Y Hoa bước lên lối đi bằng lông thú mịn như nhung. Buôn Chư Lênh đã đón tiếp cô giáo đến mở trường bằng nghi thức trang trọng nhất dành cho khách quý.\n\nY Hoa đến bên già Rok, trưởng buôn, đang đứng đón khách ở giữa nhà sàn. Nhận con dao mà già giao cho, nhằm vào cây cột nóc, Y Hoa chém một nhát thật sâu vào cột. Đó là lời thề của người lạ đến buôn, theo tục lệ, lời thề ấy không thể nói ra mà phải khắc vào cột. Y Hoa được coi là người trong buôn sau khi chém nhát dao.\n\nGià Rok xoa tay lên vết chém, khen:\n\nTốt cái bụng đó, cô giáo ạ!\nRồi giọng già vui hẳn lên:\n\nBây giờ cho người già xem cái chữ của cô giáo đi!\nBao nhiêu tiếng người cùng ùa theo:\n\nPhải đấy! Cô giáo cho lũ làng xem cái chữ nào!\nY Hoa lấy trong gùi ra một trang giấy, trải lên sàn nhà. Mọi người im phăng phắc. Y Hoa nghe thấy rõ cả tiếng tim đập trong lồng ngực mình. Quỳ hai gối lên sàn, cô giáo viết thật to, thật đậm hai chữ: “Bác Hồ”. Y Hoa viết xong, bỗng bao nhiêu tiếng cùng hò reo:\n\nÔi! Chữ cô giáo này! Nhìn kìa!\nA, chữ, chữ cô giáo!",
+    "questions": [
+        "Cô giáo Y Hoa đến buôn Chư Lênh làm gì?",
+        "Trưởng buôn trong câu chuyện trên có tên là gì?",
+        "Buôn Chư Lênh đón cô giáo đến mở trường bằng nghi thức như thế nào?",
+        "Cô giáo Y Hoa viết cho người dân Chư Lênh xem chữ gì?",
+        "Cô giáo đã viết gì xuống sàn?"
+    ],
+    "options": [
+        [
+            "Truyền bá cách mạng.",
+            "Mở trường, dạy chữ.",
+            "Tuyên truyền lí tưởng của Bác Hồ.",
+            "Báng hàng."
+        ],
+        [
+            "Rok.",
+            "Rúp.",
+            "Tờ nú.",
+            "Không có tên."
+        ],
+        [
+            "Trang trọng.",
+            "Thân mật, yêu thương.",
+            "Trang trọng như dành cho khách quý.",
+            "Khinh miệt."
+        ],
+        [
+            "Tổ quốc.",
+            "Bác Hồ.",
+            "Việt nam.",
+            "Hà nội."
+        ],
+        [
+            "Bác Hồ.",
+            "Y Hoa.",
+            "Thật đậm.",
+            "Tên cô giáo."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "B",
+        "A"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "article": "1. Sau một chuyến đi xa, người ông mang về bốn quả đào. Ông bảo vợ và các cháu:\n\n- Quả to này xin phần bà. Ba quả nhỏ hơn phần các cháu.\n\nBữa cơm chiều hôm ấy, ông hỏi các cháu:\n\n- Thế nào, các cháu thấy đào có ngon không?\n\n2. Cậu bé Xuân nói:\n\n- Đào có vị rất ngon và mùi thật là thơm. Cháu đã đem hạt trồng vào một cái vò. Chẳng bao lâu, nó sẽ mọc thành một cây đào to đấy, ông nhỉ?\n\n- Mai sau cháu sẽ làm vườn giỏi. \n\n- Ông hài lòng nhận xét.\n\n3. Cô bé Vân nói với vẻ tiếc rẻ:\n\n- Đào ngon quá, cháu ăn hết mà vẫn thèm. Còn hạt thì cháu vứt đi rồi.\n\n- Ôi cháu của ông còn thơ dại quá!\n\n4. Thấy Việt chỉ chăm chú nhìn vào tấm khăn trải bàn, ông ngạc nhiên hỏi:\n\n- Còn Việt, sao cháu chẳng nói gì thế?\n\n- Cháu ấy ạ? Cháu mang đào cho Sơn. Bạn ấy bị ốm. Nhưng bạn ấy không muốn nhận. Cháu đặt quả đào lên trên giường rồi trốn về.\n\n- Cháu là người có tấm lòng nhân hậu! \n\n- Ông lão thốt lên và xoa đầu đứa cháu nhỏ.",
+    "questions": [
+        "Người ông đã mang về thứ gì sau chuyến đi xa?",
+        "Người ông cho những quả đào cho những ai?",
+        "Trong ba đứa cháu, ai là người chưa ăn quả đào?",
+        "Trong ba đứa cháu, ai là đứa cháu được ông nhận xét là còn thơ dại?",
+        "Trong ba đứa cháu, ai là người sẽ thành người làm vườn giỏi trong tương lai?",
+        "Người ông đã mang về thứ gì sau chuyến đi xa?",
+        "Ba đứa cháu tên gì?",
+        "Trong ba đứa cháu, bạn nào có tấm lòng nhân hậu?",
+        "Qua lời nói của Xuân, quả đào như thế nào?"
+    ],
+    "options": [
+        [
+            "Một rổ trứng.",
+            "Một gói kẹo.",
+            "Bốn quả đào.",
+            "Bốn quả bưởi."
+        ],
+        [
+            "Người hàng xóm.",
+            "Người bạn thân thiết.",
+            "Người vợ và các cháu.",
+            "Người con và các cháu."
+        ],
+        [
+            "Vân.",
+            "Việt.",
+            "Xuân.",
+            "Cả 3 bạn trên."
+        ],
+        [
+            "Vân.",
+            "Việt.",
+            "Xuân.",
+            "Cả 3 bạn trên."
+        ],
+        [
+            "Vân.",
+            "Xuân.",
+            "Việt.",
+            "Vân và Việt."
+        ],
+        [
+            "Một rổ trứng.",
+            "Một gói kẹo.",
+            "Bốn quả đào.",
+            "Bốn quả bưởi."
+        ],
+        [
+            "Xuân, Vân và Việt.",
+            "Nam, Vân và Việt.",
+            "Sơn, Vân và Việt.",
+            "Sơn, Xuân và Việt."
+        ],
+        [
+            "Việt.",
+            "Vân.",
+            "Xuân.",
+            "Sơn."
+        ],
+        [
+            "Vị rất ngon và mùi thật thơm.",
+            "Vị dở nhưng mừi rất thơm.",
+            "Thơm và chua ngọt.",
+            "Thơm, chua và cay."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "A",
+        "B",
+        "C",
+        "A",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "article": "Thuở đi học, Cao Bá Quát viết chữ rất xấu nên nhiều bài văn dù hay vẫn bị thầy cho điểm kém.\n\nMột hôm, có bà cụ hàng xóm sang khẩn khoản:\n\n- Gia đình già có một việc oan uổng muốn kêu quan, nhờ cậu viết giúp cho lá đơn, có được không?\n\nCao Bá Quát vui vẻ trả lời:\n\n- Tưởng việc gì khó, chứ việc ấy cháu xin sẵn lòng.\n\nLá đơn viết lí lẽ rõ ràng, Cao Bá Quát yên trí quan sẽ xét nỗi oan cho bà cụ. Nào ngờ, chữ ông xấu quá, quan đọc không được nên thét lính đuổi bà ra khỏi huyện đường. Về nhà, bà kể lại câu chuyện khiến Cao Bá Quát vô cùng ân hận. Ông biết dù văn hay đến đâu mà chữ không ra chữ cũng chẳng ích gì. Từ đó, ông dốc hết sức luyện viết chữ sao cho đẹp.\n\nSáng sáng, ông cầm que vạch lên cột nhà luyện chữ cho cứng cáp. Mỗi buổi tối, ông viết xong mười trang vở mới chịu đi ngủ. Chữ viết đã tiến bộ, ông lại mượn những cuốn sách chữ viết đẹp làm mẫu để luyện nhiều kiểu chữ khác nhau.\n\nKiên trì luyện tập suốt mấy năm, chữ ông mỗi ngày một đẹp. Ông nổi danh khắp nước là người văn hay chữ tốt.",
+    "questions": [
+        "Tại sao Cao Bá Quát văn hay nhưng thường bị điểm kém?",
+        "Bà cụ hàng xóm đã nhờ Cao Bá Quát làm điều gì?",
+        "Điều gì đã khiến Cao Bá Quát phải ân hận?",
+        "Lá thư không giúp bà cụ được kêu oan, Cao Bá Quát nhận ra được điều gì?",
+        "Sau khi nhận ra văn hay cũng chưa đủ, Cao Bá Quát quyết định đã làm gì?",
+        "Cao Bá Quát kiên trì luyện chữ trong thời gian bao nhiêu?",
+        "Sau này, Cao Bá Quát nổi tiếng về thứ gì?",
+        "Giữa Cao Bá Quát và Xi-ôn-cốp-xki có điểm gì đặc biệt chung?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Vì ông viết chữ rất xấu.",
+            "Vì ông hay nộp bài muộn, trốn học.",
+            "Vì văn ông rất ngông nghênh, ngạo nghễ.",
+            "Vì ông cư xử thiếu lễ độ với thầy."
+        ],
+        [
+            "Nhờ cậu viết một bài văn tế.",
+            "Nhờ cậu kêu oan với quan.",
+            "Nhờ cậu dạy học cho cháu mình.",
+            "Nhờ cậu viết giúp lá đơn kêu quan."
+        ],
+        [
+            "Cao Bá Quát không viết lá đơn kêu quan giúp bà cụ.",
+            "Chữ ông xấu quá, văn lại không hay nên quan không xử cho.",
+            "Chữ ông xấu quá, quan không đọc được nên bà cụ bị đuổi khỏi huyện đường.",
+            "Chữ ông xấu quá khiến quan hiểu lầm và xử oan cho bà cụ."
+        ],
+        [
+            "Văn hay đến đâu mà không khéo léo cũng chẳng ích gì.",
+            "Văn hay đến đâu mà không có ích cũng chẳng có nghĩa gì.",
+            "Văn hay đến đâu mà chữ không ra chữ cũng chẳng ích gì.",
+            "Văn hay đến đâu mà không được lòng quan cũng chẳng ích gì."
+        ],
+        [
+            "Dốc hết sức mở rộng mối quan hệ.",
+            "Dốc hết sức luyện chữ sao cho đẹp.",
+            "Dốc sức giảng dạy, truyền chữ nghĩa cho mọi người.",
+            "Dốc hết sức giúp đỡ mọi người."
+        ],
+        [
+            "Mười mấy năm.",
+            "Suốt mấy năm.",
+            "Mười mấy tháng.",
+            "Cả cuộc đời."
+        ],
+        [
+            "Tài giỏi, tốt bụng.",
+            "Dũng cảm, yêu nước.",
+            "Văn hay chữ tốt.",
+            "Văn hay, sâu sắc."
+        ],
+        [
+            "Có nghị lực và quyết tâm.",
+            "Đều có tài năng thiên bẩm.",
+            "Có ước mơ cao đẹp.",
+            "Rút ra được bài học từ thất bại."
+        ],
+        [
+            "Ca ngợi quyết tâm, sự kiên gì sửa lỗi viết chữ xấu của Cao Bá Quát.",
+            "Ca ngợi Cao Bá Quát là người tài giỏi, không chỉ văn hay mà còn chữ tốt.",
+            "Ca ngợi Cao Bá Quát là người tốt bụng, quan tâm và giúp đỡ mọi người.",
+            "Ca ngợi đức tính cần cù, chịu khó của người đời xưa."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "C",
+        "C",
+        "B",
+        "B",
+        "C",
+        "A",
+        "A"
+    ]
+}

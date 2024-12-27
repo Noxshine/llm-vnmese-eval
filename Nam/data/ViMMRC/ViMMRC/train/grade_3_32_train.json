@@ -1,0 +1,65 @@
+{
+    "article": "Ngày xưa, có một chàng thợ rèn tên là Rít. Chàng được một tiên ông tặng cho ba điều ước.\n\nNghĩ trên đời chỉ có vua là sung sướng nhất, Rít ước trở thành vua. Phút chốc, chàng đã đứng trong cung cấm tấp nập người hầu. Nhưng chỉ mấy ngày, chán cảnh ăn không ngồi rồi, Rít bỏ cung điện ra đi.\n\nLần kia, gặp một người đi buôn, tiền bạc nhiều vô kể, Rít lại ước có thật nhiều tiền. Điều ước được thực hiện. Nhưng có của, Rít luôn bị bọn cướp rình rập. Thế là tiền bạc cũng chẳng làm chàng vui.\n\nChỉ còn điều ước cuối cùng. Nhìn những đám mây bồng bềnh trên trời, Rít ước bay được như mây. Chàng bay khắp nơi, ngắm cảnh trên trời dưới biển. Nhưng mãi rồi cũng chán, chàng lại thèm được trở về quê. \n\nLò rèn của Rít lại đỏ lửa, ngày đêm vang tiếng búa đe. Sống giữa sự quý trọng của dân làng, Rít thấy sống có ích mới là điều đáng mơ ước.",
+    "questions": [
+        "Nhận vật chính nào được kể trong câu chuyện này?",
+        "Chàng Rít được tiên ông tặng cho thứ gì?",
+        "Vì sao khi làm vua, có người hầu kẻ hạ mà Rít không cảm thấy hạnh phúc?",
+        "Tại sao khi tiền bạc vô kể như nhà buôn, Rít không cảm thấy hạnh phúc?",
+        "Tại sao được trở thành đám mây như mong muốn, Rít lại vẫn không thấy vui?",
+        "Cuối cùng, Rít quyết định đi đến nơi nào?",
+        "Cuối cùng, chàng hiểu được điều gì mới là đáng ước mong?"
+    ],
+    "options": [
+        [
+            "Chàng thợ rèn tên là Rít.",
+            "Ông tiên tên là Rít.",
+            "Chàng họa sĩ tên Phan.",
+            "Chàng trai trẻ tên là T Nú."
+        ],
+        [
+            "Ba điều ước.",
+            "Cả núi vàng.",
+            "Một căn nhà.",
+            "Một viên học."
+        ],
+        [
+            "Rít lo sợ bị bọn cướp rình rập.",
+            "Rít đau đầu vì phải lo việc nước.",
+            "Rít lênh đênh, vi vu đây đó mãi cũng chán.",
+            "Rít chán cảnh ăn không ngồi rồi."
+        ],
+        [
+            "Vì Rít luôn phải lo sợ bị bọn cướp rình rập.",
+            "Vì giàu có nhưng đơn độc, không có gia đình.",
+            "Vì Rít phải cạnh tranh với các nhà buôn khác.",
+            "Vì Rít chán cảnh ăn không ngồi rồi."
+        ],
+        [
+            "Vì Rít được bay khắp nơi, nhưng mãi rồi cũng chán.",
+            "Vì Rít không thể bay về, ghé thăm gia đình, cha mẹ.",
+            "Vì Rít bị gió thổi, bão cuốn, trôi dạt, phiêu bạt,...",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Trở lại làm vua.",
+            "Chu du thiên hạ.",
+            "Trở về quê hương.",
+            "Đi lên núi, xuống biển."
+        ],
+        [
+            "Sống có ích mới là điều đáng mơ ước.",
+            "Rảnh rỗi, nhàn hạ mới là điều đáng mơ ước.",
+            "Giàu có, nhiều của cải, người hầu kẻ hạ mới đáng mơ ước.",
+            "Trở nên phiêu lãng, bay bồng bềnh mới đáng mơ ước."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "A",
+        "A",
+        "C",
+        "A"
+    ]
+}

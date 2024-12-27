@@ -1,0 +1,57 @@
+{
+    "article": "Cò đang lội ruộng bắt tép. Cuốc thấy vậy từ trong bụi rậm lần ra, hỏi:\n\n- Chị bắt tép vất vả thế, chẳng sợ bùn bắn bẩn hết áo trắng sao?\n\nCò vui vẻ trả lời:\n\n- Khi làm việc, ngại gì bẩn hở chị?\n\nCuốc bảo:\n\n- Em sống trong bụi cây dưới đất, nhìn lên trời xanh, thấy các anh chị trắng phau phau, đôi cánh dập dờn như múa, không nghĩ cũng có lúc chị phải khó nhọc thế này.\n\nCò trả lời:\n\n- Phải có lúc vất vả lội bùn mới có khi được thảnh thơi bay lên trời cao. Còn áo bẩn muốn sạch thì khó gì!\n\nKiếm ăn xong, Cò tắm rửa, tấm áo lại trắng tinh, rồi cất cánh bay, đôi cánh dập dờn như múa.",
+    "questions": [
+        "Những con vật nào được nhắc đến trong câu chuyện này?",
+        "Thấy Cò lội ruộng, Cuốc hỏi thế nào?",
+        "Khi Cuốc hỏi câu: \"Chị bắt tép vất vả thế, chẳng sợ bùn bắn bẩn hết áo trắng sao?\", Cò đã trả lời như thế nào?",
+        "Trong câu nói của Cò \"Khi làm việc, ngại gì bẩn hở chị?\" hàm chứa một lời khuyên. Lời khuyên đó là gì?",
+        "Nội dung câu chuyện muốn truyền tải là gì?",
+        "Cò làm gì sau khi bị bẩn?"
+    ],
+    "options": [
+        [
+            "Cò và Cú.",
+            "Cò và Cuốc.",
+            "Cò và Cốc.",
+            "Cò và Quạ."
+        ],
+        [
+            "Chị bắt tép vất vả thế làm gì, bùn bắn bẩn hết áo trắng mất!.",
+            "Chị bắt tép vất vả thế? Em ở dưới đất cũng không vất vả như chị!.",
+            "Chị bắt tép vất vả thế, chẳng sợ bùn bắn bẩn hết áo trắng sao?.",
+            "Chị bắt tép vất vả thế, kiếm ăn được nhiều không?."
+        ],
+        [
+            "Khi làm việc, ngại gì bẩn hở chị?.",
+            "Em cũng sợ bẩn nhưng phải chấp nhận thôi.",
+            "Ôi dào, bộ lông của em có bẩn nhưng vẫn sạch hơn chị.",
+            "Khi làm việc, phải chăm chỉ chị à."
+        ],
+        [
+            "Phải chăm chỉ làm lụng thì mới có cái ăn.",
+            "Phải khiêm tốn, thật thà, không nên coi thường người khác.",
+            "Phải sống nhân ái, chân thành với mọi người.",
+            "Phải luôn sống hoà thuận với mọi người."
+        ],
+        [
+            "Lời nói chẳng mất tiền mua, Lựa lời mà nói cho vừa lòng nhau.",
+            "Có làm thì mới có ăn, Không dưng ai hễ đem phần đến cho.",
+            "Một cây làm chẳng nên non, Ba cây chụm lại nên hòn núi cao.",
+            "Có công mài sắc có ngày nên kim."
+        ],
+        [
+            "Có tắm rửa.",
+            "Cò tiếp tục đi kiếm ăn.",
+            "Cò bơi lội giữa dòng sông.",
+            "Cò đi dọc bờ sông."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "A",
+        "B",
+        "A"
+    ]
+}

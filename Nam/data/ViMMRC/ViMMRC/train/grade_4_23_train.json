@@ -1,0 +1,49 @@
+{
+    "article": "Thưa các Thiên thần!\n\nĐêm nay, ở nơi đây, con đã thấy các Thiên thần ở trên cao kia, nơi sáng nhất trên bầu trời. Con đã thấy các Thiên thần đùa vui nơi thiên đàng xanh thẳm  không mảy may lo buồn vướng bận nơi trần thế.\n\nNhưng thưa các Thiên thần, cũng ngay đêm nay thôi, nơi trần gian này, các Thiên thần có nhìn thấy không, những số phận, những mảnh đời còn nặng trĩu đau buồn. Con xin các Thiên thần hãy một lần xuống đây và đến bên những con người bất hạnh ấy, những bạn bè cùng trang lứa với con và những em bé thơ ngây của con.\n\nCon xin Thiên thần Hòa Bình hãy ru yên giấc ngủ chiến tranh, để bao bạn bè, em nhỏ, nơi cách xa con được sống yên bình như con, được học hành vui chơi không phải ngày ngày lo sợ tiếng bom, tiếng đạn.\n\n          Con xin Thiên thần Tình Thương hãy gõ chiếc đũa thần của Người vào trái tim người lớn để họ hiểu trẻ thơ và thêm lòng yêu thương con trẻ, để không còn những người bạn như con phải lao động vất vả cực nhọc hay cầm súng ra chiến trận, hay bị hắt hủi, ghẻ lạnh trong những gia đình không hạnh phúc.\n\n          Con xin Thiên thần Tình Yêu hãy hàn gắn tình yêu của các ông bố, bà mẹ để những em bé của con được sống dưới mái ấm gia đình hạnh phúc, không còn cảnh lang thang nay đây mai đó , đêm đêm màn trời chiếu đất , đói rét và biết bao hiểm nguy rình rập.\n\n          Và cuối cùng con xin Thiên thần Ước Mơ hãy tặng cho mỗi em bé trên trái đất này một ngôi sao xanh trong chiếc giỏ đựng vô vàn những ngôi sao của Người, để những ước mơ nhỏ bé, giản dị và hồn nhiên của mọi trẻ thơ đều thành hiện thực.\n\n          Cảm ơn những làn gió tốt bụng đã mang giúp lá thư này đến cho các Thiên thần.",
+    "questions": [
+        "Trong thư, bạn Hoài Thu đã xin Thiên thần Hòa Bình điều gì?",
+        "Xin Thiên thần Tình Thương điều gì?",
+        "Còn ở Thiên thần Ước Mơ, bạn ấy cầu xin điều gì?",
+        "Đến Thiên thần Tình Yêu, điều cầu xin đó ra sao?",
+        "Tất cả những điều bạn Hoài Thu cầu xin các Thiên thần đều nhằm mục đích gì?"
+    ],
+    "options": [
+        [
+            "Hàn gắn tình yêu của những ông bố bà mẹ.",
+            "Hiểu trẻ thơ và thêm lòng yêu con trẻ.",
+            "Ru yên giấc ngủ chiến tranh.",
+            "Hiểu được trẻ thơ thì mới yêu được trẻ thơ."
+        ],
+        [
+            "Những em bé được sống dưới mái ấm hạnh phúc.",
+            "Trẻ em không còn phải lao động vất vả, cực nhọc; không cầm súng ra chiến trận hay bị hắt hủi, ghẻ lạnh trong những gia đình không hạnh phúc.",
+            "Tặng cho mỗi em bé một ngôi sao xanh.",
+            "Những em bé lao động vất vả và cực nhọc."
+        ],
+        [
+            "Những ước mơ nhỏ bé, giản dị và hồn nhiên của mọi trẻ thơ đều thành hiện thực.",
+            "Những em nhỏ được sống yên bình, được học hành vui chơi không phải ngày ngày lo sợ tiếng bom, tiếng đạn.",
+            "Gõ chiếc đũa thần vào trái tim người lớn.",
+            "Những em nhỏ được sống yên bình và vui chơi trong hạnh phúc."
+        ],
+        [
+            "Xuống trần gian và đến bên những con người bất hạnh.",
+            "Những em bé của con được sống dưới mái ấm gia đình hạnh phúc, không còn cảnh lang thang nay đây mai đó, đêm đêm màn trời chiếu đất, đói rét và biết bao hiểm nguy rình rập.",
+            "Mang lá thư này đến cho các Thiên thần.",
+            "Mỗi giấc mơ điều có ý nghĩa."
+        ],
+        [
+            "Làm cho trẻ nhỏ trở nên giàu có.",
+            "Làm cho trẻ em trở nên thông minh, học giỏi.",
+            "Làm cho trẻ em được sống hạnh phúc.",
+            "Hãy để con trẻ tự phát triển."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "C"
+    ]
+}

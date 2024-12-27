@@ -1,0 +1,57 @@
+{
+    "article": "Sáng nào em đến lớp\nCũng thấy cô đến rồi\nĐáp lời \"Chào cô ạ!\"\nCô mỉm cười thật tươi.\n\nCô dạy em tập viết\nGió đưa thoảng hương nhài\nNắng ghé vào cửa lớp\nXem chúng em học bài.\n\nNhững lời cô giáo giảng\nẤm trang vở thơm tho\nYêu thương em nhớ mãi\nNhững điểm mười cô cho.",
+    "questions": [
+        "Sáng nào bạn học sinh đến lớp cũng thấy điều gì?",
+        "Khi thấy cô giáo đến rồi, bạn nhỏ đã làm gì?",
+        "Biểu hiện của cô giáo như thế nào khi bạn học sinh đáp lời chào?",
+        "Cô giáo luôn đến trước khi học sinh đến lớp là cách giáo dục điều gì trong xã hội hiện nay?",
+        "Cô giáo dạy bạn nhỏ làm gì trong không gian thơm mùi hoa nhài?",
+        "Chúng ta thấy tình cảm của bạn học sinh đối với cô giáo như thế nào?"
+    ],
+    "options": [
+        [
+            "Các bạn đã đến rồi.",
+            "Cô đã đến rồi.",
+            "Cô đang dạy rồi.",
+            "Cô chưa đến lớp."
+        ],
+        [
+            "Chào cô ạ!.",
+            "Lặng lẽ vào lớp.",
+            "Cười mỉm với cô.",
+            "Xin cô vào lớp."
+        ],
+        [
+            "Cô mỉm cười thật tươi.",
+            "Cô nhắc em mau vào lớp.",
+            "Cô đang quét dọn lớp.",
+            "Cô đang bận chấm bài."
+        ],
+        [
+            "Phải luôn đúng giờ.",
+            "Phải luôn đi dạy.",
+            "Cẩn thận là một đức tính tốt.",
+            "Hoà nhã với cộng đồng."
+        ],
+        [
+            "Cô dạy bạn nhỏ tập vẽ.",
+            "Cô dạy bạn nhỏ làm toán.",
+            "Không được vứt rác bừa bãi.",
+            "Cô dạy bạn nhỏ tập viết."
+        ],
+        [
+            "Yêu thương và quý trọng.",
+            "Căm ghét và tức giận.",
+            "Thương nhớ và tiếc nuối.",
+            "Sợ hãi và xa lánh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "C",
+        "D",
+        "A"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Một cái que cắm dọc, một thanh tre nhỏ buộc ngang, thành hình chữ thập. Khoác lên đấy một cái áo tơi lá cũ, hoặc một mảnh bao tải rách, cũng có thể là một manh chiếu rách cũng được. Trên đầu que dọc là một mê nón rách lơ xơ. Thế là ruộng ngô, ruộng đỗ, ruộng vừng hoặc một ruộng mạ mới gieo… đã có một người bảo vệ, một người lính gác: một anh bù nhìn. Để cho đủ lệ bộ, anh bù nhìn cầm một cái vọt tre mềm như cần câu. Đầu cần buộc một túm nắm giấy, tốt hơn thì dùng một túm lá chuối khô tước nhỏ, giống như vẫn buộc ở đầu gậy của người chăn vịt trên đồng.\n\nCó nhiều loài chim bị mắc lừa, rất sợ anh bù nhìn, sợ cái cần câu ấy, vì chỉ hơi thoàng gió thì từ tấm áo, cái nón, đến thanh roi ấy đều cử động, phe phẩy, đung đưa…. Bọn trẻ chúng tôi đứng từ xa mà nhìn cũng thấy đúng là một người đang ngồi, tay cầm que để đuổi chim…\n\nNhững anh bù nhìn thật hiền lành, dễ thương, chăm chỉ làm việc của mình, chẳng đòi ăn uống gì và cũng chẳng bao giờ kể công. Các anh cũng không sợ nắng gắt, gió lạnh, mưa bão. Anh có bị gió xô ngã thì rồi cũng có người đỡ anh dậy, anh chẳng kêu khóc bao giờ.\n\nChỉ tiếc là cũng có những con chim ranh ma, một lần sà xuống biết đấy là anh bù nhìn, không có gì nguy hiểm, không có gì đáng sợ thế là lần sau nó cứ xuống và còn đi gọi cả đàn xuống, vừa tra ngô, tỉa đỗ, mà lại phải đi làm lại từ đầu, vì chúng đã ăn hết cả hạt vừa gieo. Người ta vốn khôn ngoan hơn, lại phải thay lại tấm áo, cái nón và cái cần câu mới, buộc thêm vào đấy nhiều mẩu giấy có các màu, làm như đó là một người bảo vệ mới.\n\nBọn trẻ chúng tôi thích các anh bù nhìn ấy vì các anh không bao giờ dọa chúng tôi, không bao giờ lên mặt hoặc cáu gắt, dù chúng tôi có ào xuống ruộng bắt châu chấu, đuổi cào cào, giẫm cả lên cái mầm ngô, mầm đỗ mới nhú…\n\nQuả là các anh bù nhìn hiền lành đáng yêu, đã giúp người nông dân, trong đó có cha mẹ tôi, một cách khá tốt…",
+    "questions": [
+        "Anh bù nhìn được làm bằng gì?",
+        "Anh bù nhìn có “nhiệm vụ” gì?",
+        "Người nông dân làm gì khi lũ chim ăn hết hạt mới gieo ngoài đồng?",
+        "Các anh bù nhìn đáng yêu ở điểm nào?",
+        "Những anh bù nhìn như thế nào?",
+        "Tay anh bù nhìn cầm một cái vọt tre mềm như cái gì?",
+        "Những con chim có tính cách như thế nào, một lần sà xuống biết đấy là anh bù nhìn, không có gì nguy hiểm, không có gì đáng sợ…?"
+    ],
+    "options": [
+        [
+            "Giấy và bao tải cũ.",
+            "Gỗ và áo tơi lá cũ.",
+            "Thanh tre, bao tải rách, áo tơi lá cũ.",
+            "Gỗ, bao tải rách và áo tơi lá cũ."
+        ],
+        [
+            "Dọa trẻ con.",
+            "Dọa chim, bảo vệ ruộng mới gieo hạt.",
+            "Làm đồ chơi cho trẻ con.",
+            "Trang trí cho cánh đồng."
+        ],
+        [
+            "Gieo lại hạt và làm một anh bù nhìn mới.",
+            "Gieo lại hạt và làm bẫy chim.",
+            "Vừa làm bẫy chim vừa làm anh bù nhìn khác.",
+            "Đặt một con bù nhìn ngay giữa cánh đồng."
+        ],
+        [
+            "Hiền lành, tốt bụng.",
+            "Vui tính, không cáu gắt.",
+            "Không dọa dẫm, cáu gắt, lên mặt với trẻ con, giúp người nông dân bảo vệ ruộng mới gieo hạt.",
+            "Tốt tính."
+        ],
+        [
+            "Đáng yêu.",
+            "Đáng ghét.",
+            "Thật hiền lành, dễ thương, chăm chỉ làm việc của mình, chẳng đòi ăn uống gì và cũng chẳng bao giờ kể công.",
+            "Đứng một mình."
+        ],
+        [
+            "Cần câu.",
+            "Quạt giấy.",
+            "Chổi.",
+            "Cây."
+        ],
+        [
+            "Láu cá.",
+            "Khôn ngoan.",
+            "Thông minh.",
+            "Hiền lành."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "C",
+        "C",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "article": "Nếu chúng mình có phép lạ\nBắt hạt giống nảy mầm nhanh\nChớp mắt thành cây đầy quả\nTha hồ hái chén ngọt lành.\n\nNếu chúng mình có phép lạ\nNgủ dậy thành người lớn ngay\nĐứa thì lặn xuống đáy biển\nĐứa thì ngồi lái máy bay.\n\nNếu chúng mình có phép lạ\nHái triệu vì sao xuống cùng\nĐúc thành ông mặt trời mới\nMãi mãi không còn mùa đông.\n\nNếu chúng mình có phép lạ\nHóa trái bom thành trái ngon\nTrong ruột không còn thuốc nổ\nChỉ toàn kẹo với bi tròn.\n\nNếu chúng mình có phép lạ!\nNếu chúng mình có phép lạ!",
+    "questions": [
+        "Câu thơ nào được lặp đi lặp lại nhiều lần trong bài thơ?",
+        "Những nhân vật trong bài thơ muốn có thứ gì?",
+        "Việc lặp lại nhiều lần câu thơ \"Nếu chúng mình có phép lạ\" nhằm mục đích gì?",
+        "Những chi tiết: \"hạt giống nảy mầm nhanh và chớp mắt cây đầy quả\" nói lên ước muốn gì?",
+        "Đoạn thơ thứ hai nói lên ước muốn gì?",
+        "Đoạn thơ thứ ba nói lên ước muốn gì?",
+        "Đoạn thơ thứ tư nói lên điều gì?",
+        "Ngụ ý của lời ước \"không còn mùa đông\" là gì?",
+        "Ngụ ý của lời ước \"hóa trái bom thành trái ngọt\" là gì?",
+        "Nội dung của bài thơ này là gì?",
+        "Điều ước nào sau đây không xuất hiện trong ước muốn của bạn nhỏ?"
+    ],
+    "options": [
+        [
+            "Đứa thì lặn xuống đáy biển.",
+            "Nếu chúng mình có phép lạ.",
+            "Chỉ toàn kẹo với bi tròn.",
+            "Mãi mãi không còn mùa đông."
+        ],
+        [
+            "Vật chất cao sang.",
+            "Học hành chăm chỉ.",
+            "Muốn thành công.",
+            "Phép lạ."
+        ],
+        [
+            "Nói lên lòng tốt của bà tiên.",
+            "Nói lên những ước mơ của bạn nhỏ.",
+            "Nói lên sự bình yên của cuộc sống.",
+            "Nói lên sự kì diệu của phép thuật."
+        ],
+        [
+            "Ước trái đất không còn chiến tranh.",
+            "Ước muốn cây mau lớn, trĩu quả.",
+            "Ước mình trở thành người lớn để làm việc.",
+            "Ước trái đất không còn mùa đông lạnh giá."
+        ],
+        [
+            "Ước muốn không còn mùa đông.",
+            "Ước muốn cây cối mau lớn, trĩu quả.",
+            "Ước muốn trở thành người lớn để làm việc.",
+            "Ước muốn thế giới mãi mãi không có chiến tranh."
+        ],
+        [
+            "Ước muốn không còn mùa đông lạnh giá.",
+            "Ước muốn thế giới không có chiến tranh.",
+            "Ước muốn trở thành người lớn để làm việc.",
+            "Ước muốn cây cối mau lớn, trĩu quả."
+        ],
+        [
+            "Ước muốn cây cối mau lớn, trĩu quả.",
+            "Ước muốn thế giới không có chiến tranh.",
+            "Ước muốn không có mùa đông lạnh giá.",
+            "Ước muốn trở thành người lớn để làm việc."
+        ],
+        [
+            "Ước không có chiến tranh, bom đạn, đổ máu.",
+            "Ước không có thiên tai, thảm họa khắc nghiệt.",
+            "Ước cây cối mau lớn, sai trĩu quả.",
+            "Ước trở thành người lớn để làm việc."
+        ],
+        [
+            "Ước muốn thay đổi được nhiều thứ trong đời.",
+            "Ước không còn mùa đông lạnh giá, không còn thiên tai, bão lũ khắc nghiệt.",
+            "Ước muốn biến mọi thứ trở thành đồ ăn.",
+            "Ước nhân loại không còn bom đạn chiến tranh, thế giới được hòa bình."
+        ],
+        [
+            "Ước muốn của bạn nhỏ có nhiều phép lạ để giúp đỡ được gia đình.",
+            "Ước muốn của bạn nhỏ có nhiều phép lạ để trở thành siêu nhân.",
+            "Ước muốn của bạn nhỏ có nhiều phép lạ để khiến thế giới tốt đẹp hơn.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ước muốn trở thành người lớn.",
+            "Ước muốn cây cối mau lớn, trĩu quả.",
+            "Ước muốn trở thành siêu nhân.",
+            "Ước muốn không còn mùa đông."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "B",
+        "C",
+        "A",
+        "B",
+        "B",
+        "D",
+        "C",
+        "C"
+    ]
+}

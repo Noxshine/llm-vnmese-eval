@@ -1,0 +1,49 @@
+{
+    "article": "Trưa hôm đó, một cậu bé nghèo bán hàng rong ở các khu nhà để kiếm tiền đi học. Bụng đói cồn cào mà lục túi chỉ còn mấy nghìn đồng ít ỏi, cậu liều xin một bữa ăn của gia đình gần đó nhưng cậu giật mình xấu hổ khi thấy một cô bé mở cửa . Cậu bé đành xin một ly nước uống thay vì chút gì đó để ăn. Vì cô bé trông cậu có vẻ đang đói nên cô bưng ra một ly sữa lớn. Cậu bé uống xong bèn hỏi: “ Tôi nợ bạn bao nhiêu tiền?” “Bạn không nợ tôi bao nhiêu cả. Mẹ tôi dạy rằng: Ta không bao giờ nhận tiền khi giúp ai đó.”Cậu bé cảm ơn và bước đi. Lúc này, cậu bé cảm thấy tự tin và mạnh mẽ hơn nhiều.Nhiều năm sau đó, cô bé ngày nào giờ mắc phải một căn bệnh hiểm nghèo cần có chuyên gia chữa trị. Vị bác sĩ trưởng khoa được mời khám cho bệnh nhân này. Khi biết tên và địa chỉ của bệnh nhân, một tia sáng bỗng loé lên trong mắt ông. Ông đứng bật dậy đến bên giường bệnh nhân và nhận ra cô bé ngày nào ngay lập tức. Ông đã cố gắng hết sức mình để cứu chữa cho cô gái này. Sau thời gian chữa trị, cô gái đã khỏi bệnh. Vị bác sĩ yêu cầu bệnh viện chuyển cho ông hoá đơn viện phí rồi viết gì lên đó trước khi đưa nó đến tay cô gái. Cô gái lo sợ không dám mở ra vì biết rằng số tiền phải trả là rất lớn mà cô thì không có đủ.Cuối cùng lấy hết can đảm nhìn vào tờ hoá đơn, cô chú ý ngay dòng chữ:“Đã thanh toán bằng một ly sữa. Ký tên.”",
+    "questions": [
+        "Để đỡ đói cậu bé liều xin cái gì?",
+        "Tại sao cậu bé bước đi và cảm thấy tự tin, mạnh mẽ hơn?",
+        "Chi tiết nào cho thấy vị bác sĩ rất bất ngờ khi nhớ lại câu chuyện trước đây?",
+        "Câu chuyện “Một ly sữa” nói về điều gì?",
+        "Dòng nào dưới đây thể hiện được nghĩa của từ” chuyên gia” trong bài ?"
+    ],
+    "options": [
+        [
+            "Một ít tiền.",
+            "Một bữa ăn.",
+            "Một ly nước.",
+            "Một ly sữa."
+        ],
+        [
+            "Không cần đi bán hàng rong nữa.",
+            "Có được một số tiền để đi học.",
+            "Bụng đã hết đói cồn cào.",
+            "Nhận được sự giúp đỡ từ cô bé."
+        ],
+        [
+            "Ông nhận lời khám bệnh cho cô gái.",
+            "Một tia sáng loé lên trong mắt ông.",
+            "Ông đứng bật dậy đến bên giường bệnh nhân.",
+            "Ông cố gắng hết sức mình cứu chữa cho cô gái."
+        ],
+        [
+            "Sự chia sẻ.",
+            "Sự cố gắng.",
+            "Sự tự tin.",
+            "Lòng can đảm."
+        ],
+        [
+            "Những người luôn biết quan tâm đến người khác.",
+            "Những người lúc nào cũng chăm chỉ làm việc.",
+            "Những người chuyên làm công việc trong gia đình.",
+            "Những người rất giỏi về ngành nghề nào đó."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "A",
+        "D"
+    ]
+}

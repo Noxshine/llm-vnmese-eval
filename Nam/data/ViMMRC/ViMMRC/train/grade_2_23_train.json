@@ -1,0 +1,73 @@
+{
+    "article": "1. Một buổi sáng, Bác Hồ đến thăm trại nhi đồng. Vừa thấy Bác, các em nhỏ đã chạy ùa tới, quây quanh Bác. Ai cũng muốn nhìn Bác cho thật rõ. \n\nBác đi giữa đoàn học sinh, tay dắt hai em nhỏ nhất. Mắt Bác sáng, da Bác hồng hào. Bác cùng các em đi thăm phòng ngủ, phòng ăn, nhà bếp, nơi tắm rửa,...\n\n2. Khi trở lại phòng họp, Bác ngồi giữa các em và hỏi:\n\n- Các cháu chơi có vui không?\n\nNhững lời non nớt vang lên:\n\n- Thưa Bác, vui lắm ạ!\n\nBác lại hỏi:\n\n- Các cháu ăn có no không?\n\n- No ạ!\n\n- Các cô có mắng phạt các cháu không?\n\n- Không ạ!\n\nBác khen:\n\n- Thế thì tốt lắm! Bây giờ Bác chia kẹo cho các cháu. Các cháu có thích kẹo không?\n\nTất cả cùng reo lên:\n\n- Có ạ! Có ạ!\n\nMột em bé giơ tay xin nói:\n\n- Thưa Bác, ai ngoan thì được ăn kẹo, ai không ngoan thì không được ạ!\n\n- Các cháu có đồng ý không?\n\n- Đồng ý ạ!\n\n3. Các em nhỏ đứng thành vòng rộng, Bác cầm gói kẹo chia cho từng em.\n\nĐến lượt Tộ, em không nhận, chỉ khẽ thưa:\n\n- Thưa bác, hôm nay, cháu không vâng lời cô. Cháu chưa ngoan nên không được ăn kẹo của Bác.\n\nBác cười trìu mến:\n\n- Cháu biết nhận lỗi, thế là ngoan lắm! Cháu vẫn được phần kẹo như các bạn khác.\n\nTộ mừng rỡ nhận lấy kẹo của Bác cho.",
+    "questions": [
+        "Bác Hồ tới thăm nơi nào vào buổi sáng?",
+        "Thái độ của các em nhỏ đối với Bác thể hiện như thế nào khi nhìn thấy Bác?",
+        "Đến trại nhi đồng, Bác Hồ đi thăm những nơi nào?",
+        "Các em nhỏ đứng thành vòng rộng để làm gì?",
+        "Em nhỏ nào không dám nhận kẹo từ Bác?",
+        "Nguyên nhân nào dẫn đến Tộ không dám nhận kẹo từ Bác Hồ?",
+        "Bác Hồ đã nói gì với Tộ khi không nhận kẹo từ Bác?",
+        "Vì sao Bác lại khen bạn Tộ ngoan?"
+    ],
+    "options": [
+        [
+            "Trại nhi đồng.",
+            "Miền Nam.",
+            "Căn cứ Việt Bắc.",
+            "Hang Pác Bó."
+        ],
+        [
+            "Tò mò.",
+            "Chán nản.",
+            "Buồn bã.",
+            "Mừng rỡ."
+        ],
+        [
+            "Phòng ăn, nhà bếp, phòng ngủ, nơi tắm rửa,...",
+            "Ao cá, nhà sàn, khu vui chơi và nơi học tập,...",
+            "Phòng học, phòng thí nghiệm và thư viện,...",
+            "Nơi các cháu vui chơi, tổ chức các hoạt động."
+        ],
+        [
+            "Để nói chuyện với Bác.",
+            "Đợi Bác khen ngoan.",
+            "Chờ Bác phát kẹo.",
+            "Để Bác xem ai ngoan."
+        ],
+        [
+            "Huệ.",
+            "Lan.",
+            "Tuấn.",
+            "Tộ."
+        ],
+        [
+            "Vì Tộ là học sinh yếu kém, lười học.",
+            "Vì Tộ là cậu bé rất nhút nhát, rụt rè.",
+            "Vì Tộ chưa ngoan, hôm nay Tộ không vâng lời cô.",
+            "Vì Tộ không thích ăn kẹo."
+        ],
+        [
+            "Cháu trung thực thế là tốt! Cháu rất xứng đáng được nhận kẹo như các bạn!.",
+            "Cháu thật là một cậu bé trung thực!.",
+            "Cháu biết nhận lỗi, thế là ngoan lắm! Cháu vẫn được phần kẹo như các bạn!.",
+            "Cháu còn biết nhận lỗi nữa! Cháu sẽ được thưởng thêm kẹo!."
+        ],
+        [
+            "Vì bạn Tộ rất thẳng thắn.",
+            "Vì bạn Tộ rất đáng yêu, thân thiện.",
+            "Vì bạn Tộ đã biết nhận lỗi.",
+            "Vì bạn Tộ có nhiều cố gắng, tiến bộ."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "A",
+        "C",
+        "D",
+        "C",
+        "C",
+        "C"
+    ]
+}

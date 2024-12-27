@@ -1,0 +1,49 @@
+{
+    "article": "Chó nhà Giang đẻ những sáu con. Một hôm, chị Liên bảo:\n\n- Nhiều chó con quá, nhà mình nuôi sao xuể. Bố bảo phải cho bớt đi. \n\nGiang bàn:\n\n- Mình có thể đem bán chúng, chị ạ.\n\n- Nhưng chị sợ không ai mua đâu. Tốt nhất là ta đem cho bớt đi.\n\nChiều hôm đó, chị Liên vừa đi học về, Giang đã đợi ngay ở cửa, khoe:\n\n- Em bán được một con chó rồi, chị ạ.\n\n- Em bán được thật ư? Giá bao nhiêu?\n\nGiang đáp:\n\n- Hai mươi ngàn đồng ạ.\n\n- Hai mươi ngàn đồng? - Chị ngạc nhiên. - Thế tiền đâu rồi?\n\n- Đây không phải là mua bán bằng tiền đâu, chị ạ. Em đã đổi một con chó lấy hai chú mèo con. Một con mèo giá mười ngàn đồng đấy.",
+    "questions": [
+        "Con chó nhà Giang sinh bao nhiêu con?",
+        "Vì sao cha muốn cho bớt chó con đi?",
+        "Chị Liên đã bàn điều gì với Giang?",
+        "Giang đã đưa ra ý kiến gì với chị khi bố bảo phải cho bớt đi?",
+        "Cách thức bán chó của Giang như thế nào?"
+    ],
+    "options": [
+        [
+            "Một con.",
+            "Bốn con.",
+            "Sáu con.",
+            "Tám con."
+        ],
+        [
+            "Vì cha không thích chó con.",
+            "Vì bố thích đem cho người khác.",
+            "Vì nhà hàng xóm xin từ trước.",
+            "Vì nhiều quá, nuôi không xuể."
+        ],
+        [
+            "Đem cho chó con.",
+            "Nuôi thêm mèo con.",
+            "Nuôi tất cả chúng.",
+            "Không nuôi con nào."
+        ],
+        [
+            "Giữ chó con lại nuôi.",
+            "Bán chó con.",
+            "Nuôi thêm mèo.",
+            "Cho chó con."
+        ],
+        [
+            "Bán cho người hàng xóm.",
+            "Bán 1 con chó lấy 2 con mèo.",
+            "Bán 1 con chó được 20 nghìn tiền mặt.",
+            "Mang bán ngoài chợ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "A",
+        "B",
+        "B"
+    ]
+}

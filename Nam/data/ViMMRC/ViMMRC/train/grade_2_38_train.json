@@ -1,0 +1,57 @@
+{
+    "article": "1. Ngày xưa, loài người chưa biết làm nhà, phải ở hang núi. Về sau, nhiều người về đồng bằng và ven biển sinh sống. Đây là nơi Thần Gió hoành hành.\n\n2. Một hôm, Thần Gió gặp một người tên là Mạnh. Thần xô ông Mạnh ngã lăn quay. Ông lồm cồm bò dậy, nổi giận, quát:\n\n- Thật độc ác!\n\nThần Gió bay đi với tiếng cười ngạo nghễ.\n\n3. Từ đó, ông Mạnh quyết chống trả. Ông vào rừng lấy gỗ dựng nhà. Cả ba lần, nhà đều bị quật đổ. Cuối cùng, ông quyết định dựng một ngôi nhà thật vững chãi. Ông đẵn những cây gỗ lớn nhất làm cột, chọn những viên đá thật to làm tường. \n\n4. Ngôi nhà đã làm xong. Đêm ấy, Thần Gió lại đến đập cửa, thét:\n\n- Mở cửa ra!\n\n- Không! Sáng mai ta sẽ mở cửa mời ông vào.\n\nSáng hôm sau, mặt trời lên, ông Mạnh mở cửa, thấy cây cối xung quanh đổ rạp. Rõ ràng đêm qua Thần Gió đã giận dữ, lồng lộn mà không thể xô đổ ngôi nhà.\n\n5. Mấy tháng sau, Thần Gió đến nhà ông Mạnh, vẻ ăn năn. Ông  Mạnh an ủi và mời Thần thỉnh thoảng tới chơi. Từ đó, Thần Gió thường đến thăm, đem cho ngôi nhà không khí mát lành từ biển cả và hương thơm ngào ngạt của các loài hoa.",
+    "questions": [
+        "Vị thần nào là nhân vật chính trong câu chuyện này?",
+        "Những vị thần nào được nhắc đến trong câu chuyện này?",
+        "Thần gió hoành hành ở khu vực nào?",
+        "Thần gió đã xô ai té ngã?",
+        "Để chống sự hoành hành của thần gió, ông Mạnh đã làm gì?",
+        "Vì sao ngôi nhà ông Mạnh không bị xô đổ?"
+    ],
+    "options": [
+        [
+            "Thần Nước.",
+            "Thần Núi.",
+            "Thần Gió.",
+            "Thần Lửa."
+        ],
+        [
+            "Thần gió và thần sấm.",
+            "Thần nước và thần lửa.",
+            "Ông Mạnh và thần sông.",
+            "Ông Mạnh và thần gió."
+        ],
+        [
+            "Đồng bằng và ven biển.",
+            "Đồi núi.",
+            "Cao nguyên.",
+            "Hang núi."
+        ],
+        [
+            "Ông Mạnh.",
+            "Cây cối.",
+            "Cột.",
+            "Cây gỗ lớn."
+        ],
+        [
+            "Quyết định xây dựng ngôi nhà thật vững chắc.",
+            "Di cư đến khu vực khác.",
+            "Đi vào rừng ở.",
+            "Quay trở lại hang sinh sống."
+        ],
+        [
+            "Bởi vì ông Mạnh đã dùng những cây gỗ lớn nhất làm cột và những viên đá thật to làm tường, nên ngôi nhà rất vững chắc.",
+            "Do ông đã chiến đấu với thần gió một cách kiên cường.",
+            "Do thần gió hôm đó quá mệt.",
+            "Vì thần gió đã nương tay với ngôi nhà ông Mạnh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "A",
+        "A",
+        "A",
+        "A"
+    ]
+}

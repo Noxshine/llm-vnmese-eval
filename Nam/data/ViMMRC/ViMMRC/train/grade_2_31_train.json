@@ -1,0 +1,73 @@
+{
+    "article": "Xưa có một anh chàng mồ côi cha mẹ nhưng chẳng chịu học hành, làm lụng gì cả. Hằng ngày, anh ta cứ nằm ngửa dưới gốc cây sung, há miệng ra thật to, chờ cho sung rụng vào thì ăn. Nhưng đợi mãi mà chẳng có quả sung nào rụng trúng miệng. Bao nhiêu quả rụng đều rơi chệch ra ngoài.\n\nChợt có người đi qua đường, chàng lười gọi lại, nhờ nhặt sung bỏ hộ vào miệng. Không may, gặp phải một tay cũng lười. Hắn ta lấy hai ngón chân cặp quả sung, bỏ vào miệng cho chàng lười. Anh chàng bực lắm, gắt:\n\n- Ôi chao! Người đâu mà lười thế!",
+    "questions": [
+        "Anh chàng trong câu chuyện này là người như thế nào?",
+        "Tính cách của anh chàng trong truyện này là gì?",
+        "Anh chàng nằm dưới gốc cây sung để làm gì?",
+        "Anh chàng đợi mãi dưới gốc sung và có chuyện gì đã xảy ra?",
+        "Chàng trai lười biếng nhờ người qua đường làm giúp việc gì?",
+        "Người qua đường đã giúp chàng trai lười biếng này như thế nào?",
+        "Anh chàng lười đã thể hiện thái độ bực mình và gắt về điều gì với người qua đường?",
+        "Câu nói \"Người đâu mà lười thế!\" của anh chàng lười có gì đáng buồn cười?"
+    ],
+    "options": [
+        [
+            "Mồ côi, thông minh, sáng dạ và thi cử đỗ đạt.",
+            "Mồ côi, chăm chỉ học hành và chịu khó làm lụng.",
+            "Mồ côi, chẳng chịu học hành và làm lụng gì cả.",
+            "Chăm ngoan và học giỏi."
+        ],
+        [
+            "Lười biếng.",
+            "Chịu khó.",
+            "Biếng ăn.",
+            "Chăm chỉ."
+        ],
+        [
+            "Chờ có ông bụt xuất hiện.",
+            "Chờ có người giúp đỡ.",
+            "Chờ điều kì diệu xảy ra.",
+            "Chờ sung rụng vào mồm."
+        ],
+        [
+            "Một ông bụt đã xuất hiện để giúp chàng.",
+            "Quả sung rơi trúng miệng anh chàng.",
+            "Chẳng có quả sung nào rơi trúng miệng.",
+            "Người qua đường chê trách anh chàng."
+        ],
+        [
+            "Nhờ nhặt sung bỏ vào miệng cho mình.",
+            "Cùng nằm chờ sung rụng vào miệng.",
+            "Rung cây cho sung rụng vào miệng mình.",
+            "Nhờ họ mua thức ăn."
+        ],
+        [
+            "Dùng chân cặp quả sung bỏ vào miệng cho chàng lười.",
+            "Dùng tay nhặt quả sung bỏ vào miệng cho chàng lười.",
+            "Rung cây cho quả sung rơi trúng miệng anh chàng lười.",
+            "Chê trách anh chàng lười rồi bỏ đi."
+        ],
+        [
+            "Chao ôi! Người đâu mà chăm thế!.",
+            "Chao ôi! Sao anh bẩn thế!.",
+            "Chao ôi! Người đâu mà lười thế!.",
+            "Chao ôi! Cảm ơn anh nhé!."
+        ],
+        [
+            "Chàng lười lại đi cảm ơn người khác.",
+            "Chàng lười lại chịu đi nhờ người khác.",
+            "Chàng lười lại đi chê người khác lười.",
+            "Vì chàng lười quá siêng năng so với người khác."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "C",
+        "A",
+        "A",
+        "C",
+        "C"
+    ]
+}

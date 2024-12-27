@@ -1,0 +1,65 @@
+{
+    "article": "Em về quê ngoại nghỉ hè\nGặp đầm sen nở mà mê hương trời.\nGặp bà tuổi đã tám mươi\nQuên quên nhớ nhớ những lời ngày xưa.\n\nGặp trăng gặp gió bất ngờ,\nỞ trong phố chẳng bao giờ có đâu.\nBạn bè ríu rít tìm nhau\nQua con đường đất rực màu rơm phơi.\n\nBóng tre mát rợp vai người\nVầng trăng như lá thuyền trôi êm đềm.\nVề thăm quê ngoại, lòng em\nYêu thêm cuộc sống, yêu thêm con người:\n\nEm ăn hạt gạo lâu rồi\nHôm nay mới gặp những người làm ra.\nNhững người chân đất thật thà\nEm thương như thể thương bà ngoại em.",
+    "questions": [
+        "Bạn nhỏ từ đâu về thăm lại quê hương?",
+        "Quê ngoại bạn nhỏ ở nơi nào?",
+        "Qua hai câu thơ \"Bạn bè ríu rít tìm nhau / Qua con đường đất rực màu rơm phơi\" cho thấy điều gì đáng quý ở người nông thôn?",
+        "Từ \"chân đất\" trong bài thơ này nói lên điều gì?",
+        "Hai câu thơ \"Những người chân đất thật thà / Em thương như thể thương bà ngoại em.\" cho thấy bạn nhỏ nghĩ gì về những người làm ra hạt gạo?",
+        "Nội dung của bài thơ này là gì?",
+        "Từ \"người làm ra\" trong hai câu thơ \"Em ăn hạt gạo lâu rồi / Hôm nay mới gặp những người làm ra\" chỉ ai?"
+    ],
+    "options": [
+        [
+            "Nước ngoài.",
+            "Thành phố.",
+            "Trên nú.",
+            "Hải đảo."
+        ],
+        [
+            "Miền núi.",
+            "Nước ngoài.",
+            "Thành phố.",
+            "Nông thôn."
+        ],
+        [
+            "Người nông dân đôn hậu, chất phác, cần cù.",
+            "Trẻ nhỏ hồn nhiên, thân thiết, gắn bó với nhau.",
+            "Cụ già sống giản dị, mộc mạc, chân thật.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Người nông dân chân lấm tay bùn, vất vả nhưng cần cù.",
+            "Những người nhà quê đi chân đất, không đi dép.",
+            "Những người nghèo khó, khổ sở, sống tiết kiệm.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Họ rất lười biếng.",
+            "Họ rất giàu có, dư dả.",
+            "Họ rất nghèo khổ, khó khăn.",
+            "Họ rất thật thà, chấc phác."
+        ],
+        [
+            "Kỉ niệm của bạn nhỏ trong những năm tháng tuổi thơ.",
+            "Nỗi nhớ quê ngoại, nhớ người bà và người làng của bạn nhỏ.",
+            "Tình yêu cảnh vật và con người của bạn nhỏ trong một lần về thăm quê.",
+            "Niềm vui của bạn nhỏ trong kì nghỉ hè."
+        ],
+        [
+            "Người giàu có.",
+            "Người nghèo khổ.",
+            "Người nông dân.",
+            "Người địa chủ."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "A",
+        "D",
+        "C",
+        "C"
+    ]
+}

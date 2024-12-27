@@ -1,0 +1,49 @@
+{
+    "article": "Nằm ngay dưới chân núi Phú Sĩ hùng vĩ, bên bờ hồ Ta-nu-ki thơ mộng, trường học tiếp xúc với thiên nhiên thu hút hàng chục ngàn “học viên” mỗi năm.\n\nVào mùa hè, ngôi trường này có rất đông các bạn trẻ và cả người lớn tới đăng kí làm “học sinh”. Mỗi khóa học được tổ chức tại đây có thể kéo dài hai, ba ngày, một tuần hoặc nhiều hơn, tùy thuộc vào nhu cầu của từng nhóm học sinh. Các hoạt động trong ngôi trường này đều hướng đến một mục đích – Đó là tạo ra những cơ hội cho mọi người được tiếp xúc nhiều hơn, trải nghiệm nhiều hơn với thiên nhiên.\n\nĐược bao bọc bởi núi rừng ngút ngát, mái nhà lại được trồng cỏ nên nhìn từ xa, thật khó có thể phân biệt được đâu là trường học và đâu là màu xanh của lá rừng. Bên trong “ngôi nhà thiên nhiên” ấy có một hệ thống dẫn khí mát từ rừng vào để giảm nhiệt cho ngôi nhà thay vì sử dụng máy điều hòa. Năng lượng điện sử dụng cho việc thắp sáng bên trong cũng được tận dụng từ thiên nhiên: Năng lượng gió!\n\n“Nội thất” của ngôi trường không hề “lạc điệu” so với cái tên. Các bạn hãy nhìn mà xem, trên nền nhà bằng gỗ có in vô số những bàn chân của những sinh vật sống trong rừng. Thùng thư bằng lá cây đan một cách khéo léo và gí để đồ mi-ni lại mô phỏng những chiếc tổ chim ngộ nghĩnh. Bốn mặt tiếp xúc của ngôi trường với đồi núi và cây rừng được làm bằng kính trong suốt nên có thể cây cối, chim muông ở thật gần.\n\nKhông chỉ chiêm ngưỡng và thưởng thức, ngôi trường này cũng có thể giúp bạn trở thành một nhà nghiên cứu nhỏ tuổi hay chỉ đơn giản là một “người bạn” gần gũi với thiên nhiên. Đã có rất nhiều đoàn học sinh đễn đây và tổ chức các hoạt động trải nghiệm: Tham gia lớp học gọi chim, lớp học khinh khí cầu, chăm sóc rừng, chăn nuôi gia súc, nghiên cứu về hồ, nước ngầm, thảm thực vật, các động vật quý hiếm, thám hiểm núi lửa, hang động, …\n\nTiếp xúc với thiên nhiên bằng mắt, bằng những bài học, bằng cả những giác quan và niềm say mê nghiên cứu… đó là điều đặc biệt thú vị mà ngôi trường đã, đang và sẽ mang đến cho các “du khách học trò”.",
+    "questions": [
+        "Những lớp học nào mang nhiều trải nghiệm thiên nhiên cho học sinh?",
+        "Người ta làm mát ngôi nhà bằng cách nào?",
+        "Năng lượng điện dùng trong trường học này lấy từ đâu?",
+        "Bạn có thể tham gia những lớp học nào ở ngôi trường này?",
+        "Hồ Ta-nu-ki ở nước nào?"
+    ],
+    "options": [
+        [
+            "Lớp học về gọi chim, khinh khí cầu, chăm sóc rừng, chăn nuôi gia súc, hồ, nước ngầm, thảm thực vật, các động vật quý hiếm, thám hiểm núi lửa, hang động, ...",
+            "Lớp học về động vật.",
+            "Lớp học về chim.",
+            "Lớp học về hồ, ao, sông nước, ..."
+        ],
+        [
+            "Lắp điều hòa nhiệt độ.",
+            "Lắp hệ thống ống dẫn khí mát từ rừng vào.",
+            "Lắp máy giảm nhiệt độ.",
+            "Lắp máy quay."
+        ],
+        [
+            "Từ thiên nhiên.",
+            "Từ nhà máy thủy điện.",
+            "Từ nhà máy nhiệt điện.",
+            "Từ những ngôi làng."
+        ],
+        [
+            "Lớp học múa, hát; lớp học Toán và Tiếng Anh.",
+            "Lớp học thể dục thể thao.",
+            "Lớp học khinh khí cầu, chăm sóc rừng, chăn nuôi gia súc, nghiên cứu về hồ, nước ngầm, thảm thực vật,….",
+            "Lớp học về ngoại ngữ."
+        ],
+        [
+            "Nhật.",
+            "Hàn.",
+            "Mỹ.",
+            "Trung Quốc."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "C",
+        "A"
+    ]
+}

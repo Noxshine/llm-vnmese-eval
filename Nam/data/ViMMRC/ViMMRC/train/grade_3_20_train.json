@@ -1,0 +1,49 @@
+{
+    "article": "Kim đồng hồ chỉ 9 giờ 7 phút. Tôi nghe thấy một tiếng nổ kinh khủng và cảm thấy con tàu đang bay lên một cách chậm chạp.\n\nMặt đất thông báo: \"Đã bay được 70 giây.\" Tôi không còn ngồi trên ghế này được nữa, mà treo lơ lửng giữa trần và sàn tàu. Tất cả bỗng nhiên nhẹ hẳn. Tay, chân và mọi bộ phận cơ thể như không còn của tôi nữa. Tất cả đồ đạc cũng bay. Suốt thời gian đó, tôi vẫn làm việc, theo dõi các thiết bị của con tàu, ghi chép mọi nhận xét vào cuốn sổ. Có lúc tôi quên mình đang ở đâu, đặt bút chì xuống cạnh người và lập tức nó bay ra xa.\n\nTôi nhìn thấy những dải mây nhẹ nhàng trôi trên trái đất thân yêu xa xôi, những ngọn núi, dòng sông, cánh rừng và bờ biển. Trên bầu trời đen có những ngôi sao sáng rực. Mặt trời so với lúc nhìn từ trái đất cũng rực rỡ hơn nhiều.",
+    "questions": [
+        "Ga-ga-rin là người nào?",
+        "Ga-ga-rin bắt đầu chuyến bay tới nơi nào?",
+        "Lúc bắt đầu bay, anh Ga-ga-rin đã cảm thấy thế nào?",
+        "Từ khi tàu xuất phát thì sau bao lâu thì Ga-ga-rin rơi vào trạng thái \"lơ lửng\"?",
+        "Ga-ga-rin đã làm gì trong khoảng thời gian bay?"
+    ],
+    "options": [
+        [
+            "Là công dân Anh, người đầu tiên đi vòng quanh trái đất.",
+            "Là công dân Đức, người đầu tiên chế tạo ra tàu vũ trụ.",
+            "Là công dân Liên Xô, người đầu tiên bay vào vũ trụ.",
+            "Là người Bồ Đào Nha, khám phá ra châu Mỹ."
+        ],
+        [
+            "Vũ trụ.",
+            "Mĩ.",
+            "Sao hỏa.",
+            "Vòng quanh trái đất."
+        ],
+        [
+            "Buồn phiền.",
+            "Vui sướng.",
+            "Căng thẳng.",
+            "Vội vàng."
+        ],
+        [
+            "7 phút.",
+            "7 giờ.",
+            "70 giây.",
+            "9 giờ."
+        ],
+        [
+            "Ga-ga-rin làm việc, theo dõi các thiết bị của con tàu, ghi chép mọi nhận xét vào cuốn sổ.",
+            "Ga-ga-rin vẫn làm việc, theo dõi thiết bị trên tàu và ghi chép; nhìn ngắm khung cảnh bên ngoài.",
+            "Ga-ga-rin nhìn ngắm khung cảnh bên ngoài.",
+            "Nghe nhạc để giảm căng thẳng."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "C",
+        "B"
+    ]
+}

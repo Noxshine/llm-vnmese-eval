@@ -1,0 +1,113 @@
+{
+    "article": "Em yêu màu đỏ:\nNhư máu con tim,\nLá cờ Tổ quốc,\nKhăn quàng đội viên.\n\nEm yêu màu xanh:\nĐồng bằng, rừng núi,\nBiển đầy cá tôm, \nBầu trời cao vợi.\n\nEm yêu màu vàng:\nLúa đồng chín rộ,\nHoa cúc mùa thu,\nNắng trời rực rỡ.\n\nEm yêu màu trắng:\nTrang giấy tuổi thơ,\nĐóa hoa hồng bạch,\nMái tóc của bà.\n\nEm yêu màu đen:\nHòn than óng ánh,\nĐôi mắt bé ngoan,\nMàn đêm yên tĩnh.\n\nEm yêu màu tím:\nHoa cà, hoa sim,\nChiếc khăn của chị,\nNét mực chữ em.\n\nEm yêu màu nâu:\nÁo mẹ sờn bạc,\nĐất đai cần cù, \nGỗ rừng bát ngát.\n\nTrăm nghìn cảnh đẹp\nDành cho bé ngoan\nEm yêu tất cả\nSắc màu Việt Nam.",
+    "questions": [
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Như máu con tim  Lá cờ Tổ quốc,   Khăn quàng đội viên",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Đồng bằng, rừng núi  Biển đầy cá tôm,  Bầu trời cao vợi.",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Lúa đồng chín rộ,  Hoa cúc mùa thu  Nắng trời rực rỡ",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu...  Hoa cà, hoa sim  Chiếc khăn của chị  Nét mực chữ em",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Trang giấy tuổi thơ  Đóa hoa hồng bạch  Mái tóc của bà",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Áo mẹ sờn bạc  Đất đai cần cù  Gỗ rừng bát ngát",
+        "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu ...  Hòn than óng ánh  Đôi mắt bé ngoan  Màn đêm yên tĩnh",
+        "Bạn nhỏ yêu những sắc màu nào?",
+        "Sắc màu đỏ gợi ra những hình ảnh nào?",
+        "Màu xanh trong bài \"Sắc màu em yêu\" gợi ra những hình ảnh nào?",
+        "Màu vàng trong bài \"Sắc màu em yêu\" gợi ra những hình ảnh nào?",
+        "Màu tím trong bài \"Sắc màu em yêu\" gợi ra những hình ảnh nào?",
+        "Màu trắng trong bài \"Sắc màu em yêu\" gợi ra những hình ảnh nào?"
+    ],
+    "options": [
+        [
+            "Tím.",
+            "Cam.",
+            "Đỏ.",
+            "Vàng."
+        ],
+        [
+            "Xanh.",
+            "Cam.",
+            "Trắng.",
+            "Đỏ."
+        ],
+        [
+            "Cam.",
+            "Xanh.",
+            "Vàng.",
+            "Hồng."
+        ],
+        [
+            "Đen.",
+            "Xanh.",
+            "Hồng.",
+            "Tím."
+        ],
+        [
+            "Xanh.",
+            "Trắng.",
+            "Hồng.",
+            "Đen."
+        ],
+        [
+            "Nâu.",
+            "Xanh.",
+            "Xám.",
+            "Trắng."
+        ],
+        [
+            "Nâu.",
+            "Đen.",
+            "Trắng.",
+            "Xám."
+        ],
+        [
+            "Vàng, đỏ, trắng, tím, nâu.",
+            "Xanh, đỏ, hồng, tím, lam.",
+            "Tất cả sắc màu.",
+            "Trắng, xám, đỏ, đen, nâu."
+        ],
+        [
+            "Máu con tim, cờ Tổ quốc, khăn quàng đỏ.",
+            "Con tôm luộc, cầu Thê Húc, mặt trời mọc.",
+            "Bông hoa hồng, quả gấc chín, trái bóng bay..",
+            "Máu trong tim, mặt trời mọc, chùm quả chín.."
+        ],
+        [
+            "Cây xanh, ước mơ, bầu trời, đồi núi.",
+            "Hoa sim, đồng lúa chín, trang giấy vở.",
+            "Đồng bằng rừng núi, biển cả cá tôm, bầu trời.",
+            "Khăn quàng, mái tóc bà, vai áo mẹ."
+        ],
+        [
+            "Lúa chín rộ, cúc mùa thu, nắng rực rỡ.",
+            "Áo mẹ, đất đai, gỗ rừng, đàn chim.",
+            "Hoa cà, hoa sim, khăn quàng, nét chữ.",
+            "Trang giấy, đóa hồng bạc, mái tóc bà."
+        ],
+        [
+            "Hòn than, màn đêm, đôi mắt của bé.",
+            "Đóa hồng, trang giấy, mái tóc của bà.",
+            "Rặng tre, ngọn núi, ước mơ, tà áo dài.",
+            "Hoa cà, hoa sim, chiếc khăn, nét mực."
+        ],
+        [
+            "Hoa cà hoa sim, nét mực chữ em, chiếc khăn của chị.",
+            "Vai áo mẹ, đất đai cần cù, gỗ rừng bát ngát.",
+            "Trang giấy tuổi thơ, đóa hồng bạch, mái tóc bà.",
+            "Lúa chín, cúc mùa thu, nắng trời rực rỡ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "C",
+        "B",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "A",
+        "D",
+        "C"
+    ]
+}

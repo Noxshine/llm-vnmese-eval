@@ -1,0 +1,73 @@
+{
+    "article": "1. Thấy Ngựa đang ăn cỏ, Sói thèm rỏ dãi. Nó toan xông đến ăn thịt Ngựa, nhưng lại sợ Ngựa chạy mất. Nó bèn kiếm một cặp kính đeo mắt, một ống nghe cặp vào cổ, một áo choàng khoác lên người, một chiếc mũ thêu chữ thập đỏ chụp lên đầu. Xong, nó khoan thai tiến về phía Ngựa.\n\n2. Sói đến gần, Ngựa mới phát hiện ra. Biết là cuống lên thì chết, Ngựa bình tĩnh đợi xem Sói giở trò gì.\n\nSói đến gần Ngựa, giả giọng hiền lành, bảo:\n\n- Bên xóm mời ta sang khám bệnh. Ta đi ngang qua đây, nếu cậu có bệnh, ta chữa giúp cho.\n\nNgựa lễ phép:\n\n- Cảm ơn bác sĩ. Cháu đau chân quá. Ông làm ơn chữa giúp cho. Hết bao nhiêu tiền, cháu xin chịu.\n\nSói đáp:\n\n- Chà! Chà! Chữa làm phúc, tiền với nong gì. Đau thế nào? Lại đây ta xem.\n\n- Đau ở chân sau đấy ạ. Phiền ông xem giúp.\n\n3. Sói mừng rơn, mon men lại phía sau, định lựa miếng đớp sâu vào đùi Ngựa cho Ngựa hết đường chạy.\n\nNgựa nhón nhón chân sau, vờ rên rỉ. Thấy Sói đã cúi xuống đúng tầm, nó tung vó đá một cú trời giáng, làm Sói bật ngửa, bốn cẳng huơ giữa trời, kính vỡ tan, mũ văng ra...",
+    "questions": [
+        "Những con vật nào được nhắc đến trong bài đọc?",
+        "Sự thèm thuồng của Sói khi thấy Ngựa được miêu tả như thế nào?",
+        "Sói sợ điều gì khi xông đến ăn thịt con Ngựa?",
+        "Để lừa con Ngựa, Sói đã làm gì?",
+        "Ngựa có nhận ra Sói khi Sói giả làm bác sĩ không?",
+        "Ngựa đã bình tĩnh giả đau như thế nào khi biết Sói đang giả làm bác sĩ?",
+        "Thái độ của Sói như thế nào khi Ngựa nói đau chân sau?",
+        "Sói được xem là người như thế nào?"
+    ],
+    "options": [
+        [
+            "Cáo và Gà Trống.",
+            "Sói và Ngựa.",
+            "Sói và lợn rừng.",
+            "Con cáo và chùm Nho."
+        ],
+        [
+            "Thèm rỏ dãi.",
+            "Muốn nuốt chửng.",
+            "Hoa cả mắt.",
+            "Ứa nước mắt."
+        ],
+        [
+            "Có người thợ săn đang nấp.",
+            "Cả đàn ngựa xông vào đánh.",
+            "Ngựa chạy mất.",
+            "Có con sói khác đến tranh."
+        ],
+        [
+            "Sói giả làm bác sĩ.",
+            "Sói giả chết.",
+            "Sói giả vờ bị mù.",
+            "Sói giả vờ bị mù."
+        ],
+        [
+            "Ngựa có nhận ra nhưng vẫn bình tĩnh xem Sói giở trò gì.",
+            "Ngựa không nhận ra và vui vẻ trò chuyện với Sói.",
+            "Ngựa có nhận ra và cuống lên hí vang, bỏ chạy.",
+            "Ngựa không nhận ra và tưởng là một bác sĩ thật sự."
+        ],
+        [
+            "Cảm ơn bác sĩ. Cháu hoàn toàn khỏe mạnh, không cần chữa trị ở chỗ nào hết ạ.",
+            "Cảm ơn bác sĩ. Cháu thì khỏe mạnh nhưng đàn cháu có chị gái đang đau đẻ, nhờ ông giúp với.",
+            "Cảm ơn bác sĩ. Cháu đau chân quá. Ông làm ơn chữa giúp cho. Hết bao nhiêu tiền, cháu xin chịu.",
+            "Cảm ơn bác sĩ. Cháu đau chân phải quá. Ông làm ơn giúp cháu."
+        ],
+        [
+            "Nghi ngờ.",
+            "Mừng rơn.",
+            "Bồn chồn.",
+            "Buồn bã."
+        ],
+        [
+            "Kẻ lừa bịp.",
+            "Người thông minh.",
+            "Kẻ giàu có.",
+            "Kẻ ngu ngốc."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "A",
+        "A",
+        "C",
+        "B",
+        "A"
+    ]
+}

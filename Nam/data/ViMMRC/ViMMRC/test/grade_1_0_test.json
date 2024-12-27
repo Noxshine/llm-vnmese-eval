@@ -1,0 +1,57 @@
+{
+    "article": "Bác Hồ rất chăm rèn luyện thân thể. Hồi ở chiến khu Việt Bắc, sáng nào Bác cũng dậy sớm luyện tập. Bác tập chạy ở bờ suối. Bác còn tập leo núi. Bác chọn những ngọn núi cao nhất trong vùng để leo lên với đôi bàn chân không. Có đồng chí nhắc:\n\n- Bác nên đi giày cho khỏi đau chân.\n\n- Cảm ơn chú. Bác tập leo chân không cho quen.\n\nSau giờ tập, Bác tắm nước lạnh để luyện chịu đựng với giá rét.",
+    "questions": [
+        "Nội dung của câu chuyện này kể về việc gì?",
+        "Bác Hồ chọn những ngọn núi có đặc điểm như thế nào để leo?",
+        "Bác Hồ đã rèn luyện thân thể bằng những cách nào?",
+        "Người đồng chí khuyên Bác điều gì?",
+        "Để tăng khả năng chịu đựng với cái lạnh, Bác đã làm gì?",
+        "Vì sao Bác Hồ không sử dụng giày để leo núi?"
+    ],
+    "options": [
+        [
+            "Bác Hồ rèn luyện thân thể.",
+            "Bác Hồ ở chiến khu Việt Bắc.",
+            "Bác Hồ đi thăm trại nhi đồng.",
+            "Bác Hồ leo núi Việt Bắc."
+        ],
+        [
+            "Những ngọn núi thấp nhất.",
+            "Những ngọn núi cao nhất.",
+            "Những ngọn núi vừa không cao vừa không thấp.",
+            "Bác chọn những ngọn núi với độ dốc cao."
+        ],
+        [
+            "Dậy sớm luyện tập.",
+            "Chạy, leo núi và tập thể dục.",
+            "Chạy và leo núi.",
+            "Leo núi."
+        ],
+        [
+            "Nên leo núi một cách chậm rãi.",
+            "Nên đi dép khi leo núi.",
+            "Không nên đi giày khi leo núi.",
+            "Nên sử dụng giày khi leo núi."
+        ],
+        [
+            "Sử dụng nước lạnh để tắm.",
+            "Sử dụng nước nóng để tắm.",
+            "Tắm dưới đáy ao.",
+            "Không mặc áo trong trời đông lạnh lẽo."
+        ],
+        [
+            "Tăng khả năng thích nghi của việc leo núi bằng chân.",
+            "Tăng khả năng leo nhanh.",
+            "Tập leo núi một cách chuyên nghiệp.",
+            "Đó là một sở thích."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "B",
+        "D",
+        "A",
+        "A"
+    ]
+}

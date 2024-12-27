@@ -1,0 +1,81 @@
+{
+    "article": "Hay chạy lon ton\nLà gà mới nở\nVừa đi vừa nhảy\nLà em sáo xinh\nHay nói linh tinh\nLà con liếu điếu\nHay nghịch hay tếu\nLà cậu chìa vôi\nHay chao đớp mồi\nLà chim chèo bẻo\nTính hay mách lẻo\nThím khách trước nhà\nHay nhặt lân la\nLà bà chim sẻ\nCó tình có nghĩa\nLà mẹ chim sâu\nGiục hè đến mau\nLà cô tu hú\nNhấp nhem buồn ngủ\nLà bác cú mèo...",
+    "questions": [
+        "Con gà có đặc điểm gì?",
+        "Con sáo có đặc điểm gì?",
+        "Chim chìa vôi được mô tả với đặc điểm nào?",
+        "Chim chèo bẻo có đặc điểm gì?",
+        "Chim khách có đặc điểm gì đặc biệt?",
+        "Chim sẻ được mô tả gắn với đặc điểm nào?",
+        "Loài chim nào được mô tả là sống \"có tình có nghĩa\"?",
+        "Loài chim nào có đặc trưng với tiếng kêu gọi hè về?",
+        "Loài chim nào được mô tả là lúc nào cũng \"Nhấp nhem buồn ngủ\"?"
+    ],
+    "options": [
+        [
+            "Hay nghịch hay tếu.",
+            "Vừa đi vừa nhảy.",
+            "Chạy lon ton.",
+            "Hay nói linh tinh."
+        ],
+        [
+            "Có tình có nghĩa.",
+            "Hay nói linh tinh.",
+            "Vừa đi vừa nhảy.",
+            "Hay nghịch hay tếu."
+        ],
+        [
+            "Hay nghịch hay tếu.",
+            "Hay chao đớp mồi.",
+            "Hay nhặt lân la.",
+            "Hay nói linh tinh."
+        ],
+        [
+            "Hay nghịch hay tếu.",
+            "Hay chao đớp mồi.",
+            "Hay nhặt lân la.",
+            "Hay nói linh tinh."
+        ],
+        [
+            "Có tình có nghĩa.",
+            "Tính hay mách lẻo.",
+            "Hay chạy lon ton.",
+            "Hay nhặt lân la."
+        ],
+        [
+            "Hay nói linh tinh.",
+            "Hay chao đớp mồi.",
+            "Hay nhặt lân la.",
+            "Hay chạy lon ton."
+        ],
+        [
+            "Chim sẻ.",
+            "Chim sâu.",
+            "Chim chào mào.",
+            "Chim tu hú."
+        ],
+        [
+            "Sáo sậu.",
+            "Tu hú.",
+            "Ve.",
+            "Chào mào."
+        ],
+        [
+            "Chào mào.",
+            "Tu hú.",
+            "Cú mèo.",
+            "Sáo đen."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "B",
+        "B",
+        "C",
+        "B",
+        "B",
+        "C"
+    ]
+}

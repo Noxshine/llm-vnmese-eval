@@ -1,0 +1,49 @@
+{
+    "article": "Một nhà văn đã từng nói: \"Con người là động vật duy nhất biết cười.\"\n\nTheo một thống kê khoa học, mỗi ngày, trung bình người lớn cười 6 phút, mỗi lần cười kéo dài 6 giây. Một đứa trẻ trung bình mỗi ngày cười 400 lần.\n\nTiếng cười là liều thuốc bổ. Bởi vì khi cười, tốc độ thở của con người lên đến 100 ki-lô- mét một giờ, các cơ mặt được thư giãn thoải mái và não thì tiết ra một chất làm người ta có cảm giác sảng khoái, thỏa mãn. Ngược lại, khi người ta ở trong trạng thái nổi giận hoặc căm thù, cơ thể sẽ tiết ra một chất làm hẹp mạch máu.\n\nỞ một số nước, người ta đã dùng biện pháp gây cười để điều trị bệnh nhân. Mục đích của việc này là làm rút ngắn thời gian chữa bệnh và tiết kiệm tiền cho nhà nước.\n\nBởi vậy, có thể nói: ai có tính hài hước, người đó chắc chắn sẽ sống lâu hơn.",
+    "questions": [
+        "Con người không giống với những con vật ở điểm nào?",
+        "Khi con người trong trạng thái nổi giận hoặc căm thù, nó sẽ có hại như thế nào cho con người?",
+        "Tác dụng của việc tạo ra tiếng cười cho bệnh nhân là gì?",
+        "Theo bài đọc, người có tính hài hước có lợi ích là gì?",
+        "Qua bài đọc này, chúng ta rút ra được điều gì?"
+    ],
+    "options": [
+        [
+            "Con người biết đi bằng hai chân, con vật thì không.",
+            "Con người biết nấu chín thức ăn, con vật thì không.",
+            "Con người biết cười còn con vật thì không.",
+            "Con người có suy nghĩ, còn con vật thì không."
+        ],
+        [
+            "Con người sẽ yếu đuối, suy nhược, mệt mỏi.",
+            "Cơ thể sẽ tiết ra một chất làm hẹp mạch máu.",
+            "Cơ thể sẽ trở nên thư giãn, thoải mái.",
+            "Giận tốt cho cơ mặt và cơ gân cổ."
+        ],
+        [
+            "Để điều trị bệnh, rút ngắn thời gian chữa bệnh cho bệnh nhân và tiết kiệm tiền cho nhà nước.",
+            "Để điều trị bệnh cho bệnh nhân.",
+            "Để làm rút ngắn thời gian chữa bệnh và tiết kiệm tiền cho nhà nước.",
+            "Để bệnh nhân không cảm thấy đau đớn, bi quan."
+        ],
+        [
+            "Chữa bệnh được cho mọi người.",
+            "Thành công hơn trong cuộc sống.",
+            "Sống lâu hơn.",
+            "Giúp đỡ được nhiều người."
+        ],
+        [
+            "Nên cười đùa thoải mái trong bệnh viện.",
+            "Cần phải cười thật nhiều.",
+            "Cần biết sống một cách vui vẻ.",
+            "Nên cười  mọi lúc, mọi nơi."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "D",
+        "C",
+        "C"
+    ]
+}

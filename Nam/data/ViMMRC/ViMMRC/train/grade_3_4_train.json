@@ -1,0 +1,49 @@
+{
+    "article": "Những cây thông dáng thẳng tắp, hiên ngang giữa trời đất, không sợ nắng mưa. Lá thông trông như một chiếc kim dài và xanh bóng. Mỗi khi gió thổi, cả rừng thông vi vu reo lên cùng gió, làm cho ta không khỏi mê say.\n\nThông thường mọc trên đồi. Ở những nơi đất đai khô cằn thông vẫn xanh tốt như thường. Người ta trồng thông chủ yếu để lấy gỗ và nhựa. Đó là nguồn tài nguyên thiên nhiên rất quý báu.",
+    "questions": [
+        "Từ ngữ nào trong đoạn văn tả hình dáng cây thông?",
+        "Bộ phận nào của cây thông giống như chiếc kim dài?",
+        "Cây thông thường mọc ở đâu?",
+        "Ở nơi đất khô cằn, cây thông như thế nào?",
+        "Vì sao nói cây thông là nguồn tài nguyên quý báu?"
+    ],
+    "options": [
+        [
+            "Cao vút.",
+            "Thẳng tắp.",
+            "Xanh bóng.",
+            "Cong."
+        ],
+        [
+            "Lá cây.",
+            "Thân cây.",
+            "Rễ cây.",
+            "Tán cây."
+        ],
+        [
+            "Trong rừng.",
+            "Trên đồi.",
+            "Ven biển.",
+            "Đồng bằng."
+        ],
+        [
+            "Khô héo.",
+            "Xanh tốt.",
+            "Khẳng khiu.",
+            "Mơn mởn."
+        ],
+        [
+            "Vì cây cho bóng mát.",
+            "Vì cây cho quả thơm.",
+            "Vì cây cho gỗ và nhựa.",
+            "Vì cây cho nhiều hoa đẹp."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "C"
+    ]
+}

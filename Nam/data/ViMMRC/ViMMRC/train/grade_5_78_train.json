@@ -1,0 +1,49 @@
+{
+    "article": "Tôi sinh ra và lớn lên ở một bản hẻo lánh gần biên giới phía Bắc. Con đường từ huyện lị vào bản tôi rất đẹp.\n\nĐoạn đường dành riêng cho dân bản tôi đi về phải vượt qua một con suối to. Nước suối bốn mùa trong veo, rào rạt. Nước trườn qua kẽ đá, lách qua những mỏm đá ngầm tung bọt trắng xóa. Hoa nước bốn mùa xòe cánh trắng như trải thảm hoa đón mời khách gần xa đi về thăm bản.\n\nNhững ngày nắng đẹp, người đi trên đường nhìn xuống suối sẽ bắt gặp những đàn cá nhiều màu sắc tung tăng bơi lội. Cá như vẽ hoa, vẽ lá giữa dòng…. Bên trên đường là sườn núi thoai thoải. Núi cứ vươn mình lên cao, cao mãi. Con đường men theo một bãi rừng vầu, cây mọc san sát, thẳng tắp, dày như ống đũa. Đi trên đường, thỉnh thoảng khách còn gặp những cây cổ thụ. Có cây trám trắng, trám đen thân cao vút như đến tận trời… Những con lợn ục ịch đi lại ở ven đường, thấy người, giật mình hộc lên những tiếng dữ dội rồi chạy lê cái bụng quét đất. Những con gà mái dẫn con đi kiếm ăn cạnh đường gọi nhau nháo nhác…\n\nCon đường đã nhiều lần đưa tiễn người bản tôi đi công tác xa và cũng đã từng đón mừng cô giáo về bản dạy chữ. Nhưng dù ai đi đâu về đâu, khi bàn chân đã bén hòn đá, hòn đất trên con đường thân thuộc ấy thì chắc chắn sẽ hẹn ngày quay lại.",
+    "questions": [
+        "Con đường vào bản có những cảnh đẹp gì?",
+        "Trong câu “Hoa nước bốn mùa xòe cánh trắng như trải thảm hoa đón mời khách gần xa đi về thăm bản”, hoa nước là loại hoa gì?",
+        "Câu văn “Cá như vẽ hoa, vẽ lá giữa dòng…” ý nói gì?",
+        "Những cây cổ thụ mà khách gặp trên đường đi vào bản là những loại cây gì?",
+        "Bài văn tả cảnh gì?"
+    ],
+    "options": [
+        [
+            "Con suối, núi, rừng vầu, rừng trám.",
+            "Con thác, núi, rừng vầu, rừng trám, lợn gà.",
+            "Con suối, núi, rừng vầu, cây trám, lợn gà.",
+            "Con suối, núi, rừng vầu, lợn gà."
+        ],
+        [
+            "Một loại hoa mọc ở dưới nước.",
+            "Nước suối tung bọt trắng xóa xòe cánh như cánh hoa.",
+            "Một loại hoa ưa nước.",
+            "Một loại nước thiên nhiên."
+        ],
+        [
+            "Đàn cá nhiều màu sắc bơi lội dưới suối đẹp như hoa như lá.",
+            "Đàn cá nhiều màu sắc hình thù giống hoa giống lá.",
+            "Đàn cá biết vẽ hoa, vẽ lá.",
+            "Đàn cá biết vẽ hoa nhiều màu sắc."
+        ],
+        [
+            "Cây đa, cây vầu.",
+            "Cây vầu, cây trám.",
+            "Cây lim, cây chò.",
+            "Cây lim, cây trám."
+        ],
+        [
+            "Cảnh vật núi rừng biên giới phía Bắc.",
+            "Cảnh vật trong rừng núi phía Bắc.",
+            "Cảnh vật trên con đường vào bản ở vùng núi phía Bắc.",
+            "Cảnh suối nước ở vùng núi phía Bắc."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "C"
+    ]
+}

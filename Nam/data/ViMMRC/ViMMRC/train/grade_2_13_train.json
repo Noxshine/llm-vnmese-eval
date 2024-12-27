@@ -1,0 +1,65 @@
+{
+    "article": "1. Lớp học rộng rãi, sáng sủa và sạch sẽ nhưng không biết ai vứt một mẩu giấy ngay giữa lối ra vào. \n\n2. Cô giáo bước vào lớp, mỉm cười:\n\n- Lớp ta hôm nay sạch sẽ quá! Thật đáng khen! Nhưng các em có nhìn thấy mẩu giấy đang nằm ngay giữa cửa kia không?\n\n- Có ạ! - Cả lớp đồng thanh đáp.\n\n- Nào! Các em hãy lắng nghe và cho cô biết mẩu giấy đang nói gì nhé! - Cô giáo nói tiếp.\n\n3. Cả lớp im lặng lắng nghe. Được một lúc, tiếng xì xào nổi lên vì các em không nghe thấy mẩu giấy nói gì cả. Một em trai đánh bạo giơ tay xin nói. Cô giáo cười:\n\n- Tốt lắm! Em nghe thấy mẩu giấy nói gì nào?\n\n- Thưa cô, giấy không nói được đâu ạ!\n\nNhiều tiếng xì xào hưởng ứng: \"Thưa cô, đúng đấy ạ! Đúng đấy ạ!\"\n\n4. Bỗng một em gái đứng dậy tiến tới chỗ mẩu giấy, nhặt lên rồi mang bỏ vào sọt rác. Xong xuôi, em mới nói:\n\n- Em có nghe thấy ạ. Mẩu giấy bảo: \"Các bạn ơi! Hãy bỏ tôi vào sọt rác!\"\n\nCả lớp cười rộ lên thích thú. Buổi học hôm ấy vui quá!",
+    "questions": [
+        "Lớp học rộng rãi, sáng sủa nhưng xuất hiện thứ gì ở giữa lối ra vào?",
+        "Trong lớp học, mẩu giấy vụn nằm ở đâu?",
+        "Cô giáo đã nói gì khi bước vào lớp học?",
+        "Cô giáo đã yêu cầu cả lớp làm gì?",
+        "Khi cô giáo yêu cầu nghe mẫu giấy nói gì, cả lớp đã làm gì?",
+        "Cả lớp đã xì xào vì hưởng ứng điều gì?",
+        "Em gái đã nghe thấy mẩu giấy vụn nói gì?"
+    ],
+    "options": [
+        [
+            "Rác từ sọt bị đổ vương vãi ngay lối vào.",
+            "Túi nilon bẩn nằm nhay giữa lối vào.",
+            "Các bạn đùa nghịch làm đổ sột rác ngay lối vào.",
+            "Mẩu giấy vụn nằm ngay giữa lối vào."
+        ],
+        [
+            "Nằm ngay giữa dãy các bàn học.",
+            "Nằm ngay giữa lối ra vào.",
+            "Nằm ngang giữa hành lang.",
+            "Nằm ngay giữa bục giảng."
+        ],
+        [
+            "Cô khen lớp học sạch sẽ. .",
+            "Cô giáo chê lớp học hôm nay bẩn quá.",
+            "Cô giáo yêu cầu cả lớp hãy dọn sạch những mẩu giấy vụn nằm trên đất. .",
+            "Cô giáo đã chào lớp."
+        ],
+        [
+            "Hãy xem hôm nay bạn nào trực nhật mà đáng khen thế.",
+            "Hãy lắng nghe lời cô giáo nói.",
+            "Hãy xem ai là người sạch sẽ, gọn gàng nhất.",
+            "Hãy lắng nghe lời mẩu giấy vụn nói đang nói gì."
+        ],
+        [
+            "Im lặng lắng nghe yêu cầu của cô giáo .",
+            "Xì xào bàn tán về yêu cầu kì lạ .",
+            "Xì xào bàn tán về yêu cầu kì lạ im lặng lắng nghe lời mẩu giấy vụn .",
+            "Xì xào về lời của mẩu giấy vụn ."
+        ],
+        [
+            "Mẩu giấy nói với cả lớp hãy vứt mình vào sọt rác .",
+            "Điều cô giáo nói thật đúng, mẩu giấy nói rất nhiều .",
+            "Mẩu giấy đang nói điều gì đó .",
+            "Mẩu giấy không nói gì cả."
+        ],
+        [
+            "Hãy để tôi ở lối đi.",
+            "Đừng bỏ rơi tôi.",
+            "Hãy bỏ tôi vào sọt rác.",
+            "Đừng chú ý đến tôi."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "D",
+        "C",
+        "D",
+        "C"
+    ]
+}

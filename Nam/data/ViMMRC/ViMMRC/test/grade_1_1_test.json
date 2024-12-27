@@ -1,0 +1,57 @@
+{
+    "article": "Ngay giữa sân trường, sừng sững một cây bàng. Mùa đông, cây vươn dài những cành khẳng khiu, trụi lá. Xuân sang, cành trên cành dưới chi chít những lộc non mơn mởn. Hè về, những tán lá xanh um che mát một khoảng sân trường. Thu đến, từng chùm quả chín vàng trong kẽ lá.",
+    "questions": [
+        "Cây bàng được trồng ở đâu?",
+        "Khi xuân đến, cây bàng thay đổi như thế nào?",
+        "Trong bài đọc, bao nhiêu mùa được nhắc đến?",
+        "Mục đích chính của việc trồng cây bàng giữa sân trường?",
+        "Mùa nào, chúng ta chỉ thấy những cành cây trơ trịu lá?",
+        "Mùa nào trong năm, chúng ta có thể thấy những quả bàng xuất hiện trên những cây bàng?"
+    ],
+    "options": [
+        [
+            "Ngay giữa sân trường.",
+            "Trồng ở ngoài đường.",
+            "Trồng ở trong vườn điều.",
+            "Trồng gần mái hiên trường."
+        ],
+        [
+            "Cây vươn dài những cành khẳng khiu, trụi lá.",
+            "Cành trên cành dưới chi chít những lộc non mơn mởn.",
+            "Từng chùm quả chín vàng trong kẽ lá.",
+            "Cây bàng trổi dậy với những tàn lá xanh um tùm."
+        ],
+        [
+            "Một mùa.",
+            "Hai mùa.",
+            "Ba mùa.",
+            "Bốn mùa."
+        ],
+        [
+            "Che mát vào mùa hè và tạo môi trường xanh sạch đẹp.",
+            "Thu hoạch từng chùm quả chín.",
+            "Với mục đích kinh tế.",
+            "Vẫn chưa xác định mục đích."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa hạ.",
+            "Mùa thu.",
+            "Mùa đông."
+        ],
+        [
+            "Mùa hè.",
+            "Mùa thu.",
+            "Mùa đông.",
+            "Mùa nóng."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B"
+    ]
+}

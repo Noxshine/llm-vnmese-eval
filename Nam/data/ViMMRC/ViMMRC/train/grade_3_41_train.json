@@ -1,0 +1,89 @@
+{
+    "article": "Người nọ có một con lừa và một con ngựa. Một hôm, có việc đi xa, ông ta cưỡi ngựa, còn bao nhiêu đồ đạc thì chất lên lưng lừa. Dọc đường, lừa mang nặng, mệt quá, liền khẩn khoản xin với ngựa:\n\n- Chị ngựa ơi! Chúng ta là bạn đường. Chị mang đỡ tôi với, dù chỉ chút thôi cũng được. Tôi kiệt sức rồi.\n\nNgựa đáp:\n\n- Thôi, việc ai người nấy lo. Tôi không giúp chị đâu.\n\nLừa gắng quá, kiệt lực, ngã gục xuống và chết bên vệ đường. Người chủ thấy vậy bèn chất tất cả đồ đạc từ lưng lừa sang lưng ngựa. Ngựa bấy giờ mới rên lên:\n\n- Ôi, tôi mới dại dột làm sao! Tôi đã không muốn giúp lừa dù hỉ chút ít, nên bây giờ phải mang nặng gấp đôi.",
+    "questions": [
+        "Truyện kể về hai con vật nào?",
+        "Hoàn cảnh của lừa như thế nào?",
+        "Lừa đã xin với ngựa làm điều gì?",
+        "Ngựa đã nói như thế nào khi lừa nhờ vả?",
+        "Tại sao ngựa không giúp lừa?",
+        "Điều gì đã xảy ra khi lừa vẫn phải tiếp tục mang đồ nặng?",
+        "Khi lừa chết, người chủ đã làm gì đối với ngựa?",
+        "Câu chuyện kết thúc ra sao?",
+        "Cuối truyện, ngựa đã bày tỏ lên điều gì?",
+        "Truyện Lừa và ngựa muốn dạy chúng ta điều gì?"
+    ],
+    "options": [
+        [
+            "Ngựa và lừa.",
+            "Lừa và cáo.",
+            "Cáo và thỏ.",
+            "Ngựa và cáo."
+        ],
+        [
+            "Lừa phải chở bao nhiêu đồ đạc nặng, lừa mệt.",
+            "Lừa phải mang nhiều đồ đạc và bị chủ đánh thậm tệ.",
+            "Lừa vừa đẻ con nên không thể chở nhiều hàng hóa.",
+            "Lừa bị ốm và không thể chở được hàng hóa nặng."
+        ],
+        [
+            "Chị xin với ông chủ cho tôi nghỉ một lát. Tôi mệt quá!.",
+            "Chị mang đỡ tôi với, dù chỉ chút ít thôi. Tôi kiệt sức rồi.",
+            "Chị ngựa ơi! Hay là tôi với chị bỏ trốn đi.",
+            "Chị ngựa ơi! Chị đi chậm thôi đợi tôi với."
+        ],
+        [
+            "Thôi thế chị chở ông chủ đi, để tôi chở hàng hóa cho.",
+            "Hay để tôi xin ông chủ cho chị nghỉ một mát nhé.",
+            "Thôi, việc ai người nấy lo. Tôi không giúp chị được đâu.",
+            "Ừ, chị cứ đưa qua đây, tôi mang đỡ hàng hóa cho."
+        ],
+        [
+            "Vì ngựa ích kỉ, chỉ biết bản thân. Không muốn vất vả chở thêm đồ đạc.",
+            "Vì ngựa ghét lừa. Ngựa được con người yêu quý còn lừa thì không.",
+            "Vì ngựa cũng đang phải chở ông chủ, cũng đủ mệt lắm rồi.",
+            "Vì ngựa muốn tốt cho lừa, muốn lừa tự làm mọi việc."
+        ],
+        [
+            "Lừa từ đó ghét ngựa và không nói chuyện với ngựa nữa.",
+            "Lừa kiệt sức, trút bỏ hết đồ đạc trên lưng và chạy trốn.",
+            "Lừa bị gãy chân và không thể tiếp tục chở đồ đạc được nữa.",
+            "Lừa kiệt sức, ngã gục xuống và chết bên vệ đường."
+        ],
+        [
+            "Chất tất cả đồ đạc lên lưng ngựa rồi đi tiếp.",
+            "Đem chôn con lừa.",
+            "Bỏ lại đồ đạc và leo lên lưng ngựa đi tiếp.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chủ chia đồ đạc để lừa và ngựa mỗi con chở một nửa.",
+            "Lừa kiệt sức chết, ngựa phải chở toàn bộ số đồ đạc cho chủ.",
+            "Chủ tự mang đồ đạc còn để lừa và ngựa thảnh thơi.",
+            "Lừa bị gãy chân và ngựa phải chở toàn bộ số đồ đạc của chủ."
+        ],
+        [
+            "Lừa ơi! Chị hãy sống lại đi! Tôi hứa sẽ mang đồ đạc đỡ chị mà!.",
+            "Tôi mới dại dột làm sao! Vì không giúp lừa mà tôi phải mang nặng gấp đôi.",
+            "Tôi thương cho lừa quá! Rồi một ngày tôi cũng chết vì kiệt sức như lừa!.",
+            "Tôi kiệt sức mất! Tôi không được khỏe như lừa!."
+        ],
+        [
+            "Phải cố gắng vượt qua thử thách, không được rên la.",
+            "Phải giúp đỡ bạn bè lúc khó khăn hoạn, vì giúp bạn cũng là tự giúp mình.",
+            "Phải rèn luyện sức khỏe để có thể chở được nhiều đồ đạc nặng.",
+            "Phải để bạn tự lực làm mọi việc, không để bạn dựa dẫm hay nhờ vả."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "B",
+        "C",
+        "A",
+        "D",
+        "A",
+        "B",
+        "B",
+        "B"
+    ]
+}

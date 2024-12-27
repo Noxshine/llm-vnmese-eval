@@ -1,0 +1,49 @@
+{
+    "article": "Ha-li-ma lấy chồng được hai năm. Trước khi cưới, chồng nàng là một người dễ mến, lúc nào cũng tươi cười. Vậy mà giờ đây, chỉ thấy chàng cau có, gắt gỏng. Không biết làm thế nào, Ha-li-ma đến nhờ vị giáo sĩ già trong vùng giúp đỡ.\n\nVị giáo sĩ râu tóc bạc phơ nhìn vào mắt Ha-li-ma hồi lâu, rồi bảo:\n\n- Nếu con đem được ba sợi lông bờm của một con sư tử sống về đây, ta sẽ nói cho con bí quyết.\n\nNghe vậy, Ha-li-ma sợ toát mồ hôi. Nàng trở về, vừa đi vừa khóc.\n\nNhưng mong muốn hạnh phúc đã giúp nàng tìm ra cách làm quen với chúa sơn lâm. Tối đến, nàng ôm một con cừu non vào rừng. Thấy có mồi, sư tử gầm lên một tiếng, nhảy bổ tới. Ha-li-ma cũng hét lên khiếp đảm rồi ném con cừu xuống đất.\n\nMấy ngày liền, tối nào cũng được ăn món thịt cừu ngon lành trong tay Ha-li-ma, sư tử dần dần đổi tính. Nó quen với nàng, có hôm còn nằm cho nàng chải bộ lông bờm sau gáy.\n\nMột tối, khi sư tử đã no nê, nằm bên chân Ha-li-ma ngoan ngoãn như một con mèo lớn, Ha-li-ma khấn Đức A-la che chở cho nàng, rồi lén nhổ ba sợi lông bờm của nó. Con vật giật mình, chồm dậy. Nhưng bắt gặp ánh mắt dịu hiền của nàng, nó cụp mắt xuống, rồi lẳng lặng bỏ đi.\n\nHa-li-ma chạy ngay tới nhà giáo sĩ. Cụ già mỉm cười:\n\n- Chỉ trong ít ngày, bằng trí thông minh, lòng kiên nhẫn và cử chỉ dịu dàng, con đã thuần phục được một con sư tử hung dữ. Lẽ nào con không làm mềm lòng nổi một người đàn ông vốn yếu đuối hơn sư tử rất nhiều? Con đã nắm được bí quyết rồi đấy.",
+    "questions": [
+        "Ha-li-ma đến gặp vị giáo sĩ để làm gì?",
+        "Giáo sĩ có điều kiện gì cho Ha-li-ma trước khi đưa nàng lời khuyên?",
+        "Ha-li-ma nghĩ ra cách gì để làm thân với sư tử?",
+        "Khi bị lấy ba sợi lông bờm, phản ứng của con sư tử như thế nào?",
+        "Vì sao khi gặp ánh mắt của Ha-li-ma, con sư tử đang giận dữ bỗng \"cụp mắt xuống, rồi lẳng lặng bỏ đi\"?"
+    ],
+    "options": [
+        [
+            "Nhờ giáo sĩ cho lời khuyên làm thế nào để chồng nàng hết cai có, gắt gỏng, gia đình hạnh phúc như trước.",
+            "Nhờ giáo sĩ cho lời khuyên làm thế nào để chồng nàng nghe lời nàng.",
+            "Nhờ giáo sĩ tìm cách nói chuyện thuận hòa với chồng.",
+            "Nhờ giáo sĩ cho lời khuyên để gia đình hạnh phúc."
+        ],
+        [
+            "Nếu nàng đem được ba sợi lông bờm của một con hổ sống về, cụ sẽ nói cho nàng bí quyết.",
+            "Nếu nàng đem được ba sợi lông  của một con gấu sống về, cụ sẽ nói cho nàng bí quyết.",
+            "Nếu nàng đem được ba sợi lông bờm của một con sư tử sống về, cụ sẽ nói cho nàng bí quyết.",
+            "Nếu nàng đem được ba sợi lông  của một con cáo sống về, cụ sẽ nói cho nàng bí quyết."
+        ],
+        [
+            "Đem con cừu non nàng cho sư tử ăn tối này qua tối khác.",
+            "Đem con nai non nàng cho sư tử ăn tối này qua tối khác.",
+            "Đem con hươu non nàng cho sư tử ăn tối này qua tối khác.",
+            "Đem con dê non nàng cho sư tử ăn tối này qua tối khác."
+        ],
+        [
+            "Giật mình, chồm dậy, nhảy bổ lên người nàng.",
+            "Nó cụp mắt xuống, rồi lẳng lặng bỏ đi.",
+            "Chồm dậy rồi bỏ đi.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Vì ánh mắt của nàng làm cho con sư tử mềm lòng, không thể tức giận được.",
+            "Vì sư tử bao dung.",
+            "Vì ba sợi lông bờm không quan trọng.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

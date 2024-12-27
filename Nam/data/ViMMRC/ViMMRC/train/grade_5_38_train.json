@@ -1,0 +1,81 @@
+{
+    "article": "Mùa đông, giữa ngày mùa, làng quê toàn màu vàng - những màu vàng rất khác nhau.\n\n   Có lẽ bắt đầu từ những đêm sương sa thì bóng tối đã hơi cứng và sáng ngày ra thì trông thấy màu trời có vàng hơn thường khi. Màu lúa chín dưới đồng vàng xuộm lại. Nắng nhạt ngả màu vàng hoe. Trong vườn, lắc lư những chùm quả xoan vàng lịm không trông thấy cuống, như những chuỗi tràng hạt bồ đề treo lơ lửng. Từng chiếc lá mít vàng ối. Tàu đu đủ, chiếc lá sắn héo lại mở năm cánh vàng tươi. Buồng chuối đốm quả chín vàng. Những tàu lá chuối vàng ối xõa xuống như những đuôi áo, vạt áo. Nắng vườn chuối đương có gió lẫn với lá vàng như những vạt áo nắng, đuôi áo nắng,  vẫy vẫy. Bụi mía vàng xọng, đốt ngầu phấn trắng. Dưới sân, rơm và thóc vàng giòn. Quanh đóm con gà, con chó cũng vàng mượt. Mái nhà phủ một màu rơm vàng mới. Lác đác cây lụi có mấy chiếc lá đỏ. Qua khe giậu, ló ra mấy quả ớt đỏ chói. Tất cả đượm một màu vàng trù phú, đầm ấm lạ lùng. Không còn có cảm giác héo tàn hanh hao lúc sắp bước vào mùa đông. Hơi thở của đất trời, mặt nước thơm thơm, nhè nhẹ. Ngày không nắng, không mưa, hồ như không ai tưởng đến ngày hay đêm, mà chỉ mải miết đi gặt, kéo đá, cắt rạ, chia thóc hợp tác xã. Ai cũng vậy, cứ buông bát đũa lại đi ngay, cứ trở dậy là ra đồng ngay.",
+    "questions": [
+        "Những chi tiết nào về con người khiến bức tranh làng quê thêm sinh động?",
+        "Những chi tiết nào về thời tiết khiến bức tranh làng quê thêm sinh động?  Chọn phương án trả lời không chính xác.",
+        "Từ nào sau đây có nghĩa là \"màu vàng gợi cảm giác như có nước\"?",
+        "Từ nào sau đây có nghĩa là \"màu vàng gợi cảm giác như được phơi khô bởi nắng\"?",
+        "Từ nào sau đây có nghĩa là \"màu vàng gợi cảm giác ngọt ngào, mọng nước\"?",
+        "Từ nào sau đây có nghĩa là \"màu vàng gợi sự héo úa, tàn tạ, thiếu sức sống\"?",
+        "Từ nào sau đây có nghĩa là \"màu vàng cảm giác như còn mới, giàu sức sống\"?",
+        "Chọn từ thích hợp điền vào chỗ trống:  Người ốm thường có nước da xanh xao, vàng ... .",
+        "Bài \"Quang cảnh làng mạc ngày mùa\" thể hiện tình cảm gì của tác giả đối với quê hương?"
+    ],
+    "options": [
+        [
+            "Quanh đó, con gà, con chó cũng vàng mượt, mái nhà phủ màu vàng mới.",
+            "Ai cũng vậy, cứ buông bát đũa là đi ngay, cứ trở dậy là ra đồng ngay.",
+            "Ngày mùa, làng quê toàn màu vàng - những màu vàng rất khác nhau.",
+            "Buồng chuối đốm quả chín vàng."
+        ],
+        [
+            "Ai cũng cứ buông bát đũa là đi ngay, cứ trở đậy là ra đồng ngay.",
+            "Quang cảnh đượm một màu vàng trù phú, đầm ấm.",
+            "Không có cảm giác héo tàn hanh hao lúc sắp bước vào mùa đông.",
+            "Hơi thở của đất trời, mặt nước thơm thơm, nhè nhẹ."
+        ],
+        [
+            "Vàng xọng.",
+            "Vàng giòn.",
+            "Vàng mới.",
+            "Vàng mượt."
+        ],
+        [
+            "Vàng giòn.",
+            "Vàng lịm.",
+            "Vàng mượt.",
+            "Vàng tươi."
+        ],
+        [
+            "Vàng vọt.",
+            "Vàng ối.",
+            "Vàng lịm.",
+            "Vàng ửng."
+        ],
+        [
+            "Vàng vọt.",
+            "Vàng lịm.",
+            "Vàng mượt.",
+            "Vàng tươi."
+        ],
+        [
+            "Vàng ối.",
+            "Vàng tươi.",
+            "Vàng vọt.",
+            "Vàng giòn."
+        ],
+        [
+            "Vàng lịm.",
+            "Vàng xuộm.",
+            "Vàng vọt.",
+            "Vàng tươi."
+        ],
+        [
+            "Thể hiện tình yêu, sự gắn bó của tác giả với quê hương.",
+            "Thể hiện tình yêu cái đẹp, yêu màu vàng của tác giả.",
+            "Thể hiện sự miêu tả tỉ mĩ, kĩ lưỡng của tác giả về cảnh vật.",
+            "Thể hiện tác giả có hiểu biết về các sắc thái của màu vàng."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "A",
+        "A",
+        "C",
+        "A",
+        "B",
+        "C",
+        "A"
+    ]
+}

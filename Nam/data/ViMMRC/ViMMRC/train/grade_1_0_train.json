@@ -1,0 +1,49 @@
+{
+    "article": "Ôi lạ quá! Bỗng nhiên bé nhìn thấy mình biến thành cô bé tí hon. Những đóa hoa đang nở để đón mùa xuân. Còn bướm ong đang bay rập rờn. Nắng vàng làm những hạt sương lóng lánh. Thế mà bé cứ tưởng là bong bóng. Bé sờ vào, nó vỡ ra tạo thành một dòng nước cuốn bé trôi xuống đất. Bé sợ quá, thức dậy. Bé nói: “Thì ra mình nằm mơ.”.",
+    "questions": [
+        "Bài đọc miêu tả mùa nào trong năm?",
+        "Bướm ong đang bay được miêu tả như thế nào?",
+        "Bé tưởng cái gì là bong bóng ?",
+        "Câu chuyện trên được mô tả khi bé trong trạng thái nào?",
+        "Thứ gì đã tạo thành dòng nước và cuốn bé trôi xuống đất?"
+    ],
+    "options": [
+        [
+            "Mùa xuân.",
+            "Mùa thu.",
+            "Mùa hè.",
+            "Mùa đông."
+        ],
+        [
+            "Tung tăng.",
+            "Rập rờn.",
+            "Vù vù.",
+            "Như bong bóng."
+        ],
+        [
+            "Giọt nước mưa đọng trên lá.",
+            "Những hạt sương lóng lánh.",
+            "Chùm quả đẫm nước mưa sau cơn mưa.",
+            "Những con ong bướm mùa xuân."
+        ],
+        [
+            "Trong giấc mơ.",
+            "Giấc ngủ sâu.",
+            "Đang thức.",
+            "Đang đi chơi."
+        ],
+        [
+            "Hạt sương.",
+            "Bong bóng.",
+            "Nắng vàng.",
+            "Hoa."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "B",
+        "A",
+        "A"
+    ]
+}

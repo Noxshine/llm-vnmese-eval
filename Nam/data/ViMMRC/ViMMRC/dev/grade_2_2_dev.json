@@ -1,0 +1,81 @@
+{
+    "article": "1. Ở lớp cũng như ở nhà, bé Hà được coi là một cây sáng kiến.\n\nMột hôm, Hà hỏi bố:\n\n- Bố ơi, sao không có ngày của ông bà, bố nhỉ?\n\nThấy bố ngạc nhiên, Hà bèn giải thích:\n\n- Con đã có ngày 1 tháng 6. Bố là công nhân, có ngày 1 tháng 5. Mẹ có ngày 8 tháng 3. Còn ông bà thì chưa có ngày lễ nào cả.\n\nHai bố con bàn nhau lấy ngày lập đông hàng năm làm \"ngày ông bà\", vì khi trời bắt đầu rét, mọi người cần chăm lo sức khỏe cho các cụ già.\n\n2. Ngày lập đông đến gần. Hà suy nghĩ mãi mà chưa biết nên chuẩn bị quà gì biếu ông bà.\n\nBố khẽ nói vào tai Hà điều gì đó. Hà ngả đầu vào vai bố:\n\n- Con sẽ cố gắng, bố ạ.\n\n3. Đến ngày lập đông, các cô, các chú đều về chúc thọ ông bà. Ông bà cảm động lắm. Bà bảo:\n\n- Con cháu đông vui, hiếu thảo thế này, ông bà sẽ sống lâu trăm tuổi.\n\nÔng thì ôm lấy bé Hà, nói:\n\n- Món quà ông thích nhất hôm nay là chùm điểm mười của cháu đấy.",
+    "questions": [
+        "Sáng kiến của bé Hà là gì trong câu chuyện này?",
+        "Ngày 8/3 là ngày lễ gì?",
+        "Bé Hà đã giải thích vì sao phải chọn một ngày lễ cho ông bà?",
+        "Hai bố con Hà đã chọn ngày nào làm \"ngày ông bà\"?",
+        "Tại sao bố con Hà lại chọn ngày lập đông làm ngày lễ ông bà?",
+        "Ngày lập đông sắp đến, bé Hà lo lắng về điều gì?",
+        "Món quà của bé Hà đã tặng cho ông bà là gì?",
+        "Trong ngày lập đông, ông thích nhất món quà nào từ Hà?",
+        "Qua những hành động của bé Hà cho thấy cô bé là người như thế nào?"
+    ],
+    "options": [
+        [
+            "Tổ chức sinh nhật cho mẹ.",
+            "Chọn cho ông bà một ngày lễ.",
+            "Tổ chức mừng thọ cho ông bà.",
+            "Chọn cho bố mẹ một ngày lễ."
+        ],
+        [
+            "Quốc tế phụ nữ.",
+            "Quốc tế thiếu nhi.",
+            "Quốc khánh.",
+            "Ngày miền Nam hoàn toàn giải phóng."
+        ],
+        [
+            "Vì không có ông bà sẽ buồn.",
+            "Vì muốn tổ chức cho ông bà vui.",
+            "Vì ông bà không có ngày lễ nào cả.",
+            "Vì muốn tổ chức sinh nhật cho ông bà."
+        ],
+        [
+            "Ngày lập xuân.",
+            "Ngày Tết nguyên đán.",
+            "Ngày đầu hạ.",
+            "Ngày lập đông."
+        ],
+        [
+            "Vì khi trời trở rét, mọi người cần chăm lo nhiều hơn cho sức khỏe của các cụ già.",
+            "Vì khi trời rét, cả nhà quây quần bên nhau sẽ ấm áp hơn.",
+            "Vì mùa đông có ít các ngày lễ kỉ niệm.",
+            "Vì đó là thời điểm mùa cuối trong năm, mọi người rảnh rỗi."
+        ],
+        [
+            "Tổ chức ngày lễ của ông bà như thế nào.",
+            "Không biết ông bà có vui không.",
+            "Chưa biết tặng ông bà quà gì.",
+            "Không biết ông bà có mạnh khỏe không."
+        ],
+        [
+            "Chiếc áo len ấm.",
+            "Một cái hôn.",
+            "Chùm điểm mười.",
+            "Khăn len do Hà tự đan."
+        ],
+        [
+            "Chùm điểm mười của bé Hà.",
+            "Món quà mừng thọ của bố bé Hà.",
+            "Chiếc khăn len từ bà ngoại.",
+            "Lời chúc thọ từ các cô, các chú."
+        ],
+        [
+            "Hiếu động, thông minh, kính trọng và quan tâm đến ông bà.",
+            "Nhút nhát, tự ti và sống khép mình.",
+            "Ích kỉ, khó tính, hay khóc nhè và lí sự.",
+            "Lễ phép, kính trọng thầy cô giáo, hòa đồng với bạn bè."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "A",
+        "C",
+        "C",
+        "A",
+        "A"
+    ]
+}

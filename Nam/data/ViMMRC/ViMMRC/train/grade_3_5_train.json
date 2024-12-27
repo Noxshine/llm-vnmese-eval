@@ -1,0 +1,97 @@
+{
+    "article": "1. Hôm nay đã là hai mươi tám Tết. Chợ hoa trên đường Nguyễn Huệ đông nghịt người. Uyên cùng các bạn đi giữa những rừng hoa như đi trong mơ. Đang ríu rít chuyện trò, cả nhóm bỗng sững lại vì tiếng gọi:\n\n- Nè, sắp nhỏ kia, đi đâu vậy?\n\n2. Tưởng ai, té ra là nhỏ Phương. Uyên đáp:\n\n- Tụi mình đi lòng vòng tìm chút gì để kịp gửi ra Hà Nội cho Vân.\n\n- Có phải Vân hát dân ca ở trại hè Nha Trang không?\n\n- Phải đó. Mấy đứa mới nhận được thư Vân sáng nay.\n\n- Tết ngoài đó chắc vui lắm?\n\n- Vui nhưng mà lạnh dễ sợ luôn. Đây nè, mình đọc một đoạn thư của Vân nhé! - Vừa nói, Uyên vừa rút trong túi ra một tờ giấy - \"Hà Nội đang rạo rực trong những ngày giáp Tết. Trời cuối đông lạnh buốt. Những dòng suối hoa trôi dưới bầu trời xám đục và làn mưa bụi trắng xóa\". Viết hay quá, phải không?\n\n- Ước gì chúng mình gửi cho Vân được ít nắng phương Nam nhỉ! - Huê nói.\n\n3. Không ngờ điều ước của Huê lại gợi ra một sáng kiến. Phương reo lên:\n\n- Mình nghĩ ra rồi!\n\nCả đám trẻ nhao nhao:\n\n- Gì vậy? Gì vậy?\n\nPhương tủm tỉm cười, bí mật:\n\n- Tụi mình sẽ tặng nhỏ Vân một vật ngoài Bắc không có.\n\n- Vật gì vậy? - Cả bọn xoắn xuýt hỏi.\n\n- Một cành mai!\n\n- Một cành mai? - Tất cả sửng sốt, rồi cũng kêu lên - Đúng! Một cành mai chở nắng phương Nam.\n\nCả bọn hớn hở quay lại đầu đường Nguyễn Huệ, nơi một rừng mai vàng thắm đang rung rinh dưới nắng.",
+    "questions": [
+        "Uyên và các bạn đã đi đâu và vào dịp nào?",
+        "Chợ hoa ngày cận Tết có gì đặc biệt?",
+        "Khi nghe đọc thư Vân, các bạn biết được điều gì về Hà Nội?",
+        "Khi nghe đọc thư Vân, các bạn mong ước điều gì?",
+        "Khi nghe đọc thư Vân, các bạn đã khen điều gì?",
+        "Các bạn của Vân đã nghĩ ra ý tưởng gì?",
+        "Người nào đã nghĩ ra sáng kiến?",
+        "Món quà mà ngoài Bắc không có, đó là thứ gì?",
+        "Các bạn tặng cho Vân cành mai có gì đặc biệt?",
+        "Tại sao các bạn quyết định tặng cho Vân một cành mai?",
+        "Hãy đặt một tên khác cho bài đọc này?"
+    ],
+    "options": [
+        [
+            "Đi chợ hoa trên đường Nguyễn Huệ vào giáp Tết.",
+            "Đi chợ hoa mua cành đào Nhật Tân để bày tết.",
+            "Đi chợ hoa Quảng Bá vào ngày đầu năm.",
+            "Đi chợ hoa trên phố vào những ngày Tết vắng vẻ."
+        ],
+        [
+            "Chợ hoa đa dạng nhưng bán với giá khá đắt đỏ.",
+            "Đông nghịt người và có cả một rừng hoa.",
+            "Chợ hoa thưa thớt cả người lẫn các loại hoa.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Tết ngoài Bắc vui nhưng lạnh.",
+            "Tết ngoài Bắc rất ấm áp, hệt như miền Nam.",
+            "Tết ngoài Bắc cũng giống như tết ở trong Nam.",
+            "Tết ngoài Bắc rất nhàm chán, buồn tẻ."
+        ],
+        [
+            "Gửi cho Vân một ít đồ ăn phương Nam.",
+            "Gửi cho Vân một ít nắng phương Nam.",
+            "Gửi cho Vân một bức thư.",
+            "Vân vào miền Nam ăn Tết cùng các bạn."
+        ],
+        [
+            "Vân viết kịch quá.",
+            "Vân viết hay quá.",
+            "Vân viết đẹp quá.",
+            "Vân viết xấu quá."
+        ],
+        [
+            "Tặng Vân một con chim bồ câu.",
+            "Tặng Vân bộ đồ để đi chơi Tết.",
+            "Tặng Vân một bức thư chứa những cái hôn.",
+            "Tặng Vân vật ngoài Bắc không có."
+        ],
+        [
+            "Huệ.",
+            "Vân.",
+            "Uyên.",
+            "Phương."
+        ],
+        [
+            "Áo dài xứ Huế.",
+            "Cái bánh tét.",
+            "Một cành mai.",
+            "Một chút nắng."
+        ],
+        [
+            "Cành mai có gắn những bao lì xì.",
+            "Cành mai nở mãi không tàn.",
+            "Cành mai chở nắng phương Nam.",
+            "Cành mai nở hoa màu hồng."
+        ],
+        [
+            "Vì cành mai ngoài Bắc không có, nó rất đặc biệt.",
+            "Vì cành mai chở cái nắng phương Nam ấm áp.",
+            "Vì cành mai là thứ hoa không có ở Bắc, nó chở nắng phương Nam ấm áp.",
+            "Vì cành mai rất đắt tiền và quý giá."
+        ],
+        [
+            "Cành mai chở nắng phương Nam.",
+            "Tình bạn.",
+            "Gửi nắng ra Sài gòn.",
+            "Bạn Vân."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "B",
+        "D",
+        "D",
+        "C",
+        "C",
+        "C",
+        "A"
+    ]
+}

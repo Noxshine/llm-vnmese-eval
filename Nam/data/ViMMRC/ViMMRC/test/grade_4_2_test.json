@@ -1,0 +1,73 @@
+{
+    "article": "Chiếc xe cùng con ngựa Cú của anh Hoàng đưa tôi từ chợ quận trở về. Anh là con của chú Tư Khởi, người cùng xóm, nhà ở đầu cầu sắt. Nhà anh có hai con ngựa, con Ô với con Cú. Con Ô cao lớn, chạy buổi sáng chở được nhiều khách và khi cần vượt qua xe khác để đón khách, anh chỉ ra roi đánh gió một cái tróc là nó chồm lên. cất cao bốn vó, sải dài, và khi tiếng kèn anh bóp tò te tò te, thì nó qua mặt chiếc trước rồi. Còn con Cú, nhỏ hơn, vừa thấp lại vừa ngắn, lông vàng như lửa. Nó chạy buổi chiều, ít khách, nó sải thua con Ô, nhưng nước chạy kiệu rất bền. Cái tiếng vó của nó gõ xuống mặt đường lóc cóc, đều đều dễ thương. Tôi thích nó hơn con Ô, vì tôi có thể trèo lên lưng nó mà nó không đá. Mỗi lần về thăm nhà, tôi thường đi xe của anh. Anh cho tôi đi nhờ, không lấy tiền. Thỉnh thoảng đến đoạn đường vắng, anh trao cả dây cương cho tôi… Cầm được dây cương, giựt giựt cho nó chồm lên thú vị lắm.",
+    "questions": [
+        "Ý chính của bài văn là gì ?",
+        "Câu “Cái tiếng vó của nó gõ xuống mặt đường lóc cóc, đều đều thiệt dễ thương.” Miêu tả đặc điểm con ngựa nào ?",
+        "Vì sao tác giả thích con ngựa Cú hơn con ngựa Ô?",
+        "Vì sao tác giả rất thích thú khi đi xe ngựa của anh Hoàng?",
+        "Vì sao nhân vật \"tôi\" thích con Ô?",
+        "Tiếng gì của con ngựa thiệt dễ thương?",
+        "Con Cú, được mô tả như thế nào so với con Ô?",
+        "Những tên riêng nào được dùng trong bài đọc?"
+    ],
+    "options": [
+        [
+            "Nói về hai con ngựa kéo xe khách.",
+            "Nói về một chuyến đi xe ngựa.",
+            "Nói về cái thú đi xe ngựa.",
+            "Nói về cái thú đi xe bò."
+        ],
+        [
+            "Con ngựa Ô.",
+            "Con ngựa Cú.",
+            "Con gà.",
+            "Con chó."
+        ],
+        [
+            "Vì nó chở được nhiều khách.",
+            "Vì nước chạy kiệu của nó rất bền.",
+            "Vì có thể trèo lên lưng nó mà nó không đá.",
+            "Vì có một con ngựa rất đẹp."
+        ],
+        [
+            "Vì anh Hoàng là hàng xóm thân tình với tác giả, anh cho đi nhờ không lấy tiền.",
+            "Vì tác giả yêu thích hai con ngựa và thỉnh thoảng lại được cầm dây cương điều khiển cả chiếc xe ngựa.",
+            "Vì tác giả là chỗ thâm tình với chủ nhân của con ngựa và yêu thích con ngựa.",
+            "Vì con ngựa này quá đẹp và chạy rất nhanh."
+        ],
+        [
+            "Vì con Ô khi trèo lên lưng nó mà nó không đá.",
+            "Vì con Ô đẹp.",
+            "Vì con Ô chạy rất nhanh.",
+            "Vì con Ô được nhiều người chú ý."
+        ],
+        [
+            "Cái tiếng vó của nó.",
+            "Tiếng gõ xuống mặt đường.",
+            "Tiếng ngựa la.",
+            "Tiếng bước đi của con ngựa."
+        ],
+        [
+            "To và mạnh hơn.",
+            "Nhỏ hơn, vừa thấp lại vừa ngắn, lông vàng như lửa.",
+            "Chạy rất nhanh.",
+            "Đi khoẻ."
+        ],
+        [
+            "Cú và Ô.",
+            "Ô.",
+            "Cú, Ô, Tư và Hoàng.",
+            "Tư."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "C",
+        "A",
+        "C",
+        "B",
+        "C"
+    ]
+}

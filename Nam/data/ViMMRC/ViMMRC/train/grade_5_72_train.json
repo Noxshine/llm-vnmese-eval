@@ -1,0 +1,49 @@
+{
+    "article": "Hai cha con bước đi trên cát\nÁnh mặt trời rực rỡ biển xanh\nBóng cha dài lênh khênh\nBóng con tròn chắc nịch.\nSau trận mưa đêm rả rích\nCát càng mịn, biển càng trong\nCha dắt con đi dưới ánh mai hồng\nCon bỗng lắc tay cha khẽ hỏi:\n“Cha ơi!\nSao xa kia chỉ thấy nước thấy trời\nKhông thấy nhà, không thấy cây, không thấy người ở đó?”\nCha mỉm cười xoa đầu con nhỏ:\n“Theo cánh buồm đi mãi đến nơi xa\nSẽ có cây, có cửa, có nhà,\nNhưng nơi đó cha chưa hề đi đến.”\nCha lại dắt con đi trên cát mịn\nÁnh nắng chảy đầy vai,\nCha trầm ngâm nhìn mãi cuối chân trời.\nCon lại trỏ cánh buồm nói khẽ:\n“Cha mượn cho con  cánh buồm trắng nhé,\nĐể con đi…”\nLời của con hay tiếng sóng thầm thì\nHay tiếng của lòng cha từ một thời xa thẳm?\nLần đầu tiên trước biển khơi vô tận\nCha gặp lại mình trong những ước mơ con.",
+    "questions": [
+        "Đâu là câu hỏi của đứa con dành cho người cha của mình?",
+        "Những câu hỏi ngây thơ cho thấy con có ước mơ gì?",
+        "Ước mơ của con gợi cho cha nhớ đến điều gì?",
+        "Đâu là câu hỏi của đứa con dành cho người cha của mình?",
+        "Những câu hỏi ngây thơ cho thấy con có ước mơ gì?"
+    ],
+    "options": [
+        [
+            "Cha ơi! - Sao xa kia chỉ thấy nước thấy trời - Không thấy nhà, không thấy cây, không thấy người ở đó?",
+            "Bóng con tròn chắc nịch. - Sau trận mưa đêm rả rích - Cát càng mịn, biển càng trong - Cha dắt con đi dưới ánh mai hồng.",
+            "Hai cha con bước đi trên cát -  Ánh mặt trời rực rỡ biển xanh - Bóng cha dài lênh khênh.",
+            "Theo cánh buồm đi mãi đến nơi xa - Sẽ có cây, có cửa, có nhà, - Nhưng nơi đó cha chưa hề đi đến."
+        ],
+        [
+            "Ước mơ mọi trẻ em trên trái đất đều được sống trong vui vẻ, hạnh phúc.",
+            "Ước mơ được khám phá, tìm hiểu những điều chưa biết về biển cả và cuộc đời.",
+            "Ước mơ được mang tình yêu thương của mình đến mọi người.",
+            "Ước mơ được đi cùng cha đến mọi nơi."
+        ],
+        [
+            "Ước mơ của con gợi cho cha nhớ đến ước mơ thuở nhỏ của mình.",
+            "Ước mơ của con gợi cho cha nhớ đến tuổi học trò của mình.",
+            "Ước mơ của con gợi cho cha nhớ đến tuổi thơ của mình.",
+            "Ước mơ của con gợi cho cha nhớ đến kí ức của mình."
+        ],
+        [
+            "Bóng con tròn chắc nịch. - Sau trận mưa đêm rả rích - Cát càng mịn, biển càng trong - Cha dắt con đi dưới ánh mai hồng.",
+            "Cha ơi! - Sao xa kia chỉ thấy nước thấy trời - Không thấy nhà, không thấy cây, không thấy người ở đó?",
+            "Hai cha con bước đi trên cát -  Ánh mặt trời rực rỡ biển xanh - Bóng cha dài lênh khênh.",
+            "Theo cánh buồm đi mãi đến nơi xa - Sẽ có cây, có cửa, có nhà, - Nhưng nơi đó cha chưa hề đi đến."
+        ],
+        [
+            "Ước mơ mọi trẻ em trên trái đất đều được sống trong vui vẻ, hạnh phúc.",
+            "Ước mơ được đi cùng cha đến mọi nơi.",
+            "Ước mơ được khám phá, tìm hiểu những điều chưa biết về biển cả và cuộc đời.",
+            "Ước mơ được mang tình yêu thương của mình đến mọi người."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "C"
+    ]
+}

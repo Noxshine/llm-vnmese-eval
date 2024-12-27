@@ -1,0 +1,49 @@
+{
+    "article": "Ngày sinh nhật Thúy, mẹ đưa Thúy ra phố đồ chơi. Mẹ bảo Thúy chọn một thứ đồ chơi em thích nhất. Đi dọc gần hết phố đồ chơi, cô bé nhìn hoa cả mắt, vẫn không biết nên mua gì vì thứ nào em cũng thích. Đến cuối phố, thấy một bà cụ tóc bạc ngồi bán những con búp bê bằng vải giữa trời giá lạnh, Thúy kéo tay mẹ dừng lại. Bà cụ nhìn hai mẹ con Thúy, cười hiền hậu:\n- Cháu mua búp bê cho bà đi!\nThúy nhìn bà, rồi chỉ vào con búp bê được khâu bằng mụn vải xanh, mặt độn bông, hai con mắt được chấm mực không đều nhau:\n- Mẹ mua con búp bê này đi!\nTrên đường về, mẹ hỏi Thúy:\n- Sao con lại mua con búp bê này?\nThúy cười:\n- Vì con thương bà. Bà già bằng bà nội, mẹ nhỉ? Trời lạnh thế mà bà không được ở nhà, Con mua búp bê cho bà vui.",
+    "questions": [
+        "Ngày sinh nhật Thúy, mẹ tặng cho Thúy món quà gì?",
+        "Con búp bê Thuý chọn trông như thế nào?",
+        "Vì sao Thuý lại mua con búp bê đó?",
+        "Tại sao Thuý mua búp bê này?",
+        "Em bé trong bài này tên gì?"
+    ],
+    "options": [
+        [
+            "Mẹ cho Thuý ra phố đồ chơi mua món quà em thích nhất.",
+            "Mẹ tặng Thuý một con búp bê bằng vải.",
+            "Mẹ cho Thuý tiền.",
+            "Mẹ cho tiền mua búp bê."
+        ],
+        [
+            "Khâu bằng bông, mặt bằng vải mụn xanh, hai con mắt chấm mực không đều.",
+            "Khâu bằng mụn vải xanh, mặt độn bông, hai mắt đẹp long lanh.",
+            "Khâu bằng mụn vải xanh, mặt độn bông, hai mắt chấm mực không đều nhau.",
+            "Khâu bằng mụn vải xanh, mặt độn bông."
+        ],
+        [
+            "Vì em thích con búp bê đó.",
+            "Vì em thương bà phải bán hàng giữa trời giá lạnh.",
+            "Vì đi hết phố đồ chơi mà em không biết mua gì.",
+            "Vì em thương mẹ phải bán hàng giữa trời giá lạnh."
+        ],
+        [
+            "Vì em thích búp bê này.",
+            "Vì thương bà và bà bằng tuổi bà nội.",
+            "Vì trời lạnh.",
+            "Vì búp bê rất đẹp."
+        ],
+        [
+            "Thuý.",
+            "Cháu.",
+            "Bà.",
+            "Mẹ."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "B",
+        "A"
+    ]
+}

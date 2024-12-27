@@ -1,0 +1,49 @@
+{
+    "article": "Truyện ngụ ngôn “Rùa và Thỏ” chắc hẳn đã rất quen thuộc với chúng ta. Ở cuộc đua thứ nhất, thỏ vì chủ quan nên đã thua cuộc còn rùa kiên trì và bền bỉ nên giành chiến thắng. Câu chuyện chưa dừng lại ở đó và được được Roberto Goizueta, Giám đốc Điều hành của Coca Cola trong những năm 1980 phát triển thêm:\n\nSau cuộc đua thứ nhất, thỏ nhận ra rằng nó thua vì quá tự tin, bất cẩn và thiếu kỷ luật. Nếu nó không xem mọi thứ quá dễ dàng và chắc thắng thì rùa không thể nào có cửa hạ nó được. Vì thế, nó thách thức một cuộc đua mới. Rùa đồng ý. Ở cuộc đua thứ 2, thỏ chạy với tất cả sức lực của nó và chạy liền một mạch về đích. Nó bỏ xa rùa đến mấy dặm đường.\n\nRùa đã suy ngẫm kết quả và nhận ra rằng: nó không có cách nào để thắng được thỏ trên một đường đua như vậy. Nó suy nghĩ thêm và quyết định thách đố thỏ trong một cuộc đua khác, nhưng có chút thay đổi về đường đua. Thỏ đồng ý, rồi cả hai bắt đầu cuộc đua thứ ba. Như đã tự hứa với lòng mình là phải luôn nhanh, Thỏ bắt đầu chạy và chạy với tốc độ cao nhất cho tới bờ sông. Vạch đích còn đến 2km ở tận bên kia sông.Thỏ đành ngồi xuống và tự hỏi không biết phải làm sao để vượt sông. Trong lúc đó, rùa đã tới bên bờ sông, lội xuống sông và bơi sang bên kia sông, tiếp tục bò về đích.\n\nCâu chuyện vẫn chưa dừng lại.\n\nĐến đây, thỏ và rùa đã trở thành đôi bạn thân thiết và họ cùng nhau suy ngẫm. Cả hai nhận ra rằng cuộc đua sau cùng có lẽ sẽ có kết quả tốt hơn. Vì thế, chúng quyết định tổ chức một cuộc đua cuối cùng, nhưng chúng sẽ cùng chạy chung một đội. Cuộc đua bắt đầu, thỏ cõng rùa chạy đến bên bờ sông, rùa lội xuống sông và cõng thỏ bơi qua bên kia bờ sông. Lên đến bờ, thỏ lại cõng rùa đưa cả hai cùng về đích. Và chúng cùng nhận ra rằng đã về đích sớm hơn rất nhiều so với các lần đua trước.",
+    "questions": [
+        "Điều gì đã giúp thỏ chiến thắng ở cuộc đua thứ hai?",
+        "Chi tiết rùa thay đổi đường đua cho thấy điều gì?",
+        "Qua chiến thắng của rùa ở lần đua thứ 3, chúng ta rút ra bài học gì?",
+        "Dòng nào dưới đây nhận xét KHÔNG đúng về Rùa và Thỏ?",
+        "Câu tục ngữ nào dưới đây phù hợp để nói về  Rùa và Thỏ ở chặng đua cuối cùng?"
+    ],
+    "options": [
+        [
+            "Lòng tốt và vị tha.",
+            "Sự nhanh nhẹn và nỗ lực.",
+            "Lòng dũng cảm và may mắn.",
+            "Lòng trung thực và thẳng thắn."
+        ],
+        [
+            "Rùa hiểu rõ điểm mạnh, điểm yếu của mình và đối thủ.",
+            "Rùa rất thông minh.",
+            "Rùa rất ngưỡng mộ tài năng của thỏ.",
+            "Rùa hiểu rõ điểm mạnh, điểm yếu của mình và đối thủ và Rùa rất thông minh."
+        ],
+        [
+            "Muốn chiến thắng phải nỗ lực hết mình.",
+            "Muốn chiến thắng cần phải xác định được ưu thế của mình và biết chọn sân chơi phù hợp.",
+            "Muốn chiến thắng cần phải biết chớp lấy thời cơ.",
+            "Muốn chiến thắng thì phải siêng năng."
+        ],
+        [
+            "Cả Thỏ và Rùa đều không dễ đầu hàng hay nản chí sau thất bại.",
+            "Thỏ quyết tâm và cố gắng nhiều hơn sau khi phải thất bại cay đắng.",
+            "Rùa phải thay đổi chiến lược vì nó đã cố gắng hết sức mà chưa thành công.",
+            "Rùa và Thỏ là những con vật dễ bỏ cuộc."
+        ],
+        [
+            "Dù ai nói ngả nói nghiêng Lòng ta vẫn vững như kiềng ba chân.",
+            "Có chí thì nên.",
+            "Một cây làm chẳng nên non Ba cây chụm lại nên hòn núi cao.",
+            "Chớ thấy sóng cả mà rã tay chèo."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "C"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Ấy là lúc mọi công việc bề bộn đã xong. Tết đã qua được một ngày. Bánh chưng, chè kho, cỗ bàn, quần áo, đi chúc Tết,… tất cả đã đâu vào đấy một cách vui vẻ. Bây giờ, dưới ánh đèn phấn ấm cúng, trên chiếc ổ rơm còn thơm mùi lúa đồng, trong khói nhang thơm ngát,… chị tôi mới bóc cỗ tam cúc còn mới ra và nói: Nào…\n\nBao giờ cũng thế, chị ngồi một góc ổ rơm, tôi ngồi ghé bên cạnh để được lây cái hương thơm từ người chị, tóc chị tỏa ra mùi bồ kết, mùi nước lá mùi già, mùi xà phòng thơm thoảng từ tấm áo phin nõn trắng tinh chị chỉ mặc trong ba ngày Tết…và thứ hương gì mà tôi không hiểu nổi, chỉ biết từ đôi vai tròn của chị, từ cái miệng tươi như hoa…\n\nCon tượng vàng béo múp. Con mã điều hơi giống con dê. Con tốt đỏ đi đất, đầu đội nón dấu, tay cầm giáo. Con pháo cong cong. Con xe có hình hộp… Con chui sấp, con lật ngửa… Tiếng gọi một, gọi đôi, lúc tứ tử trình làng…Mỗi lúc được ăn “kết”, chị lại ôm choàng lấy tôi mà cười, không khí lại càng thêm vui vẻ. Lại có lúc “cả làng” cười phá lên vì tướng bà bị … té re… làm cho ba gian nhà như mở hội, và hương vị Tết càng nồng ấm, đúng là vui như Tết, mặc cho ngoài trời tối đen như mực, thỉnh thoảng vang kí cốp tiếng guốc ai về muộn.\n\nTiền đánh tam cúc chỉ là mấy que tăm hoặc mấy que diêm, có khi là mấy cùi cau khô long hạt, vậy mà mọi người say mê lạ.\n\nCàng chơi má chị tôi càng hồng lên. Có lẽ vì hơi ấm của ổ rơm, của ánh đèn, của khói nhang, của tiếng cười, của mùa xuân, của ánh mắt ai nhìn trộm… làm chị xao xuyến một điều gì…\n\nTết qua đi. Ổ rơm dẹp lại. Chị cho tôi cỗ bài còn mới. Bọn trẻ con chúng tôi cũng đánh tam cúc, mặc dầu mỗi ngày nó thiếu dần đi một vài cây, đánh lung tung, gọi lung tung, chẳng biết đứa nào được, đứa nào thua, vẫn vui dù không thể bằng tết có chị tôi bên cạnh.\n\nTôi đã mong biết bao nhiêu lại đến Tết sang năm, chờ chị tôi đến tối mùng một, giở cỗ bài mới không biết chị mua từ lúc nào, và nói: Nào…",
+    "questions": [
+        "Trong câu chuyện, cậu bé và chị gái đánh tam cúc vào thời gian nào?",
+        "Tại sao họ lại chọn vào thời gian đó để chơi?",
+        "Có những quân bài nào được kể đến trong cỗ bài tam cúc?",
+        "Có những cách đánh nào được kể đến trong câu chuyện?",
+        "Người thắng cuộc được thưởng gì?",
+        "Câu chuyện giới thiệu cho em biết điều gì?"
+    ],
+    "options": [
+        [
+            "Vào ngày Ba mươi Tết.",
+            "Vào sáng mùng một Tết.",
+            "Vào tối mùng một Tết.",
+            "Vào 30 Tết."
+        ],
+        [
+            "Vì lúc đó là thời gian dành để chơi.",
+            "Vì lúc đó mọi công việc bề bộn của ngày Tết đã xong.",
+            "Vì lúc đó họ mới có tiền mừng tuổi.",
+            "Vì lúc đó đã gần như hoàn thành các công việc."
+        ],
+        [
+            "Con tượng vàng – con mã điều – con tốt đỏ - con tướng ông –con pháo.",
+            "Con tượng vàng – con mã điều – con tốt đỏ –con pháo – con xe.",
+            "Con tượng vàng – con mã điều – con tốt đỏ - con tướng ông –con tướng bà.",
+            "Con tượng vàng – con mã điều – con tốt đỏ - con tướng ôn."
+        ],
+        [
+            "Gọi một - gọi đôi - tứ tử trình làng - ăn kết.",
+            "Gọi đôi – gọi ba – ăn kết – kết ba.",
+            "Gọi ba – tứ tử trình làng – kết ba.",
+            "Gọi một - gọi đôi - tứ tử trình làng."
+        ],
+        [
+            "Tiền bạc.",
+            "Búng tai người khác.",
+            "Tiền làm từ que tăm, que diêm, mấy cùi cau khô,….",
+            "Của báu."
+        ],
+        [
+            "Trò chơi đánh tam cúc.",
+            "Những kỉ niệm thủa ấu thơ về trò chơi đánh tam cúc của tác giả.",
+            "Trò chơi dân gian đánh tam cúc ở nông thôn Việt Nam.",
+            "Trò chơi dân gian."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "A",
+        "C",
+        "B"
+    ]
+}

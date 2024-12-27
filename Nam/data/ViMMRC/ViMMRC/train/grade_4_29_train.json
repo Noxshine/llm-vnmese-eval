@@ -1,0 +1,57 @@
+{
+    "article": "Mọi hôm mẹ thích vui chơi\nHôm nay mẹ chẳng nói cười được đâu\nLá trầu khô giữa cơi trầu\nTruyện Kiều gấp lại trên đầu bấy nay.\n\nCánh màn khép lỏng cả ngày\nRuộng vườn vắng mẹ cuốc cày sớm trưa\nNắng mưa từ những ngày xưa\nLặn trong đời mẹ đến giờ chưa tan.\n\nKhắp người đau buốt, nóng ran\nMẹ ơi! Cô bác xóm làng đến thăm\nNgười cho trứng, người cho cam\nVà anh y sĩ đã mang thuốc vào.\n\nSáng nay trời để mưa rào\nNắng trong trái chín ngọt ngào bay hương\nCả đời đi gió đi sương\nBây giờ mẹ lại lần giường tập đi.\n\nMẹ vui con có quản gì\nNgâm thơ, kể chuyện, rồi thì múa ca\nRồi con diễn kịch giữa nhà\nMột mình con sắm cả ba vai chèo.\n\nVì con, mẹ khổ đủ điều\nQuanh đôi mắt mẹ đã nhiều nếp nhăn\nCon mong mẹ khỏe dần dần\nNgày ăn ngon miệng, đêm nằm ngủ say.\n\nRồi ra đọc sách, cấy cày\nMẹ là đất nước, tháng ngày của con...",
+    "questions": [
+        "Vì sao mọi hôm mẹ thích vui chơi nhưng hôm nay mẹ chẳng nói cười được?",
+        "Câu thơ nào thể hiện sự quan tâm của xóm làng đối với mẹ của bạn nhỏ?",
+        "Tình yêu thương sâu sắc của bạn nhỏ đối với mẹ được bộc lộ qua chi tiết nào?",
+        "Vì sao tác giả viết \"Mẹ là đất nước, tháng ngày của con\"?",
+        "Nội dung của bài thơ này là gì?",
+        "Chi tiết nào cho thấy người mẹ đã già?"
+    ],
+    "options": [
+        [
+            "Mẹ đang bận làm việc, không thể vui chơi cùng bạn nhỏ.",
+            "Mẹ bị ốm, không thể tươi cười, làm việc được như mọi khi.",
+            "Mẹ bị mệt, mẹ không thích vui chơi.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Khắp người đau buốt, nóng ran.",
+            "Bây giờ mẹ lại lần giường tập đi.",
+            "Mẹ ơi! Cô bác xóm làng đến thăm.",
+            "Ngâm thơ, kể chuyện, rồi thì múa ca."
+        ],
+        [
+            "Bạn nhỏ cầu mong mẹ mau chóng khỏi ốm, luôn mạnh khỏe.",
+            "Bạn nhỏ thấu hiểu, thấm thía sự nhọc nhằn, vất vả, hy sinh của mẹ.",
+            "Bạn nhỏ diễn kịch, ca múa, kể chuyện cười để làm mẹ vui.",
+            "Bạn nhỏ làm mẹ vui, thấm thía nỗi vất vả và mong mẹ mau chóng khỏi ốm."
+        ],
+        [
+            "Bạn nhỏ rất được mẹ quan tâm.",
+            "Mẹ là người có ý nghĩa to lớn đối với bạn nhỏ.",
+            "Bạn nhỏ mong mẹ mau chóng khỏe lại.",
+            "Bạn nhỏ là tất cả những gì mẹ có, mẹ quan tâm."
+        ],
+        [
+            "Mẹ bị ốm và nhờ sự chăm sóc chu đáo của bạn nhỏ, mẹ bạn nhỏ đã dần dần khỏe lại.",
+            "Mẹ bị ốm, không thể làm việc nhà và bạn nhỏ đã chăm sóc mẹ để mẹ khỏe lại.",
+            "Sự hiếu thảo, lòng biết ơn, tình cảm sâu sắc của bạn nhỏ đối với người mẹ bị ốm.",
+            "Mẹ của bạn nhỏ bị ốm và bạn đã chăm sóc mẹ rất chu đáo."
+        ],
+        [
+            "Khổ vì con.",
+            "Mẹ chẳng nói chẳng cười.",
+            "Mắt đã có nhiều vết nhăn.",
+            "Đi gió đi sương."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "D",
+        "B",
+        "C",
+        "C"
+    ]
+}

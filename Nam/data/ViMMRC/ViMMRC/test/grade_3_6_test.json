@@ -1,0 +1,49 @@
+{
+    "article": "Hồi nhỏ, Ngô Thì Sĩ rất thích được đến trường học cùng các bạn. Nhà nghèo, không có tiền đi học. Những lúc rỗi việc, Sĩ thường đứng ngoài cửa lớp xem các bạn học bài.\nKhao khát học tập, ngày ngày, Sĩ mượn sách của các bạn, đến đêm ngồi chép lại. Không có đèn dầu thắp đèn, Sĩ phải đốt lửa lấy ánh sáng mà học. Những đêm trăng sáng, Sĩ viết bài, đọc sách dưới ánh trăng.\nBiết nhà Sĩ nghèo, lại mượn sách để chép bài vào ban đêm, các bạn hỏi Sĩ lấy đèn đâu mà học. Sĩ chỉ tay lên mặt trăng, tươi cười nói:\n- Mình có ngọn đèn lớn, ngọn đèn vĩnh cửu ở trên bầu trời kia kìa!",
+    "questions": [
+        "Cậu sinh viên trong đoạn văn trên có tên là gì?",
+        "Để được học, Sĩ đã làm gì?",
+        "Ngọn đèn vĩnh cửu của Sĩ là gì?",
+        "Điều ta cần học tập ở Sĩ là gì?",
+        "Ngọn đèn vĩnh cữu là gì?"
+    ],
+    "options": [
+        [
+            "Sĩ.",
+            "Thì.",
+            "Ngô.",
+            "Đèn."
+        ],
+        [
+            "Đi làm kiếm tiền đi học.",
+            "Mượn sách vở của bạn để chép bài.",
+            "Đứng ngoài cửa lớp nghe giảng và mượn vở chép bài.",
+            "Học từ bạn bè và hàng xóm."
+        ],
+        [
+            "Đèn dầu.",
+            "Mặt trăng.",
+            "Ngọn nến.",
+            "Ngọn đèn thần."
+        ],
+        [
+            "Tinh thần vượt khó học tập.",
+            "Tính tiết kiệm.",
+            "Tính trung thực.",
+            "Tính siêng năng."
+        ],
+        [
+            "Trăng.",
+            "Sao.",
+            "Mặt trời.",
+            "Thiên hà."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "A",
+        "A"
+    ]
+}

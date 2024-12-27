@@ -1,0 +1,81 @@
+{
+    "article": "1. Hùng Vương thứ mười tám có một người con gái đẹp tuyệt trần, tên là Mị Nương. Nhà vua muốn kén cho công chúa một người chồng tài giỏi.\n\nMột hôm, có hai chàng trai đến cầu hôn công chúa. Một người là Sơn Tinh, chúa miền non cao, còn người kia là Thủy Tinh, vua vùng nước thẳm.\n\n2. Hùng Vương chưa biết chọn ai, bèn nói:\n\n- Ngày mai, ai đem lễ vật đến trước thì được lấy Mị Nương. Hãy đem đủ một trăm ván cơm nếp, hai trăm nệp bánh chưng, voi chín ngà, gà chín cựa, ngựa chín hồng mao.\n\nHôm sau, Sơn Tinh mang lễ vật đến trước và được đón dâu về.\n\n3. Thủy Tinh đến sau, không lấy được Mị Nương, đùng đùng tức giận, cho quân đuổi đánh Sơn Tinh. Thủy Tinh hô mưa, gọi gió, dâng nước lên cuồn cuộn. Nhà cửa, ruộng đồng chìm trong biển nước. Sơn Tinh hóa phép bốc từng quả đồi, dời từng dãy núi chặn dòng nước lũ. Thủy Tinh dâng nước lên cao bao nhiêu, Sơn Tinh lại nâng đồi núi cao lên bấy nhiêu. Cuối cùng, Thủy Tinh đuối sức, đành phải rút lui. \n\nTừ đó, năm nào Thủy Tinh cũng dâng nước đánh Sơn Tinh, gây lũ lụt khắp nơi nhưng lần nào Thủy Tinh cũng chịu thua.",
+    "questions": [
+        "Vua Hùng Vương thứ mấy được nhắc đến trong bài đọc này?",
+        "Người con gái của vua Hùng Vương có tên là gì?",
+        "Những nhân vật nào đã đến cầu hôn Mị Nương?",
+        "Hùng Vương đã phân xử việc hai vị thần cùng câu hôn ra sao?",
+        "Lễ vật thách cưới của vua Hùng Vương cho con gái mình gồm những thứ gì?",
+        "Người nào là người đã mang lễ vật đến trước và lấy được Mị Nương?",
+        "Thái độ và hành động của Thủy Tinh như thế nào khi không lấy được Mị Nương?",
+        "Việc Sơn Tinh luôn đánh thắng Thủy Tinh nói lên điều gì có thật ở nước ta?",
+        "Nội dung và ý nghĩa của truyện cổ tích Sơn Tinh - Thủy Tinh là gì?"
+    ],
+    "options": [
+        [
+            "Vua Hùng Vương thứ mười tám.",
+            "Vua Hùng Vương thứ mười.",
+            "Vua Hùng Vương thứ mười sáu.",
+            "Vua Hùng Vương thứ tám."
+        ],
+        [
+            "Mị Châu.",
+            "Mị Nương.",
+            "Sơn Tinh.",
+            "Thủy Tinh."
+        ],
+        [
+            "Sơn Tinh và Thạch Sanh.",
+            "Thủy Tinh và Lý Thông.",
+            "Sơn Tinh và Thủy Tinh.",
+            "Sơn Tinh, Thủy Tinh, Thạch Sanh và Lý Thông."
+        ],
+        [
+            "Ngày mai, ai mang lễ vật nhiều hơn đến thì được lấy Mị Nương.",
+            "Sơn Tinh ở trên núi nhiều của ngon vật lạ hơn, gả công chúa cho Sơn Tinh.",
+            "Thủy Tinh ở tận miền biển xa xôi nên vua gả cho Sơn Tinh.",
+            "Ngày mai, ai đem lễ vật đến trước thì được lấy Mị Nương."
+        ],
+        [
+            "Năm trăm ván cơm nếp, hai trăm nệp bánh chưng, voi chín ngà, gà chín cựa, ngựa chín hồng mao.",
+            "Một trăm ván cơm nếp, hai trăm nệp bánh chưng, voi có ngà, gà có cựa, ngựa có hồng mao.",
+            "Một trăm ván cơm nếp, một trăm nệp bánh chưng, voi chín ngà, gà chín cựa, ngựa chín hồng mao.",
+            "Một trăm ván cơm nếp, hai trăm nệp bánh chưng, voi chín ngà, gà chín cựa, ngựa chín hồng mao."
+        ],
+        [
+            "Sơn Tinh.",
+            "Thủy Tinh.",
+            "Không ai cả.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Tuyệt vọng, mang sính lễ trở về miền biển của mình.",
+            "Căm tức, đem quân đánh vua Hùng và Sơn Tinh.",
+            "Đùng đùng nổi giận, đem quân cướp mấy Mị Nương.",
+            "Đùng đùng nổi giận, cho quân đuổi đánh Sơn Tinh."
+        ],
+        [
+            "Sơn Tinh rất tài giỏi.",
+            "Vua Hùng Vương rất công bằng.",
+            "Nhân dân ta chống lũ lụt rất kiên cường.",
+            "Mị Nương rất xinh đẹp."
+        ],
+        [
+            "Kể về truyền thuyết kén rể của ông cha ta từ thời Hùng Vương.",
+            "Giải thích hiện tượng lũ lụt và ước muốn chinh phục thiên nhiên của nhân dân ta.",
+            "Cuộc chiến giữa hai chàng rể là Sơn Tinh và Thủy Tinh.",
+            "Vua Hùng Vương có người con gái rất xinh đẹp tên là Mị Châu."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "C",
+        "D",
+        "D",
+        "A",
+        "D",
+        "C",
+        "B"
+    ]
+}

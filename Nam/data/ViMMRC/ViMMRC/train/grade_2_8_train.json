@@ -1,0 +1,73 @@
+{
+    "article": "1. Ngày xưa, có hai vợ chồng người nông dân kia quanh năm hai sương một nắng, cuốc bẫm cày sâu. Hai ông bà thường ra đồng từ lúc gà gáy sáng và trở về nhà khi đã lặn mặt trời. Đến vụ lúa, họ cấy lúa, gặt hái xong, lại trồng khoai, trồng cà. Họ không để cho đất nghỉ, mà cũng chẳng lúc nào ngơi tay. Nhờ làm lụng chuyên cần, họ đã gây dựng được một cơ ngơi đàng hoàng.\n\n2. Nhưng rồi, hai ông bà mỗi ngày một già yếu. Hai con trai của họ đều ngại làm ruộng, chỉ mơ chuyện hão huyền. Ít lâu sau, bà lão qua đời. Rồi ông lão cũng lâm bệnh nặng. Biết mình khó lòng qua khỏi, ông dặn dò các con:\n\n- Cha không sống mãi để lo cho các con được. Ruộng nhà có một kho báu, các con hãy tự đào lên mà dùng.\n\n3. Theo lời cha, hai người con đào bới cả đám ruộng mà chẳng thấy kho báu đâu. Vụ mùa đến, họ đành trồng lúa. Nhờ làm đất kĩ, vụ ấy lúa bội thu. Hết mùa, hai người con lại ra công đào bới mà vẫn không tìm được gì. Mùa tiếp theo, họ lại đành trồng lúa và vụ ấy lúa cũng bội thu.\n\nLiên tiếp mấy vụ liền được mùa, hai anh em có của ăn của để. Lúc ấy, họ mới hiểu lời dặn dò khi trước của người cha.",
+    "questions": [
+        "Nhờ chăm chỉ lao động, vợ chồng người nông dân đã đạt được thành tựu gì?",
+        "Hai vợ chồng người nông dân chăm chỉ lao động nhưng trong khi đó hai người con của họ thì lại như thế nào?",
+        "Trước khi mất, người cha tiết lộ cho các con biết điều gì?",
+        "Theo lời người cha đã mất, hai người con đã làm gì?",
+        "Không tìm được kho báu như lời của người cha đã mất, hai người con đã làm gì?",
+        "Tại sao mấy vụ lúa liền, lúa do hai người con trồng đều bội thu?",
+        "Sau những vụ lúa bội thu, hai người con đã nhận ra kho báu là gì?",
+        "Nội dung của câu chuyện này tóm gọn trong câu nói nào dưới đây?"
+    ],
+    "options": [
+        [
+            "Họ được vua ban thưởng.",
+            "Họ trở nên giàu có nhất vùng.",
+            "Họ có thể giúp đỡ được người nghèo khó hơn mình.",
+            "Họ có một cơ ngơi đoàng hoàng."
+        ],
+        [
+            "Họ đều noi theo cha mẹ, chăm chỉ làm lụng, làm giàu từ mảnh ruộng.",
+            "Họ đều lười biếng, chỉ biết tranh giành của cải cha mẹ để lại.",
+            "Họ đều không muốn nối nghiệp cha, trở thành thương nhân buôn bán.",
+            "Họ đều ngại làm ruộng, chỉ mơ chuyện hão huyền."
+        ],
+        [
+            "Cha sẽ để lại mảnh ruộng cho hai con, hai anh em hãy yêu thương, đoàn kết với nhau.",
+            "Cha sẽ không để lại tài sản cho các con. Các con hãy tự làm lụng kiếm sống.",
+            "Ruộng nhà có một kho báu, các con hãy tự đào lên mà dùng.",
+            "Ruộng nhà trồng cây rất tươi tốt, các con hãy gắng chăm chỉ trồng trọt."
+        ],
+        [
+            "Hai người con rời bỏ mảnh đất quê hương, theo đuổi điều hão huyền.",
+            "Hai người con đào bới cả đám ruộng mà chẳng thấy kho báu đâu.",
+            "Hai người con thay phiên nhau cấy cày, làm giàu từ mảnh ruộng.",
+            "Hai người con bán mảnh ruộng, lên thành phố kiếm sống."
+        ],
+        [
+            "Họ đem bán đi.",
+            "Họ đành trồng lúa.",
+            "Họ cho thuê mảnh ruộng.",
+            "Họ thuê người cày cấy."
+        ],
+        [
+            "Nhờ sự thông minh của hai người con.",
+            "Nhờ làm đất kĩ và chăm sóc lúa chu đáo.",
+            "Nhờ họ mua được giống tốt và thuê người cày cấy.",
+            "Nhờ bí kíp mà người cha để lại."
+        ],
+        [
+            "Kho báu chính là hũ vàng người cha chôn sâu dưới đất.",
+            "Kho báu chính là mảnh ruộng và sự cần cù của con người.",
+            "Kho báu chính là những bí kíp và giống lúa tốt mà người cha để lại.",
+            "Kho báu chính là những con vật ngoài đồng ruộng."
+        ],
+        [
+            "Tay làm hàm nhai, tay quai miệng trễ.",
+            "Cần cù bù thông minh.",
+            "Khoai ruộng lạ, mạ ruộng quen.",
+            "Nhất nước, nhì phân, tam cần, tứ giống."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "C",
+        "B",
+        "B",
+        "B",
+        "B",
+        "A"
+    ]
+}

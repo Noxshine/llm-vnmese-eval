@@ -1,0 +1,57 @@
+{
+    "article": "Trần Đại Nghĩa tên thật là Phạm Quang Lễ, quê ở tỉnh Vĩnh Long. Sau khi học xong bậc trung học ở Sài Gòn, năm 1935, ông sang Pháp học đại học. Ông theo học cả ba ngành kĩ sư cầu cống, kĩ sư điện và kĩ sư hàng không. Ngoài ra, ông còn miệt mài nghiên cứu kĩ thuật chế tạo vũ khí.\n\nNăm 1946, nghe theo tiếng gọi thiêng liêng của Tổ quốc, ông rời bỏ cuộc sống đầy đủ tiện nghi ở nước ngoài, theo Bác Hồ về nước. Ông được Bác Hồ đặt tên mới là Trần Đại Nghĩa và giao nhiệm vụ nghiên cứu chế tạo vũ khí phục vụ cuộc kháng chiến chống thực dân Pháp. Trên cương vị Cục trưởng Cục Quân giới, ông đã cùng anh em miệt mài nghiên cứu, chế ra những loại vũ khí có sức công phá lớn như ba-dô-ca, súng không giật, bom bay tiêu diệt xe tăng và lô cốt của giặc.\n\nBên cạnh những cống hiến xuất sắc cho sự nghiệp quốc phòng, Giáo sư Trần Đại Nghĩa còn có công lớn trong xây dựng nền khoa học trẻ tuổi của nước nhà. Nhiều năm liền, ông giữ cương vị Chủ nhiệm Ủy ban Khoa học và Kĩ thuật Nhà nước.\n\nNhững cống hiến của Giáo sư Trần Đại Nghĩa được đánh giá cao. Năm 1948, ông được phong Thiếu tướng. Năm 1952, ông được tuyên dương Anh hùng Lao động. Ông còn được Nhà nước tặng Giải thưởng Hồ Chí Minh và nhiều huân chương cao quý.",
+    "questions": [
+        "Trần Đại Nghĩa được tôn vinh với danh hiệu gì?",
+        "Quê quán của Trần Đại Nghĩa ở đâu?",
+        "Tiếng gọi thiêng liêng của Tổ quốc có nghĩa là gì?",
+        "Trần Đại Nghĩa đã hành động như thế nào khi nghe tiếng gọi thiêng liêng của Tổ quốc?",
+        "Trần Đại Nghĩa không chế tạo loại vũ khí nào sau đây?",
+        "Trần Đại Nghĩa có những đóng góp quan trọng trong sự nghiệp xây dựng Tổ quốc thuộc lĩnh vực nào?"
+    ],
+    "options": [
+        [
+            "Anh hùng Lao động.",
+            "Anh hùng Cứu quốc.",
+            "Anh hùng Vũ trang.",
+            "Anh hùng Giải phóng dân tộc."
+        ],
+        [
+            "Vĩnh Long.",
+            "Sài Gòn.",
+            "Bạc Liêu.",
+            "Hà Nội."
+        ],
+        [
+            "Là thể hiện lòng yêu nước bằng cách đem sức mình cứu Tổ quốc.",
+            "Là nghe theo lời khuyên, lời dạy bảo của thế hệ đi trước.",
+            "Là nghe theo tiếng gọi tâm linh từ các thế lực siêu nhiên.",
+            "Là nghe lời cha mẹ, sống gắn bó với gia đình, người thân."
+        ],
+        [
+            "Rời bỏ quê hương, bôn ba nước ngoài để tìm con đường cứu nước.",
+            "Rời xa gia đình, tích cực học hỏi để cống hiến cho đất nước.",
+            "Rời bỏ cuộc sống tiện nghi ở nước ngoài, theo Bác Hồ về nước.",
+            "Rời bỏ đất nước để không chịu bom đạn của chiến tranh."
+        ],
+        [
+            "Súng thần công.",
+            "Bom bay.",
+            "Súng không giật.",
+            "Ba-dô-ca."
+        ],
+        [
+            "Ngoại giao.",
+            "Khoa học.",
+            "Kinh tế.",
+            "Văn hóa."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "A",
+        "C",
+        "A",
+        "B"
+    ]
+}

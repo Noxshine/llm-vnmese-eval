@@ -1,0 +1,105 @@
+{
+    "article": "Dắt xe ra cửa, tôi lễ phép thưa:\n\n- Thưa ba, con xin phép đi học nhóm.\n\nBa tôi mỉm cười:\n\n- Ờ, nhớ về sớm nghe con!\n\nKhông biết đây là lần thứ bao nhiêu tôi đã nói dối ba. Mỗi lần nói dối tôi đều ân hận nhưng rồi lại tặc lưỡi cho qua.\n\nCho đến một hôm, vừa yên vị trong rạp chiếu bóng, tôi chợt thấy em gái mình lướt qua cùng một đứa bạn. Từ ngạc nhiên, tôi chuyển sang giận giữ và mặc lời năn nỉ của bạn, tôi bỏ về. \n\nHai chị em về đến nhà, tôi mắng em gái dám nói dối ba bỏ học đi chơi, không chịu khó học hành. Nhưng đáp lại sự giận dữ của tôi, nó chỉ thủng thẳng:\n\n- Em đi tập văn nghệ.\n\n- Mày tập văn nghệ ở rạp chiếu bóng à?\n\nNó cười, giả bộ ngây thơ:\n\n- Ủa, chị cũng ở đó sao? Hồi nãy chị bảo đi học nhóm mà!\n\nTôi sững sờ, đứng im như phỗng. Ngước nhìn ba, tôi đợi trận cuồng phong. Nhưng ba tôi chỉ buồn rầu bảo:\n\n- Các con ráng bảo ban nhau mà học cho nên người.\n\nTừ đó, tôi không bao giờ dám nói dối ba đi chơi nữa. Thỉnh thoảng, hai chị em lại cười phá lên khi nhắc lại chuyện nó rủ bạn vào rạp chiếu bóng chọc tức tôi, làm cho tôi tỉnh ngộ.",
+    "questions": [
+        "Cô chị nói dối ba để xin phép ba đi đâu?",
+        "Mỗi lần nói dối, cô chị lại cảm thấy như thế nào?",
+        "Tại sao mỗi lần nói dối, cô chị lại cảm thấy ân hận?",
+        "Hai chị em nói dối đã gặp nhau ở nơi nào?",
+        "Thái độ của cô chị ra sao khi gặp em ở rạp chiếu bóng?",
+        "Khi về đến nhà, cô chị có thái độ và lời nói như thế nào với cô em?",
+        "Người em đã giải thích ra sao khi gặp chị ở rạp chiếu bóng?",
+        "Thái độ của ba với hai chị em như thế nào?",
+        "Người ba đã nói gì với hai chị em?",
+        "Cô em đã nói gì khiến cô chị tỉnh ngộ ra?",
+        "Điều gì khiến cô chị tỉnh ngộ ra?",
+        "Nội dung câu chuyện này là gì?"
+    ],
+    "options": [
+        [
+            "Đi rạp chiếu bóng.",
+            "Đi tập văn nghệ.",
+            "Đi học thêm.",
+            "Đi học nhóm."
+        ],
+        [
+            "Vui vẻ.",
+            "Ân hận.",
+            "Bình thản.",
+            "Ngượng ngùng."
+        ],
+        [
+            "Vì cô biết mình sai và có lỗi với ba, nhưng đều tặc lưỡi.",
+            "Vì cô đã nói dối ba rồi còn quát em gái nói dối.",
+            "Vì cô đã nói dối mà ba và em gái không hề hay biết.",
+            "Vì cô đã học sa sút đi sau mỗi lần nói dối ba để đi chơi."
+        ],
+        [
+            "Chỗ tập văn nghệ.",
+            "Chỗ học nhóm.",
+            "Chỗ học thêm.",
+            "Rạp chiếu bóng."
+        ],
+        [
+            "Xấu hổ và bỏ chạy.",
+            "Giận giữ và bỏ về.",
+            "Rủ em vào cùng xem phim.",
+            "Vui vẻ và chào em."
+        ],
+        [
+            "Dặn dò em phải giấu kín chuyện này với ba như một bí mật.",
+            "Mách ba rằng em trốn học đi chơi và trốn đi rạp chiếu bóng chơi.",
+            "Mắng em gái dám nói dối ba bỏ học đi chơi và không chịu học hành.",
+            "Ôn tồn hỏi han em xem đi chơi rạp chiếu bóng có vui không và xem gì."
+        ],
+        [
+            "Em đi kiến tập.",
+            "Em đi học thêm.",
+            "Em đi tập văn nghệ.",
+            "Em đi gặp bạn."
+        ],
+        [
+            "Buồn rầu.",
+            "Quát phạt.",
+            "Tức giận.",
+            "Đánh mắng."
+        ],
+        [
+            "Nói dối rất có hại cho bản thân, các con không được nói dối nữa.",
+            "Các con ráng bảo ban nhau mà học cho nên người.",
+            "Nổi trận cuồng phong, quát mắng và phạt hai chị em.",
+            "Các con muốn đi chơi thì cứ nói thật, ba đâu có cấm."
+        ],
+        [
+            "Ủa, chị cũng đi tập văn nghệ à? Sao lại gặp em ở rạp chiếu bóng?",
+            "Ủa, chị chẳng những nói dối còn trách mắng em nữa sao?",
+            "Ủa, em đã xin phép ba đi tập văn nghệ rồi mà.",
+            "Ủa, chị cũng ở đó sao? Hồi nãy chị bảo đi học nhóm mà?"
+        ],
+        [
+            "Lời nhắc nhở của ba.",
+            "Cô chị tự ân hận và tỉnh ngộ.",
+            "Lời nói của ba và của cô em.",
+            "Lời nói dối ngược của cô em."
+        ],
+        [
+            "Kể về chuyện ba và hai chị em.",
+            "Kể về chị nói dối và nhắc nhở cô em.",
+            "Nhắc nhở chúng ta không nên nói dối.",
+            "Kể về hai chị em nói dối."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "C",
+        "C",
+        "A",
+        "B",
+        "D",
+        "C",
+        "C"
+    ]
+}

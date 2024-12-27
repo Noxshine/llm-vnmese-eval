@@ -1,0 +1,89 @@
+{
+    "article": "1. Bé rất thích chó những nhà Bé không nuôi con nào. Bé đành chơi với Cún Bông, con chó của hàng xóm. Bé và Cún thường nhảy nhót tung tăng khắp vườn. \n\n2. Một hôm, mải chạy theo Cún, Bé vấp phải một khúc gỗ và ngã đau, không đứng dậy được. Bé khóc. Cún nhìn Bé rồi chạy đi tìm người giúp. Mắt cá chân của Bé sưng to, vết thương khá nặng nên Bé phải bó bột, nằm bất động trên giường.\n\n3. Bè bạn thay nhau đến thăm, kể chuyện, mang quà cho Bé. Nhưng các bạn về, Bé lại buồn. Thấy vậy, mẹ lo lắng hỏi:\n\n- Con muốn mẹ giúp gì nào?\n\n- Con nhớ Cún, mẹ ạ!\n\n4. Ngày hôm sau, bác hàng xóm dẫn Cún sang với Bé. Bé và Cún càng thân thiết. Cún mang cho Bé khi thì tờ báo hay cái bút chì, khi thì con búp bê... Bé cười, Cún sung sướng vẫy đuôi rối rít. Thỉnh thoảng, Cún muốn chạy nhảy và nô đùa. Nhưng con vật thông minh hiểu rằng chưa đến lúc chạy đi chơi được.\n\n5. Ngày tháo bột đã đến. Bác sĩ rất hài lòng vì vết thương của Bé đã lành hẳn. Nhìn Bé vuốt ve Cún, bác sĩ hiểu chính Cún đã giúp Bé mau lành.",
+    "questions": [
+        "Bạn có bé ở nhà là ai?",
+        "Cún Bông được ai nuôi?",
+        "Bé và Cún Bông đang chơi thì đã xảy ra chuyện gì?",
+        "Cún đã giúp Bé như thế nào khi Bé bị ngã?",
+        "Ai đã đến thăm Bé khi Bé nằm trong bệnh viện?",
+        "Vì sao bạn bè thay phiên nhau đến thăm Bé nhưng Bé vẫn cảm thấy buồn?",
+        "Khi Bé buồn, mẹ đã nói gì với Bé?",
+        "Điều gì đã khiến Bé giảm nỗi buồn khi các bạn về?",
+        "Cún Bông đã làm gì cho Bé vui?",
+        "Bác sĩ cho rằng Bé mau lành là nhờ nhân vật nào?"
+    ],
+    "options": [
+        [
+            "Mèo Mun.",
+            "Chích chòe.",
+            "Cún Bông.",
+            "Chim sẻ."
+        ],
+        [
+            "Bác hàng xóm.",
+            "Bạn thân.",
+            "Bé.",
+            "Ba của bé."
+        ],
+        [
+            "Bác hàng xóm gọi chú Cún về.",
+            "Bé bị mẹ mắng vì mải chơi.",
+            "Bé vấp ngã và phải bó bột.",
+            "Bạn của bé rủ bé đi chơi."
+        ],
+        [
+            "Chạy đi tìm người giúp.",
+            "Dỗ dành, dụi đầu vào lòng Bé để Bé khỏi đau.",
+            "Gọi xe cứu thương cho Bé.",
+            "Tìm cách kéo Bé về nhà."
+        ],
+        [
+            "Họ hàng và gia đình.",
+            "Bác hàng xóm.",
+            "Chú Cún Bông.",
+            "Bạn bè."
+        ],
+        [
+            "Vì các bạn về là Bé lại buồn.",
+            "Vì gia đình không quan tâm đến Bé.",
+            "Vì Bé phải nằm viện lâu quá.",
+            "Vì bác sĩ bảo Bé không thể khỏi."
+        ],
+        [
+            "Con có thể chơi với mẹ cho đỡ buồn mà?.",
+            "Con muốn mẹ giúp gì nào?.",
+            "Trông con buồn thế, vui lên đi!.",
+            "Mẹ mua cho con một con Cún Bông nhé!."
+        ],
+        [
+            "Bác hàng xóm mang chú Cún đến chơi với Bé.",
+            "Mẹ mua đồ chơi và chơi cùng với Bé.",
+            "Các bạn thay phiên nhau ở lại viện cùng Bé.",
+            "Mẹ mua cho Bé một chú Cún để chơi cùng."
+        ],
+        [
+            "Bé cười, Cún sung sướng vẫy đuôi rối rít.",
+            "Cún mang cho Bé khi thì tờ báo, bút chì, con búp bê. Khi thì chạy nhảy, ngoáy đuôi khiến Bé vui.",
+            "Cún mang cho Bé khi thì tờ báo, bút chì, con búp bê...",
+            "Thỉnh thoảng Cún lại chạy nhảy, nô đùa."
+        ],
+        [
+            "Mẹ Bé.",
+            "Bác sĩ.",
+            "Cún Bông.",
+            "Bé."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "A",
+        "D",
+        "A",
+        "C",
+        "A",
+        "B",
+        "C"
+    ]
+}

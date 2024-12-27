@@ -1,0 +1,57 @@
+{
+    "article": "Đã sang tháng ba, đồng cỏ Ba Vì vẫn giữ nguyên vẻ đẹp như hồi đầu xuân. Không khí trong lành và rất ngọt ngào. Bầu trời cao vút, trập trùng những đám mây trắng...\n\nHồ Giáo đứng đã lâu trên đồng cỏ. Đàn bê ăn quanh quẩn ở bên anh.\n\nGiống như những đứa trẻ quấn quýt bên mẹ, đàn bê cứ quẩn vào chân Hồ Giáo. Chúng vừa ăn vừa đùa nghịch. Những con bê đực, y hệt những bé trai khỏe mạnh, chốc chốc lại ngừng ăn, nhảy quẩng lên rồi chạy đuổi nhau thành một vòng tròn xung quanh anh... Những con bê cái thì khác hẳn. Chúng rụt rè chẳng khách nào những bé gái được bà chiều chuộng, chăm bẵm, không dám cho chạy đi chơi xa... Chúng ăn nhỏ nhẹ, từ tốn. Thỉnh thoảng, một con, chừng như nhớ mẹ, chạy lại chỗ Hồ Giáo, dụi mõm vào người anh nũng nịu. Có con còn sán vào lòng anh, quơ quơ đôi chân lên như là đòi bế.",
+    "questions": [
+        "Cảnh đồng cỏ có tên là gì?",
+        "Đàn bê trên đồng cỏ là của ai?",
+        "Đàn bê quẩn quanh chân anh Hồ Giáo được so sánh với hình ảnh nào?",
+        "Tác giả đã miêu tả những con bê của anh Hồ Giáo như thế nào?",
+        "Tại sao đàn bê lại quý anh Hồ Giáo?",
+        "Bài đọc này có nội dung chính là gì?"
+    ],
+    "options": [
+        [
+            "Ba Vì.",
+            "Hà Giang.",
+            "Thái Nguyên.",
+            "Ninh Bình."
+        ],
+        [
+            "Anh Hồ Giáo.",
+            "Anh chiến sĩ.",
+            "Anh thanh niên.",
+            "Anh Hải Hà."
+        ],
+        [
+            "Như những đứa trẻ chờ được phát kẹo.",
+            "Như đàn em đang chơi cùng anh.",
+            "Như những đứa trẻ quấn quýt bên mẹ.",
+            "Nhưng đàn con trực bú sữa mẹ."
+        ],
+        [
+            "Con bê non mới sinh.",
+            "Con bê đầu đàn.",
+            "Con bê già đã sống lâu với đàn.",
+            "Con bê đực - con bê cái."
+        ],
+        [
+            "Vì đàn bê vốn rất quý và thân thiện với con người.",
+            "Vì anh chính là người sinh ra đàn bê.",
+            "Vì đàn bê được anh chăm bẵm, chiều chuộng như con.",
+            "Vì anh chính là người mua chúng về."
+        ],
+        [
+            "Đàn bê rất tinh nghịch và có tính cách hệt như con.",
+            "Đàn bê rất yêu quý anh Hồ Giáo và anh Hồ giáo chăm bẵm, chiều chuộng chúng như con.",
+            "Anh Hồ Giáo là người rất cởi mở, hoạt bát và cần cù lao động sản xuất.",
+            "Đồng cỏ Ba Vì và bầu trời trong mùa xuân rất khoáng đạt và đầy sức sống."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "C",
+        "D",
+        "C",
+        "B"
+    ]
+}

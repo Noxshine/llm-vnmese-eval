@@ -1,0 +1,57 @@
+{
+    "article": "Cụ Vi-ta-li nhặt trên đường một mảnh gỗ mỏng, dính đầy cát bụi. Cắt mảnh gỗ thành nhiều miếng nhỏ, cụ bảo:\n\n- Ta sẽ khắc trên mỗi miếng gỗ một chữ cái. Con sẽ học nhận mặt từng chữ, rồi ghép các chữ ấy lại thành tiếng.\n\nTừ hôm đó, lúc nào túi tôi cũng đầy những miếng gỗ dẹp. Không bao lâu, tôi đã thuộc tất cả các chữ cái. Nhưng biết đọc là một chuyện khác. Không phải ngày một ngày hai mà đọc được.\n\nKhi dạy tôi, thầy Vi-ta-li nghĩ rằng nghĩ rằng cùng lúc có thể dạy cả chủ chó Ca-pi để làm xiếc. Dĩ nhiên, Ca-pi không đọc lên được những chữ nó thấy vì nó không biết nói, nhưng nó biết lấy ra những chữ mà thầy tôi đọc lên.\n\nBuổi đầu, tôi học tấn tới hơn Ca-pi nhiều. Nhưng nếu tôi thông minh hơn nó, thì nó cũng có trí nhớ tốt hơn tôi. Cái gì đã vào đầu nó rồi thì nó không bao giờ quên.\n\nMột hôm tôi đọc sai, thầy tôi nói:\n\n- Ca-pi sẽ biết đọc trước Rê-mi.\n\nCon chó có lẽ hiểu nên đắc chí vẫy vẫy cái đuôi.\n\nTừ đó, tôi không dám sao nhãng một phút nào. Ít lâu sau, tôi đọc được, trong khi con Ca-pi đáng thương chỉ biết “viết” tên nó bằng cách rút những chữ gỗ trong bảng chữ cái.\n\nCụ Vi-ta-li hỏi tôi:\n\n- Bây giờ con có muốn học nhạc không?\n\n- Đấy là điều con thích nhất. Nghe thầy hát, có lúc con muốn cười,có lúc lại muốn khóc. Có lúc tự nhiên con nhớ đến mẹ con và tưởng như đang trông thấy mẹ con ở nhà.\n\nBằng một giọng cảm động, thầy bảo tôi:\n\n- Con thật là một đứa trẻ có tâm hồn.",
+    "questions": [
+        "Lớp học trên đường có gì đặc biệt?",
+        "Cậu bé học sinh có tên là gì?",
+        "Dòng nào sau đây nói đúng hoàn cảnh của Rê-mi khi học chữ?",
+        "Công việc chính của người thầy giáo trong câu chuyện trên là gì?",
+        "Sách để học sinh học trong câu chuyện trên có gì đặc biệt?",
+        "Chú chó Ca-pi viết tên mình bằng cách nào?"
+    ],
+    "options": [
+        [
+            "Thầy giáo là một ông cụ đã già.",
+            "Học sinh có quyền tự do phát biểu ý kiến của mình.",
+            "Thầy giáo và học sinh là hai ông cháu.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ga-vơ-rốt.",
+            "Rê-mi.",
+            "Vi-ta-li.",
+            "Ê-mi-li."
+        ],
+        [
+            "Hoàn cảnh khó khăn, thiếu thốn, trên đường hai thầy trò đi múa kiếm kiếm ăn.",
+            "Hoàn cảnh khó khăn, thiếu thốn, trên đường hai thầy trò đi diễn nghệ thuật rong kiếm ăn.",
+            "Hoàn cảnh khó khăn, thiếu thốn, trên đường hai thầy trò đi diễn xiếc rong kiếm ăn.",
+            "Hoàn cảnh khó khăn, thiếu thốn, trên đường hai thầy trò  kiếm ăn."
+        ],
+        [
+            "Chăm trẻ.",
+            "Diễn xiếc.",
+            "Dạy học.",
+            "Múa rối."
+        ],
+        [
+            "Sách là những miếng giấy thừa, viết chữ được cắt từ mảnh gỗ dẹp nhặt trên đường.",
+            "Sách là những miếng gỗ mỏng khắc chữ được cắt từ mảnh gỗ dẹp nhặt trên đường.",
+            "Sách là những miếng gỗ  khắc chữ được cắt từ mảnh gỗ dẹp nhặt trên đường.",
+            "Sách là những miếng bìa khắc chữ được cắt từ mảnh gỗ dẹp nhặt trên đường."
+        ],
+        [
+            "Viết lên mặt đất.",
+            "Rút những chữ trên giấy trong bảng chữ cái.",
+            "Rút những chữ gỗ trong bảng chữ cái.",
+            "Chỉ vào từng chữ trong bảng chữ cái."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "B",
+        "B",
+        "C"
+    ]
+}

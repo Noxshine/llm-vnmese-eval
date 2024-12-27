@@ -1,0 +1,49 @@
+{
+    "article": "Cày đồng đang buổi ban trưa\nMồ hôi thánh thót như mưa ruộng cày           \nAi ơi bưng bát cơm đầy\nDẻo thơm một hột, đắng cay muôn phần!\n\nƠn trời mưa nắng phải thì \nNơi thì bừa cạn, nơi thì cày sâu. \nCông lênh chẳng quản bao lâu \nNgày nay nước bạc, ngày sau cơm vàng \nAi ơi! chớ bỏ ruộng hoang \nBao nhiêu tấc đất tấc vàng bấy nhiêu.\n\nNgười ta đi cấy lấy công \nTôi nay đi cấy còn trông nhiều bề \nTrông trời, trông đất, trông mây \nTrông mưa, trông nắng, trông ngày, trông đêm\nTrông cho chân cứng đá mềm \nTrời yên biển lặng mới yên tấm lòng",
+    "questions": [
+        "Đâu là hình ảnh nói lên nỗi vất vả, lo lắng của người nông dân trong sản xuất?",
+        "Trong bài ca dao thứ hai, câu nào nhắc nhở người nông dân chăm chỉ cấy cày?",
+        "Tìm những câu thể hiện quyết tâm trong lao động sản xuất của người nông dân?",
+        "Tìm câu thơ ứng với nôi dung \"nhắc người ta nhớ ơn làm ra hạt gạo\"",
+        "Câu nào thể hiện tinh thần lạc quan của người nông dân?"
+    ],
+    "options": [
+        [
+            "Cày đồng đang buổi ban trưa - Mồ hôi thánh thót như mưa ruộng cày.",
+            "Ai ơi! chớ bỏ ruộng hoang  - Bao nhiêu tấc đất tấc vàng bấy nhiêu.",
+            "Ơn trời mưa nắng phải thì  - Nơi thì bừa cạn, nơi thì cày sâu.",
+            "Công lênh chẳng quản bao lâu."
+        ],
+        [
+            "Ơn trời mưa nắng phải thì - Nơi thì bừa cạn, nơi thì cày sâu.",
+            "Công lênh chẳng quản bao lâu - Ngày nay nước bạc, ngày sau cơm vàng.",
+            "Ai ơi! chớ bỏ ruộng hoang  - Bao nhiêu tấc đất tấc vàng bấy nhiêu.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Công lênh chẳng quản bao lâu - Ngày nay nước bạc, ngày sau cơm vàng.",
+            "Trông cho chân cứng đá mềm - Trời yên biển lặng mới yên tấm lòng.",
+            "Cày đồng đang buổi ban trưa - Mồ hôi thánh thót như mưa ruộng cày.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Trông cho chân cứng đá mềm  - Trời yên biển lặng mới yên tấm lòng.",
+            "Người ta đi cấy lấy công  - Tôi nay đi cấy còn trông nhiều bề.",
+            "Ai ơi bưng bát cơm đầy - Dẻo thơm một hột, đắng cay muôn phần!.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ai ơi! chớ bỏ ruộng hoang - Bao nhiêu tấc đất tấc vàng bấy nhiêu.",
+            "Ai ơi bưng bát cơm đầy - Dẻo thơm một hột, đắng cay muôn phần!.",
+            "Công lênh chẳng quản bao lâu - Ngày nay nước bạc, ngày sau cơm vàng.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "C",
+        "C"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Một người cha dẫn một người con trai đi cắm trại ở một vùng quê để cậu bé hiểu được cuộc sống bình dị của những người ở đó. Hai cha con họ sống chung với gia đình nông dân. Trên đường về, người cha hỏi: “Con thấy chuyến đi thế nào?”\n\n- Tuyệt lắm cha ạ! – Cậu bé đáp.\n\n- Vậy con đã học được gì từ chuyến đi này? – Người cha hỏi tiếp.\n\n- Ở nhà, chúng ta chỉ có một con chó, còn mọi người ở đây thì có tới bốn. Chúng ta chỉ có một hồ bơi trong vườn, còn họ có cả một dòng sông. Chúng ta thắp sáng bằng những bóng đèn điện, còn họ đêm đến lại có rất nhiều ngôi sao tỏa sáng. Nhà mình có những cửa sổ nhưng họ có cả một bầu trời bao la. Cảm ơn cha đã cho con thấy cuộc sống bên ngoài rộng mở và đẹp làm sao!",
+    "questions": [
+        "Người cha trong câu chuyện đã đưa con trai đi đâu?",
+        "Họ đã sống ở đâu trong thời gian đó?",
+        "Người con trai thấy cuộc sống của người nông dân như thế nào?",
+        "Câu trả lời cho câu \"Con thấy chuyến đi thế nào?”",
+        "trong bài đọc nhắc đến những nhân vật nào?"
+    ],
+    "options": [
+        [
+            "Đi đến vùng biển.",
+            "Đi đến vùng rừng núi.",
+            "Đi về một vùng quê.",
+            "Đi về một nơi xa lắm."
+        ],
+        [
+            "Trong nhà nghỉ.",
+            "Trong nhà một người nông dân.",
+            "Trong khách sạn.",
+            "Trong nhà khách."
+        ],
+        [
+            "Những người nông dân thật nghèo, nhà ở của họ không có hồ bơi và đèn điện.",
+            "Những người nông dân sống thật nghèo nàn và bình dị. Họ thường nuôi nhiều chó trong nhà.",
+            "Những người nông dân có cuộc sống thật tươi đẹp, gần gũi với thiên nhiên và không gian bao la.",
+            "Những người nông dân thật tuyệt vời."
+        ],
+        [
+            "Tuyệt lắm cha ạ!.",
+            "Có nhiều điều hay.",
+            "Nhà mình có những cửa sổ.",
+            "Cảm ơn cha."
+        ],
+        [
+            "Người cha và người con.",
+            "Người mẹ và người con.",
+            "Người con và người bà.",
+            "Người mẹ và người cha."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "article": "1. Ở cánh đồng nọ, có hai anh em cày chung một đám ruộng. Ngày mùa đến, họ gặt rồi bó lúa chất thành hai đống bằng nhau, để cả ở ngoài đồng.\n\n2. Đêm hôm ấy, người em nghĩ: \"Anh mình còn phải nuôi vợ con. Nếu phần lúa của mình cũng bằng phần lúa của anh thì thật không công bằng\". Nghĩ vậy, người em ra đồng lấy đống lúa của mình bỏ thêm vào phần của anh.\n\n3. Cũng đêm ấy, người anh bàn với vợ: \"Em ta sống một mình vất vả. Nếu phần của ta cũng bằng phần của chú ấy thì thật không công bằng.\" Thế rồi anh ra đồng lấy lúa của mình bỏ thêm vào phần của em.\n\n4. Sáng hôm sau, hai anh em cùng ra đồng. Họ rất đỗi ngạc nhiên khi thấy hai đống lúa vẫn bằng nhau.\n\nCho đến một đêm, hai anh em đều ra đồng, rình xem vì sao có sự kì lạ đó. Họ bắt gặp nhau, mỗi người đang ôm trong tay những bó lúa định bỏ thêm cho người kia. Cả hai xúc động, ôm chầm lấy nhau.",
+    "questions": [
+        "Câu chuyện này kể về việc gì?",
+        "Câu chuyện này kể về việc gì?",
+        "Khi thấy người anh bị thiệt thòi, người em đã làm gì?",
+        "Sau vụ thu hoạch, người anh đã nghĩ điều gì về em?",
+        "Người anh đã làm điều gì cho người em?",
+        "Điều gì xảy ra vào sáng hôm sau khiến hai anh em ngạc nhiên?",
+        "Hai anh em đã làm việc gì để lý giải về sự kỳ lạ đó?",
+        "Người anh và người em quan niệm thế nào là công bằng?",
+        "Việc cho rằng phần mình ít hơn phần người kia mới mới là công bằng, cho thấy hai anh em có mối quan hệ như thế nào?",
+        "Nội dung câu chuyện này là gì?"
+    ],
+    "options": [
+        [
+            "Anh thương em sống một mình nên cho em lúa.",
+            "Anh em yêu thương nhau nên nhường lúa cho nhau.",
+            "Anh em đố kỵ nhau nên lấy trộm lúa của nhau.",
+            "Em ngưỡng mộ anh nên tặng anh thóc lúa."
+        ],
+        [
+            "Anh thương em sống một mình nên cho em lúa.",
+            "Anh em yêu thương nhau nên nhường lúa cho nhau.",
+            "Anh em đố kỵ nhau nên lấy trộm lúa của nhau.",
+            "Em ngưỡng mộ anh nên tặng anh thóc lúa."
+        ],
+        [
+            "Lấy đống lúa của anh bỏ vào phần mình.",
+            "Lấy hết lúa của anh cho vào phần mình.",
+            "Lấy hết lúa của mình cho vào phần anh.",
+            "Lấy đống lúa của mình bỏ thêm vào phần anh."
+        ],
+        [
+            "Em sống có 1 mình mà cũng lấy 1 nửa, thật không công bằng.",
+            "Em sống 1 mình vất vả, phần ta cũng bằng phần em thì thật công bằng.",
+            "Em mình có một thân một mình thật đáng thương.",
+            "Không công bằng trong việc phân chia."
+        ],
+        [
+            "Giúp đỡ em tuốt lúa, bó rạ.",
+            "Cấy lúa, gieo mạ trên phần ruộng của em.",
+            "Lấy lúa của mình bỏ vào phần của em.",
+            "Lấy lúa của em bỏ vào phần của mình."
+        ],
+        [
+            "Hai đống lúa đều đầy lên.",
+            "Hai phần lúa đều biến mất.",
+            "Hai đống lúa gộp làm một.",
+            "Hai đống lúa vẫn bằng nhau."
+        ],
+        [
+            "Người anh hỏi trực tiếp người em.",
+            "Người em đi hỏi người hàng xóm.",
+            "Người anh nhờ vợ bí mật theo dõi người em.",
+            "Đêm, họ bí mật rình để xem vì sao có sự lạ đó và gặp nhau."
+        ],
+        [
+            "Phần của mình ít hơn phần của người kia.",
+            "Mình phải được tất cả phần lúa.",
+            "Phần của mình phải được nhiều hơn người kia.",
+            "Phần của mình bằng với phần của người kia."
+        ],
+        [
+            "Hai anh em đều không biết tính toán.",
+            "Hai anh em đều chê thóc lúa.",
+            "Hai anh em rất yêu thương nhau.",
+            "Hai anh em rất đố kị nhau."
+        ],
+        [
+            "Ca ngợi sự giàu có của hai anh em, của cải đều dư thừa.",
+            "Ca ngợi người anh biết quan tâm, nhường nhịn người em.",
+            "Ca ngợi hai anh em rất quan tâm, yêu thương và nhường nhịn nhau.",
+            "Ca ngợi tình cảm gia đình là gốc rễ của mọi thứ tình cảm."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "B",
+        "C",
+        "D",
+        "D",
+        "A",
+        "C",
+        "C"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Đầu năm 1969, một chị cán bộ miền Nam ra Bắc được gặp Bác Hồ.\n\nChị thưa với Bác:\n\n- Chúng cháu đánh giặc Mĩ đến một trăm năm cũng không sợ.\n\nChỉ sợ một điều là Bác... trăm tuổi.\n\nChị đã nói ra điều mọi người hằng nghĩ nhưng không ai dám nhắc đến.\n\nNăm ấy, Bác bảy mươi chín tuổi. Nghe vậy, Bác mỉm cười, hóm hỉnh:\n\n- Còn hai mươi mốt năm nữa Bác mới trăm tuổi cơ. Bác kêu gọi các cô, các chú đánh Mĩ năm năm, mười năm, hai mươi năm chứ có nói hai mươi mốt năm đâu. Nếu hai mươi năm nữa mà ta thắng Mĩ thì Bác cũng còn một năm để vào thăm đồng bào miền Nam.\n\nThật ra, lúc ấy, Bác đã yếu rồi. Tối mồng 1 tháng 9 năm 1969, Bác mệt nặng. Những lúc tỉnh lại, Bác vẫn hỏi:\n\n- Trong Nam mấy hôm nay đánh giặc thế nào?\n\nSắp ra đi mãi mãi, Bác vẫn nghĩ đến miền Nam.",
+    "questions": [
+        "Chị cán bộ miền Nam đi ra Bắc để được gặp ai?",
+        "Chị cán bộ miền Nam thưa với Bác những điều gì?",
+        "Tình cảm của Bác đối với đồng bào miền Nam như thế nào?",
+        "Tình cảm yêu thương và quan tâm của Bác đối với đồng bào miền Nam được thể hiện qua chi tiết nào?",
+        "Cụm từ \"Bác... trăm tuổi\" có nghĩa là gì?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Nhân dân miền Bắc.",
+            "Người chồng ngoài Bắc.",
+            "Chủ tịch Hồ Chí Minh.",
+            "Cán bộ miền Bắc."
+        ],
+        [
+            "Còn hai mươi năm nữa Bác mới một trăm tuổi, Bác hãy kêu gọi mọi người đánh giặc Mĩ.",
+            "Thưa Bác, chúng cháu rất nhớ Bác và mong Bác sống đến một trăm tuổi.",
+            "Chúng cháu đánh giặc Mĩ đến một trăm năm cũng không sợ. Chỉ sợ một điều là Bác... trăm tuổi.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Yêu thương và quan tâm.",
+            "Nhớ nhung và đau lòng.",
+            "Ghét guổng và bỏ mặc.",
+            "Thờ ơ và lạnh nhạt."
+        ],
+        [
+            "Lúc mệt nặng, Bác vẫn hỏi: \"Trong Nam mấy hôm nay đánh giặc thế nào?\".",
+            "Bác mong miền Nam đánh thắng giặc để Bác có dịp vào thăm.",
+            "Trước khi mất, Bác vẫn nghĩ đến miền Nam.",
+            "Bác luôn quan tâm đến chiến sự và mong miền Nam đánh thắng giặc, ngay cả khi Bác đã yếu."
+        ],
+        [
+            "Bác sống lâu trăm tuổi.",
+            "Bác sắp được một trăm tuổi.",
+            "Bác mất (cách nói tránh).",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Tình cảm sâu nặng của nhân dân miền Nam đối với Bác.",
+            "Tình cảm bao la của Bác dành cho miền Nam và sự kính trọng của người dân miền Nam đối với Bác.",
+            "Tình cảm yêu thương, quan tâm của Bác dành cho nhân dân miền Nam.",
+            "Mối quan tâm của miền Nam tới sức khỏe của Bác."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "D",
+        "C",
+        "B"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Mây đen lũ lượt\nKéo về chiều nay\nMặt trời lật đật\nChui vào trong mây.\n\nChớp đông chớp tây\nRồi mưa nặng hạt\nCây lá xòe tay\nHứng làn nước mát.\n\nGió reo gió hát\nGiọng trầm giọng cao\nChớp dồn tiếng sấm\nChạy trong mưa rào.\n\nBà xỏ kim khâu\nChị ngồi đọc sách\nMẹ làm bánh khoai\nLửa reo tí tách.\n\nChỉ thương bác ếch\nLặn lội trong mưa\nXem từng cụm lúa\nPhất cờ lên chưa.",
+    "questions": [
+        "Dấu hiệu nào cho thấy trời sắp mưa?",
+        "Hình ảnh bác ếch gợi cho chúng ta nghĩ đến ai?",
+        "Nội dung của bài thơ là gì?",
+        "Bài thơ chia làm mấy khổ?",
+        "Con vật nào được nhắc đến trong bài thơ?"
+    ],
+    "options": [
+        [
+            "Mây đen kéo về và mặt trời chiu vào mây.",
+            "Hứng làn nước mát.",
+            "Gió reo gió hát.",
+            "Lặn lội trong mưa."
+        ],
+        [
+            "Người thầy thuốc.",
+            "Người bán hàng.",
+            "Người nông dân.",
+            "Người tiều phu."
+        ],
+        [
+            "Miêu tả cảnh ruộng đồng và sự vất vả của người nông dân.",
+            "Miêu tả cảnh giông bão và sự chống chọi với bão của gia đình nghèo khó.",
+            "Miêu tả cảnh ngày nắng và sự giàu đẹp của quê hương.",
+            "Miêu tả cảnh mưa rào và cảnh sinh hoạt gia đình đầm ấm."
+        ],
+        [
+            "Năm.",
+            "Hai.",
+            "Ba.",
+            "Bốn."
+        ],
+        [
+            "Ếch.",
+            "Mèo.",
+            "Chó.",
+            "Gà."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "D",
+        "A",
+        "A"
+    ]
+}

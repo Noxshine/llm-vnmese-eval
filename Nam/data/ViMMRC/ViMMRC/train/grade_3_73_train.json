@@ -1,0 +1,49 @@
+{
+    "article": "Trên cây ngái sau vườn nhà tôi, vợ chồng Chích nuôi bốn chú Chích con và hai con Bồ Nâu. Ngày ngày, vợ chồng Chích như con thoi tha mồi về mớm cho lũ con.\nLũ chim non lớn dần. Bốn chú chim Chích tập bay chuyền trên cây ngái, quấn quýt theo sau cha mẹ. Hai con Bồ Nâu đứng bên mép tổ, đập cánh rỉa lông, nhìn ra phía chân trời xa tít. Rồi đột nhiên chúng bay vọt lên, phóng đi giữa nắng. Vợ chồng Chích hoảng hốt bay theo hai con Bồ Nâu một quãng, rồi thảng thốt quay về.\nDưới bóng lá cây ngái xanh mát, cả nhà Chích ríu ran.",
+    "questions": [
+        "Nhà Chích sống ở đâu?",
+        "Vợ chồng Chích nuôi những con vật nào?",
+        "Tại sao vợ chồng Chích hoảng hốt?",
+        "Cả nhà Chích ríu ran ở nơi nào?",
+        "Ngoài chim Chích, bài văn còn nhắc đến loài chim nào?"
+    ],
+    "options": [
+        [
+            "Trên cây bưởi.",
+            "Trong nhà chim sau vườn.",
+            "Trên cây ngái.",
+            "Trên cây chanh."
+        ],
+        [
+            "Sáu chú Chích con.",
+            "Bốn chú Chích con.",
+            "Bốn chú Chích con và hai con Bồ Nâu.",
+            "Sáu chú Chích chim con."
+        ],
+        [
+            "Bốn chú Chích con tập chuyền cành.",
+            "Hai con Bồ Nâu vụt bay đi mất.",
+            "Chúng kiếm không đủ thức ăn cho các con.",
+            "Chú chim Chích đi lạc."
+        ],
+        [
+            "Cây dừa.",
+            "Dưới bóng cây ngáy xanh mát.",
+            "Bầu trời.",
+            "Bãi biển."
+        ],
+        [
+            "Chim Bồ Nâu.",
+            "Chim Công.",
+            "Chim Trĩ.",
+            "Chim Hoạ mi."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "B",
+        "A"
+    ]
+}

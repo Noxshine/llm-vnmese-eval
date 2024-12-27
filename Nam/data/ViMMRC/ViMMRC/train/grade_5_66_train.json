@@ -1,0 +1,49 @@
+{
+    "article": "Sang năm con lên bảy\nCha đưa con đến trường\nGiờ con đang lon ton\nKhắp sân vườn chạy nhảy\nChỉ mình con nghe thấy\nTiếng muôn loài với con.\n\nMai rồi con lớn khôn\nChim không còn biết nói\nGió chỉ còn biết thổi\nCây chỉ còn là cây\nĐại bàng chẳng về đây\nĐậu trên cành khế nữa\nChuyện ngày xưa, ngày xửa\nChỉ là chuyện ngày xưa.\n\nĐi qua thời ấu thơ\nBao điều bay đi mất\nChỉ còn trong đời thật\nTiếng người nói với con\nHạnh phúc khó khăn hơn\nMọi điều con đã thấy\nNhưng là con giành lấy\nTừ hai bàn tay con.",
+    "questions": [
+        "Những câu thơ nào cho thấy tuổi thơ rất vui và đẹp?",
+        "Thế giới tuổi thơ thay đổi như thế nào khi con lớn lên?",
+        "Từ giã tuổi thơ, con người tìm thấy hạnh phúc ở đâu, như thế nào?",
+        "Qua bài thơ, nhà thơ muốn nói với em điều gì?",
+        "Cặp quan hệ từ trong câu sau thể hiện quan hệ gì?  Nếu trời trở rét thì con phải mặc ấm"
+    ],
+    "options": [
+        [
+            "Chỉ các câu thơ ở khổ 1 (Con lon ton chạy nhảy khắp sân vườn, nghe thấy tiếng muôn loài nói với con).",
+            "Các câu thơ ở khổ 2 (Trong thế giới tuổi thơ, chim và gió biết nói, cây khế chẳng có đại bàng đậu).",
+            "Các câu thơ ở khổ 1 và 2 (Thế giới tuổi thơ vui, đẹp, thơ mộng như thế giới cổ tích).",
+            "Tất cả đều sai."
+        ],
+        [
+            "Khi lớn lên, con vẫn sống trong thế giới cổ tích nhưng không còn nghe thấy tiếng của muôn loài.",
+            "Khi lớn lên, con sẽ sống trong đời thật, nghe tiếng mọi người nói với con.",
+            "Khi lớn lên, dù nhiều điều đã thay đổi thì con vẫn sống trong thế giới cổ tích kì diệu.",
+            "Tất cả đều đúng."
+        ],
+        [
+            "Ở trong đời thực, một cách khó khăn, bằng hai bàn tay mình.",
+            "Ở trong cuộc sống, một cách dễ dàng, bằng hai bàn tay.",
+            "Ở trong thế giới cổ tích, một cách dễ dàng, trong những giấc mơ.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Hãy sống mãi trong thế giới kì diệu của tuổi thơ.",
+            "Hãy từ giã, đừng tiếc nuối tuổi thơ.",
+            "Từ giã tuổi thơ, ta sẽ sống cuộc sống hạnh phúc thật sự do mình tạo nên.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Điều kiện, giả thiết- kết quả.",
+            "Nguyên nhân- kết quả.",
+            "Tương phản.",
+            "Tất cả đều sai."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "C",
+        "A"
+    ]
+}

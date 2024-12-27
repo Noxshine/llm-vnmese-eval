@@ -1,0 +1,65 @@
+{
+    "article": "1. Một sớm hôm ấy, như thường lên, sau khi tập thể dục, Bác Hồ đi dạo trong vườn. Đến gần cây đa, Bác chợt thấy một chiếc rễ đa nhỏ và dài ngoằn ngoèo nằm trên mặt đất. Chắc là trận gió đêm qua đã làm nó rơi xuống. Bác tần ngần một lát, rồi bảo chú cần vụ đứng gần đấy:\n\n- Chú cuốn rễ này lại, rồi trồng cho nó mọc tiếp nhé!\n\n2. Theo lời Bác, chú cần vụ xới đất, vùi chiếc rễ xuống. Nhưng Bác lại bảo:\n\n- Chú nên làm thế này.\n\nNói rồi, Bác cuộn chiếc rễ thành một vòng tròn và bảo chú cần vụ buộc nó tựa vào hai cái cọc, sau đó mới vùi hai đầu rễ xuống đất.\n\nChú cần vụ thắc mắc:\n\n- Thưa Bác, làm thế để làm gì ạ?\n\nBác khẽ cười:\n\n- Rồi chú sẽ biết.\n\n3. Nhiều năm sau, chiếc rễ đã bén đất và thành cây đa con có vòng lá tròn. Thiếu nhi vào thăm vườn Bác, em nào cũng thích chơi trò chui qua chui lại vòng lá ấy. Lúc đó, mọi người mới hiểu vì sao Bác cho trồng chiếc rễ đa thành hình tròn như thế.",
+    "questions": [
+        "Khi đi dạo trong vườn, Bác và anh cần vụ đã thấy cái gì?",
+        "Khi nhìn thấy chiếc rễ đa nằm trên mặt đất, Bác bảo chú cần vụ làm gì?",
+        "Chú cần vụ đã làm gì khi nhìn thấy chiếc rễ đa?",
+        "Chiếc rễ đa đã trở thành cây đa có hình dáng như thế nào?",
+        "Các bạn nhỏ thường thích chơi trò gì bên cây đa?",
+        "Vì sao Bác cho trồng chiếc rễ đa thành hình tròn?",
+        "Chi tiết nào cho thấy Bác rất yêu thương thiếu nhi?"
+    ],
+    "options": [
+        [
+            "Cá vàng dưới ao ngoi lên đớp mồi.",
+            "Một chiếc rễ đa nằm trên mặt đất.",
+            "Một chú chim non bị gãy cánh.",
+            "Cây cối đổ nghiêng ngả sau trận bão."
+        ],
+        [
+            "Chú cuốn rễ này lại rồi làm vòng cho các cháu thiếu nhi chơi nhé!.",
+            "Chú cuốn rễ này lại, rồi trồng cho nó mọc tiếp nhé!.",
+            "Chú đem rễ đa này đặt dưới gốc cây đa to kia nhé!.",
+            "Chú đem rễ đa này phơi làm củi đun nhé."
+        ],
+        [
+            "Chú đem ngâm chiếc rễ trong nước cho nảy mầm.",
+            "Chú cần vụ xới đất, trồng hai đầu của chiếc rễ xuống.",
+            "Chú ghép chiếc rễ vào cành cây khác để tạo giống mới.",
+            "Chú cần vụ xới đất, vùi chiếc rễ xuống."
+        ],
+        [
+            "Chiếc rễ trở thành cây đa con có vòng lá tròn.",
+            "Chiếc rễ trở thành cây đa khổng lồ, xanh um.",
+            "Chiếc rễ trở thành cây đa có hình thù như rắn hổ mang.",
+            "Chiếc rễ trở thành cây đa con như quả cầu khổng lồ."
+        ],
+        [
+            "Em nào cũng thích ngồi dưới gốc đa ấy nghe Bác kể chuyện.",
+            "Em nào cũng thích chơi xích đu dưới tán cây đa con ấy.",
+            "Em nào cũng thích chơi ú tim, trốn tìm quanh gốc đa ấy.",
+            "Em nào cũng thích chơi trò chui qua chui lại vòng lá ấy."
+        ],
+        [
+            "Bác sống rất giản dị, tiết kiệm và liêm khiết.",
+            "Bác rất yêu quý thiếu nhi, đặc biệt là thiếu nhi Việt Nam.",
+            "Bác rất quan tâm đến mọi người xung quanh.",
+            "Bác rất yêu thiên nhiên, yêu cây xanh."
+        ],
+        [
+            "Bác rất quan tâm đến cuộc sống của đồng bào miền núi.",
+            "Bác sống rất giản dị, tiết kiệm và bao dung.",
+            "Bác rất yêu thiên nhiên và có ý thức bảo vệ môi trường.",
+            "Bác cho trồng chiếc rễ đa thành hình tròn để về sau có chiếc vòng cho thiếu nhi vui chơi."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "D"
+    ]
+}

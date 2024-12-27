@@ -1,0 +1,49 @@
+{
+    "article": "Trong một khóa học về tâm lí học, vị giáo sư ra đề bài như sau: “Trong vòng một tuần, anh chị hãy đến gặp người mà mình quan tâm và nói với họ rằng anh chị yêu mến họ. Đó phải là người mà trước đây, hoặc đã lâu anh chị không nói những lời như vậy”.\n\nĐề bài xem ra đơn giản. Thế nhưng, hầu hết cánh đàn ông trong lớp đều đã trên 30 tuổi và cảm thấy vô cùng khó khăn khi thực hiện đề bài này vì họ hiếm khi thể hiện tình cảm của mình với một ai đó. Cuối cùng, thì cũng có một người đàn ông đã kể lại câu chuyện của mình:\n\n“Cách đây 5 năm, giữa tôi và bố tôi có một bất đồng sâu sắc, và từ đó đến nay vẫn chưa giải quyết được. Tôi tránh gặp mặt ông, ngoại trừ những trường hợp không đừng được khi phải họp gia đình. Nhưng ngay cả những lúc ấy, chúng tôi cũng hầu như không nói với nhau một lời nào. Vì vậy, tôi đã thuyết phục bản thân để đến xin lỗi và nói với bố tôi rằng tôi yêu ông ấy.\n\nQuyết định ấy dường như đã làm giảm đi phần nào áp lực nặng nề trong lòng tôi. Đêm hôm đó, tôi hầu như chẳng chợp mắt nổi. Ngày hôm sau, tôi đến nhà bố mẹ và bấm chuông, lòng thầm mong bố sẽ mở cửa cho tôi. Tôi lo sợ rằng nếu mẹ mở cửa thì dự định của tôi sẽ không thành, tôi sẽ bày tỏ với mẹ thay vì với bố. Nhưng may quá bố tôi đã ra mở cửa.\n\nTôi bước vào và nói: “Con không làm mất thời gian của bố đâu, con đến chỉ để nói với bố rằng bố hãy tha lỗi cho con và con yêu bố.”\n\nCó một sự chuyển biến trên khuôn mặt của bố tôi. Gương mặt ông dãn ra, những nếp nhăn dường như biến mất và ông bắt đầu khóc. Ông bước đến, ôm chầm lấy tôi và nói: “Bố cũng yêu con, con trai ạ! Nhưng bố chưa biết làm thế nào để có thể nói với con điều đó.”\n\nĐó là thời khắc quý báu nhất trong đời tôi. Hai ngày sau, bố tôi đột ngột bị một cơn đau tim và vẫn còn nằm trong bệnh viện cho đến bây giờ. Nếu như tôi trì hoãn bộc lộ với bố, có lẽ tôi không còn cơ hội nào nữa”.",
+    "questions": [
+        "Những người đàn ông cho rằng đề bài khó ở chỗ nào?",
+        "Người đàn ông trong câu chuyện đã phải vượt qua khó khăn gì để có thể nói lời xin lỗi và nói lời yêu thương với cha mình?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Người bố bị bệnh gì?",
+        "Ai là người chủ động xin lỗi trong câu chuyện?"
+    ],
+    "options": [
+        [
+            "Thật khó lòng nói lời yêu thương với người đã lâu mình không nói.",
+            "Thật khó khăn để nói lời xin lỗi ai đó.",
+            "Thật hiếm khi thể hiện tình cảm của mình với một ai đó.",
+            "Thật không thể tin có thể ra đề như vậy?"
+        ],
+        [
+            "Vượt qua một chặng đường dài.",
+            "Vượt qua gia đình anh ta.",
+            "Vượt qua chính bản thân anh ta.",
+            "Vượt qua những người khác."
+        ],
+        [
+            "Phải xin lỗi bố mẹ ngay khi mình mắc lỗi.",
+            "Đừng nên trì hoãn nói lời xin lỗi và yêu thương với một ai đó.",
+            "Hãy luôn sống trong tình yêu thương.",
+            "Hãy siêng năng và cần cù."
+        ],
+        [
+            "Bệnh tim.",
+            "Bệnh phổi.",
+            "Bệnh về mắt.",
+            "Tâm bệnh."
+        ],
+        [
+            "Người mẹ.",
+            "Người bạn.",
+            "Người con.",
+            "Người bố."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "B",
+        "C"
+    ]
+}

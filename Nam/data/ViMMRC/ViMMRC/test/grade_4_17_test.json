@@ -1,0 +1,65 @@
+{
+    "article": "Bốn anh em tìm tới chỗ yêu tinh ở. Nơi đây bản làng vắng teo, chỉ còn mỗi một bà cụ được yêu tinh cho sống sót để chăn bò cho nó. Thấy anh em Cẩu Khây kêu đói, bà cụ nấu cơm cho ăn. Ăn no, bốn cậu bé lăn ra ngủ. Tờ mờ sáng, bỗng có tiếng đập cửa. Biết yêu tinh đã đánh hơi thấy thịt trẻ con, bà cụ liền lay anh em Cẩu Khây dậy, giục chạy trốn. Cẩu Khây bèn nói:\n\n- Bà đừng sợ, anh em chúng cháu đến đây để bắt yêu tinh đấy.\n\nCẩu Khây hé cửa. Yêu tinh thò đầu vào, lè lưỡi dài như quả núc nác, trợn mắt xanh lè. Nắm Tay Đóng Cọc đấm một cái làm nó gãy gần hết hàm răng. Yêu tinh bỏ chạy. Bốn anh em Cẩu Khây liền đuổi theo nó. Cẩu Khây nhổ cây bên đường quật túi bụi. Yêu tinh đau quá hét lên, gió bão nổi ầm ầm, đất trời tối sầm lại. Đến một thung lũng, yêu tinh dừng lại, phun nước ra như mưa. Nước dâng ngập cả cánh đồng. Nắm Tay Đóng Cọc đóng cọc be bờ ngăn nước lụt, Lấy Tai Tát Nước tát nước ầm ầm qua núi cao, Móng Tay Đục Máng ngả cây khoét máng, khơi dòng nước chảy đi. Chỉ một lúc, mặt đất lại cạn khô. Yêu tinh núng thế, đành phải quy hàng.\n\nTừ đấy, bản làng lại đông vui.",
+    "questions": [
+        "Tới chỗ yêu tinh ở, anh em Cẩu Khây gặp ai?",
+        "Bốn anh em đã được giúp đỡ như thế nào?",
+        "Khi yêu tinh đánh hơi thấy thịt trẻ con, bà cụ đã làm như thế nào?",
+        "Khi yêu tinh thò đầu vào nhà, trợn mắt xanh lè, người nào đã đấm làm gãy gần hết hàm răng yêu tinh?",
+        "Khi yêu tinh bỏ chạy, bốn anh em tiếp đã làm gì tiếp theo?",
+        "Cuối cùng, kết cục của cuộc chiến diễn ra như thế nào?",
+        "Tại sao anh em Cẩu Khây chiến thắng được yêu tinh?"
+    ],
+    "options": [
+        [
+            "Yêu tinh.",
+            "Những người dân làng.",
+            "Bà cụ.",
+            "Bò Một Sừng."
+        ],
+        [
+            "Bà cụ nấu cơm cho ăn và cho bốn anh em chỗ ngủ.",
+            "Bà cụ cho bốn anh em chỗ ngủ.",
+            "Bà cụ cho bốn anh em chăn bò.",
+            "Bà cụ chỉ cách để bốn anh em Cẩu Khây tiêu diệt yêu tinh."
+        ],
+        [
+            "Đưa bốn anh em trốn trong đàn bò để yêu tinh không phát hiện.",
+            "Gọi 4 anh em dậy để chuẩn bị đánh yêu tinh.",
+            "Cầu xin yêu tinh đừng ăn thịt lũ trẻ.",
+            "Lay và giục 4 anh em Cẩu Khây chạy trốn."
+        ],
+        [
+            "Nắm Tay Đóng Cọc.",
+            "Lấy Tai Tát Nước.",
+            "Móng Tay Đục Máng.",
+            "Cẩu Khây."
+        ],
+        [
+            "Đuổi theo, nhổ cây bên đường quật túi bụi.",
+            "Móng Tay Đục Máng dẫn nước từ biển làm yêu tinh chết đuối.",
+            "Đuổi theo, bao vây và lấy thừng trói yêu tinh.",
+            "Nắm Tay Đóng Cọc đấm xuống đất làm yêu tinh rơi xuống vực sâu."
+        ],
+        [
+            "Bốn anh em không đánh bại được yêu tinh.",
+            "Yêu tinh núng thế, đành phải quy hàng.",
+            "Bốn anh em rút lui vì đuối sức.",
+            "Yêu tinh nuốt chửng bốn anh em vào bụng."
+        ],
+        [
+            "Bởi bốn anh em bằng tài năng của mình đã hợp lực lại, cùng chiến đấu nên đã chiến thắng yêu tinh.",
+            "Bởi yêu tinh bị bốn anh em bao vây và đánh bất ngờ nên chưa có sự chuẩn bị.",
+            "Bởi bốn anh em Cẩu Khây được bà cụ chỉ cho cách chiến đấu để chiến thắng yêu tinh.",
+            "Bởi bốn anh em được dân làng giúp đỡ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "A",
+        "A",
+        "B",
+        "A"
+    ]
+}

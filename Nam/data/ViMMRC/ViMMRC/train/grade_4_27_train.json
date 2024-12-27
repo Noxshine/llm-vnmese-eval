@@ -1,0 +1,49 @@
+{
+    "article": "Đêm nay anh đứng gác ở trại. Trăng ngàn và gió núi bao la khiến lòng anh man mác nghĩ tới trung thu và nghĩ tới các em. Trăng đêm nay soi sáng xuống nước Việt Nam độc lập yêu quý của các em. Trăng sáng mùa thu vằng vặc chiếu khắp thành phố, làng mạc, núi rừng, nơi quê hương thân thiết của các em...\n\nAnh nhìn trăng và nghĩ tới ngày mai...\n\nNgày mai, các em có quyền mơ tưởng một cuộc sống tươi đẹp vô cùng. Mươi mười lăm năm nữa thôi, các em sẽ thấy cũng dưới ánh trăng này, dòng thác nước đổ xuống làm chạy máy phát điện; ở giữa biển rộng, cờ đỏ sao vàng phấp phới bay trên những con tàu lớn. Trăng của các em sẽ soi sáng những ống khói nhà máy chi chít, cao thẳm, rải trên đồng lúa bát ngát vàng thơm, cùng với nông trường to lớn, vui tươi. \n\nTrăng đêm nay sáng quá ! Trăng mai còn sáng hơn. Anh mừng cho các em vui tết Trung thu độc lập đầu tiên và anh mong ước ngày mai đây, những tết Trung thu tươi đẹp hơn nữa sẽ đến với các em.",
+    "questions": [
+        "Đêm nay, anh chiến sĩ làm nhiệm vụ gì?",
+        "Nét đẹp cũa trăng Trung thu độc lập được miêu tả như thế nào?",
+        "Chi tiết nào không phải là tưởng tượng của anh chiến sĩ về đất nước trong đêm trăng tương lai?",
+        "Anh chiến sĩ đã ước mong điều gì trong những đêm trăng Trung thu của tương lai?",
+        "Trăng của ngày mai như thế nào so với trăng đêm nay?"
+    ],
+    "options": [
+        [
+            "Hành quân ra chiến trường.",
+            "Đánh úp đồn địch.",
+            "Tăng gia sản xuất.",
+            "Đứng gác ở trại."
+        ],
+        [
+            "Trăng soi sáng xuống nước Việt Nam độc lập, trăng vằng vặc chiếu khắp thành phố, quê hương thân thiết.",
+            "Trăng tròn và những ngôi sao sáng điểm xuyết trên bầu trời đêm, lấp lánh lấp lánh...",
+            "Trăng tròn và trời quang mây tạnh, không có mây che khuất.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Nước nhà sẽ vững mạnh và đủ sức xâm chiếm cả những quốc gia khác.",
+            "Những nhà máy chi chít, rải trên đồng lúa vàng thơm là những nông trường tươi vui.",
+            "Dòng thác đổ xuống làm chạy máy phát điện.",
+            "Cờ đỏ sao vàng bay phấp phới trên những con tàu lớn."
+        ],
+        [
+            "Những điều tốt đẹp nhất sẽ chỉ đến với gia đình anh và người thân.",
+            "Những tết Trung thu nhiều năm nữa vẫn giữ được nét truyền thống.",
+            "Những tết Trung thu tươi đẹp hơn nữa sẽ đến với  các em.",
+            "Những tết Trung thu nhiều năm nữa, nước nhà vẫn được độc lập."
+        ],
+        [
+            "Không đẹp bằng.",
+            "Ít sáng hơn.",
+            "Lu mờ hơn.",
+            "Sáng hơn."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "A",
+        "C",
+        "D"
+    ]
+}

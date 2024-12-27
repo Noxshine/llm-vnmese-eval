@@ -1,0 +1,49 @@
+{
+    "article": "Một giờ sau cơn dông, người ta hầu như không nhận thấy trời hè vừa ủ dột. Mùa hè mặt đất cũng chóng khô như đôi mắt em bé.\n\nKhông gì đẹp bằng cây lá vừa tắm mưa xong, đang được mặt trời lau ráo, lúc đó trông nó vừa tươi mát, vừa ấm áp… Khóm cây, luống cảnh trao đổi hương thơm và tia sáng. Trong tán lá, mấy cây sung và chích chòe huyên náo, chim sẻ tung hoành, gõ kiến leo dọc thân cây dẻ, mổ lách cách trên vỏ. Hoa cẩm chướng có mùi thơm nồng nàn. Ánh sáng mạ vàng những đóa hoa kim hương, vô số bướm chập chờn trông như những tia sáng lập lòe của đóa đèn hoa ấy.\n\nCây cỏ vừa tắm gội xong, trăm thứ nhung gấm, bạc, vàng bày lên trên cánh hoa không một tí bụi. Thật là giàu sang mà cũng thật là trinh bạch. Cảnh vườn là cảnh vắng lặng dung hòa với nghìn thứ âm nhạc, có chim gù, có ong vo ve, có gió hồi hộp dưới lá.",
+    "questions": [
+        "Vào mùa hè, sau trận mưa rào, mặt đất được so sánh với gì?",
+        "Vào mùa hè, sau trận mưa rào, mặt đất được so sánh với gì?",
+        "Dòng nào dưới đây nêu đầy đủ những âm thanh trong khu vườn sau trận mưa rào?",
+        "Dòng nào dưới đây nêu đúng nhất nội dung bài văn?",
+        "Cảnh vườn vắng lặng hoà nhập với những thứ gì?"
+    ],
+    "options": [
+        [
+            "Đôi mắt của em bé.",
+            "Đôi má của em bé.",
+            "Mái tóc của em bé.",
+            "Đôi môi của em bé."
+        ],
+        [
+            "Đôi mắt của em bé.",
+            "Đôi má của em bé.",
+            "Mái tóc của em bé.",
+            "Đôi môi của em bé."
+        ],
+        [
+            "Tiếng chim gù, tiếng ong vò vẽ.",
+            "Tiếng gió hồi hộp dưới lá.",
+            "Tiếng chim gù, tiếng ong vo ve, tiếng gió hồi hộp dưới lá.",
+            "Tiếng gió và tiếng ong vò vẻ."
+        ],
+        [
+            "Tả khu vườn sau trân mưa rào.",
+            "Tả vẻ đẹp tươi mát, rực rỡ của cảnh vật sau trận mưa rào.",
+            "Tả bầu trời và mặt đất sau trận mưa rào.",
+            "Tả khu vườn trong mưa rào."
+        ],
+        [
+            "Nghìn thứ âm nhạc, có chim gù, có ong vo ve, có gió hồi hộp dưới lá.",
+            "Tiếng chim hoạ mi.",
+            "Tiếng người.",
+            "Tiếng chó sói."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

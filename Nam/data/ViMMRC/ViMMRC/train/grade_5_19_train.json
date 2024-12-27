@@ -1,0 +1,49 @@
+{
+    "article": "Đà Lạt, một buổi chiều cuối năm, mưa giông vừa tạnh. Mặt trời hé nắng vàng vàng, không khí nhẹ và trong, mát rười rượi, kích thích đến tim óc.\n\nTôi mở cửa ra bao lơn nhìn sang rừng thông. Tôi để ý nhìn những cây thông cao, không nứt nẻ, cành sần sùi, cong queo một cách mĩ thuật không ngờ. Dưới chân cây, cỏ dại mọc dày, cao, lá thon, dọc ngang, lá đan dày um tùm.\n\nTôi nhìn ra xa hơn. Hồ Đà Lạt lặng im, mặt nước xanh phản chiếu đồi núi và rừng thông. Màu xanh và sự im lặng, cảnh bao la của núi rừng và không khí mát mẻ như làm châm vào da, tất cả nhè nhẹ đưa óc tôi liên tưởng đền phong cảnh sứ Phần Lan tôi đã nhiều lần tưởng tượng qua sách vở.\n\nTôi đang mơ màng tưởng tượng thì chợt vang lên tiếng chim hoàng anh hót. Tôi đưa mắt nhìn xem chim đậu ở đâu mà hót. Mỗi lần nghe tiếng chim hoàng anh là tôi phải nghĩ đến những cây bàng xanh mướt, vòm trời xanh có mây nhẹ như bông. Đà Lạt có chim hoàng anh hót là điều tôi không bao giờ ngờ. Nhưng kìa, trên một cây thông gãy có một chú hoàng anh nhỏ đang mổ vỏ thông tìm mồi. Mình chim thon thon, lông mượt màu vàng nghệ, hoà hợp với giọng hót ấm áp. Óc tôi đột nhiên thấy êm ái vô cùng.",
+    "questions": [
+        "Nên chọn tên nào cho bài văn?",
+        "Vật nào không được tác giả miêu tả trong bài?",
+        "Thời tiết ở Đà Lạt như thế nào?",
+        "Nghe tiếng hoàng anh hót, tác giả liên tưởng đến điều gì?",
+        "Không gian của Đà Lạt có đặc điểm gì?"
+    ],
+    "options": [
+        [
+            "Một buổi sáng Đà Lạt.",
+            "Một buổi chiều Đà Lạt.",
+            "Những âm thanh ở Đà Lạt.",
+            "Những hình ảnh Đà Lạt."
+        ],
+        [
+            "Núi.",
+            "Tiếng chim.",
+            "Cây thông.",
+            "Suối."
+        ],
+        [
+            "Nóng ẩm.",
+            "Mát mẻ.",
+            "Lạnh và khô.",
+            "Nóng."
+        ],
+        [
+            "Màu nắng của những ngày đẹp trời.",
+            "Rừng thông xanh và và mặt hồ màu ngọc bích.",
+            "Những cây bàng xanh mướt, vòm trời xanh có mây nhẹ như bông.",
+            "Những cây thông xanh trong những ngày đẹp trời."
+        ],
+        [
+            "Sôi động và náo nhiệt.",
+            "Lắng đọng và trầm buồn.",
+            "Yên tĩnh và thơ mộng.",
+            "Sôi động và thơ mộng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "C",
+        "C"
+    ]
+}

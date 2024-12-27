@@ -1,0 +1,49 @@
+{
+    "article": "Ngày xưa, có một ông vua muốn tìm người tài ra giúp nước. Vua hạ lệnh cho mỗi làng trong vùng nọ nộp một con gà trống biết đẻ trứng, nếu không có thì cả làng phải chịu tội.\n\nĐược lệnh vua, cả vùng lo sợ. Chỉ có một cậu bé bình tĩnh thưa với cha:\n\n- Cha đưa con lên kinh đô gặp Đức Vua, con sẽ lo được việc này.\n\nNgười cha lấy làm lạ, nói với làng. Làng không biết làm thế nào, đành cấp tiền cho hai cha con lên đường.\n\nĐến trước cung vua, cậu bé kêu khóc om sòm. Vua cho gọi vào, hỏi:\n\n- Cậu bé kia, sao dám đến đây làm ầm ĩ?\n\n- Muôn tâu Đức Vua – cậu bé đáp – bố con mới đẻ em bé, bắt con đi xin sữa cho em. Con không xin được, liền bị đuổi đi.\n\nVua quát:\n\n- Thằng bé này láo, dám đùa với trẫm! Bố ngươi là đàn ông thì đẻ sao được!\n\nCậu bé bèn đáp:\n\n- Muôn tâu, vậy sao Đức Vua lại ra lệnh cho làng con phải nộp gà trống biết đẻ trứng ạ?\n\nVua bật cười, thầm khen cậu bé, nhưng vẫn muốn thử tài cậu lần nữa.\n\nHôm sau, nhà vua cho người đem đến một con chim sẻ nhỏ, bảo cậu bé làm ba mâm cỗ. Cậu bé đưa cho sứ giả một chiếc kim khâu, nói:\n- Xin ông về tâu Đức Vua rèn cho tôi chiếc kim này thành một con dao thật sắc để xẻ thịt chim.\n\nVua biết là đã tìm được người giỏi, bèn trọng thưởng cho cậu bé và gửi cậu vào trường học để luyện thành tài.",
+    "questions": [
+        "Nhà vua nghĩ ra kế gì để tìm người tài?",
+        "Vì sao dân chúng lo sợ khi nghe lệnh của nhà vua?",
+        "Trong cuộc thử tài lần sau, cậu bé yêu cầu điều gì?",
+        "Nhà vua đã làm gì khi biết cậu bé là người tài?",
+        "Con gì được nhắc đến trong thử thách tìm người tài của nhà vua?"
+    ],
+    "options": [
+        [
+            "Vua hạ lệnh cho mỗi làng trong vùng nọ nộp một con gà trống biết đẻ trứng.",
+            "Vua hạ lệnh cho mỗi làng trong vùng nọ nộp một con gà mái biết đẻ trứng.",
+            "Vua hạ lệnh cho mỗi làng nghĩ ra kế đánh giặt Nguyên.",
+            "Vua hạ lệnh cho mở cuộc thi tuyển người tài."
+        ],
+        [
+            "Vì gà mái không đẻ trứng được.",
+            "Vì gà trống không đẻ trứng được.",
+            "Vì không tìm được người tài giúp nước.",
+            "Vì mọi người không đủ tiền để đáp ứng yêu cầu của nhà vua."
+        ],
+        [
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua đưa cho một con dao thật sắc để xẻ thịt chim.",
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua rèn chiếc kim thành một lưỡi hái thật sắc để xẻ thịt chim.",
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua rèn chiếc kim thành một con dao thật sắc để xẻ thịt chim.",
+            "Cậu bé yêu cầu sứ giả về tâu với vua đem nhiều bổng lộc đến nhà của cậu bé thì cậu bé sẽ giúp."
+        ],
+        [
+            "Trọng thưởng và đưa cậu bé vào trường để học thành tài.",
+            "Cho về quê tiếp tục.",
+            "Tăng học vị choi cậu bé.",
+            "Rước cậu bé vào cung ở cùng."
+        ],
+        [
+            "Con gà.",
+            "Con cá.",
+            "Con chim.",
+            "Con công."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "A",
+        "A"
+    ]
+}

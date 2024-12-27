@@ -1,0 +1,57 @@
+{
+    "article": "Hoa mận vừa tàn thì mùa xuân đến. Bầu trời ngày thêm xanh. Nắng vàng ngày càng rực rỡ. Vườn cây lại đâm chồi, nảy lộc. Rồi vườn cây ra hoa. Hoa bưởi nồng nàn. Hoa nhãn ngọt. Hoa cau thoảng qua. Vườn cây lại đầy tiếng chim và bóng chim bay nhảy. Những thím chích chòe nhanh nhảu. Những chú khướu lắm điều. Những anh chào mào đỏm dáng. Những bác cu gáy trầm ngâm.\n\nChú chim sâu vui cùng vườn cây và các loài chim bạn. Nhưng trong trí thơ ngây của chú còn mãi sáng ngời hình ảnh một cánh hoa mận trắng, biết nở cuối đông để báo trước mùa xuân tới.",
+    "questions": [
+        "Cảnh vật được miêu tả vào mùa nào trong năm?",
+        "Dấu hiệu đầu tiên nào báo hiệu mùa xuân đến?",
+        "Nội dung của bài đọc này là gì?",
+        "Những loại hoa nào được đề cập trong bài đọc này?",
+        "Những con vật nào được đề cập đến trong bài đọc?",
+        "Con vật nào được miêu tả là trầm ngâm?"
+    ],
+    "options": [
+        [
+            "Mùa xuân.",
+            "Mùa hè.",
+            "Mùa thu.",
+            "Mùa đông."
+        ],
+        [
+            "Hương cốm mới.",
+            "Hoa cúc chớm nở.",
+            "Gió thu se lạnh.",
+            "Hoa mận vừa tàn."
+        ],
+        [
+            "Sự phát triển của các loài cây và chim chóc.",
+            "Những dấu hiệu chuyển từ hạ sang thu.",
+            "Những thay đổi của đất trời khi cuối đông.",
+            "Sự thay đổi của đất trời, mọi vật khi xuân đến."
+        ],
+        [
+            "Hoa mận, hoa bưởi, hoa nhãn và hoa cau,.",
+            "Hoa dâu, hoa bưởi, hoa lê và hoa cau.",
+            "Hoa cau, hoa mận, hoa bằng lăng và hoa cúc.",
+            "Hoa hồng và hoa cúc."
+        ],
+        [
+            "Chim chích choè, chim khướu, chim chào mào, chim cu và chim sâu.",
+            "Đại bàng, chim sâu, chim chào mào và chim chích choè.",
+            "Chim sâu, chim chào mào và chim đại bàng.",
+            "Chim cú, chim sâu và chim chích choè."
+        ],
+        [
+            "Chim cu.",
+            "Chim chích choè.",
+            "Chim chào mào.",
+            "Chim sâu."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "D",
+        "A",
+        "A",
+        "A"
+    ]
+}

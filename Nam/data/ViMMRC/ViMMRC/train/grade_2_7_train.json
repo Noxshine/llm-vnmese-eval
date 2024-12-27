@@ -1,0 +1,57 @@
+{
+    "article": "1. Ngày xưa, có một cậu bé ham chơi. Một lần, bị mẹ mắng, cậu vùng vằng bỏ đi. Cậu la cà khắp nơi, chẳng nghĩ đến mẹ ở nhà mỏi mắt chờ mong.\n\n2. Không biết cậu đã đi bao lâu. Một hôm, vừa đói vừa rét, lại bị trẻ lớn hơn đánh, cậu mới nhớ đến mẹ, liền tìm đường về nhà.\n\nỞ nhà, cảnh vật vẫn như xưa, nhưng không thấy mẹ đâu. Cậu khản tiếng gọi mẹ, rồi ôm lấy một cây xanh trong vườn mà khóc. Kì lạ thay, cây xanh bỗng run rẩy. Từ các cành lá, những đài hoa bé tí trổ ra, nở trắng như mây. Hoa tàn, quả xuất hiện, lớn nhanh, da căng mịn, xanh óng ánh, rồi chín. Một quả rơi vào lòng cậu. Môi cậu vừa chạm vào, một dòng sữa trắng trào ra, ngọt thơm như sữa mẹ.\n\nCậu nhìn lên tán lá. Lá một mặt xanh bóng, mặt kia đỏ hoe như mắt mẹ chờ con. Cậu bé òa khóc. Cây xòa cành ôm cậu, như tay mẹ âu yếm vỗ về.\n\n3. Trái cây thơm ngon ở vườn nhà cậu bé, ai cũng thích. Họ đem hạt gieo trồng khắp nơi và gọi đó là cây vú sữa.",
+    "questions": [
+        "Đặc điểm của cậu bé này là gì?",
+        "Tại sao cậu bé lại bỏ nhà ra đi?",
+        "Người mẹ ở nhà như thế nào trong khi cậu bỏ nhà đi?",
+        "Vì sao cậu bé nhớ đến mẹ và tìm đường về nhà mình?",
+        "Khi trở về nhà, cậu bé nhận ra điều gì?",
+        "Trở về nhà không thấy mẹ mình đâu, cậu bé đã làm gì?"
+    ],
+    "options": [
+        [
+            "Nhút nhát.",
+            "Hỗn láo.",
+            "Ham chơi.",
+            "Yêu mẹ."
+        ],
+        [
+            "Vì cậu bị bắt cóc.",
+            "Vì cậu bị mẹ mắng.",
+            "Vì cậu bị chúng bạn rủ rê.",
+            "Vì cậu muốn đi phiêu lưu."
+        ],
+        [
+            "Bực tức cáu giận.",
+            "Vẫn bình thản làm việc.",
+            "Cuống cuồng tìm con.",
+            "Mỏi mắt chờ mong."
+        ],
+        [
+            "Vì cậu muốn về nhà đi chơi cùng.",
+            "Vì cậu đã chơi chán, chẳng có ai chơi cùng.",
+            "Vì đói, rét, lại bị trẻ lớn đánh.",
+            "Vì cậu ân hận, muốn về nhà xin lỗi mẹ."
+        ],
+        [
+            "Cảnh vật như xưa nhưng không thấy mẹ đâu.",
+            "Mẹ cậu vẫn làm việc và chờ cậu ở nhà.",
+            "Nhà cửa xơ xác, không có người chăm sóc.",
+            "Mẹ cậu héo hon, mòn mỏi chờ cậu đợi cậu."
+        ],
+        [
+            "Chạy sang nhà hàng xóm hỏi tìm mẹ nhưng vẫn không thấy.",
+            "Khản tiếng gọi và chạy khắp nơi tìm mẹ.",
+            "Cậu nghĩ mẹ đi làm, cậu dọn dẹp nhà cửa chờ mẹ về.",
+            "Khản tiếng gọi mẹ và ôm lấy một cây xanh trong vườn mà khóc."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "D",
+        "C",
+        "A",
+        "D"
+    ]
+}

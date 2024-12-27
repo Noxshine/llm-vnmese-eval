@@ -1,0 +1,73 @@
+{
+    "article": "1. Thành và Mến là đôi bạn ngày nhỏ. Ngày ấy, giặc Mĩ ném bom phá hoại miền Bắc, Thành theo bố mẹ sơ tán về quê Mến. Mĩ thua, Thành về lại thị xã.\n\nHai năm sau, bố Thành đón Mến ra chơi. Thành dẫn bạn đi thăm khắp nơi. Cái gì đối với Mến cũng lạ. Ở đây có nhiều phố quá. Phố nào cũng nhà ngói san sát, cái cao cái thấp, chẳng giống những ngôi nhà ở quê. Mỗi sáng, mỗi chiều, những dòng xe cộ đi lại nườm nượp. Ban đêm, đèn điện lấp lánh như sao sa.\n\n2. Chỗ duy nhất là công viên. Ở đây, bên cạnh vườn hoa có cầu trượt, đu quay, có cả một cái hồ lớn. Mến rất thích chơi ở ven hồ. Hồ này rộng hơn cái đầm ở làng của Mến nhưng không trồng sen. Nhìn mặt hồ sóng gợn lăn tăn, hai đứa lại nhắc chuyện hồi nào bơi thuyền thúng ra giữa đầm hái hoa. Đang mải chuyện, bỗng các em nghe tiếng kêu thất thanh:\n\n- Cứu với!\n\nThành chưa kịp hiểu chuyện gì đã thấy Mến lao xuống nước. Giữa hồ, một cậu bé đang vùng vẫy tuyệt vọng. Trên bờ, mấy chú bé ướt lướt thướt hốt hoảng kêu la.\n\nMến bơi rất nhanh. Chỉ một loáng, em đã đến bên cậu bé, khéo léo túm tóc cậu, đưa vào bờ.\n\n3. Về nhà, Thành và Mến sợ bố lo, không dám kể cho bố nghe chuyện xảy ra. Mãi đến khi về quê, bố mới biết chuyện. Bố bảo:\n\n- Người ở làng quê như thế đấy, con ạ. Lúc đất nước có chiến tranh, họ sẵn lòng sẻ nhà sẻ cửa. Cứu người, họ không hề ngần ngại.",
+    "questions": [
+        "Những nhân vật nào được kể trong câu chuyện?",
+        "Thành và Mến quen nhau và kết bạn với nhau khi nào?",
+        "Mến có dịp gặp lại Thành vào dịp nào?",
+        "Mến cảm thấy thị xã có gì lạ?",
+        "Mến đã có hành động gì  được xem là đáng khen?",
+        "Mến đã cứu cậu bé suýt chết đuối như thế nào?",
+        "Tại sao Thành và Mến không dám kể cho bố nghe chuyện đã xảy ra?",
+        "Tình cảm gì của bố Thành đối với người ở nông thôn được thể hiện qua câu nói nào?"
+    ],
+    "options": [
+        [
+            "Mến và Mĩ.",
+            "Thành và Mến.",
+            "Thành và Mĩ.",
+            "Thành, Mĩ và Mến."
+        ],
+        [
+            "Mĩ ném bom phá hoại miền Nam, Thành phải sơ tán về quê Mến ở.",
+            "Mĩ ném bom bắn phá miền Bắc, Mến sơ tán lên thành phố và gặp Thành.",
+            "Mĩ ném bom phá hoại miền Bắc, Thành phải sơ tán về quê Mến ở.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Bố Thành đón mến lên thành phố chơi.",
+            "Mĩ lại ném bom phá hoại, Thành lại về quê sơ tán.",
+            "Thành có dịp về thăm lại miền quê, thăm Mến.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Con người đối với Mến thật lạ.",
+            "Cái gì đối với Mến cũng lạ.",
+            "Chẳng có gì lạ lẫm đối với Mến.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Nhảy xuống hồ trong công viên hái hoa sen.",
+            "Nhặt rác và trồng sen ở hồ trong công viên.",
+            "Cứu em nhỏ suýt chết đuối dưới hồ trong công viên.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Đi gọi người tới giúp cậu bé.",
+            "Chèo thuyền ra giữa hồ vớt cậu lên.",
+            "Khéo léo túm tóc cậu, đưa vào bờ.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Vì chuyện chẳng có gì đáng kể.",
+            "Vì sợ bố lo.",
+            "Vì Mến phải về quê gấp.",
+            "Vì sợ bố mắng."
+        ],
+        [
+            "Ghen ghét, đố kị, soi mói.",
+            "Quý trọng, khâm phục, biết ơn.",
+            "Thờ ơ, vô cảm, không quan tâm.",
+            "Coi thường, khinh miệt, kì thị."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "C",
+        "C",
+        "B",
+        "B"
+    ]
+}

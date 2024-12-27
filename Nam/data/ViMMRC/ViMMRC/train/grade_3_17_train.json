@@ -1,0 +1,49 @@
+{
+    "article": "Ta về, mình có nhớ ta\nTa về, ta nhớ những hoa cùng người.\nRừng xanh hoa chuối đỏ tươi\nĐèo cao nắng ánh dao gài thắt lưng.\n\nNgày xuân mơ nở trắng rừng\nNhớ người đan nón chuốt từng sợi giang.\nVe kêu rừng phách đổ vàng\nNhớ cô em gái hái măng một mình.\n\nRừng thu trăng rọi hòa bình\nNhớ ai tiếng hát ân tình thủy chung.\nNhớ khi giặc đến giặc lùng\nRừng cây núi đá ta cùng đánh Tây.\n\nNúi giăng thành lũy sắt dày\nRừng che bộ đội, rừng vây quân thù.\nMênh mông bốn mặt sương mù\nĐất trời ta cả chiến khu một lòng.",
+    "questions": [
+        "Bài thơ nhắc đến địa điểm nào?",
+        "Bốn câu thơ \"Đèo cao nắng ánh dao gài thắt lưng.  Nhớ người đan nón chuốt từng sợi giang.  Nhớ cô em gái hái măng một mình.  Nhớ ai tiếng hát ân tình thủy chung. nói lên vẻ đẹp của ai?",
+        "Câu thơ \"Đất trời ta cả chiến khu một lòng\" nhắc đến sự đoàn kết của ai?",
+        "Loài cây gì đã làm trắng cả khu rừng?",
+        "Có những loại cây nào xuất hiện trong khu rừng?"
+    ],
+    "options": [
+        [
+            "Pác Pó.",
+            "Việt Bắc.",
+            "Tây Bắc.",
+            "Bắc Kạn."
+        ],
+        [
+            "Cô gái Việt Nam.",
+            "Núi rừng Việt Bắc.",
+            "Người Việt Bắc.",
+            "Cán bộ dưới xuôi."
+        ],
+        [
+            "Toàn thể binh lính quân đội Pháp.",
+            "Núi rừng và chiến sĩ cách mạng.",
+            "Cán bộ Cách mạng và người Việt Bắc..",
+            "Chiến sĩ cách mạng và quân Pháp."
+        ],
+        [
+            "Mơ.",
+            "Đào.",
+            "Mai.",
+            "Cúc."
+        ],
+        [
+            "Chuối, mơ, giang và cà.",
+            "Chuối, mơ, giang và đậu.",
+            "Chuối, mơ, giang và phách.",
+            "Chuối, mơ, giang và mía."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "C",
+        "A",
+        "C"
+    ]
+}

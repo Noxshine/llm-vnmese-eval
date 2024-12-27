@@ -1,0 +1,65 @@
+{
+    "article": "Quanh ta, mọi vật, mọi người đều làm việc.\nCái đồng hồ tích tắc, tích tắc báo phút, báo giờ.\nCon gà trống gáy vang ò ... ó ... o ..., báo cho mọi người đều biết trời sắp sáng, mau mau thức dậy.\nCon tu hú kêu tu hú, tu hú. Thế là sắp đến mùa vải chín.\nChim bắt sâu, bảo vệ mùa màng.\nCành đào nở hoa cho sắc xuân thêm rực rỡ, ngày xuân thêm tưng bừng.      \nNhư mọi vật, mọi người, bé cũng làm việc. Bé làm bài, bé đi học, bé quét nhà, nhặt rau, chơi với em đỡ mẹ. Bé luôn luôn bận rộn, mà lúc nào cũng vui.",
+    "questions": [
+        "Mọi vật và mọi người xung quanh ta làm gì?",
+        "Đồ vật nào được nhắc là đang làm việc?",
+        "Chiếc đồng hồ có tác dụng chính là gì?",
+        "Những con vật nào được nhắc đến trong bài đọc?",
+        "Bé làm gì?",
+        "Công dụng của chim bắt sâu là gì?",
+        "Nội dung của bài này với mục đích gì?"
+    ],
+    "options": [
+        [
+            "Đều vui chơi.",
+            "Đều làm việc.",
+            "Đều sinh sống.",
+            "Đều nhảy múa."
+        ],
+        [
+            "Chiếc xe đạp.",
+            "Chiếc đồng hồ.",
+            "Chiếc quạt.",
+            "Chiếc tủ lạnh nhà em."
+        ],
+        [
+            "Cho biết thời gian.",
+            "Trang trí.",
+            "Để xem phim.",
+            "Để đựng đồ."
+        ],
+        [
+            "Con gà, con chim và con tu hú.",
+            "Con gà, con chó và con chim.",
+            "Con chim, con gà và con cá.",
+            "Con chim và con gà."
+        ],
+        [
+            "Bé học, làm việc nhà và chơi với em của bé.",
+            "Bé giặt đồ, nhặt rau và chơi với em.",
+            "Bé học bài, quét nhà.",
+            "Bé đi chơi cùng với em bé."
+        ],
+        [
+            "Bảo vệ mùa màng.",
+            "Bảo vệ chim bạn.",
+            "Tiếng hót thanh thót.",
+            "Gọi bầy bởi tiếng hót của mình."
+        ],
+        [
+            "Con người và mọi vật trên trái đất này muốn tồn tại thì phải làm việc.",
+            "Sống vui sống khoẻ.",
+            "Muốn thành công thì phải làm việc chăm chỉ.",
+            "Tinh thần tương thân tương ái."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+    ]
+}

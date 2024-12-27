@@ -1,0 +1,81 @@
+{
+    "article": "Ngày 16-7-1945, nước Mĩ chế tạo được bom nguyên tử. Hơn nửa tháng sau, chính phủ Mĩ quyết định ném cả hai quả bom mới chế tạo xuống Nhật Bản.\n\nHai quả bom ném xuống các thành phố Hi-rô-si-ma và Na-ga-sa-ki đã cướp đi mạng sống của gần nửa triệu người. Đến năm 1951, lại có thêm gần 100 000 người ở Hi-rô-si-ma bị chết do nhiễm phóng xạ nguyên tử.\n\nKhi Hi-rô-si-ma bị ném bom, cô bé Xa-xa-cô Xa-xa-ki mới hai tuổi đã may mắn thoát nạn. Nhưng em bị nhiễm phóng xạ. Mười năm sau, em lâm bệnh nặng. Nằm trong bệnh viện nhẩm đếm từng ngày còn lại của đời mình, cô bé ngây thơ tin vào một truyền thuyết nói rằng nếu gấp đủ một nghìn con sếu bằng giấy treo quanh phòng, em sẽ khỏi bệnh. Em liền lặng lẽ gấp sếu. Biết chuyện, trẻ em toàn nước Nhật và nhiều nơi trên thế giới đã tới tấp gửi hàng nghìn con sếu giấy đến cho Xa-xa-cô. Nhưng Xa-xa-cô chết khi em mới gấp được 644 con.\n\nXúc động trước cái chết của em, học sinh thành phố Hi-rô-si-ma đã quyên góp tiền xây một tượng đài tưởng nhớ những nạn nhân bị bom nguyên tử sát hại. Trên đỉnh tượng đài cao 9 mét là hình một bé gái giơ cao hai tay nâng một con sếu. Dưới tượng đài khắc dòng chữ: \"Chúng tôi muốn thế giới này mãi mãi hòa bình\".",
+    "questions": [
+        "Nước Mĩ đã chế tạo và ném thứ gì lên Nhật Bản?",
+        "Hai quả bom nguyên tử đã được ném xuống thành phố nào của Nhật Bản?",
+        "Bom nguyên tử đã cướp đi sinh mạng của bao nhiêu người dân Nhật?",
+        "Cô bé còn may mắn sống xót nhưng bị nhiễm phóng xạ là ai?",
+        "Xa-xa-cô bị nhiễm phóng xạ nguyên tử khi nào?",
+        "Cô bé hi vọng kéo dài cuộc sống của mình bằng cách nào?",
+        "Các bạn nhỏ đã làm gì để bày tỏ tình đoàn kết với Xa-xa-cô?",
+        "Các bạn nhỏ đã làm gì để bày tỏ nguyện vọng hòa bình?",
+        "Nội dung của bài \"Những con sếu bằng giấy\" là gì?"
+    ],
+    "options": [
+        [
+            "Bom nguyên tử.",
+            "Tàu vũ trụ.",
+            "Bom B52.",
+            "Hạt nhân nguyên tử."
+        ],
+        [
+            "Hi-rô-si-ma và Na-ga-sa-ki.",
+            "Na-ga-sa-ki và Tô-ky-ô.",
+            "Hi-rô-si-ma và Ô-sa-ka.",
+            "Na-ga-sa-ki và Na-gôi-a."
+        ],
+        [
+            "100 000 người.",
+            "Gần nửa triệu người và 100 000 người nhiễm phóng xạ nguyên tử mà chết.",
+            "Hơn nửa triệu người.",
+            "Gần nửa triệu người."
+        ],
+        [
+            "Tô-tô-chan.",
+            "Hi-rô-si-ma.",
+            "Na-ga-sa-ki.",
+            "Xa-xa-cô Xa-xa-ki."
+        ],
+        [
+            "Khi chiến tranh Mĩ - Nhật vừa kết thúc.",
+            "Khi gia đình cô mới chuyển đến Nhật Bản.",
+            "Khi Mĩ ném hai quả bom nguyên tử xuống Nhật Bản.",
+            "Khi cô bé vừa mới sinh ra đời."
+        ],
+        [
+            "Cô tin vào truyền thuyết: gấp đủ 1000 con sếu bằng giấy treo quanh phòng sẽ khỏi bệnh.",
+            "Cô tin và thực thi truyền thuyết: gấp đủ 1000 con sếu bằng giấy treo quanh phòng, sẽ khỏi bệnh.",
+            "Cô nhờ các bạn khắp mọi miền cùng gấp những con sếu bằng giấy.",
+            "Cô nhờ mọi người giúp đỡ để thực hiện điều ước cuối cùng của mình."
+        ],
+        [
+            "Trẻ em cả nước gửi hàng ngàn bức thư chúc Xa-xa-cô mau khỏi bệnh.",
+            "Trẻ em cả nước gửi hàng nghìn con sếu giấy đến cho Xa-xa-cô.",
+            "Mọi người quyên góp tiền xây đài tưởng nhớ nạn nhân bị bom nguyên tử sát hại.",
+            "Mọi người quyên góp tiền xây tượng đài tưởng nhớ cô bé Xa-xa-cô."
+        ],
+        [
+            "Gấp ngàn cánh hạc gửi tặng cô bé Xa-xa-cô, mong cô bé có thể khỏi bệnh.",
+            "Quyên góp tiền xây tượng đài khắc dòng chữ: \"Chúng tôi muốn thế giới này hòa bình mãi mãi\".",
+            "Quyên góp tiền xây dựng tượng đài bằng đá tưởng nhớ cái chết của cô bé Xa-xa-cô.",
+            "Gấp ngàn cánh hạc để giúp đỡ ước nguyện của cô bé Xa-xa-cô."
+        ],
+        [
+            "Tố cáo tội ác của chiến tranh phi nghĩa.",
+            "Tố cáo tội ác của chiến tranh hạt nhân và bày tỏ khát vọng hòa bình của trẻ em toàn thế giới.",
+            "Kể lại câu chuyện một cô bé gấp ngàn cánh hạc để chiến thắng bệnh tật.",
+            "Kể lại câu chuyện về cô bé gấp hạc bằng giấy để ước nguyện."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "B",
+        "D",
+        "C",
+        "B",
+        "B",
+        "B",
+        "B"
+    ]
+}

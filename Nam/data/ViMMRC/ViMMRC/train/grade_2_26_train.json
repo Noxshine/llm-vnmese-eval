@@ -1,0 +1,89 @@
+{
+    "article": "1. Ngày xưa, ở một gia đình kia, có hai anh em. Lúc nhỏ, anh em rất hòa thuận. Khi lớn lên, anh có vợ, em có chồng, tuy mỗi người một nhà nhưng vẫn hay va chạm. \n\n2. Thấy các con không yêu thương nhau, người cha rất buồn phiền. Một hôm, ông đặt một bó đũa và một túi tiền trên bàn, rồi gọi các con, cả trai, gái, dâu, rể lại và bảo:\n\n- Ai bẻ gãy được bó đũa này thì cha thưởng túi tiền.\n\nBốn người con lần lượt bẻ bó đũa. Ai cũng cố hết sức mà không sao bẻ gãy được. Người cha bèn cởi bó đũa ra, rồi thong thả bẻ gãy từng chiếc một cách dễ dàng.\n\n3. Thấy vậy, bốn người con cùng nói:\n\n- Thưa cha, lấy từng chiếc mà bẻ thì có khó gì!\n\nNgười cha liền bảo:\n\n- Đúng. Như thế là các con đều thấy rằng chia lẻ ra thì yếu, hợp lại thì mạnh. Vậy các con phải biết yêu thương, đùm bọc lẫn nhau. Có đoàn kết thì mới có sức mạnh.",
+    "questions": [
+        "Câu chuyện được kể xoay quanh những nhân vật nào?",
+        "Ngày xưa, anh em trong gia đình đó đối xử với nhau được tác giả miêu tả như thế nào?",
+        "Khi lớn lên, anh em trong gia đình đó đối xử với nhau được tác giả miêu tả như thế nào?",
+        "Người cha có thái độ ra sao khi thấy anh em không còn hoà thuận nữa?",
+        "Người cha đã làm gì để răn dạy các con khi thấy họ không còn yêu thương nhau nữa?",
+        "Người cha đã đưa ra thử thách gì để răn dạy các con mình?",
+        "Ai là người bẻ gãy được bó đũa trong bốn anh em?",
+        "Người cha bẻ gãy bó đũa bằng cách nào trước mặt các con mình?",
+        "Nguyên nhân nào cả bốn người con không ai bẻ gãy được bó đũa?",
+        "Câu chuyện ngụ ngôn này khuyên chúng ta điều gì?"
+    ],
+    "options": [
+        [
+            "Người cha và bó đũa.",
+            "Người cha và các con: trai, gái, dâu, rể.",
+            "Con trai, con gái, con dâu, con rể.",
+            "Người kể chuyện."
+        ],
+        [
+            "Lạnh nhạt.",
+            "Tệ bạc, thờ ơ.",
+            "Ghen ghét nhau.",
+            "Hòa thuận."
+        ],
+        [
+            "Giúp đỡ, quan tâm nhau.",
+            "Hòa thuận với nhau.",
+            "Ghen ghét, đố kị lẫn nhau.",
+            "Ghen ghét, đố kị lẫn nhau."
+        ],
+        [
+            "Khóc thương.",
+            "Tức giận.",
+            "Thờ ơ.",
+            "Buồn phiền."
+        ],
+        [
+            "Cho thừa hưởng cả gia tài.",
+            "Trách phạt.",
+            "Lấy ví dụ về bó đũa.",
+            "Giảng giải đạo lý của cha ông."
+        ],
+        [
+            "Ai bẻ được cả bó đũa sẽ được hưởng gia tài.",
+            "Ai bẻ được bó đũa sẽ được cho làm anh cả.",
+            "Ai bẻ được cả bó đũa sẽ được thưởng túi tiền.",
+            "Ai bẻ được cả bó đũa sẽ được quyết mọi thứ."
+        ],
+        [
+            "Người anh cả.",
+            "Con rể.",
+            "Người em gái.",
+            "Không ai cả."
+        ],
+        [
+            "Ông dùng dao để cưa.",
+            "Ông bẻ gãy từng chiếc một.",
+            "Ông cũng không bẻ gãy được bó đũa.",
+            "Ông thuê lực sĩ về bẻ."
+        ],
+        [
+            "Vì bó đũa làm bằng kim loại, rất cứng, không thể bẻ.",
+            "Vì cả bốn người con đều yếu đuối.",
+            "Vì họ bẻ cả bó đũa (rất chắc, rất cứng) chứ không bẻ rời từng chiếc.",
+            "Vị họ không có đam mê bẻ đũa."
+        ],
+        [
+            "Anh em mạnh ai người nấy sống.",
+            "Anh em phải đoàn kết yêu thương nhau.",
+            "Anh em khi ăn cơm cần có đũa.",
+            "Hãy quan tâm sâu sắc đến mọi người xung quanh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "D",
+        "D",
+        "C",
+        "C",
+        "D",
+        "B",
+        "C",
+        "B"
+    ]
+}

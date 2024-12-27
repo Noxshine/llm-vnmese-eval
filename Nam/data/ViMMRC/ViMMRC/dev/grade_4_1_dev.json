@@ -1,0 +1,81 @@
+{
+    "article": "Tôi yêu truyện cổ nước tôi\nVừa nhân hậu lại tuyệt vời sâu xa\nThương người rồi mới thương ta\nYêu nhau dù mấy cách xa cũng tìm\nỞ hiền thì lại gặp hiền\nNgười ngay thì được phật, tiên độ trì.\nMang theo truyện cổ tôi đi\nNghe trong cuộc sống thầm thì tiếng xưa\nVàng cơn nắng, trắng cơn mưa\nCon sông chảy có rặng dừa nghiêng soi.\nĐời cha ông với đời tôi\nNhư con sông với chân trời đã xa\nChỉ còn truyện cổ thiết tha\nCho tôi nhận mặt ông cha của mình.\nRất công bằng, rất thông minh\nVừa độ lượng lại đa tình, đa mang\nThị thơm thị giấu người thơm\nChăm làm thì được áo cơm, cửa nhà\nĐẽo cày theo ý người ta\nSẽ thành khúc gỗ, chẳng ra việc gì\nTôi nghe truyện cổ thầm thì\nLời cha ông dạy cũng vì đời sau.",
+    "questions": [
+        "Đối tượng chính được bài thơ miêu tả là gì?",
+        "Đâu không phải là lý do mà tác giả lại yêu truyện cổ nước nhà?",
+        "Những câu thơ \"Thị thơm thị giấu người thơm / Chăm làm thì được áo cơm cửa nhà / Đẽo cày theo ý người ta / Sẽ thành khúc gỗ, chẳng ra việc gì\" gợi cho em nhớ tới những truyện cổ nào?",
+        "Hai câu thơ \"Ở hiền thì lại gặp hiền / Người ngay thì được phật, tiên độ trì\" gợi cho em nhớ tới câu tục ngữ nào?",
+        "Hai câu thơ \"Tôi nghe truyện cổ thầm thì / Lời cha ông dạy cũng vì đời sau\" có ý nghĩa gì?",
+        "Nội dung của bài thơ này là gì?",
+        "Câu thơ \"Thị thơm thì giấu người thơm\" gợi em nhớ tới truyện cổ nào?",
+        "Hai câu thơ \"Đẽo cày theo ý người ta / Sẽ thành khúc gỗ chẳng ra việc gì\" gợi nhắc tới truyện cổ nào?",
+        "Bài thơ này được viết bằng thể thơ nào?"
+    ],
+    "options": [
+        [
+            "Truyện cổ Việt Nam.",
+            "Con người Việt Nam.",
+            "Cây tre Việt Nam.",
+            "Cánh đồng Việt Nam."
+        ],
+        [
+            "Vì truyện cổ giúp ta nhận ra những truyền thống quý báu của cha ông: công bằng, nhân ái, độ lượng,...",
+            "Vì truyện cổ giúp tác giả ru trẻ ngủ ngon.",
+            "Vì truyện cổ nước nhà rất nhân hậu, ý nghĩa sâu xa.",
+            "Vì truyện cổ lưu lại những bài học quý báu của cha ông: chăm chỉ, đùm bọc, ở hiền..."
+        ],
+        [
+            "Em bé thông minh.",
+            "Sơn Tinh Thủy Tinh.",
+            "Tấm Cám; Đẽo cày giữa đường.",
+            "An Dương Vương và Mị Châu - Trọng Thủy."
+        ],
+        [
+            "Ở hiền gặp lành.",
+            "Trâu buộc ghét trâu ăn.",
+            "Lá lành đùm lá rách.",
+            "Gần mực thì đen, gần đèn thì rạng."
+        ],
+        [
+            "Nhắc nhở con cháu phải biết ơn cha ông đời trước.",
+            "Tác giả nghe thấy tiếng nói của cha ông qua truyện cổ.",
+            "Các bạn thiếu nhi rất yêu thích các câu chuyện cổ.",
+            "Là lời dạy của cha ông với con cháu đời sau: Phải biết sống nhân hậu, độ lượng, công bằng,..."
+        ],
+        [
+            "Truyện cổ nước ta chứa đựng nhiều bài học răn dạy của cha ông.",
+            "Ca ngợi truyện cổ nước ta nhân hậu.",
+            "Truyện cổ nước ta chứa đựng kinh nghiệm quý báu của cha ông.",
+            "Ca ngợi truyện cổ nước ta vừa nhân hậu, vừa chứa đựng kinh nghiệm quý báu của cha ông."
+        ],
+        [
+            "Đẽo cày giữa đường.",
+            "Bông hoa cúc trắng.",
+            "Sọ Dừa.",
+            "Tấm Cám."
+        ],
+        [
+            "Đẽo cày giữa đường.",
+            "Đeo nhạc cho mèo.",
+            "Thạch Sanh.",
+            "Tấm Cám."
+        ],
+        [
+            "Năm chữ.",
+            "Bảy chữ.",
+            "Tự do.",
+            "Lục bát."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "A",
+        "D",
+        "D",
+        "D",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Chiều chiều, khi mặt trời gần lặn, chú tôi lại đánh một hồi mõ rồi tung thóc ra sân. Nghe hiệu lệnh ấy, hơn bốn chục con gà vịt chạy tíu chân, đổ về quây quần lấy một góc. Tiếng vỗ cánh, tiếng chí chóe hỗn loạn. Cả bầy xô vào tranh nhau ăn.\n\nMấy con gà mẹ xù lông ra, đuôi xòe như chiếc quạt, vừa ăn vừa giữ phần cho con. Con gà mẹ nâu cứ cúi mổ vài hạt lại kêu “tục tục” rối rít. Nhưng đàn gà nhép con mới vừa bằng nắm tay, có vẻ sợ sệt, đứng dồn vào một góc, kêu “chíp chíp” không ngớt. Có con vô ý bị lạc vào giữa bầy, sợ cuống cuồng, chạy lung tung, vướng vào chân gà lớn, bị xéo suýt què.\n\nMấy chú gà giò, ngực tía lấc, lơ thơ mấy hàng lông ở đuôi và cánh, tỏ ra láu lỉnh và táo bạo nhất. Chúng xông xáo khắp nơi, chẳng coi ai ra gì. Có chú bị gà mẹ mổ vào lưng quắc lên, vùng chạy ra nhưng lại xông vào ngay. Mấy chị vịt bầu thấp lùn, béo trục béo tròn, lạch bạch tới sau cùng nhưng cũng không chịu thua. Chúng vừa ăn vừa la quàng quạc như mắng lũ gà thiếu lịch sự, chẳng chịu chờ đợi một chút cho vui vẻ cả đàn.\n\nChỉ có chú gà trống là có vẻ rộng rãi. Nó mổ vài hạt thóc rồi đứng nhìn, đôi mắt lúng la lúng liếng, cái mào đỏ chót rung rinh trên đầu. Có khi nó đuổi gà giò cho gà mái ăn. Có khi nó xí phần một đám nhiều thóc rồi vừa gật vừa tục tục gọi gà con đến. Biết là gà trống gọi mình, nhưng gà con vẫn sợ oai, chẳng dám đến. Cựa nó dài như quả ớt, kể cũng đáng sợ thật. Mấy chú gà giò còn chẳng dám bén mảng nữa là nhép con. Thấy gà con không dám đến, gà trống cố tỏ ra mình là kẻ hiền từ, nó thong thả bước ra giữa sân vỗ cánh, nhún đuôi, cất giọng gáy o o …",
+    "questions": [
+        "Tác giả miêu tả gà mẹ như thế nào?",
+        "Mấy chị vịt bầu được miêu tả như thế nào?",
+        "Đàn gà con có đặc điểm gì?",
+        "Các chú gà giò có đặc điểm gì?",
+        "Tác giả miêu tả chú gà trống như thế nào?"
+    ],
+    "options": [
+        [
+            "Thấp lùn, béo tròn béo trục.",
+            "Vừa ăn vừa la quàng quạc.",
+            "Xù lông, đuôi xòe như chiếc quạt.",
+            "Xù lông, thấp lùn."
+        ],
+        [
+            "Bằng nắm tay, vẻ sợ sệt.",
+            "Thấp lùn béo trục béo tròn, lạch bạch tới sau cùng.",
+            "Đôi mắt lúng la lúng liếng.",
+            "Đôi mắt rất đẹp."
+        ],
+        [
+            "Vẻ sợ sệt, đứng dồn vào một góc, kêu chíp chíp không ngớt.",
+            "Lơ thơ mấy hàng lông ở đuôi và ở cánh.",
+            "Hiền từ, rộng rãi.",
+            "Hiền từ và thông minh."
+        ],
+        [
+            "Cái mào đỏ chót rung rinh trên đầu.",
+            "Láu lỉnh và táo bạo nhất.",
+            "Cứ cúi mổ vài hạt lại kêu “tục tục”.",
+            "Táo bạo và thông minh."
+        ],
+        [
+            "Cựa dài như quả ớt.",
+            "Xông xáo khắp nơi, chẳng coi ai ra gì.",
+            "Mắng lũ gà thiếu lịch sự, chẳng chờ đợi một chút cho vui vẻ cả đàn.",
+            "Gáy rất hay."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "A"
+    ]
+}

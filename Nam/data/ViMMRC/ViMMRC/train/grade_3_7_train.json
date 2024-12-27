@@ -1,0 +1,81 @@
+{
+    "article": "1. Một lần, vua Minh Mạng từ kinh đô Huế ngự giá ra Thăng Long (Hà Nội). Vua cho xa giá đến Hồ Tây ngắm cảnh. Xa gia đi đến đâu, quân lính cũng thét đuổi tất cả mọi người, không cho ai đến gần.\n\n2. Cao Bá Quát, khi ấy còn là một cậu bé, muốn nhìn rõ mặt vua. Cậu nảy ra một ý, liền cởi hết quần áo, nhảy xuống hồ tắm. Quân lính nhìn thấy, hốt hoảng xúm vào bắt trói đứa trẻ táo tợn. Cậu bé không chịu, la hét, vùng vẫy, gây nên cảnh náo động ở hồ. Thấy thế, vua Minh Mạng truyền lệnh dẫn cậu tới hỏi.\n\n3. Cậu bé bị dẫn đến trước mặt nhà vua. Cậu tự xưng là học trò mới ở quê ra chơi nên không biết gì. Thấy nói là học trò, vua ra lệnh cho cậu phải đối được vế đối thì mới tha. Nhìn thấy trên mặt hồ lúc đó có đàn cá đang đuổi nhau, vua tức cảnh đọc vế câu đối như sau: Nước trong leo lẻo cá đớp cá.\n\nChẳng cần nghĩ ngợi lâu la gì, Cao Bá Quát lấy cảnh mình đang bị trói, đối lại luôn: Trời nắng chang chang người trói người.\n\n4. Vế đối vừa cứng cỏi vừa rất chỉnh, biểu lộ sự nhanh trí, thông minh. Vua nguôi giận, truyền lệnh cởi trói, tha cho cậu bé.",
+    "questions": [
+        "Vua Minh Mạng ngắm cảnh ở nơi nào?",
+        "Quân lính có hành động gì để bảo vệ cho nhà vua?",
+        "Cao Bá Quát có ước muốn gì?",
+        "Cậu bé đã làm gì để thực hiện mong muốn để nhìn rõ mặt vua?",
+        "Khi cậu bé táo tợn thì quân lính đã hành động gì?",
+        "Cậu bé Cao Bá Quát có thái độ ra sao khi bị bắt trói?",
+        "Cậu bé đã nói gì khi được đưa đến gặp vua?",
+        "Vế đối của Cao Bá Quát cho thấy cậu bé là người như thế nào?",
+        "Câu đối của Cao Bá Quát khiến nhà vua có thái độ như thế nào?"
+    ],
+    "options": [
+        [
+            "Hồ Gươm, Thăng Long (Hà Nội).",
+            "Hồ Tây, Thăng Long (Hà Nội).",
+            "Hồ Thiền Quang, Thăng Long (Hà Nội).",
+            "Khâm Thiên, Đống Đa."
+        ],
+        [
+            "Đuổi thét tất cả mọi người không cho ai tới gần.",
+            "Đuổi thét và bắt trói những ai dám nhìn mặt vua.",
+            "Đuổi thét những người ở gần đó.",
+            "Bắc loa thông báo để dân cúi chào, thi hành lễ."
+        ],
+        [
+            "Cậu bé muốn nhìn rõ mặt vua.",
+            "Cậu bé muốn vua chú ý đến mình.",
+            "Cậu bé muốn được vua ban thưởng.",
+            "Cậu bé muốn nói chuyện với vua."
+        ],
+        [
+            "Cậu trèo lên cây đa đầu làng.",
+            "Cậu chạy theo xa giá của vua.",
+            "Cậu bắc ghế trèo lên xe vua.",
+            "Cậu cởi hết quần áo, nhảy xuống hồ tắm."
+        ],
+        [
+            "Hốt hoảng khuyên can cậu bé.",
+            "Hốt hoảng xua đuổi cậu bé.",
+            "Hốt hoảng bẩm báo với vua.",
+            "Hốt hoảng xúm vào bắt trói."
+        ],
+        [
+            "La hét, vùng vẫy, gây nên cảnh náo động.",
+            "Khóc lóc, vùng vẫy, van xin tha tội.",
+            "Không hề lo sợ, bình thản để quân lính trói.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Khóc lóc, van xin nhà vua tha tội cho mình.",
+            "Tự xưng mình là con quan trong triều đình.",
+            "Bày tỏ niềm ngưỡng mộ, vui sướng khi được gặp vua.",
+            "Tự xưng mình là học trò mới ở quê ra, không biết gì."
+        ],
+        [
+            "Nhút nhát, yếu đuối.",
+            "Thông minh, nhanh trí.",
+            "Kiêu căng, xốc nổi.",
+            "Chậm chạp, lề mề."
+        ],
+        [
+            "Nguôi giận, sai quân cởi trói, tha cho cậu bé.",
+            "Cho rằng cậu bé là người ngông cuồng, đánh phạt.",
+            "Tức giận, cho rằng cậu bé rất thiếu lễ độ.",
+            "Thấy rằng cậu bé tài giỏi, nuôi ăn học để thành người tài."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A",
+        "D",
+        "B",
+        "D"
+    ]
+}

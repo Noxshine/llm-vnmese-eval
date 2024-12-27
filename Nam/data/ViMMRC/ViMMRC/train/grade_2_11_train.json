@@ -1,0 +1,49 @@
+{
+    "article": "Em cầm tờ lịch cũ:\nNgày hôm qua đâu rồi?\nRa ngoài sân hỏi bố\nXoa đầu em, bố cười\n\nNgày hôm qua ở lại\nTrên cành hoa trong vườn\nNụ hồng lớn lên mãi\nĐợi đến ngày tỏa hương.\n\nNgày hôm qua ở lại\nTrong hạt lúa mẹ trồng\nCánh đồng chờ gặt hái\nChín vàng màu ước mong.\n\nNgày hôm qua ở lại\nTrong vở hồng của con\nCon học hành chăm chỉ\nLà ngày qua vẫn còn.",
+    "questions": [
+        "Em nhỏ hỏi bố điều gì khi cầm tờ lịch cũ?",
+        "Cái gì của ngày hôm qua còn ở lại trong vườn?",
+        "Cái gì của ngày hôm qua ở lại với cánh đồng?",
+        "Cái gì của ngày hôm qua ở lại gắn với quá trình học tập của con?",
+        "Trong khổ thơ cuối, bố đã dặn bạn nhỏ điều gì để ngày hôm qua vẫn còn?"
+    ],
+    "options": [
+        [
+            "Ngày hôm kia đâu rồi?.",
+            "Ngày hôm nay đâu rồi?.",
+            "Ngày hôm xưa đâu rồi?.",
+            "Ngày hôm qua đâu rồi?."
+        ],
+        [
+            "Vườn cây.",
+            "Vở hồng.",
+            "Hoa hồng.",
+            "Hạt lúa."
+        ],
+        [
+            "Sân vườn của bố.",
+            "Cành hoa trong vườn.",
+            "Vở hồng của con.",
+            "Hạt lúa mẹ trồng."
+        ],
+        [
+            "Hạt lúa mẹ trồng.",
+            "Cành hoa trong vườn.",
+            "Vở hồng của con.",
+            "Sân nhà."
+        ],
+        [
+            "Học hành chăm chỉ.",
+            "Ghi nhớ trong đầu.",
+            "Xem lịch mỗi ngày.",
+            "Viết nhật ký."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "A"
+    ]
+}

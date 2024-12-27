@@ -1,0 +1,73 @@
+{
+    "article": "Nhân vật: Dì Năm - 29 tuổi\n\n                 An -12 tuổi, con trai dì Năm\n\n                 Lính\n\n                 Cai\n\nCảnh trí: Một ngôi nhà nông thôn Nam Bộ. Cửa nhà quay vào phía trong sân khấu. Bên trái kê một cái bàn, hai cái ghế. Bên phải là một chõng tre, trên có mâm cơm.\n\nThời gian: Buổi trưa. Má con dì Năm đang ăn cơm thì một chú cán bộ bị địch rượt bắt chạy vô. Dì Năm chỉ kịp đưa chú một chiếc áo để thay, rồi bảo chú ngồi xuống chõng vờ ăn cơm. Vừa lúc ấy, một tên cai và một tên lính chạy tới.\n\nCai:        - Anh chị kia!\n\nDì Năm: - Dạ, cậu kêu chi?\n\nCai:        - Có thấy một người mới chạy vô đây không?\n\nDì Năm: - Dạ, hổng thấy.\n\nCán bộ:  - Lâu mau rồi cậu?\n\nCai:        - Mới tức thời đây.\n\nCai:        - Thiệt không thấy chớ? Rõ ràng nó quẹo vô đây (vẻ bực dọc). Anh nầy là...\n\nDì Năm: - Chồng tui. Thằng nầy là con.\n\nCai:        - (Xẵng giọng) Chồng chị à?\n\nDì Năm: - Dạ, chồng tui.\n\nCai:        - Để coi. (Quay sang lính) Trói nó lại cho tao (chỉ dì Năm). Cứ trói đi. Tao ra lịnh mà (lính trói dì Năm lại).\n\nAn:         - (Ôm dì Năm, khóc òa) Má ơi má!\n\nCán bộ:  - (Buông đũa đứng dậy) Vợ tôi...\n\nLính:      - Ngồi xuống! (Chĩa súng vào chú cán bộ) Rục rịch tao bắn.\n\nDì Năm: - Trời ơi! Tui có tội tình chi?\n\nCai:        - (Dỗ dành) Nếu chị nói thiệt, tôi thưởng. Bằng chị nhận anh này là chồng, tôi bắn chị tức thời, đốt luôn cái nhà này nữa.\n\nDì Năm: -  Mấy cậu... để tui...\n\nCai:        - Có thế chớ! Nào, nói lẹ đi!\n\nDì Năm: - (nghẹn ngào) An... (An \"dạ\"). Mầy qua bà Mười... dắt con heo về..., đội luôn năm giạ lúa. Rồi ... cha con ráng đùm bọc lấy nhau.",
+    "questions": [
+        "Câu chuyện diễn ra ở miền đất nào thời chiến tranh?",
+        "Căn cứ vào đâu em nhận ra được câu chuyện diễn ra vào thời chiến tranh ở Nam Bộ?",
+        "Chú cán bộ gặp chuyện gì nguy hiểm?",
+        "Dì Năm đã nghĩ ra kế gì để cứu chú cán bộ?",
+        "Bọn cai và lính đã làm gì dì Năm?",
+        "Dì Năm có thái độ ra sao khi bị bắt trói?",
+        "Qua vở kịch \"lòng dân\" em thấy dì Năm có phẩm chất gì tốt đẹp?",
+        "Nội dung của vở kịch \"Lòng dân\" là gì?"
+    ],
+    "options": [
+        [
+            "Miền Bắc.",
+            "Miền Trung.",
+            "Miền Nam.",
+            "Bắc Trung Bộ."
+        ],
+        [
+            "Qua tên tác giả.",
+            "Qua tên nhân vật.",
+            "Qua từ ngữ trong đoạn văn: má con, rượt, vô, dì Năm.",
+            "Qua từ ngữ xưng hô: Dì Năm."
+        ],
+        [
+            "Bị tai nạn, chạy vào nhà dì Năm xin giúp đỡ.",
+            "Bị trúng đạn, chạy vào nhà dì Năm.",
+            "Bị ốm và bị địch đuổi nên phải chạy vào nhà dì Năm.",
+            "Bị địch rượt đuổi, phải chạy vào nhà dì Năm."
+        ],
+        [
+            "Chỉ sai đường để đánh lạc hướng bọn địch.",
+            "Cho chú thay áo và vờ làm chồng mình.",
+            "Nhận chú cán bộ làm chồng để địch không nhận ra.",
+            "Cho chú thay áo để địch không nhận ra."
+        ],
+        [
+            "Bắt trói chị vì không bắt được anh cán bộ.",
+            "Bắt trói chị giải đi vì tội bao che, nói dối, không biết tung tích người cán bộ.",
+            "Bắt trói chị giải đi vì chị đã chỉ đường sai.",
+            "Bắt trói để dọa dẫm, khiến chị khai ra sự thật."
+        ],
+        [
+            "Run sợ khai ra chồng mình chính là cán bộ.",
+            "Vẫn kiên quyết bao che cho người cán bộ.",
+            "Mắng chửi bọn cai lệ để chúng thả mình ra.",
+            "Run sợ khai ra đó không phải chồng mình."
+        ],
+        [
+            "Dễ dàng chấp nhận bị bắt trói, dặn dò con tỉ mỉ.",
+            "Dễ dàng nhận một người lạ làm chồng.",
+            "Yêu nước, hy sinh bản thân vì Tổ quốc.",
+            "Mưu trí, dũng cảm, bao bọc cho cán bộ."
+        ],
+        [
+            "Ca ngợi dì Năm che giấu cán bộ, nhận cán bộ làm chồng mình.",
+            "Ca ngợi dì Năm dũng cảm, mưu trí, hết lòng bao bọc cán bộ, ủng hộ Cách mạng.",
+            "Ca ngợi dì Năm là người mưu trí, nhanh chóng nghĩ ra kế sách ứng phó với hoàn cảnh.",
+            "Ca ngợi dì Năm dũng cảm đối mặt với bọn cai và lính mà không run sợ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "D",
+        "B",
+        "B",
+        "B",
+        "D",
+        "B"
+    ]
+}

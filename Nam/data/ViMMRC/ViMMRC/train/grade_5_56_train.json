@@ -1,0 +1,65 @@
+{
+    "article": "Căn nhà sàn chật ních người mặc quần áo như đi hội. Mấy cô gái vừa lùi vừa trải những tấm lông thú thẳng tắp từ đầu cầu thang tới cửa bếp giữa sàn. Bấy giờ, người già mới ra hiệu dẫn Y Hoa bước lên lối đi bằng lông thú mịn như nhung. Buôn Chư Lênh đã đón tiếp cô giáo đến mở trường bằng nghi thức trang trọng nhất dành cho khách quý.\n\nY Hoa đến bên già Rok, trưởng buôn, đang đứng đón khách ở giữa nhà sàn. Nhận con dao mà già trao cho, nhằm vào cây cột nóc, Y Hoa chém một nhát thật sâu vào cột. Đó là lời thề của người lạ đến buôn, theo tục lệ. Lời thề ấy không thể nói ra mà phải khắc vào cột. Y Hoa được coi là người trong buôn sau khi chém nhát dao.\n\nGià Rok xoa tay lên vết chém, khen:\n\n– Tốt cái bụng đó, cô giáo ạ!\n\nRồi giọng già vui hẳn lên:\n\n– Bây giờ cho người già xem cái chữ của cô giáo đi!\n\nBao nhiêu tiếng người cùng ùa theo:\n\n– Phải đấy! Cô giáo cho lũ làng xem cái chữ nào!\n\nY Hoa lấy trong gùi ra một trang giấy, trải lên sàn nhà. Mọi người im phăng phắc. Y Hoa nghe rõ cả tiếng đập trong lồng ngực mình. Quỳ hai gối lên sàn, cô viết hai chữ thật to, thật đậm: “Bác Hồ”. Y Hoa viết xong, bỗng bao nhiêu tiếng cùng hò reo:\n\n– Ôi, chữ cô giáo này! Nhìn kìa!\n\n– A, chữ, chữ cô giáo!",
+    "questions": [
+        "Cô giáo Y Hoa đến buôn Chư Lênh làm gì?",
+        "Người dân Chư Lênh đón tiếp cô giáo trang trọng và thân tình như thế nào?",
+        "Người dân buôn Chư Lênh thể hiện lời thề bằng cách nào?",
+        "Chi tiết nào cho thấy dân làng rất háo hức chờ đợi và yêu quý cái chữ?",
+        "Cô giáo cho xem cái gì?",
+        "Dòng nào sau đây khác những dòng còn lại?",
+        "Trong câu “Cô giáo cho lũ làng xem cái chữ nào !”, từ nào là đại từ xưng hô?"
+    ],
+    "options": [
+        [
+            "Để thăm người dân tộc.",
+            "Để mở trường dạy học.",
+            "Để thăm học sinh người dân tộc.",
+            "Để đi tham quan."
+        ],
+        [
+            "Mọi người đến rất đông, họ mặc quần áo như đi hội; họ trải đường đi cho cô giáo bằng những tấm lông thú mịn như nhung….",
+            "Mọi người ùa theo già làng đề nghị cô giáo cho xem cái chữ; mọi người im phăng phắc khi xem Y Hoa viết; Y Hoa viết xong, họ cùng reo hò.",
+            "Mọi người đến rất đông, họ mặc quần áo như đi hội; họ người im phăng phắc.",
+            "Chỉ một vài người đến và ra về ngay sau đó."
+        ],
+        [
+            "Đưa tay lên thề.",
+            "Chém một nhát dao vào cây cột nóc.",
+            "Viết hai chữ thật to, thật đậm vào cột nóc.",
+            "Ký tên vào cuốn sổ của buôn làng."
+        ],
+        [
+            "Mọi người đến rất đông, họ mặc quần áo như đi hội.",
+            "Họ trải đường đi cho cô giáo bằng những tấm lông thú mịn như nhung….",
+            "Mọi người ùa theo già làng đề nghị cô giáo cho xem cái chữ; mọi người im phăng phắc khi xem Y Hoa viết; Y Hoa viết xong, họ cùng reo hò.",
+            "Buôn Chư Lênh đã đón tiếp cô giáo đến mở trường bằng nghi thức trang trọng nhất dành cho khách quý."
+        ],
+        [
+            "Bông hoa.",
+            "Chữ.",
+            "Sách.",
+            "Hoa hồng."
+        ],
+        [
+            "Buôn Chư Lênh, Y Hoa, nhà sàn, cô giáo.",
+            "Buôn Chư Lênh, Y Hoa, chật ních, hò reo.",
+            "Buôn Chư Lênh, Y Hoa, ùa theo, thẳng tắp.",
+            "Buôn Chư Lênh, Y Hoa, ùa theo, hò reo."
+        ],
+        [
+            "Cô giáo.",
+            "Lũ làng.",
+            "Cả hai từ trên.",
+            "Không có từ nào."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "C",
+        "B",
+        "A",
+        "C"
+    ]
+}

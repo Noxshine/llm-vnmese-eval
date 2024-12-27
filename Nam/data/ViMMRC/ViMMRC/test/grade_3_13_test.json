@@ -1,0 +1,49 @@
+{
+    "article": "Chú Nga đi bộ đội\nSao lâu quá là lâu!\nNhớ chú, Nga thường nhắc: \n- Chú bây giờ ở đâu?\nChú ở đâu, ở đâu?\nTrường Sơn dài dằng dặc?\nTrường Sa đảo nổi, chìm\nHay Kon Tum, Đắk Lắk?\nMẹ đỏ hoe đôi mắt\nBa ngước lên bàn thờ:\n- Đất nước không còn giặc\nChú ở bên Bác Hồ.",
+    "questions": [
+        "Chú của Nga làm nghề gì?",
+        "Nguyên nhân nào Nga lại nhớ chú?",
+        "Thái độ của mẹ như thế nào khi Nga nhắc đến chú?",
+        "Câu nói của bố Nga có nghĩa gì?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Chú đi bộ đội.",
+            "Chú đi nước ngoài.",
+            "Chú đi buôn bán.",
+            "Chú đi công tác."
+        ],
+        [
+            "Vì chú hay mua quà cho Nga.",
+            "Vì chú đi lâu quá chưa về.",
+            "Vì chú thương Nga nhất nhà.",
+            "Vì chú ít gọi điện về."
+        ],
+        [
+            "Đỏ hoe mắt.",
+            "Thở dài, não nề.",
+            "Ngước nhìn bàn thờ.",
+            "Tự hào, xúc động."
+        ],
+        [
+            "Chú của Nga đã hi sinh.",
+            "Chú của Nga vẫn đang chiến đấu trên chiến trường.",
+            "Chú của Nga vẫn ngày đêm canh gác nơi đảo xa.",
+            "Chú của Nga vẫn còn sống."
+        ],
+        [
+            "Tình cảm của cha mẹ bé Nga dành cho người chú đã hi sinh trên chiến trường và Bác Hồ vĩ đại.",
+            "Tình cảm ngây thơ và trong sáng của em nhỏ trước những tàn khốc mà chiến tranh gây ra.",
+            "Tình cảm nhớ thương của bé Nga đối với người chú đang chiến đấu anh dũng trên chiến trường.",
+            "Tình cảm tiếc thương và biết ơn sâu sắc của những người trong gia đình bé Nga đối với liệt sĩ đã hi sinh vì Tổ quốc."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "A",
+        "D"
+    ]
+}

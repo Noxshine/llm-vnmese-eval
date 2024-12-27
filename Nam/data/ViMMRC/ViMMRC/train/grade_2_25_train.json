@@ -1,0 +1,49 @@
+{
+    "article": "Chú bé loắt choắt\nCái xắc xinh xinh\nCái chân thoăn thoắt\nCái đầu nghênh nghênh.\n\nCa lô đội lệch\nMồm huýt sáo vang\nNhư con chim chích\nNhảy trên đường vàng...\n\nMột hôm nào đó\nNhư bao hôm nào\nChú đồng chí nhỏ\nBỏ thư vào bao.\n\nVụt qua mặt trận\nĐạn bay vèo vèo\nThư đề \"Thượng khẩn\"\nSợ chi hiểm nghèo.\n\nĐường quê vắng vẻ\nLúa trỗ đòng đòng\nCa lô chú bé\nNhấp nhô trên đồng...",
+    "questions": [
+        "Chú bé Lượm có đôi chân đi như thế nào?",
+        "Chú bé Lượm có nhiệm vụ được giao là gì?",
+        "Tính cách chú bé Lượm như thế nào?",
+        "Vẻ hồn nhiên, tinh nghịch của chú bé Lượm được so sánh giống với con gì?",
+        "Bài thơ này truyền đạt thông điệp là gì?"
+    ],
+    "options": [
+        [
+            "Loắt choắt.",
+            "Xinh xinh.",
+            "Thoăn thoát.",
+            "Nghênh nghênh."
+        ],
+        [
+            "Giao tiếp (gặp gỡ mọi người).",
+            "Giao hàng (vận chuyển hàng hóa).",
+            "Giao liên (đưa thư liên lạc).",
+            "Giao đấu và đánh giặc."
+        ],
+        [
+            "Hoạt bát, tinh nghịch, dũng cảm.",
+            "Trẻ con, nũng nịu, vòi vĩnh.",
+            "Nhanh nhảu, nóng tính, ẩu.",
+            "Nhút nhát, tự ti, chậm chạp."
+        ],
+        [
+            "Chú cún con.",
+            "Con chim cắt.",
+            "Con chim chích.",
+            "Chú lật đật."
+        ],
+        [
+            "Ca ngợi chú bé Lượm hồn nhiên, trong sáng, trẻ con.",
+            "Ca ngợi chú bé tốt bụng, thân thiện và trong sáng.",
+            "Ca ngợi chú bé Lượm hồn nhiên, tinh nghịch mà cũng rất dũng cảm.",
+            "Ca ngợi chú bé Lượm tuổi nhỏ mà có chí lớn, biết cầm súng đánh giặc."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "C",
+        "C"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "article": "Nhác trông vắt vẻo trên cành\nAnh chàng Gà Trống tinh nhanh lõi đời,\nCáo kia đon đả ngỏ lời:\n\"Kìa anh bạn quý, xin mời xuống đây\nĐể nghe cho rõ tin này\nMuôn loài mạnh yếu từ rày kết thân\nLòng tôi sung sướng muôn phần\nBáo cho bạn hữu xa gần đều hay\nXin đừng e ngại, xuống đây\nCho tôi hôn bạn, tỏ bày tình thân\nNghe lời Cáo dụ thiệt hơn\nGà rằng: \"Xin được ghi ơn trong lòng\nHòa bình gà cáo sống chung\nMừng này còn có tin mừng nào hơn\nKìa, tôi thấy cặp chó săn\nTừ xa chạy lại, chắc loan tin này\"\nCáo nghe, hồn lạc phách bay\nQuắp đuôi, co cẳng chạy ngay tức thì\nGà ta khoái chí cười phì:\n\"Rõ phường gian dối, làm gì được ai\"",
+    "questions": [
+        "Những nhân vật chính trong bài đọc là ai?",
+        "Cáo đã làm gì để thuyết phục Gà Trống xuống đất?",
+        "Tại sao Gà không nghe lời của Cáo?",
+        "Gà đã mô tả tình cảm của mình như thế nào khi Cáo nói từ đây loài mạnh yếu sống chung?",
+        "Gà nói gì với Cáo khiến cho Cáo hồn lạc phách bay?",
+        "Vì sao Gà Trống lại tung tin có cặp chó săn đang chạy đến?",
+        "Bài đọc này nhằm mục đích gì?",
+        "Nội dung của bài thơ này là gì?",
+        "Biểu hiện của Cáo như thế nào khi Gà Trống bảo chó săn đến?"
+    ],
+    "options": [
+        [
+            "Gà Trống và Sói.",
+            "Gà Trống và Chó.",
+            "Gà Trống và Cáo.",
+            "Cáo và Chó."
+        ],
+        [
+            "Cáo tung tin từ nay kẻ yếu sẽ được thống trị kẻ mạnh.",
+            "Cáo tung tin từ nay muôn loài mạnh yếu kết thân với nhau.",
+            "Cáo tung tin từ nay kẻ mạnh sẽ không ăn thịt kẻ yếu nữa.",
+            "Cáo tung tin từ rày kẻ mạnh và kẻ yếu sẽ sống chung dưới đất."
+        ],
+        [
+            "Vì Gà Trống rất nhút nhát, sợ sệt, không dám tin lời Cáo.",
+            "Vì Gà hiểu được muôn loài mạnh yếu rất khó sống chung.",
+            "Vì Gà hiểu bản chất của Cáo: tinh ranh và xảo quyệt.",
+            "Vì Gà Trống rất thông minh, nhanh trí, tỉnh táo."
+        ],
+        [
+            "Mừng này còn có tin mừng nào hơn.",
+            "Anh thật tốt bụng khi báo tin này cho tôi.",
+            "Anh đợi chút để tôi sửa soạn xuống cây.",
+            "Ôi thôi tôi chẳng dám tin lời anh."
+        ],
+        [
+            "Anh Cáo nói thật rồi, chó săn đang đến chia vui với chúng ta kìa.",
+            "Tôi thấy có cặp chó săn đến, chắc để loan tin này.",
+            "Tôi thấy anh nói đúng đấy, chó săn đang đến chung vui kìa.",
+            "Tôi thấy có cho săn đến, chắc không phải để rình bắt mồi chứ?"
+        ],
+        [
+            "Cáo vốn sợ chó săn. Gà Trống nhờ chó sói đuổi Cáo đi.",
+            "Gà Trống muốn tưởng tượng ra cảnh sống hòa thuận giữa các loài.",
+            "Cáo vốn sợ chó săn. Gà muốn Cáo và Chó Sói sống hòa thuận.",
+            "Cáo vốn sợ chó săn. Gà muốn thử xem lời Cáo nói có thật không."
+        ],
+        [
+            "Nhắc nhở ta: bản chất của kẻ xảo quyệt có thể thay đổi.",
+            "Kể chuyện Gà Trống đã làm Cáo sợ mất vía.",
+            "Kể chuyện Cáo gian ngoan mắc mưu Gà Trống.",
+            "Khuyên người ta tỉnh táo, đừng vội tin những lời ngọt ngào."
+        ],
+        [
+            "Khuyên ta phải nghi ngờ và tự kiểm chứng mọi thông tin.",
+            "Khuyên ta phải tỉnh táo và sử dụng trí khôn như Gà Trống.",
+            "Khuyên ta chớ vội tin vào lời nói ngọt ngào của những kẻ xảo quyệt.",
+            "Khuyên người ta phải luôn tìm tới sự giúp đỡ của những kẻ mạnh hơn."
+        ],
+        [
+            "Hồn lạc phách bay và co cẳng chạy.",
+            "Cáo quắp đuôi và co cẳng chạy.",
+            "Cáo nghe và hồn lạc phách bay.",
+            "Cáo tức thì tin thật và run sợ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "B",
+        "D",
+        "D",
+        "C",
+        "A"
+    ]
+}

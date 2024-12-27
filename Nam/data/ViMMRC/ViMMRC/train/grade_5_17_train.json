@@ -1,0 +1,41 @@
+{
+    "article": "Con chim sẻ nhỏ chết rồi\nChết trong đêm cơn bão về gần sáng\nĐêm ấy tôi nằm trong chăn nghe cánh chim đập cửa\nSự ấm áp gối chăn đã giữ chặt tôi\nVà tôi ngủ ngon lành đến lúc bão vơi.\nChiếc tổ cũ trong ống tre đầu nhà chiều gió hú\nKhông còn nghe tiếng cánh chim về,\nVà tiếng hót mỗi sớm mai trong vắt.\nNó chết trước cửa nhà tôi lạnh ngắt\nMột con mèo hàng xóm lại tha đi\nNó để lại trong tổ những quả trứng\nNhững con chim non mãi mãi chẳng ra đời.\n\nĐêm đêm tôi vừa chợp mắt\nCánh cửa lại rung lên tiếng đập cánh\nNhững quả trứng lại lăn vào giấc ngủ\nTiếng lăn như đá lở trên ngàn.",
+    "questions": [
+        "Con chim nhỏ chết trong thời gian nào?",
+        "Điều gì khiến \"tôi\" không giúp đỡ con chim nhỏ",
+        "Con chim sẻ chết đi, để lại cái gì?",
+        "Hình ảnh nào sau đây để lại ấn tượng sâu sắc trong tâm trí tác giả?"
+    ],
+    "options": [
+        [
+            "Đêm mưa bão về gần sáng.",
+            "Đêm mưa bão không có ai giúp.",
+            "Đêm mưa bão, mình nó lạc lõng giữa rừng.",
+            "Chiều tối."
+        ],
+        [
+            "Bóng tối.",
+            "Sự sợ hãi.",
+            "Gió rét.",
+            "Sự ấm áp gối chăn."
+        ],
+        [
+            "Những quả trứng.",
+            "Những tiếng vọng.",
+            "Những con chim non.",
+            "Con chim bố."
+        ],
+        [
+            "Chim sẻ.",
+            "Cái tổ.",
+            "Đêm giông bão.",
+            "Những quả trứng."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "A",
+        "D"
+    ]
+}

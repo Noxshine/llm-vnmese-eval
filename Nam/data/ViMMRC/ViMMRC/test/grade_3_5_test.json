@@ -1,0 +1,57 @@
+{
+    "article": "Ở Việt Nam và nhiều nước trên thế giới, bất kể ô tô, xe đạp hay người đi bộ cũng phải theo đúng quy tắc giao thông là đi theo bên phải đường. Nhưng ở nước Anh và một số nước khác thì trái ngược hẳn, mọi phương tiện giao thông cũng như người đi bộ phải đi bên trái đường. Vì sao vậy? Thật ra tập quán này của nước Anh và một số nước khác cũng có nguyên nhân của nó. Từ thế kỷ 14 và 15, ở nước Anh và một số nước khác, người ta đi bộ là chủ yếu. Các hiệp sĩ, các nhà quý tộc giàu có khi đi đường thường đeo kiếm bên mình. Thông thường, người ta đều dùng thuận tay phải nên kiếm được đeo bên trái thân mình để khi cần có thể tiện tay rút kiếm ra được ngay. Còn khi bị kẻ địch tấn công từ phía trước mặt thì bên trái đường sẽ tiện cho việc đỡ đòn và tấn công kẻ địch hơn. Vì lý do đó mà ở Anh và ở một số nước mấy trăm năm nay người ta đều đi bên trái đường. Về sau súng được phát minh. Khi dùng súng nhằm vào đối phương người ta thường lấy tay trái đỡ súng, tay phải đặt vào cò súng. Trong trường hợp này, đi bên phải đường dễ chống kẻ địch từ phía trước tiến tới trước hơn. Vì lí do này mà ở các quốc gia phát triển muộn hơn như Mỹ có quy định đi bên phải đường.",
+    "questions": [
+        "Người và phương tiện tham gia giao thông ở Việt Nam phải đi theo bên phải của đường. Điều này đúng hay sai?",
+        "Người và phương tiện tham gia giao thông ở Anh phải đi ở bên nào của đường?",
+        "Vì sao quy tắc tham gia giao thông ở nước Anh lại trái ngược hẳn với Việt Nam và nhiều nước trên thế giới như vậy?",
+        "Vì sao ở các quốc gia phát triển muộn hơn như Mỹ lại có quy định đi bên phải đường?",
+        "Theo em, khi tham gia giao thông ở các quốc gia khác, chúng ta cần làm gì để không đi sai phần đường quy định?",
+        "Từ “hiệp sĩ” có nghĩa là gì?"
+    ],
+    "options": [
+        [
+            "Đúng.",
+            "Sai.",
+            "Vừa đúng vừa sai.",
+            "Không đúng không sai."
+        ],
+        [
+            "Mọi phương tiện và người đi bộ phải đi bên trái đường.",
+            "Mọi phương tiện và người đi bộ phải đi bên phải đường.",
+            "Đi giữa đường.",
+            "Đi cả hai bên đều được."
+        ],
+        [
+            "Đi bên trái đường để thuận tay rút kiếm trong trường hợp cần thiết.",
+            "Đi bên trái đường tiện cho việc tấn công và đỡ đòn kẻ địch khi bị tấn công từ phía trước hơn.",
+            "Đi bên trái đường để dễ xử lí khi gặp va chạm với những phương tiện khác.",
+            "Đi bên trái đường để thuận tay rút kiếm trong trường hợp cần thiết. Đi bên trái đường tiện cho việc tấn công và đỡ đòn kẻ địch khi bị tấn công từ phía trước hơn."
+        ],
+        [
+            "Đi bên phải đường để thuận tay rút kiếm trong trường hợp nguy hiểm.",
+            "Đi bên phải đường dễ chống kẻ địch dùng súng từ phía trước tiến tới.",
+            "Đi bên phải đường để dễ xử lí khi va chạm với các phương tiện khác.",
+            "Đi bên phải đường để tiện cho việc tấn công và đỡ đòn kẻ địch hơn."
+        ],
+        [
+            "Cần tìm hiểu về quy định tham gia giao thông của đất nước đó.",
+            "Luôn luôn đi bên phải của đường.",
+            "Luôn luôn quan sát và đi theo người lớn tuổi.",
+            "Quan sát và đi theo các phương tiện khác."
+        ],
+        [
+            "Người có lòng hào hiệp, dũng cảm, hay giúp đỡ người gặp nạn.",
+            "Người có sức khoẻ, sức mạnh thể lực đặc biệt.",
+            "Người làm việc trong quân đội.",
+            "Người đỗ đạt cao trong các kì thi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "B",
+        "A",
+        "A"
+    ]
+}

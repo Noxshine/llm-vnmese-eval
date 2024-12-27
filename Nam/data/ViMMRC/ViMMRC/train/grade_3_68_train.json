@@ -1,0 +1,57 @@
+{
+    "article": "Trong vườn hồng, có một con sâu đo bám lấy gốc cây, bò nhấp nhổm. Bỗng một con chim chích sà xuống:\n\n- A, có một tên sâu rồi.\n\nCon sâu đo sợ cứng cả người nhưng nó vội lấy bình tĩnh rồi quát lên.\n\n- Ê, chim chích kia, suốt từ sáng đến giờ, ta miệt mài đo cây hồng cao bao nhiêu. Ta có ích như vậy, sao lại bắt ta?\n\n- Chim chích phân vân: \"Mình chỉ bắt bọn sâu hại cây thôi. Lạ quá, có khi nào tên sâu đo này có ích thật không?\"\n\nSâu đo thấy lừa được chim chích nó khoái lắm. Thế là cứ hễ gặp các mầm cây nhỏ là nó ăn liền. Nó nghĩ: \"Mình đo cây hồng... Mình phải được trả công chứ!\"\n\nHôm sau, chim chích bay tới. Nó nhảy lích chích, ngó nghiêng: \"Ô, sao mầm cây gãy cả thế này? Thôi chết, mình bị tên sâu đo lừa rồi!\"\n\nChim chích giận lắm, nó quyết định tìm bằng được tên sâu đo. Sâu đo thấy chim chích quay lại, định tìm cách cãi... Nhưng lần này thì đừng hòng!\n\nChim chích mổ một cái thế là đi đời sâu đo.",
+    "questions": [
+        "Con sâu đo trong bài là con vật có tính gì?",
+        "Chim chích mắc lừa sâu đo là do đâu?",
+        "Hành động mổ chết sâu đo của chim chích nói lên điều gì?",
+        "Sâu đo khoá chí khi làm gì với chim chích?",
+        "Trong vườn hồng có một con sâu đo bám lấy gốc cây, bò nhấp nhổm là gì?",
+        "Trong các câu sau câu nào đặt đúng dấu phẩy?"
+    ],
+    "options": [
+        [
+            "Nguy hiểm chuyên phá hại cây xanh.",
+            "Hiền lành, giúp ích cho cây xanh.",
+            "Siêng năng vừa có ích, vừa có hại cho cây xanh.",
+            "Siêng năng và cần cù."
+        ],
+        [
+            "Chim chích nhìn thấy sâu đo đang làm việc miệt mài để đo cây hồng.",
+            "Chim chích nửa ngờ, nửa tin vào giọng điệu ngọt ngào, lên mặt kể công của sâu đo.",
+            "Chim chích tin vào giọng điệu ngọt ngào, lên mặt kể công của sâu đo.",
+            "Chim chích tin vào sự miệt mài đo cây của con sâu."
+        ],
+        [
+            "Chim chích hung dữ, nóng tính và rất háu ăn.",
+            "Chim chích hiền lành nhưng là bạn của sâu đo hại cây.",
+            "Chim chích hiền lành nhưng chuyên bắt sâu bọ hại cây.",
+            "Chim chích hiền lành nhưng chuyên đi ăn lá cây."
+        ],
+        [
+            "Thấy.",
+            "Lừa.",
+            "Khoái.",
+            "Chơi cùng."
+        ],
+        [
+            "Trong vườn hồng.",
+            "Gốc cây.",
+            "Bò nhấp nhổm.",
+            "Chim chích."
+        ],
+        [
+            "Chim chích là chú chim, hiền lành, chuyên bắt sâu giúp ích nhà nông.",
+            "Chim chích là chú chim hiền lành, chuyên bắt sâu, giúp ích nhà nông.",
+            "Chim chích là chú chim, hiền lành, chuyên bắt sâu giúp ích, nhà nông.",
+            "Chim chích là chú chim, chuyên bắt sậu giúp ích nhà nông."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "B",
+        "A",
+        "B"
+    ]
+}

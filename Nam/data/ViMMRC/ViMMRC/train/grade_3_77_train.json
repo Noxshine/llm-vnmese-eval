@@ -1,0 +1,57 @@
+{
+    "article": "Cua Càng đi hội\nCõng nồi trên lưng\nVừa đi vừa thổi\nMùi xôi thơm lừng.\n\nCái Tép đỏ mắt\nCậu Ốc vặn mình\nChú Tôm lật đật\nBà Sam cồng kềnh.\n\nTép chuyên nhóm lửa\nBà Sam dựng nhà\nTôm đi chợ cá\nCậu Ốc pha trà.\n\nHai tay dụi mắt\nTép chép miệng: Xong!\nChú Tôm về chậm\nDắt tay bà Còng.\n\nHong xôi vừa chín\nNhà đổ mái bằng\nTrà pha thơm ngát\nMời ông Dã Tràng.\n\nDã Tràng móm mém\nRụng hai chiếc răng\nKhen xôi nấu dẻo\nCó công Cua Càng",
+    "questions": [
+        "Bài thơ trên kể về điều gì?",
+        "Cua Càng nấu xôi như thế nào?",
+        "Bài thơ trên có những con vật nào được nhân hóa?",
+        "Ai đi chợ cá?",
+        "Câu nào không xuất hiện trong bài trên?",
+        "Ai rụng hai chiếc răng?"
+    ],
+    "options": [
+        [
+            "Cua Càng đi chợ.",
+            "Cua Càng đi chơi.",
+            "Cua Càng thổi xôi.",
+            "Cua càng đi học."
+        ],
+        [
+            "Vừa đi vừa thổi.",
+            "Ngồi thổi xôi.",
+            "Đứng thổi xôi.",
+            "Nằm thổi xôi."
+        ],
+        [
+            "Cua Càng, Tép, Ốc, Tôm, Dã Tràng.",
+            "Cua Càng, Tép, Ốc, Tôm, Sam, Dã Tràng.",
+            "Cua Càng, Tép, Ốc, Tôm, Sam, Còng, Dã Tràng.",
+            "Cua Càng, Tép."
+        ],
+        [
+            "Tôm.",
+            "Cua.",
+            "Tép.",
+            "Còng."
+        ],
+        [
+            "Bà Sam cồng kềnh.",
+            "Tôm đi chợ cá.",
+            "Dã Tràng móm mém.",
+            "Hong xôi thơm mát."
+        ],
+        [
+            "Cua càng.",
+            "Dã Tràng.",
+            "Còng.",
+            "Tôm."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "A",
+        "B",
+        "B"
+    ]
+}

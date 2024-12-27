@@ -1,0 +1,57 @@
+{
+    "article": "Ai về thăm mẹ quê ta\nChiều nay có đứa con xa nhớ thầm…\n\nBầm ơi có rét không bầm?\nHeo heo gió núi, lâm thâm mưa phùn\nBầm ra ruộng cấy bầm run\nChân lội dưới bùn, tay cấy mạ non\nMạ non bầm cấy mấy đon\nRuột gan bầm lại thương con mấy lần.\nMưa phùn ướt áo tứ thân\nMưa bao nhiêu hạt, thương bầm bấy nhiêu!\n\nBầm ơi, sớm sớm chiều chiều\nThương con, bầm chớ lo nhiều bầm nghe!\nCon đi trăm núi ngàn khe\nChưa bằng muôn nỗi tái tê lòng bầm\nCon đi đánh giặc mười năm\nChưa bằng khó nhọc đời bầm sáu mươi.\n\nCon ra tiền tuyết xa xôi\nThương bầm yêu nước, cả đôi mẹ hiền.",
+    "questions": [
+        "Điều gì gợi cho anh chiến sĩ nhớ tới mẹ?",
+        "Trong buổi chiều mùa đông mưa phùn, gió bấc, anh chiến sĩ nhớ tới mẹ gắn với hình ảnh nào?",
+        "Câu thơ nào sau đây thể hiện tình cảm của mẹ với con?",
+        "Câu thơ nào sau đây thể hiện tình cảm của con với mẹ?",
+        "Qua lời tâm tình của anh chiến sĩ, em nghĩ gì về người mẹ của anh?",
+        "Qua lời tâm sự của anh chiến sĩ, em có suy nghĩ gì về anh?"
+    ],
+    "options": [
+        [
+            "Cảnh mùa đông lạnh giá.",
+            "Cảnh mùa xuân mọi người quây quần.",
+            "Cảnh chiều đông mưa phùn gió bấc.",
+            "Cảnh mùa thu đẹp."
+        ],
+        [
+            "Ruột gan bầm lại thương con mấy lần.",
+            "Mưa bao nhiêu hạt, thương bầm bấy nhiêu!.",
+            "Mưa phùn ướt áo tứ thân.",
+            "Chân lội dưới bùn, tay cấy mạ non."
+        ],
+        [
+            "Mạ non bầm cấy mấy đon - Ruột gan bầm lại thương con mấy lần.",
+            "Bầm ơi, sớm sớm chiều chiều - Thương con, bầm chớ lo nhiều bầm nghe!.",
+            "Con đi trăm núi ngàn khe - Chưa bằng muôn nỗi tái tê lòng bầm.",
+            "Mưa phùn ướt áo tứ thân - Mưa bao nhiêu hạt, thương bầm bấy nhiêu!."
+        ],
+        [
+            "Con đi trăm núi ngàn khe - Chưa bằng muôn nỗi tái tê lòng bầm.",
+            "Bầm ơi, sớm sớm chiều chiều - Thương con, bầm chớ lo nhiều bầm nghe!.",
+            "Mạ non bầm cấy mấy đon - Ruột gan bầm lại thương con mấy lần..",
+            "Mưa phùn ướt áo tứ thân - Mưa bao nhiêu hạt, thương bầm bấy nhiêu!."
+        ],
+        [
+            "Người mẹ của anh là tiêu biểu cho người phụ nữ Việt Nam.",
+            "Người mẹ của anh là tiêu biểu cho người phụ nữ Việt Nam thời bình.",
+            "Người mẹ của anh là tiêu biểu cho người phụ nữ Việt Nam thời kháng chiến..",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Anh chiến sĩ am hiểu đời sống của nhân dân.",
+            "Anh chiến sĩ là người yêu nước, đặt tình yêu mẹ bên tình yêu đất nước.",
+            "Anh chiến sĩ gắn bó với cuộc sống của đồng bào nhân dân..",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "A",
+        "D",
+        "A",
+        "B"
+    ]
+}

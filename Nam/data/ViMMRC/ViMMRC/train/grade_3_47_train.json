@@ -1,0 +1,57 @@
+{
+    "article": "Mẻ hỏa mè hoa\nÙa ra giỡn nước\nChị bơi đi trước\nEm lượn theo sau\nRuộng rộng, ao sâu\nĐìa con đìa cạn\nGọi chúng gọi bạn\nĐắp đập be bờ\nQuăng đó quăng lờ\nCắm cờ lá chuối\nCá mè ăn nổi\nCá chép ăn chìm\nCon tép lim dim\nTrong chùm rễ cỏ\nCon cua áo đỏ\nCắt cỏ trên bờ\nCon cá múa cờ\nĐẹp ơi là đẹp!",
+    "questions": [
+        "Mè hoa là loài cá gì?",
+        "Những con vật này được miêu tả có đặc điểm gì chung?",
+        "Phép nhân hóa có tác dụng gì trong việc miêu tả các con vật?",
+        "Con gì mặc áo đỏ?",
+        "Những con vật nào được kể trong bài thơ này?",
+        "Con vật nào không được nhắc đến trong bài?"
+    ],
+    "options": [
+        [
+            "Cá chép.",
+            "Cá mè.",
+            "Cá rô.",
+            "Cá cờ."
+        ],
+        [
+            "Đều sống trên cạn.",
+            "Đều sống dưới nước.",
+            "Đều sống trên trời.",
+            "Đều sống dưới đất."
+        ],
+        [
+            "Miêu tả con vật rườm rà, dài dòng và khó hiểu.",
+            "Miêu tả sinh động, làm cho loài vật mang những đặc điểm của người.",
+            "Miêu tả con vật như những gì nó vốn có.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cua.",
+            "Cá chép.",
+            "Cá mè.",
+            "Lá chuối."
+        ],
+        [
+            "Mè hoa, cá chép, tôm và cua.",
+            "Mè hoa, cá chép, con tép và con cua,.",
+            "Tôm, cua, cá mè và cá chép.",
+            "Cá chép, tôm và cá mè."
+        ],
+        [
+            "Cá mè.",
+            "Tôm.",
+            "Cá chép.",
+            "Con cua."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "A",
+        "B",
+        "B"
+    ]
+}

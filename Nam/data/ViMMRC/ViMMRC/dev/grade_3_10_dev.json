@@ -1,0 +1,49 @@
+{
+    "article": "Thấy những người nông dân phải múc nước sông vào ống, rồi vác lên tưới cho ruộng nương ở tận trên dốc cao, anh thanh niên Ác-si-mét thầm nghĩ: \"Liệu có cách gì để nước chảy ngược lên cho đỡ vất vả không nhỉ?\"\n\nSau nửa tháng trời tính tới tính lui, Ác-si-mét đã làm ra một chiếc máy bơm. Đó là một đường ống có hai cửa: một cửa dẫn nước sông vào, con một cửa dẫn nước ra ruộng. Bên trong đường ống có một trục xoắn. Bằng cách làm quay trục xoắn này, nước sông được dẫn lên cao trước những đôi mắt thán phục của mọi người.\n\nChiếc máy bơm đầu tiên của loài người đã ra đời như vậy cách đây hơn 2000 năm. Đến bây giờ, nhiều nơi vẫn còn sử dụng loại máy bơm ấy. Xin nói thêm: những cánh xoắn máy bay, tàu thủy và cả những chiếc đinh vít bạn thường dùng đều là con cháu của chiếc máy bơm cổ xưa.",
+    "questions": [
+        "Người làm nông tưới nước cho ruộng nương vất vả như thế nào?",
+        "Ác-si-mét đã nghĩ ra phương pháp gì để giúp nông dân?",
+        "Chiếc máy bơm đầu tiên do Ác-si-mét tạo ra cách đây bao nhiêu năm?",
+        "Chiếc máy bơm đầu tiên do Ác-si-mét tạo ra có ích lợi như thế nào?",
+        "\"Con cháu\" sau này của chiếc máy bơm cổ xưa gồm những thứ gì?"
+    ],
+    "options": [
+        [
+            "Họ phải múc nước sông vào ống, rồi vác lên tưới cho ruộng nương ở tận trên dốc cao.",
+            "Họ phải đào giếng sâu dưới lòng đất để có nước tưới tiêu cho các đồng ruộng.",
+            "Họ phải gánh nước từ vùng có nguồn nước dồi dào sang các vùng khô hạn.",
+            "Họ phải thức khuya dậy sớm, canh chừng nước tưới tiêu cho các đồng ruộng."
+        ],
+        [
+            "Ông đã tạo ra bánh xe ròng rọc.",
+            "Ông đã tạo ra một chiếc đòn bẩy.",
+            "Ông đã tạo ra một chiếc máy bơm.",
+            "Ông đã tạo ra chiếc cầu bắc nước vào ruộng."
+        ],
+        [
+            "Hơn 22 năm.",
+            "Hơn 2 tỉ năm.",
+            "Hơn 2 triệu năm.",
+            "Hơn 2000 năm."
+        ],
+        [
+            "Dẫn nước tưới tiêu cho đồng ruộng.",
+            "Dẫn nước đổ từ sông ra biển.",
+            "Giúp nông dân thu hoạch lúa nhanh hơn.",
+            "Giúp nông dân gieo cấy bằng máy móc."
+        ],
+        [
+            "Cánh xoắn máy bay, tài thủy.",
+            "Cánh cửa gỗ, cửa cuốn.",
+            "Chiếc đòn bẩy, ròng rọc.",
+            "Những chiếc phao bơi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "D",
+        "A",
+        "A"
+    ]
+}

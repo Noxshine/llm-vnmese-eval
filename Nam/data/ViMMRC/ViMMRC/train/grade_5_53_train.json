@@ -1,0 +1,65 @@
+{
+    "article": "Bé Thu rất khoái ra ban công ngồi với ông nội, nghe ông rủ rỉ giảng về từng loài cây.\n\nCây quỳnh lá dày, giữ được nước, chẳng phải tưới nhiều. Cây hoa ti gôn thích leo trèo, cứ thò những cái râu ra, theo gió mà ngọ nguậy như những cái vòi voi bé xíu. Cây hoa giấy mọc ngay bên cạnh bị nó quấn chặt một cành. Những chiếc vòi quấn chắc nhiều vòng, rồi một chùm ti gôn hé nở. Cây đa Ấn Độ thì liên tục bật ra những búp đỏ hồng nhọn hoắt. Khi đủ lớn, nó xòe ra thành chiếc lá nâu rõ to, ở trong lại hiện ra cái búp đa mới nhọn hoắt, đỏ hồng... Có điều Thu chưa vui: Cái Hằng ở nhà dưới cứ bảo ban công nhà Thu không phải là vườn!\n\nMột sớm chủ nhật đầu xuân, khi mặt trời vừa hé mây nhìn xuống, Thu phát hiện ra chú chim lông xanh biếc sà xuống cành lựu. Nó săm soi, mổ mổ mấy con sâu rồi thản nhiên rỉa cánh, hót lên mấy tiếng líu ríu. Thu vội xuống nhà Hằng mời bạn lên xem để biết rằng: Ban công có chim về đậu tức là vườn rồi! Chẳng ngờ, khi hai bạn lên đến nơi thì chú chim đã bay đi. Sợ Hằng không tin, Thu cầu viện ông:\n\n- Ông ơi, đúng là có chú chim vừa đỗ ở đây bắt sâu và hót nữa ông nhỉ!\n\nÔng nó hiền hậu quay lại xoa đầu cả hai đứa:\n\n- Ừ, đúng rồi! Đất lành chim đậu, có gì lạ đâu hả cháu?",
+    "questions": [
+        "Bé Thu thích ra ban công để làm gì?",
+        "Thu buồn vì điều gì?",
+        "Cây nào bị cây hoa ti gôn cuốn chặt một cành?",
+        "Vì sao khi thấy chim về đậu ở ban công, Thu muốn báo ngay cho Hằng biết:",
+        "Có sự kiện gì đặc biệt khiến Thu xuống ngay nhà Hằng mời bạn lên nhà mình",
+        "Em hiểu thế nào là \"đất lành chim đậu\"",
+        "Nội dung của câu chuyện là gì?"
+    ],
+    "options": [
+        [
+            "Ngắm những loại cây xinh đẹp.",
+            "Nghe những chú chim líu lo ca hát và bắt sâu.",
+            "Ngồi với ông nội, nghe ông giảng về từng loài cây.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Vườn nhà Thu chưa thật nhiều cây.",
+            "Sức khỏe của ông yếu, không kể chuyện được cho Thu nghe.",
+            "Cái Hằng nhà dưới bảo ban công nhà Thu không phải là vườn.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cây quỳnh.",
+            "Cây hoa giấy.",
+            "Cây đa Ấn Độ.",
+            "Cây Lan."
+        ],
+        [
+            "Vì Thu muốn chứng minh ban công nhà mình như một khu vườn.",
+            "Vì Hằng nghĩ ban công nhà Thu không phải là vườn.",
+            "Vì Hằng chưa bao giờ nhìn thấy chú chim sâu trong vườn.",
+            "Vì muốn chia sẻ niềm vui với bạn."
+        ],
+        [
+            "Có chú chim sà xuống cành lựu, rỉa lông, bắt sâu và hót líu lo.",
+            "Ông kể chuyện sự tích về những loài cây.",
+            "Có chú chim bị thương rơi xuống ban công nhà Thu.",
+            "Có con rắn bò vào vườn."
+        ],
+        [
+            "Nơi tốt lành sẽ có chim về đậu.",
+            "Nơi tốt đẹp, thanh bình sẽ có chim về trú ngụ, có con người đến làm ăn sinh sống.",
+            "Nơi tốt đẹp có chim về đậu để tạo thành khu vườn nhiều màu sắc.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Sự khác nhau của cây cối và bài học người ông dạy cho các cháu.",
+            "Tình yêu thiên nhiên của hai ông cháu.",
+            "Những cây hoa giấy.",
+            "Những cây hoa Lan."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "A",
+        "A",
+        "B",
+        "B"
+    ]
+}

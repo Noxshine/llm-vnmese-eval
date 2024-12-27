@@ -1,0 +1,903 @@
+{"rows": [
+    {
+        "row_idx": 0,
+        "row": {
+            "query": "một chút caffeine có ổn trong khi mang thai không",
+            "positive": "Chúng tôi không biết nhiều về tác động của caffeine trong thai kỳ đối với bạn và em bé của bạn. Vì vậy, tốt nhất là giới hạn số tiền bạn nhận được mỗi ngày. Nếu bạn đang mang thai, hãy hạn chế caffeine ở mức 200 miligam mỗi ngày. Đây là lượng trong 1 cốc cà phê 8 ounce hoặc một cốc cà phê 12 ounce.",
+            "negative": "Nói chung, phụ nữ mang thai ăn sô cô la là an toàn vì các nghiên cứu đã chứng minh những lợi ích nhất định của việc ăn sô cô la trong thai kỳ. Tuy nhiên, phụ nữ mang thai nên đảm bảo lượng caffein của họ dưới 200 mg mỗi ngày."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 1,
+        "row": {
+            "query": "trái cây nào có nguồn gốc ở Úc",
+            "positive": "Passiflora herbertiana. Một loại chanh dây quý hiếm có nguồn gốc từ Úc. Quả có vỏ xanh, cùi trắng, không rõ loại có thể ăn được. Một số nguồn liệt kê trái cây là có thể ăn được, ngọt và ngon, trong khi những nguồn khác liệt kê các loại trái cây là đắng và không thể ăn được .assiflora herbertiana. Một loại chanh dây quý hiếm có nguồn gốc từ Úc. Quả có vỏ xanh, cùi trắng, không rõ loại có thể ăn được. Một số nguồn liệt kê trái cây là có thể ăn được, ngọt và ngon, trong khi những nguồn khác liệt kê các loại trái cây là đắng và không ăn được.",
+            "negative": "Hạt kola là quả của cây kola, một chi (Cola) của cây có nguồn gốc từ rừng mưa nhiệt đới của Châu Phi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 2,
+        "row": {
+            "query": "quân đội Canada lớn như thế nào",
+            "positive": "Lực lượng vũ trang Canada. 1 Sứ mệnh gìn giữ hòa bình quy mô lớn đầu tiên của Canada bắt đầu tại Ai Cập vào ngày 24 tháng 11 năm 1956. 2 Có khoảng 65.000 Lực lượng Chính quy và 25.000 thành viên dự bị trong quân đội Canada. 3 Ở Canada, ngày 9 tháng 8 được chỉ định là Ngày gìn giữ hòa bình quốc giaÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢.",
+            "negative": "Viện Sức khỏe Bác sĩ Canada (CPHI) là một chương trình quốc gia được thành lập vào năm 2012 với tư cách là sự hợp tác giữa Hiệp hội Y khoa Canada (CMA), Quỹ Y tế Canada (CMF) và Hiệp hội Y tế tỉnh và vùng lãnh thổ (PTMAs)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 3,
+        "row": {
+            "query": "các loại cây ăn quả",
+            "positive": "Quả anh đào. Cây anh đào được tìm thấy trên khắp thế giới. Có 40 hoặc nhiều loại khác nhau, từ anh đào bing đến anh đào đen. Cùng với quả, cây anh đào tạo ra những bông hoa màu trắng hồng nhạt và mỏng manh, có mùi thơm rất cao. Nộp. Trồng cây ăn quả trong khuôn viên của bạn không chỉ cung cấp cho bạn nguồn cung cấp trái cây hữu cơ ổn định, nó còn cho phép bạn làm đẹp sân vườn của mình và cung cấp oxy trở lại môi trường.",
+            "negative": "Hạt kola là quả của cây kola, một chi (Cola) của cây có nguồn gốc từ rừng mưa nhiệt đới của Châu Phi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 4,
+        "row": {
+            "query": "cho con bú bị mất bao nhiêu calo một ngày",
+            "positive": "Tuy nhiên, nghiên cứu không chỉ cho rằng việc nuôi con bằng sữa mẹ tốt hơn cho em bé. Việc cho con bú sẽ đốt cháy trung bình 500 calo mỗi ngày, trong đó khoảng 200 đến 600 calo đốt cháy một ngày. ItÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ s ước tính rằng việc sản xuất 1 oz. của sữa mẹ đốt cháy 20 calo. Lượng calo đốt cháy tùy thuộc vào lượng bé ăn. Các cặp song sinh cho con bú sẽ đốt cháy nhiều gấp đôi so với chỉ cho một bé bú. Với các cặp song sinh, mẹ của họ đốt cháy 1000 calo mỗi ngày. Đốt cháy thêm 500 calo mỗi ngày sẽ giúp bạn giảm được 1 pound cân nặng hàng tuần.",
+            "negative": "Tuy nhiên, bạn vẫn cần một ít niacin mỗi ngày; nam giới cần khoảng 16 mg mỗi ngày và phụ nữ cần 14 mg mỗi ngày trừ khi họ đang mang thai hoặc cho con bú (phụ nữ mang thai và cho con bú có nhu cầu niacin cao hơn)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 5,
+        "row": {
+            "query": "thành phố harrison pa ở đâu",
+            "positive": "Thành phố Harrison là một địa điểm được chỉ định điều tra dân số (CDP) ở Quận Westmoreland, Pennsylvania, Hoa Kỳ. Dân số tại thời điểm điều tra dân số năm 2000 là 155 người.",
+            "negative": "Các thành phố gần nhất: Quận Vandling, PA (1,1 dặm), Simpson, PA (2,0 dặm), Union Dale Borough, PA (2,1 dặm), Carbondale, PA (2,4 dặm), Waymart Borough, PA (2,4 km), Thị trấn Mayfield, PA (2,9 dặm), quận Prompton, PA (2,9 dặm), quận Jermyn, PA (3,1 dặm). Tỷ lệ tội phạm ở Forest City theo năm."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 6,
+        "row": {
+            "query": "texas có bao nhiêu đại diện",
+            "positive": "Những người đại diện. Hoa Kỳ được chia thành 435 quận quốc hội ÃƒÂ ¢ Ã‚â‚¬Ã‚â € 36 ở Texas ÃƒÂ ¢ Ã‚â‚¬Ã‚â € mỗi quận với dân số khoảng 710.000 người. Mỗi quận bầu một đại diện cho Hạ viện trong nhiệm kỳ hai năm. Các đại diện còn được gọi là dân biểu / nữ dân biểu. Quận 1. Hoa Kỳ được chia thành 435 quận quốc hội ÃƒÂ ¢ Ã‚â‚¬Ã‚â € 36 ở Texas ÃƒÂ ¢ Ã‚â‚¬Ã‚â € mỗi loài có dân số khoảng 710.000 cá thể. Mỗi khu bầu chọn một đại diện cho Hạ viện trong nhiệm kỳ hai năm. Dân biểu còn được gọi là dân biểu / nữ dân biểu. Quận 1.",
+            "negative": "Hạ viện Texas có 150 thành viên. * Thượng viện Texas có 30 thành viên. * Texas có 32 ghế trong Hạ viện Hoa Kỳ và hai Thượng nghị sĩ Hoa Kỳ. Có 435 đại diện trong Hạ viện, so với 100 thượng nghị sĩ trong Thượng viện. Đây là con số đạt được khi số ghế mới được thêm vào năm 1913, và con số đã bị khóa trong Đạo luật Tái phân bổ năm 1929. Từ năm 1959 đến năm 1963, tạm thời có 437 ghế. Có 6 đại biểu không biểu quyết khác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 7,
+        "row": {
+            "query": "đặc điểm khí hậu chính của rừng mưa nhiệt đới",
+            "positive": "Mô tả [sửa]. Rừng mưa nhiệt đới có kiểu khí hậu nhiệt đới trong đó không có mùa khô. Tất cả các tháng có lượng mưa trung bình ít nhất là 60 mm. Rừng mưa nhiệt đới không có mùa hè hay mùa đông; nó thường nóng và ẩm ướt quanh năm và lượng mưa vừa nhiều vừa thường xuyên. mô tả [sửa]. Rừng mưa nhiệt đới có kiểu khí hậu nhiệt đới trong đó không có mùa khô. Tất cả các tháng có lượng mưa trung bình ít nhất là 60 mm. Rừng mưa nhiệt đới không có mùa hè hay mùa đông; Nó thường nóng và ẩm ướt trong suốt cả năm và lượng mưa lớn và thường xuyên.",
+            "negative": "Hạt kola là quả của cây kola, một chi (Cola) của cây có nguồn gốc từ rừng mưa nhiệt đới của Châu Phi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 8,
+        "row": {
+            "query": "các triệu chứng ung thư tuyến tụy",
+            "positive": "Các triệu chứng của ung thư tuyến tụy. Ung thư tuyến tụy có thể chỉ gây ra các triệu chứng mơ hồ không rõ nguyên nhân. Đau (thường ở bụng hoặc lưng), sụt cân, vàng da (vàng da và / hoặc mắt) kèm theo hoặc không ngứa, chán ăn, buồn nôn, thay đổi phân, viêm tụy và bệnh tiểu đường mới khởi phát là những triệu chứng có thể chỉ ra ung thư tuyến tụy.",
+            "negative": "Ung thư tuyến tụy phát triển khi các tế bào tuyến tụy bất thường nhân lên nhanh chóng trong tuyến tụy. Các tế bào này không chết mà tiếp tục phát triển để tạo thành các khối u. Khi các giai đoạn của bệnh ung thư tuyến tụy tiến triển ở chó, mô trong tuyến tụy bắt đầu chết. Trong giai đoạn sau của ung thư tuyến tụy, các khối u có thể di căn sang các cơ quan khác, gây chết mô và rối loạn chức năng các cơ quan trên toàn cơ thể."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 9,
+        "row": {
+            "query": "thực phẩm giúp giảm lượng đường trong máu",
+            "positive": "Chanh rất giàu Vitamin C và tính axit của chúng giúp làm giảm chỉ số đường huyết của các loại thực phẩm khác. Yến mạch và bánh quy cám gạo là món ăn nhẹ lành mạnh. Bổ sung với bơ hạt hữu cơ hoặc pho mát. Các loại thực phẩm khác có tác dụng ổn định lượng đường trong máu là pho mát, lòng đỏ trứng, quả mọng và men bia.",
+            "negative": "Hemoglobin thấp, huyết áp cao, hàm lượng cholesterol xấu cao và lượng đường trong máu bất thường là một vài yếu tố ảnh hưởng đến sức khỏe của máu. Chế độ ăn uống của bạn có thể giúp ích rất nhiều trong việc thúc đẩy máu khỏe mạnh và hầu hết các loại thực phẩm tốt cho máu cũng thúc đẩy cân nặng và sức khỏe nói chung. . Thực phẩm giúp tăng cường mức cholesterol trong máu khỏe mạnh bao gồm dầu thực vật - ngoại trừ dầu cọ và dầu dừa - cũng như cá, các loại hạt và quả bơ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 10,
+        "row": {
+            "query": "williamsport là quận gì, pa",
+            "positive": "Cảnh sát trưởng Williamsport. Tìm văn phòng, bộ phận, trụ sở, nhà tù và trung tâm giam giữ của cảnh sát trưởng Williamsport Pennsylvania. Cảnh sát trưởng cung cấp thông tin về hồ sơ, vụ bắt giữ, tù nhân, trát và ảnh chụp. Tên. Văn phòng Cảnh sát trưởng Quận Lycoming.",
+            "negative": "Tôi mất 2000 đô la ở Pittsburgh PA Phụ lục: Phụ thuộc vào việc bạn đang thay thế nó ở đâu và bởi ai (các đại lý tính phí cao nhất). Tôi vừa có bộ ly hợp của chiếc Mini Cooper 2007 ÃƒÂ ¢ Ã‚â‚¬Ã‚Â¦ với giá $ 1100. Một cửa hàng khác cho tôi ước tính $ 1350. Tôi sống ở Quận Cam, CA. tôi phải trả $ 2000 ở Pittsburgh PA Phụ lục: Phụ thuộc vào nơi bạn thay thế nó và của ai (các đại lý tính phí cao nhất). Tôi vừa có bộ ly hợp của chiếc Mini Cooper 2007 ÃƒÂ ¢ Ã‚â‚¬Ã‚Â¦ với giá $ 1100. Một cửa hàng khác cho tôi ước tính là $ 1350. Tôi sống ở Quận Cam, CA."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 11,
+        "row": {
+            "query": "một số thực phẩm phụ nữ mang thai tránh là gì",
+            "positive": "Để giảm thiểu nguy cơ nhiễm trùng, phụ nữ mang thai được khuyên chỉ nên tiêu thụ sữa tiệt trùng, pho mát và nước hoa quả. Điểm then chốt: Phụ nữ mang thai không nên tiêu thụ sữa, pho mát hoặc nước hoa quả chưa tiệt trùng, vì những thực phẩm này làm tăng nguy cơ nhiễm trùng do vi khuẩn.",
+            "negative": "Tuy nhiên, bạn vẫn cần một ít niacin mỗi ngày; nam giới cần khoảng 16 mg mỗi ngày và phụ nữ cần 14 mg mỗi ngày trừ khi họ đang mang thai hoặc cho con bú (phụ nữ mang thai và cho con bú có nhu cầu niacin cao hơn)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 12,
+        "row": {
+            "query": "máu mất bao lâu để bổ sung sau khi lượng máu bị mất",
+            "positive": "Nồng độ máu sẽ bổ sung trong vòng bốn hoặc năm giờ. Tuy nhiên, các tế bào bạch cầu mất 12 giờ để bổ sung. Các tế bào hồng cầu mất khoảng 4 đến 6 tuần để tái tạo, vì vậy bạn cần duy trì và sống một lối sống lành mạnh. Dưới đây là một số cách sau: Cách tốt nhất và tự nhiên để bổ sung máu là uống nhiều nước. Uống 8-12 cốc nước mỗi ngày. Nước ép rau và nước hoa quả cũng có thể hữu ích.",
+            "negative": "Hemoglobin thấp, huyết áp cao, hàm lượng cholesterol xấu cao và lượng đường trong máu bất thường là một vài yếu tố ảnh hưởng đến sức khỏe của máu. Chế độ ăn uống của bạn có thể giúp ích rất nhiều trong việc thúc đẩy máu khỏe mạnh và hầu hết các loại thực phẩm tốt cho máu cũng thúc đẩy cân nặng và sức khỏe nói chung. . Thực phẩm giúp tăng cường mức cholesterol trong máu khỏe mạnh bao gồm dầu thực vật - ngoại trừ dầu cọ và dầu dừa - cũng như cá, các loại hạt và quả bơ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 13,
+        "row": {
+            "query": "chi cây liễu khóc là gì",
+            "positive": "Cây liễu khóc thuộc chi Salix. Là một thành viên của họ liễu (Salicaceae), chi liễu (Salix spp.) Là một chi sống ở thế giới bao gồm khoảng 300 loài cây rụng lá và cây bụi.",
+            "negative": "Hạt kola là quả của cây kola, một chi (Cola) của cây có nguồn gốc từ rừng mưa nhiệt đới của Châu Phi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 14,
+        "row": {
+            "query": "rudolf virchow đã làm gì cho các tế bào",
+            "positive": "Rudolf Virchow, một quan chức y tế người Đức chuyên về bệnh học tế bào, lần đầu tiên diễn đạt câu châm ngôn cơ bản liên quan đến tế bào trong cụm từ omnis cellula e cellula (tất cả các tế bào từ tế bào). Vì sinh sản tế bào là cơ sở cuối cùng của tính liên tục của sự sống; tế bào không chỉ làÃƒÂ ¢ Ã‚â‚¬Ã‚Â¦",
+            "negative": "PHÁT TRIỂN GẦN ĐÂY TỪ CÁC BỘ PHIM ANH EM ĐƯỢC PHÂN LOẠI: RUDOLF HESS ĐÃ ĐƯỢC KHAI THÁC. Rudolf Hess, Phó Fuehrer của Adolf Hitler, và Thống đốc Đảng Quốc xã, đã thực sự bị các điệp viên Anh sát hại theo một tài liệu gần đây có được theo Đạo luật Tự do Thông tin của Vương quốc Anh. Nhưng .... hãy đọc bài viết một cách chặt chẽ và cẩn thận !:"
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 15,
+        "row": {
+            "query": "biểu đồ cholesterol tốt và xấu",
+            "positive": "Không phải tất cả cholesterol đều không tốt cho cơ thể. Có hai loại cholesterol-HDL (Lipoprotein mật độ cao hoặc cholesterol tốt) và LDL (Lipoprotein mật độ thấp hoặc cholesterol xấu). Trong khi LDL gây tắc nghẽn động mạch, HDL giúp vận chuyển chất béo trung tính đến gan để bài tiết. 1,55 mmol / L trở lên. Mức LDL (cholesterol xấu) được khuyến nghị là 2,6 mmol / L hoặc thấp hơn. Các nguồn. Các nguồn cung cấp HDL bao gồm hành tây và axit béo Omega-3 như dầu lanh, cá, thực phẩm giàu chất xơ như ngũ cốc, yến mạch, cám, v.v.",
+            "negative": "Hemoglobin thấp, huyết áp cao, hàm lượng cholesterol xấu cao và lượng đường trong máu bất thường là một vài yếu tố ảnh hưởng đến sức khỏe của máu. Chế độ ăn uống của bạn có thể giúp ích rất nhiều trong việc thúc đẩy máu khỏe mạnh và hầu hết các loại thực phẩm tốt cho máu cũng thúc đẩy cân nặng và sức khỏe nói chung. . Thực phẩm giúp tăng cường mức cholesterol trong máu khỏe mạnh bao gồm dầu thực vật - ngoại trừ dầu cọ và dầu dừa - cũng như cá, các loại hạt và quả bơ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 16,
+        "row": {
+            "query": "số thành chữ cái trong bảng chữ cái",
+            "positive": "Bảng chữ cái tiếng Anh hiện đại là bảng chữ cái Latinh bao gồm 26 chữ cái (mỗi chữ cái có dạng viết hoa và viết thường) ÃƒÂ ¢ Ã‚â‚¬Ã‚â € œ các chữ cái giống nhau được tìm thấy trong bảng chữ cái Latinh cơ bản ISO: Hình dạng chính xác của các chữ cái in khác nhau tùy thuộc vào kiểu chữ.",
+            "negative": "Chỉ cần tập trung vào một vài chữ cái cùng một lúc và cho phép con bạn nhìn, nghe và trải nghiệm chữ cái đó theo nhiều cách khác nhau. Hãy nhớ rằng trẻ em học bằng cách sử dụng các giác quan của chúng, vì vậy trong khi sách bảng chữ cái có thể là một công cụ học tập hữu ích, bạn nên sử dụng một số phương pháp để dạy ABC. Mua hoặc tạo các chữ cái mà trẻ có thể trải nghiệm trong 3-D và để trẻ tạo các chữ cái cũng như sử dụng bột nặn."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 17,
+        "row": {
+            "query": "cholesterol tốt có thực sự tốt không",
+            "positive": "Mức cholesterol của bạn là một thước đo quan trọng của sức khỏe tim mạch. Đối với cholesterol HDL, hoặc cholesterol tốt, mức độ cao hơn sẽ tốt hơn. Bởi Nhân viên Phòng khám Mayo. Lipoprotein mật độ cao (HDL) được gọi là cholesterol tốt vì nó giúp loại bỏ các dạng cholesterol khác khỏi máu của bạn.",
+            "negative": "Hemoglobin thấp, huyết áp cao, hàm lượng cholesterol xấu cao và lượng đường trong máu bất thường là một vài yếu tố ảnh hưởng đến sức khỏe của máu. Chế độ ăn uống của bạn có thể giúp ích rất nhiều trong việc thúc đẩy máu khỏe mạnh và hầu hết các loại thực phẩm tốt cho máu cũng thúc đẩy cân nặng và sức khỏe nói chung. . Thực phẩm giúp tăng cường mức cholesterol trong máu khỏe mạnh bao gồm dầu thực vật - ngoại trừ dầu cọ và dầu dừa - cũng như cá, các loại hạt và quả bơ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 18,
+        "row": {
+            "query": "bạn có thể mang thai vào ngày đầu tiên của kỳ kinh nguyệt không",
+            "positive": "Nếu bạn đang cố gắng mang thai (hoặc cố gắng không mang thai), việc theo dõi chu kỳ của bạn là rất quan trọng. Nó sẽ giúp bạn theo dõi những ngày dễ thụ thai nhất để có thể dễ dàng thụ thai hơn. Một huyền thoại về khả năng sinh sản phổ biến là một người phụ nữ không thể mang thai khi đến kỳ kinh nguyệt. Mặc dù tỷ lệ mang thai thấp hơn vào những ngày bạn có kinh, nhưng chúng không phải là số không.",
+            "negative": "Tuy nhiên, bạn vẫn cần một ít niacin mỗi ngày; nam giới cần khoảng 16 mg mỗi ngày và phụ nữ cần 14 mg mỗi ngày trừ khi họ đang mang thai hoặc cho con bú (phụ nữ mang thai và cho con bú có nhu cầu niacin cao hơn)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 19,
+        "row": {
+            "query": "những hóa chất nào để sử dụng trên cây kế canadian",
+            "positive": "Thuốc diệt cỏ StingerÃ‚Â® cung cấp khả năng kiểm soát vượt trội cây kế Canada trên củ cải đường, ngô và các loại cây trồng khác. Và, không giống như các loại thuốc diệt cỏ khác, nó có thể làm giảm đáng kể quần thể cây kế vào mùa tới. Những lợi ích. Khả năng tương thích bể trộn tuyệt vời. Thành phần quan trọng của hỗn hợp bể vi lượng để kiểm soát cỏ dại phổ rộng.",
+            "negative": "Viện Sức khỏe Bác sĩ Canada (CPHI) là một chương trình quốc gia được thành lập vào năm 2012 với tư cách là sự hợp tác giữa Hiệp hội Y khoa Canada (CMA), Quỹ Y tế Canada (CMF) và Hiệp hội Y tế tỉnh và vùng lãnh thổ (PTMAs)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 20,
+        "row": {
+            "query": "sử dụng đúng dấu phẩy trong câu",
+            "positive": "Dấu phẩy và dấu chấm là những dấu câu được sử dụng thường xuyên nhất. Dấu phẩy thường biểu thị một khoảng dừng ngắn; chúng không phải là giai đoạn cuối cùng. Quy tắc 1. Sử dụng dấu phẩy để phân tách các từ và nhóm từ trong một chuỗi đơn giản gồm ba mục trở lên. Ví dụ: Di sản của tôi thuộc về chồng, con trai, con dâu và cháu trai của tôi. Lưu ý: Khi dấu phẩy cuối cùng trong một bộ truyện đứng trước và hoặc hoặc (sau con dâu trong ví dụ trên), nó được gọi là dấu phẩy Oxford. Hầu hết các tờ báo và tạp chí đều bỏ dấu phẩy Oxford trong một loạt bài đơn giản, dường như cảm thấy nó không cần thiết.",
+            "negative": "2. Sử dụng dấu phẩy sau phần mở đầu a) mệnh đề, b) cụm từ, hoặc c) các từ đứng trước mệnh đề chính. Một. Các từ khởi đầu phổ biến cho mệnh đề giới thiệu phải được theo sau bởi dấu phẩy bao gồm sau, mặc dù, như, bởi vì, nếu, kể từ khi, khi nào, trong khi. Trong khi tôi đang ăn, con mèo cào vào cửa. Tuy nhiên, trong trường hợp này, bạn có vẻ đã quá gắng sức. 4. Không sử dụng dấu phẩy để đặt ra các yếu tố cần thiết của câu, chẳng hạn như mệnh đề bắt đầu bằng that (mệnh đề tương đối). Các mệnh đề sau danh từ luôn luôn là chủ yếu. Các mệnh đề theo sau một động từ thể hiện hành động tinh thần luôn là điều cần thiết."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 21,
+        "row": {
+            "query": "điều gì đã thúc đẩy cuộc cách mạng công nghiệp",
+            "positive": "Phát minh quyết định của Cách mạng Công nghiệp chắc chắn nhất là động cơ hơi nước. Động cơ hơi nước là nguồn năng lượng tạo nên những phát minh dệt may tiên tiến nhất, chẳng hạn như con la kéo sợi và máy dệt điện. Thương mại thế giới dần dần tăng lên trong những thế kỷ trước Cách mạng Công nghiệp và cung cấp cho các nước châu Âu khả năng tiếp cận nguyên liệu thô và thị trường tiêu thụ hàng hóa. Nó cũng làm tăng sự giàu có mà sau đó, các ngân hàng có thể cho vay để tài trợ cho việc mở rộng công nghiệp hơn trong một vòng xoáy tăng trưởng kinh tế đi lên.",
+            "negative": "Cuộc Cách mạng Công nghiệp bắt đầu ở Vương quốc Anh và hầu hết các đổi mới công nghệ quan trọng là của Anh. Sản xuất hàng dệt cơ giới hóa lan rộng sang lục địa châu Âu vào đầu thế kỷ 19, với các trung tâm quan trọng ở Pháp. Ấn Độ, và Trung Đông, hoặc vào những thời điểm khác như trong Thời cổ đại Cổ điển hoặc Thời Trung cổ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 22,
+        "row": {
+            "query": "các điều khoản tối huệ quốc có hợp pháp không",
+            "positive": "Điều khoản tối huệ quốc. Sự định nghĩa. Điều khoản tối huệ quốc (còn được gọi là điều khoản khách hàng được ưu đãi nhất hoặc điều khoản người được cấp phép được ưu đãi nhất) là một điều khoản hợp đồng trong đó người bán (hoặc người cấp phép) đồng ý cung cấp cho người mua (hoặc người được cấp phép) những điều khoản tốt nhất mà nó cung cấp cho bất kỳ người mua nào khác (hoặc người được cấp phép). Mệnh đề mẫu.",
+            "negative": "2. Sử dụng dấu phẩy sau phần mở đầu a) mệnh đề, b) cụm từ, hoặc c) các từ đứng trước mệnh đề chính. Một. Các từ khởi đầu phổ biến cho mệnh đề giới thiệu phải được theo sau bởi dấu phẩy bao gồm sau, mặc dù, như, bởi vì, nếu, kể từ khi, khi nào, trong khi. Trong khi tôi đang ăn, con mèo cào vào cửa. Tuy nhiên, trong trường hợp này, bạn có vẻ đã quá gắng sức. 4. Không sử dụng dấu phẩy để đặt ra các yếu tố cần thiết của câu, chẳng hạn như mệnh đề bắt đầu bằng that (mệnh đề tương đối). Các mệnh đề sau danh từ luôn luôn là chủ yếu. Các mệnh đề theo sau một động từ thể hiện hành động tinh thần luôn là điều cần thiết."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 23,
+        "row": {
+            "query": "Phụ nữ mang thai ăn pepperoni có an toàn không",
+            "positive": "Không, ăn pepperoni chưa nấu chín sẽ không an toàn nếu bạn đang mang thai. Thực phẩm sống có chứa vi khuẩn có hại được gọi là vi khuẩn listeria. Vi khuẩn listeria có thể gây ra bệnh listeriosis ở phụ nữ mang thai, có thể dẫn đến nhiễm trùng não và thậm chí tử vong.",
+            "negative": "Tuy nhiên, bạn vẫn cần một ít niacin mỗi ngày; nam giới cần khoảng 16 mg mỗi ngày và phụ nữ cần 14 mg mỗi ngày trừ khi họ đang mang thai hoặc cho con bú (phụ nữ mang thai và cho con bú có nhu cầu niacin cao hơn)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 24,
+        "row": {
+            "query": "công thức của nhôm cacbua là gì",
+            "positive": "Nhôm cacbua, công thức hóa học Al 4 C 3, là một cacbit của nhôm.",
+            "negative": "nhôm clorua, một dung dịch làm se và chống mồ hôi tại chỗ. nhôm chlorohydrate một chất chống mồ hôi; còn được gọi là nhôm hydroxyclorua. nhôm hydroxit hydroxit nhôm, được sử dụng làm chất kết dính kháng axit và photphat; chế phẩm chính thức là gel nhôm hydroxit."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 25,
+        "row": {
+            "query": "Ai đó có thể làm việc bao nhiêu giờ trước khi bạn phải cung cấp bảo hiểm y tế cho họ",
+            "positive": "Yêu cầu của PPACAÃƒÂ ¢ Ã‚â‚¬Ã‚â “đối với người sử dụng lao động để cung cấp bảo hiểm chăm sóc sức khỏe cho nhân viên làm việc từ 30 giờ trở lên mỗi tuần để tránh bị phạt có thể dẫn đến việc một số người sử dụng lao động thuê thêm nhân viên bán thời gian làm việc dưới 30 giờ mỗi tuần.",
+            "negative": "Nếu bạn không đưa ra thời gian và điều kiện làm việc linh hoạt, bạn không chỉ tạo ra một môi trường làm việc thống nhất cho nhân viên của mình. Bạn cũng có thể loại bỏ những ứng viên đủ tiêu chuẩn, những người sẽ không quyết định làm việc cho một công ty có chính sách giờ làm việc cổ hủ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 26,
+        "row": {
+            "query": "giờ làm việc điển hình của cna là gì",
+            "positive": "Điều kiện làm việc điển hình cho CNA. Điều kiện làm việc điển hình cho CNA. Mặc dù điều kiện làm việc đối với các trợ lý y tá được chứng nhận khác nhau tùy thuộc vào cơ sở nơi họ chọn làm việc, một số điều kiện làm việc phổ biến nhất mà họ gặp phải được mô tả ngắn gọn dưới đây. Lịch làm việc chung. Mặc dù các trợ lý y tá có thể chọn làm việc bán thời gian hoặc toàn thời gian, hầu hết các cơ sở đều cần những người có thể làm việc toàn thời gian. Điều này thường có nghĩa là 40 giờ trở lên mỗi tuần và có thể bao gồm giờ làm thêm, cuối tuần và ngày lễ.",
+            "negative": "Nếu bạn không đưa ra thời gian và điều kiện làm việc linh hoạt, bạn không chỉ tạo ra một môi trường làm việc thống nhất cho nhân viên của mình. Bạn cũng có thể loại bỏ những ứng viên đủ tiêu chuẩn, những người sẽ không quyết định làm việc cho một công ty có chính sách giờ làm việc cổ hủ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 27,
+        "row": {
+            "query": "bao lâu thì phục hồi sau khi bị vỡ xương.",
+            "positive": "Thường mất khoảng 6 đến 8 tuần để một vết gãy xương gần liền nhau. Tuy nhiên, đây chỉ là điều cần thiết đối với kết hợp xương, nó không tính đến thời gian cần thiết để phục hồi hoàn toàn.",
+            "negative": "Phục hồi đột quỵ. Đột quỵ ảnh hưởng đến mọi người theo cách khác nhau. Nhiều người sống sót sau đột quỵ tiếp tục cải thiện trong một thời gian dài, đôi khi trong một số năm. Phục hồi sau đột quỵ liên quan đến việc thay đổi các khía cạnh thể chất, xã hội và cảm xúc trong cuộc sống của bạn. Bạn sẽ thực hiện các thay đổi để ngăn ngừa đột quỵ bổ sung cũng như để tạo điều kiện phục hồi suốt đời."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 28,
+        "row": {
+            "query": "jonathan steartart chơi cho ai",
+            "positive": "Carolina Panthers chạy lại Jonathan Stewart ngã trong bài chạy TD 2 yard. Jonathan Stewart đọc khu vực trong 20 thước. Xuất bản: Ngày 24 tháng 12 năm 2016 lúc 01:46 chiều Carolina Panthers chạy lại Jonathan Stewart tìm thấy khoảng trống ở bên trong và chạy trong 20 thước. Jonathan Stewart đột phá trong 34 thước trên đường chạy. Xuất bản: Ngày 19 tháng 12 năm 2016 lúc 11:51 tối Carolina Panthers chạy lại Jonathan Stewart đột phá 34 mét trên đường chạy.",
+            "negative": "Năm 1403, một ban nhạc Highlanders, được cho là Clan Stewart của Appin do Alexander Stewart, con trai của Wolf of Badenoch sát hại Sir Malcolm Drummond, thủ lĩnh của Clan Drummond. Vào năm 1497, một số trong Clan MacLaren đã ăn trộm gia súc từ Braes of Lochaber từ Clan MacDonald của Keppoch .lan Stewart của Appin là một nhánh cao nguyên phía tây của Clan Stewart và được coi là một gia tộc khác biệt kể từ thế kỷ 15. Họ là hậu duệ của Ngài James Stewart của Perston, ông ta là cháu trai của Alexander Stewart, vị Giáo chủ Cao cấp được cha truyền con nối thứ tư của Scotland."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 29,
+        "row": {
+            "query": "phong trào bất hợp tác kêu gọi người dân Ấn Độ làm gì",
+            "positive": "Phong trào bất hợp tác là một giai đoạn quan trọng của phong trào giành độc lập của Ấn Độ khỏi sự cai trị của Anh. Nó được lãnh đạo bởi Mahatma Gandhi và được sự ủng hộ của Quốc hội Ấn Độ. Gandhi bắt đầu phong trào bất hợp tác vào tháng 1 năm 1921 sau Thảm sát Jallianwala Bagh nhằm chống lại sự cai trị của Anh ở Ấn Độ thông qua các biện pháp bất bạo động. qua lại, làm nạn nhân của thường dân ở giữa. Gandhi kêu gọi công chúng Ấn Độ chấm dứt mọi cuộc phản kháng, diễn ra nhanh chóng kéo dài 3 tuần, và hủy bỏ phong trào bất hợp tác.",
+            "negative": "... đại xá). Các nhóm được đặt tên là: Phong trào Cải cách Nhập cư Công bằng, Trung tâm Thay đổi Cộng đồng, Liên minh Nhập cư New York, Casa de Maryland, Các nhà thờ United to Save and Heal, và OneAmerica: Trong cuộc gọi, họ nói: Chúng tôi đã tuần hành, gọi điện và gửi fax. Chúng tôi đã nhiều lần cho thấy rằng không có chuyển động nào lớn hơn của chúng tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 30,
+        "row": {
+            "query": "làm thế nào để đo một mét vuông",
+            "positive": "Để tính mét vuông trong một không gian nhất định, bạn có thể đo số mét ở mỗi cạnh và nhân chúng. Ngoài ra, nếu bạn biết số feet vuông, bạn có thể chuyển đổi con số đó thành mét vuông. Bạn có thể muốn sử dụng máy tính để làm các phép toán liên quan.",
+            "negative": "Trình tạo biểu đồ động bên dưới này cung cấp cho người dùng các tùy chọn khác nhau để tùy chỉnh và tạo biểu đồ chuyển đổi mét vuông sang feet vuông để đo diện tích theo những cách khác nhau bằng cách cung cấp các giá trị Bắt đầu, Tăng lên và Làm tròn Đến. Bắt đầu tăng giá trị theo vòng đến."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 31,
+        "row": {
+            "query": "người Canada có mở trên tv không",
+            "positive": "PGA Canadian Open 2015: Golf Tee Times, TV Channel & Odds. Bubba Watson gây chú ý trên sân trong giải Canada mở rộng. Sau khi kết thúc bị trì hoãn ở giải Anh mở rộng, PGA Tour trở lại lịch trình bình thường với giải RBC Canada mở rộng từ Câu lạc bộ gôn Glen Abbey ở Ontario. Giải đấu sẽ diễn ra vào thứ Năm.",
+            "negative": "Viện Sức khỏe Bác sĩ Canada (CPHI) là một chương trình quốc gia được thành lập vào năm 2012 với tư cách là sự hợp tác giữa Hiệp hội Y khoa Canada (CMA), Quỹ Y tế Canada (CMF) và Hiệp hội Y tế tỉnh và vùng lãnh thổ (PTMAs)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 32,
+        "row": {
+            "query": "Nhảy bungee điển hình là bao lâu",
+            "positive": "Cầu Victoria Falls là nơi thực hiện cú nhảy bungee dài 111 mét (364 ft). Cầu Victoria Falls bắc qua sông Zambezi ngay dưới thác Victoria. Nhảy bungee thực hiện ở ngoài khơi Cầu Thác Victoria và có hồ sơ an toàn 100%. Hơn 50.000 người đã nhảy bungee từ địa điểm này.",
+            "negative": "Các bước. 1 1. Bắt đầu ăn uống lành mạnh. 2 2. Chạy tối đa ba dặm mỗi ngày, (nhiều hơn nếu bạn đang luyện tập cho các sự kiện xuyên quốc gia). 3 3. Trước khi chạy, hãy khởi động. 4. Thu thập 1 dữ liệu. 5. Thực hành vượt rào của bạn nếu bạn muốn trở thành một vận động viên vượt rào. 6. Lưu ý: nếu bạn định nhảy xa hoặc nhảy ba, hãy luyện tập chạy nước rút hàng ngày."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 33,
+        "row": {
+            "query": "tên nguồn gốc của thủy ngân",
+            "positive": "Mercury / mer-cury / [3 sylls.] Là tên con trai có nguồn gốc từ tiếng Latinh, và ý nghĩa của Mercury là thương mại. Trong cách sử dụng hiện đại, cái tên này đôi khi là biệt danh cho những vận động viên chạy bộ bằng chân. Thần thoại: sứ giả của các vị thần tương ứng với Hermes Hy Lạp.",
+            "negative": "Sao Thủy quay quanh Mặt trời gần hơn bất kỳ hành tinh nào khác trong Hệ Mặt trời, vì vậy bạn nghĩ rằng nhiệt độ của Sao Thủy nóng hơn, và nóng hơn. YouÃƒÂ ¢ Ã‚â‚¬Ã‚â “đúng. Mặt của sao Thủy đối diện với Mặt trời có thể lên tới 700 Kelvin, hay 426 độ C."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 34,
+        "row": {
+            "query": "niacin có gì",
+            "positive": "Vitamin B3 là một trong 8 loại vitamin B. Nó còn được gọi là niacin (axit nicotinic) và có 2 dạng khác là niacinamide (nicotinamide) và inositol hexanicotinate, có tác dụng khác với niacin. Tất cả các vitamin B giúp cơ thể chuyển đổi thức ăn (carbohydrate) thành nhiên liệu (glucose), mà cơ thể sử dụng để sản xuất năng lượng.",
+            "negative": "Tuy nhiên, bạn vẫn cần một ít niacin mỗi ngày; nam giới cần khoảng 16 mg mỗi ngày và phụ nữ cần 14 mg mỗi ngày trừ khi họ đang mang thai hoặc cho con bú (phụ nữ mang thai và cho con bú có nhu cầu niacin cao hơn)."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 35,
+        "row": {
+            "query": "đèn khảm Thổ Nhĩ Kỳ là gì",
+            "positive": "ĐÈN ĐÈN khảm Thổ Nhĩ Kỳ Loại đèn kích thước lớn, Chụp đèn, mô hình giấc mơ từ thời ô châu",
+            "negative": "Anh ta có một chiếc thể thao wrangler đời 2002 và đèn sương mù của nhà máy không hoạt động. Tôi đã thử hoán đổi rơ le đèn sương mù với chiếc xe jeep đang hoạt động của mình để xem có phải vậy không nhưng không may. Tôi đã tìm cầu chì cho đèn sương mù nhưng không thấy bất kỳ thứ gì được đánh dấu đèn sương mù. EEP WRANGLER Cách vệ sinh đèn sương mù Jeep OEM. Sau khi tôi nâng chiếc xe thể thao 02 của mình, đèn sương mù của tôi không hoạt động. Tôi đã tìm kiếm các chủ đề và kiểm tra cầu chì của mình và sau đó quyết định mua một rơ le mới (cho 14) và không có gì hoạt động. Công tắc cho đèn sương mù của tôi là cái bạn kéo ra ở cuối tay cầm đèn pha của tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 36,
+        "row": {
+            "query": "bệnh đa hồng cầu có thể gây đột quỵ",
+            "positive": "Biến chứng bệnh đa hồng cầu. Nếu bạn có PV, độ đặc của máu và lưu lượng máu chậm lại có thể gây ra các vấn đề sức khỏe nghiêm trọng. Cục máu đông là biến chứng nghiêm trọng nhất của PV. Cục máu đông có thể gây ra cơn đau tim hoặc đột quỵ. Chúng cũng có thể khiến gan và lá lách của bạn to ra.",
+            "negative": "Phục hồi đột quỵ. Đột quỵ ảnh hưởng đến mọi người theo cách khác nhau. Nhiều người sống sót sau đột quỵ tiếp tục cải thiện trong một thời gian dài, đôi khi trong một số năm. Phục hồi sau đột quỵ liên quan đến việc thay đổi các khía cạnh thể chất, xã hội và cảm xúc trong cuộc sống của bạn. Bạn sẽ thực hiện các thay đổi để ngăn ngừa đột quỵ bổ sung cũng như để tạo điều kiện phục hồi suốt đời."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 37,
+        "row": {
+            "query": "điều gì đang khiến tuyến thượng thận của tôi căng thẳng và sương mù não",
+            "positive": "Adrenaline là một trong những chất hóa học gây căng thẳng quan trọng nhất của cơ thể. Nó được tiết ra từ các tuyến thượng thận, nằm trên cùng của mỗi quả thận. Adrenaline cũng đóng một vai trò quan trọng như một chất dẫn truyền thần kinh giúp tạo điều kiện giao tiếp giữa các tế bào não, tế bào thần kinh và các tế bào khác. Cơn sốt adrenaline là tình trạng tăng tiết adrenaline đột ngột từ tuyến thượng thận. Nó làm tăng nhịp tim và hô hấp. Adrenaline dồn dập có thể là phản ứng lành mạnh đối với các mối đe dọa thực tế đối với sức khỏe của một người hoặc các triệu chứng của rối loạn tâm thần tiềm ẩn.",
+            "negative": "Anh ta có một chiếc thể thao wrangler đời 2002 và đèn sương mù của nhà máy không hoạt động. Tôi đã thử hoán đổi rơ le đèn sương mù với chiếc xe jeep đang hoạt động của mình để xem có phải vậy không nhưng không may. Tôi đã tìm cầu chì cho đèn sương mù nhưng không thấy bất kỳ thứ gì được đánh dấu đèn sương mù. EEP WRANGLER Cách vệ sinh đèn sương mù Jeep OEM. Sau khi tôi nâng chiếc xe thể thao 02 của mình, đèn sương mù của tôi không hoạt động. Tôi đã tìm kiếm các chủ đề và kiểm tra cầu chì của mình và sau đó quyết định mua một rơ le mới (cho 14) và không có gì hoạt động. Công tắc cho đèn sương mù của tôi là cái bạn kéo ra ở cuối tay cầm đèn pha của tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 38,
+        "row": {
+            "query": "bạn có thể có magiê cao với canxi cao không",
+            "positive": "Một tế bào khỏe mạnh có lượng magiê cao và lượng canxi thấp. Canxi có thể tồn tại ở bất cứ đâu trong cơ thể bạn và gây hại nghiêm trọng nếu không được cân bằng với magiê, chất điều chỉnh hoạt động của canxi. Ví dụ, sự tích tụ canxi dư thừa xung quanh xương và khớp của bạn giống như chứng viêm khớp. Bạn có thể bị viêm khớp, nồng độ canxi cao trong máu có thể gây hại rất nhiều và các khối u tuyến cận giáp nói chung làm mất magiê. Điều trị các khối u tuyến cận giáp là cần thiết và magiê có thể giúp ích cũng như các mặt hàng điều trị ung thư khác của iốt và sodcium bicarbonate.",
+            "negative": "Rất bổ dưỡng. New Zealand GreenshellÃƒÂ ¢ Ã‚â € žÃ‚Â ¢ Vẹm là thực phẩm tốt cho sức khỏe. Chứa nhiều protein, ít chất béo nhưng cung cấp 680mg omega-3 từ EPA và DHA trong một khẩu phần. Chúng cũng là nguồn cung cấp dồi dào selen, sắt, Vitamin B12 và i-ốt, đồng thời là nguồn cung cấp magiê và canxi dồi dào."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 39,
+        "row": {
+            "query": "Ăn quá nhiều có bị rối loạn ăn uống không?",
+            "positive": "Rối loạn bắt buộc ăn quá nhiều thường được gọi là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “nghiện thực phẩmÃƒÂ ¢ Ã‚â‚¬Ã‚ bởi vì ăn uống có thể gây ra những thay đổi sinh học trong cơ thể bạn tương tự như những thay đổi do chất gây nghiện gây ra. Các nghiên cứu đã phát hiện ra rằng thực phẩm, đặc biệt là thực phẩm giàu chất béo, ảnh hưởng đến các vùng não liên quan đến khoái cảm.",
+            "negative": "Emetrol là một dung dịch uống được thiết kế để làm dịu dạ dày khi buồn nôn và nôn do nhiễm vi rút hoặc vi khuẩn hoặc ăn quá nhiều. Emetrol chứa đường và axit photphoric. Bệnh nhân tiểu đường không nên sử dụng Emetrol mà không có sự giám sát y tế vì đường cô đặc."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 40,
+        "row": {
+            "query": "Khoảng thời gian chờ đợi để được hưởng quyền lợi bồi thường cho người lao động là bao lâu?",
+            "positive": "Đối với các khoản thanh toán hàng tuần, mức tối thiểu là $ 30 hoặc lương thực tế nếu ít hơn và tối đa là $ 342, 50% SAWW. Đối với chấn thương không theo lịch trình, thời hạn thanh toán tối đa là 500 tuần và số tiền thanh toán tối đa là 171.000 đô la. Luật Oklahoma bao gồm tình trạng biến dạng là Nghiêm trọng và vĩnh viễn. Quyền lợi tối đa là $ 20.000. Oklahoma WorkerÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ Thời gian chờ đợi để được bồi thường: Thời gian chờ đợi để được bồi thường sau chấn thương là 3 ngày. Oklahoma WorkerÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ s Thông tin liên hệ: Mary Black, Presid. Thẩm phán Công nhânÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ Tòa án bồi thường 1915 North Stiles Avenue Thành phố Oklahoma, OK 73105 (405) 522-8600 (405) 522-8600 hoặc 1-800-522-8210 1-800-522- 8210",
+            "negative": "Được cung cấp chính sách bồi thường cho người lao động, bảo vệ bạn nếu bạn phải chịu trách nhiệm về thương tật cho nhân viên do thương tật liên quan đến công việc không được bảo hiểm theo luật bồi thường cho người lao động. Trung bình bổ sung"
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 41,
+        "row": {
+            "query": "thời gian hồi phục cho hút mỡ là bao lâu",
+            "positive": "Da săn chắc từ hút mỡ bằng laser sẽ bắt đầu vài tuần sau khi thực hiện và tiếp tục trong nhiều tháng. Vì vậy, khoảng thời gian 3-4 tuần, chúng tôi sẽ biết bạn sẽ ổn định cuộc sống ở đâu. Tuy nhiên, quá trình hồi phục sau hút mỡ cuối cùng có thể mất từ ​​3-6 tháng.",
+            "negative": "Phục hồi đột quỵ. Đột quỵ ảnh hưởng đến mọi người theo cách khác nhau. Nhiều người sống sót sau đột quỵ tiếp tục cải thiện trong một thời gian dài, đôi khi trong một số năm. Phục hồi sau đột quỵ liên quan đến việc thay đổi các khía cạnh thể chất, xã hội và cảm xúc trong cuộc sống của bạn. Bạn sẽ thực hiện các thay đổi để ngăn ngừa đột quỵ bổ sung cũng như để tạo điều kiện phục hồi suốt đời."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 42,
+        "row": {
+            "query": "nguyên nhân của ảo giác thị giác phức tạp",
+            "positive": "Các khối u nằm dọc hoặc chèn ép đường thị giác có thể gây ra ảo giác thị giác. Trong một loạt trường hợp, 13 trong số 59 bệnh nhân có khối u thùy thái dương bị ảo giác thị giác. Những ảo giác này được mô tả là phức tạp và có thể liên quan đến những cảnh sống động (bao gồm cả những người đang thực hiện các nhiệm vụ trần tục).",
+            "negative": "Nhà hát cũng có hệ thống video phức hợp với 28 máy chiếu và hai màn hình rộng 20 foot x 100 foot, góp phần mang đến trải nghiệm hình ảnh. LOVE không phải là một chương trình Cirque du Soleil điển hình với các nghệ sĩ lái xe leo núi, vận động viên thể dục và nhào lộn."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 43,
+        "row": {
+            "query": "một nhóm electron được định nghĩa là",
+            "positive": "Nhóm electron. Khi xác định dạng hình học của phân tử, mô hình lực đẩy cặp electron lớp vỏ hóa trị, hay VSEPR, giả định rằng lực đẩy giữa các cặp electron khiến chúng càng xa nhau càng tốt. Dạng hình học mà phân tử áp dụng cuối cùng làm giảm thiểu lực đẩy giữa các cặp electron. Xác định dạng hình học của phân tử, mô hình lực đẩy cặp electron lớp vỏ hóa trị, hay VSEPR, giả định rằng lực đẩy giữa các cặp electron khiến chúng càng xa nhau càng tốt. Dạng hình học mà phân tử áp dụng cuối cùng làm giảm thiểu lực đẩy giữa các cặp electron.",
+            "negative": "Chất mang electron bị khử trong quá trình đường phân và chu trình axit xitric thành NADH + H + và FADH2. Sau đó, các hạt tải điện này tặng các điện tử và proton cho các protein mang điện tử của chuỗi vận chuyển điện tử. Chất nhận điện tử cuối cùng là ôxy, cùng với ôxy, các điện tử và proton tạo thành các phân tử nước. Phức hợp protein của chúng ta ở màng trong ty thể tạo thành chuỗi vận chuyển điện tử. Các phức chất này tồn tại theo thứ tự năng lượng giảm dần. Tại đây các hạt mang điện tử đi cùng để làm rơi tất cả hàng hóa điện tử và proton của chúng mà chúng nhặt được trong giai đoạn đường phân và chu trình axit xitric."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 44,
+        "row": {
+            "query": "người đã phát triển hệ thống tam giác esi",
+            "positive": "Chỉ số mức độ nghiêm trọng (ESI) Chỉ số mức độ nghiêm trọng khẩn cấp (ESI) là một thang đo năm cấp độ được phát triển bởi các bác sĩ ED Richard Wuerz và David Eitel ở Hoa Kỳ (Gilboy và cộng sự, 1999; Wuerz, Milne, Eitel, Travers & Gilboy, 2000). Hai người sáng lập tin rằng một vai trò chính đối với một thiết bị phân loại khoa cấp cứu",
+            "negative": "Toán học ở Trung Quốc xuất hiện độc lập vào thế kỷ 11 trước Công nguyên. Người Trung Quốc đã độc lập phát triển các số rất lớn và âm, số thập phân, hệ thống thập phân giá trị vị trí, hệ thống nhị phân, đại số, hình học và lượng giác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 45,
+        "row": {
+            "query": "nguyên nhân gây ra các đốm đen xung quanh cuống cà chua",
+            "positive": "Nấm và đốm quả của cà chua I. Có nhiều loại nấm gây bệnh đốm lá và quả trên cà chua. Những loài được mô tả ở đây tương tự ở chỗ chúng không có sự phát triển của nấm rõ ràng trên lá hoặc đốm quả.",
+            "negative": "Nếu cà chua của bạn có màu đen ở đáy, có thể chúng đang bị thối đầu hoa. Thối cuối hoa có thể được nhận biết bằng sự đổi màu đen hoặc sẫm màu, thường xuất hiện dưới dạng ngâm nước. Nó cũng có thể xuất hiện trên ớt và cà tím."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 46,
+        "row": {
+            "query": "có bao nhiêu thành viên biểu quyết trong ngôi nhà của những người đại diện",
+            "positive": "Có 435 thành viên bỏ phiếu trong Hạ viện.",
+            "negative": "Hạ viện Texas có 150 thành viên. * Thượng viện Texas có 30 thành viên. * Texas có 32 ghế trong Hạ viện Hoa Kỳ và hai Thượng nghị sĩ Hoa Kỳ. Có 435 đại diện trong Hạ viện, so với 100 thượng nghị sĩ trong Thượng viện. Đây là con số đạt được khi số ghế mới được thêm vào năm 1913, và con số đã bị khóa trong Đạo luật Tái phân bổ năm 1929. Từ năm 1959 đến năm 1963, tạm thời có 437 ghế. Có 6 đại biểu không biểu quyết khác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 47,
+        "row": {
+            "query": "những gì bệnh ung thư được tượng trưng bởi một dải ruy băng màu xanh lá cây?",
+            "positive": "Ruy băng xanh lá cây: Ý nghĩa: Màu này là biểu tượng của chứng trầm cảm ở thời thơ ấu, trẻ em mất tích, hồ sơ mở cho người nhận nuôi, mối quan tâm về môi trường, ung thư thận, hiến tặng mô / nội tạng, vi lượng đồng căn, an toàn cho người lao động và lái xe.",
+            "negative": "Lưới nội chất thường được viết tắt là ER; do đó, loại trơn được ký hiệu là SER và loại thô được ký hiệu là RER. Có sự khác biệt thú vị về cấu trúc và chức năng giữa hai loại này và bài viết này tóm tắt hầu hết chúng."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 48,
+        "row": {
+            "query": "định nghĩa ân xá",
+            "positive": "Định nghĩa ân xá là hành động trả tự do hoặc bảo vệ một người hoặc nhiều người khỏi bị truy tố vì những hành vi sai trái. Một ví dụ về ân xá là khi chính phủ Hoa Kỳ cho phép một công dân nước ngoài để giúp bảo vệ công dân đó khỏi bị giết trên đất nước của mình.",
+            "negative": "... đại xá). Các nhóm được đặt tên là: Phong trào Cải cách Nhập cư Công bằng, Trung tâm Thay đổi Cộng đồng, Liên minh Nhập cư New York, Casa de Maryland, Các nhà thờ United to Save and Heal, và OneAmerica: Trong cuộc gọi, họ nói: Chúng tôi đã tuần hành, gọi điện và gửi fax. Chúng tôi đã nhiều lần cho thấy rằng không có chuyển động nào lớn hơn của chúng tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 49,
+        "row": {
+            "query": "chúng tôi rất vui trong vài ngày phát hành cuối cùng",
+            "positive": "We Happy Vài ngày phát hành cho PC (Early Access), Xbox One (Game Preview) 26 tháng 7, 2016 8 tháng trước (US)! We Happy Vài đã được phát hành trên PC (Early Access) và Xbox One (Game Preview) 261 ngày trước tại Hoa Kỳ và Vương quốc Anh.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 50,
+        "row": {
+            "query": "từ đồng nghĩa của ấn tượng",
+            "positive": "Từ đồng nghĩa với ấn tượng trong Từ đồng nghĩa Miễn phí. Từ trái nghĩa với ấn tượng trên. 62 từ đồng nghĩa với gây ấn tượng: kích thích, di chuyển, đình công, chạm vào, ảnh hưởng, ảnh hưởng, truyền cảm hứng, chộp lấy, ngạc nhiên, vượt qua, khuấy động, choáng ngợp, ngạc nhiên, chói mắt, lắc lư, kinh ngạc, overawe. Từ đồng nghĩa với ấn tượng trên là gì?",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 51,
+        "row": {
+            "query": "lưới nội chất làm gì",
+            "positive": "Lưới nội chất là một mạng lưới gồm các ống, túi và túi liên kết với nhau. Chúng có thể phục vụ các chức năng chuyên biệt trong tế bào bao gồm tổng hợp protein, hấp thụ canxi, sản xuất steroid, lưu trữ và sản xuất glycogen và chèn các protein màng. Lưới nội chất (ER) là một bào quan xuất hiện trong tất cả các tế bào nhân thực, thường bao quanh hạt nhân. ER được tạo ra từ một loạt các màng kéo dài throu ÃƒÂ ¢ Ã‚â‚¬Ã‚Â¦ loại bỏ tế bào chất giống như thạch và giống như một mê cung.",
+            "negative": "Lưới nội chất thường được viết tắt là ER; do đó, loại trơn được ký hiệu là SER và loại thô được ký hiệu là RER. Có sự khác biệt thú vị về cấu trúc và chức năng giữa hai loại này và bài viết này tóm tắt hầu hết chúng."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 52,
+        "row": {
+            "query": "ký hiệu hóa học được sử dụng để làm gì",
+            "positive": "Ký hiệu hóa học là tên viết tắt hoặc phiên bản rút gọn của tên một nguyên tố hóa học, thường được gán theo tên Latinh của nó. Các yếu tố tự nhiên đều có ký hiệu bằng một hoặc hai chữ cái; một số yếu tố nhân tạo có ký hiệu tạm thời là ba chữ cái.",
+            "negative": "Trong bài học này, các em sẽ học: về phương trình hóa học, các ký hiệu phương trình dùng để viết phương trình hóa học và cách viết phương trình hóa học đúng cách. Đối với bài học này, bạn sẽ cần bảng tuần hoàn và bảng gian lận ion đa nguyên tử."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 53,
+        "row": {
+            "query": "đại số thực sự là gì",
+            "positive": "Đại số là một trong những phần lớn của toán học, cùng với lý thuyết số, hình học và phân tích. Ở dạng tổng quát nhất, đại số là môn học nghiên cứu các ký hiệu toán học và các quy tắc vận dụng các ký hiệu này; nó là một sợi dây thống nhất của hầu hết tất cả toán học. Như vậy, nó bao gồm mọi thứ từ giải phương trình cơ bản đến nghiên cứu các yếu tố trừu tượng như nhóm, vòng và trường. Các phần cơ bản hơn của đại số được gọi là đại số sơ cấp; những phần trừu tượng hơn được gọi là",
+            "negative": "Toán học ở Trung Quốc xuất hiện độc lập vào thế kỷ 11 trước Công nguyên. Người Trung Quốc đã độc lập phát triển các số rất lớn và âm, số thập phân, hệ thống thập phân giá trị vị trí, hệ thống nhị phân, đại số, hình học và lượng giác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 54,
+        "row": {
+            "query": "gel nhôm hydroxit là gì",
+            "positive": "Gel nhôm hydroxit là một loại thuốc kháng axit có thể được sử dụng để điều trị chứng ợ nóng và khó tiêu. Uống nhiều nước có thể giúp giảm thiểu tình trạng táo bón.",
+            "negative": "nhôm clorua, một dung dịch làm se và chống mồ hôi tại chỗ. nhôm chlorohydrate một chất chống mồ hôi; còn được gọi là nhôm hydroxyclorua. nhôm hydroxit hydroxit nhôm, được sử dụng làm chất kết dính kháng axit và photphat; chế phẩm chính thức là gel nhôm hydroxit."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 55,
+        "row": {
+            "query": "cà tím mọc ở đâu",
+            "positive": "Bởi Kathee Mierzejewski. Cà tím (Solanum melongena) là một trong những loại rau bạn có thể trồng trong vườn nhưng rất nhạy cảm với lạnh. Khi quyết định trồng cà tím, hãy nhớ rằng chúng tương tự như ớt và cà chua, trên thực tế, chúng thuộc cùng một họ. Chúng nên được trồng sau khi có bất kỳ loại sương giá nào. Cách trồng Cà tím. Khi trồng cà tím, bạn cần nhớ rằng trồng cà tím từ hạt giống nên được thực hiện trong nhà hoặc trong nhà kính. Điều này bảo vệ những cây con nhỏ mới khỏi bất kỳ loại sương giá nào. Khi trồng cà tím, nếu bạn trồng quá sớm sẽ có nguy cơ làm cây bị thương.",
+            "negative": "Nếu cà chua của bạn có màu đen ở đáy, có thể chúng đang bị thối đầu hoa. Thối cuối hoa có thể được nhận biết bằng sự đổi màu đen hoặc sẫm màu, thường xuất hiện dưới dạng ngâm nước. Nó cũng có thể xuất hiện trên ớt và cà tím."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 56,
+        "row": {
+            "query": "một phương trình hóa học chứa thông tin gì",
+            "positive": "Một phương trình hóa học được sử dụng để viết ra và mô tả một phản ứng hóa học, chẳng hạn như các chất phản ứng và chất tạo thành sau phản ứng (được gọi là sản phẩm p ÃƒÂ ¢ Ã‚â‚¬Ã‚Â¦) Tôi một chút để tìm ra câu hỏi vì tôi cũng đã có nó. Các phản ứng trong đó nhiệt được tỏa ra được gọi là phản ứng tỏa nhiệt. Thông tin này được cung cấp bằng cách chỉ thêm một thuật ngữ nhiệt vào phía sản phẩm (phía bên phải) của phương trình hóa học. Ví dụ, (a) Khi cacbon bị đốt cháy trong không khí (hoặc oxy), nhiệt sẽ phát triển.",
+            "negative": "Trong bài học này, các em sẽ học: về phương trình hóa học, các ký hiệu phương trình dùng để viết phương trình hóa học và cách viết phương trình hóa học đúng cách. Đối với bài học này, bạn sẽ cần bảng tuần hoàn và bảng gian lận ion đa nguyên tử."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 57,
+        "row": {
+            "query": "ngày phát hành kỹ thuật số ferdinand",
+            "positive": "Nguồn: Ferdinand Phong cách phim: Nhạc nền điện ảnh gốc của nhiều nghệ sĩ Nhãn: Island Records Định dạng: Kỹ thuật số, CD Ngày phát hành: 1 tháng 12 năm 2017. Ferdinand là một bộ phim hài - chính kịch hoạt hình 3D trên máy tính của Mỹ, dựa trên Munro LeafÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ s conÃƒÂ ¢ Ã‚â‚¬Ã‚â„ ¢ s",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 58,
+        "row": {
+            "query": "ân xá xác định",
+            "positive": "Nói chung, ân xá được định nghĩa là bất kỳ sự ân xá nào của chính phủ đối với những hành vi phạm tội hoặc tội ác trong quá khứ, đặc biệt là những tội ác chính trị. Việc ân xá vượt xa sự ân xá, ở chỗ nó tha thứ hoàn toàn cho hành vi phạm tội đã nói và thường không có hậu quả. Đối với mục đích chính trị bảo thủ, ân xá là một thuật ngữ chính trị thường liên quan đến hai vấn đề chính - nhập cư và hình phạt tử hình. Vì nó liên quan đến nhập cư, ân xá là thuật ngữ được sử dụng để cấp quyền công dân tự động cho người nước ngoài cư trú ở Hoa Kỳ bất hợp pháp. Ân xá cho những người nhập cư bất hợp pháp là chủ đề gây tranh cãi gay gắt vì nó về cơ bản bỏ qua quy trình nhập quốc tịch và đồng hóa thiết yếu đối với tất cả những người nhập cư hợp pháp vào Hoa Kỳ.",
+            "negative": "... đại xá). Các nhóm được đặt tên là: Phong trào Cải cách Nhập cư Công bằng, Trung tâm Thay đổi Cộng đồng, Liên minh Nhập cư New York, Casa de Maryland, Các nhà thờ United to Save and Heal, và OneAmerica: Trong cuộc gọi, họ nói: Chúng tôi đã tuần hành, gọi điện và gửi fax. Chúng tôi đã nhiều lần cho thấy rằng không có chuyển động nào lớn hơn của chúng tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 59,
+        "row": {
+            "query": "đại số là gì và tại sao nó lại quan trọng",
+            "positive": "Đại số là một nhánh của toán học thay thế các chữ cái cho các số và một phương trình đại số biểu thị một thang đo trong đó những gì được thực hiện ở một bên của thang đo cũng được thực hiện ở phía bên kia của thang đo và các con số đóng vai trò là hằng số.",
+            "negative": "Toán học ở Trung Quốc xuất hiện độc lập vào thế kỷ 11 trước Công nguyên. Người Trung Quốc đã độc lập phát triển các số rất lớn và âm, số thập phân, hệ thống thập phân giá trị vị trí, hệ thống nhị phân, đại số, hình học và lượng giác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 60,
+        "row": {
+            "query": "wow ngày phát hành",
+            "positive": "WoW: Ngày phát hành quân đoàn. Ngày phát hành của Legion hiện đã qua - đã hết. Nó được phát hành vào ngày 30 tháng 8 năm 2016. Cả phiên bản vật lý và kỹ thuật số tiêu chuẩn sẽ khiến bạn trở lại £ 34,99 / $ 49,99. WoW: Ấn bản của nhà sưu tập quân đoàn. Blizzard CE có hai dạng - một loại sang trọng kỹ thuật số và loại hộp lớn tiêu chuẩn. Phiên bản cao cấp kỹ thuật số, có giá £ 49,99 / $ 69,99, đi kèm với những thứ sau: Dây cương của gắn kết Illidari Felstalker. Nibbles (một mini-pet của Felstalker) Vật cưỡi Felstalker cho Heroes of the Storm.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 61,
+        "row": {
+            "query": "minecraft 1.9.2 cách làm hàng rào",
+            "positive": "Sau khi có những thứ này, bạn có thể đặt chúng trở lại Hộp chế tạo và biến chúng thành Gậy. Đặt tất cả các mục giống như cách nó được hiển thị bên dưới vào bảng: Bây giờ bạn đã học cách làm hàng rào trong Minecraft, chúng cao 1,5 khối nên không có gì có thể nhảy qua chúng. Bạn có thể đặt các khối lên trên cùng của hàng rào sẽ ngồi trên hàng rào như nó là một khối. Hàng rào có thể được sử dụng như một nguồn nhiên liệu trong lò nung. Cổng hàng rào thường được sử dụng với hàng rào để người chơi có thể dễ dàng đi qua tường rào. Làm thế nào để tạo hàng rào trong Minecraft. Crafting là cách để làm một chiếc bánh trong Minecraft. Đầu tiên người chơi sẽ cần một bàn chế tạo. Nó có thể được thực hiện bằng cách mở hộp hành trang của bạn và đặt 4 tấm ván gỗ vào lưới 2ÃƒÆ’Ã‚â € ”2. Nếu bạn chỉ mới làm crafting table thì bạn sẽ cần trang bị và đặt nó trên mặt đất.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 62,
+        "row": {
+            "query": "thang máy dân dụng giá bao nhiêu",
+            "positive": "Các chuyên gia cho biết chi phí trung bình cho một thang máy gia đình hai điểm dừng cơ bản trong một ngôi nhà mới là 21.000 đến 25.000 USD. Ba trạm dừng có giá từ 28.000 đô la đến 30.000 đô la và chi phí tăng lên đối với xe taxi tùy chỉnh, như xe dân dụng được gọi. Thêm một thang máy trong một ngôi nhà hiện có có thể dễ dàng tăng gấp đôi chi phí.",
+            "negative": "Kết quả mỗi trang: 16 | 32 | 48. Bảo vệ máy móc khỏi bị hư hại do nước bằng máy bơm bể phốt thang máy có cảm biến dầu của Grainger. Nếu để nước đọng lại trong hố thang máy, nó có thể tạo điều kiện cho vi khuẩn, nấm mốc phát triển. Các máy bơm này được thiết kế và phê duyệt để vận hành an toàn bơm, báo động và giám sát hố thang máy, hầm biến áp và các ứng dụng khác nơi phải phát hiện dầu và nước."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 63,
+        "row": {
+            "query": "sự khinh thường gián tiếp của tòa án nghĩa là gì",
+            "positive": "Khinh Tòa, Gián tiếp. ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “Sự khinh thường gián tiếp của tòa ánÃƒÂ ¢ Ã‚â‚¬Ã‚ là sự vi phạm lệnh của tòa án bên ngoài sự hiện diện trực tiếp của tòa án. Nó có thể là dân sự hoặc hình sự. Một tội danh Gián tiếp Tòa án là một tội danh. Các bị cáo bị buộc tội theo cách này được cung cấp tất cả các đặc quyền thông thường của các bị cáo tội phạm khác, như quyền được xét xử bởi bồi thẩm đoàn, kiểm tra và gọi, nhân chứng và làm chứng thay mặt cho chính mình.",
+            "negative": "Nếu người đó từ chối thực hiện xét nghiệm quan hệ cha con theo lệnh của tòa án, điều đó có thể dẫn đến hậu quả pháp lý. Ví dụ, người cha tiềm năng có thể bị tòa án khinh thường vì vi phạm lệnh tòa. Điều này có thể dẫn đến tiền phạt hoặc tội hình sự. Hoặc, thẩm phán có thể đưa ra phán quyết tự động (mặc định) chống lại người đó."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 64,
+        "row": {
+            "query": "loại sinh vật nào luôn nằm ở đầu chuỗi thức ăn",
+            "positive": "Các sinh vật ở đầu chuỗi thức ăn được gọi là sinh vật sản xuất hoặc sinh vật tự dưỡng, chẳng hạn như thực vật và tảo. Một số tự chế biến thức ăn bằng cách sử dụng năng lượng mặt trời thông qua quá trình quang hợp và một số nhà sản xuất sử dụng quá trình quang hợp để tạo ra thức ăn cho riêng mình. Phía trên họ sẽ là người tiêu dùng cấp 1, sau đó là người tiêu dùng cấp 2, v.v.",
+            "negative": "Người tiêu dùng như cá và các động vật thủy sinh khác ăn một số thức ăn của nhà sản xuất, và các chất dinh dưỡng di chuyển lên chuỗi thức ăn. Khi những sinh vật này chết, vi khuẩn sẽ phân hủy các hợp chất hữu cơ và giải phóng vào nước các chất dinh dưỡng vô cơ như nitrat, photphat, canxi và các chất khác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 65,
+        "row": {
+            "query": "những cảnh trong trường hogwarts được quay ở đâu",
+            "positive": "Đây là một trong những địa điểm được sử dụng cho thư viện Hogwarts cùng với thư viện của Trường nội trú Harrow và Sảnh khách của Lâu đài Alnwick. Nhà thờ Christ, Oxford, Oxfordshire. Một số cảnh quay bên trong trường Hogwarts được quay ở Đại sảnh đường. Đây là một trong những địa điểm được sử dụng cho thư viện Hogwarts cùng với thư viện của Trường nội trú Harrow và Phòng khách của Lâu đài Alnwick. Nhà thờ Christ, Oxford, Oxfordshire. Một số cảnh quay bên trong trường Hogwarts được quay ở Đại sảnh đường.",
+            "negative": "Will & Grace được quay trước khán giả trường quay trực tiếp (hầu hết các tập và cảnh) vào tối thứ Ba, tại Sân khấu 17 ở Trung tâm CBS Studio, một không gian có tổng cộng 14.000 sq ft (1.300 m2). Căn hộ của Will và Grace được trưng bày tại Thư viện Đại học Emerson, được tặng bởi tác giả bộ truyện Max Mutchnick."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 66,
+        "row": {
+            "query": "chi phí trung bình cho một chấn thương lưng liên quan đến công việc là bao nhiêu",
+            "positive": "Chi phí trung bình cho một yêu cầu bồi thường cho người lao động thấp kém là gần 8.500 đô la. Đây là gấp đôi chi phí yêu cầu bồi thường thương tật trung bình. Tổng ước tính cho Hoa Kỳ nằm trong khoảng từ 50 đến 100 tỷ đô la mỗi năm. Một phần lớn của chi phí này là liên quan trực tiếp đến bồi thường cho người lao động.",
+            "negative": "Được cung cấp chính sách bồi thường cho người lao động, bảo vệ bạn nếu bạn phải chịu trách nhiệm về thương tật cho nhân viên do thương tật liên quan đến công việc không được bảo hiểm theo luật bồi thường cho người lao động. Trung bình bổ sung"
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 67,
+        "row": {
+            "query": "từ đồng nghĩa của nổi bật",
+            "positive": "Từ đồng nghĩa của nổi bật: nổi bật, nổi bật, quan trọng, đánh dấu, nổi bật | Collins English Thesaurus Từ điển đồng nghĩa tiếng Anh | Từ điển | Phiên dịch viên | Ngữ pháp | Lác đác | Blog tiếng Anh",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 68,
+        "row": {
+            "query": "số nhà đại diện của chúng tôi",
+            "positive": "Hạ viện Hoa Kỳ và Thượng viện Hoa Kỳ tạo thành hai phòng của Quốc hội. Nhà có 435 thành viên, số lượng đại diện cho mỗi bang được xác định theo dân số. 1 Hạ viện Hoa Kỳ. Ủy ban Nhà.",
+            "negative": "Hạ viện Texas có 150 thành viên. * Thượng viện Texas có 30 thành viên. * Texas có 32 ghế trong Hạ viện Hoa Kỳ và hai Thượng nghị sĩ Hoa Kỳ. Có 435 đại diện trong Hạ viện, so với 100 thượng nghị sĩ trong Thượng viện. Đây là con số đạt được khi số ghế mới được thêm vào năm 1913, và con số đã bị khóa trong Đạo luật Tái phân bổ năm 1929. Từ năm 1959 đến năm 1963, tạm thời có 437 ghế. Có 6 đại biểu không biểu quyết khác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 69,
+        "row": {
+            "query": "từ đồng nghĩa béo phì",
+            "positive": "Từ đồng nghĩa: embonpoint; mập mạp; tính lịch sự; béo phì ngoại sinh; thừa cân; ý kiến; sự đầy đặn; mập; sự mập mạp; sự tròn trịa; u mỡ; thể chất; mỡ cá voi; độ bùi; Từ trái nghĩa: gầy",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 70,
+        "row": {
+            "query": "ngày phát hành bữa tiệc xúc xích",
+            "positive": "Tại các rạp chiếu tốt nhất của đất nước sẽ công chiếu một phim hoạt hình mới có tên là Sausage Party. Ngày công chiếu đã được ấn định. Các phòng vé trên toàn thế giới bộ phim sẽ được chiếu vào ngày 10 tháng 6 năm 2016. Bộ phim hài này đã quay phim của đạo diễn nổi tiếng Greg Tirnanom. Trợ lý của anh là giám đốc Conrad Vernon.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 71,
+        "row": {
+            "query": "casa được bắt đầu khi nào",
+            "positive": "CASA (Tòa án chỉ định người biện hộ đặc biệt) được bắt đầu ở Seattle, WA vào năm 1977 khi một thẩm phán tòa án vị thành niên bày tỏ lo ngại rằng tòa án đang quyết định số phận của những đứa trẻ bị đưa ra khỏi nhà mà không có đủ thông tin.",
+            "negative": "... đại xá). Các nhóm được đặt tên là: Phong trào Cải cách Nhập cư Công bằng, Trung tâm Thay đổi Cộng đồng, Liên minh Nhập cư New York, Casa de Maryland, Các nhà thờ United to Save and Heal, và OneAmerica: Trong cuộc gọi, họ nói: Chúng tôi đã tuần hành, gọi điện và gửi fax. Chúng tôi đã nhiều lần cho thấy rằng không có chuyển động nào lớn hơn của chúng tôi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 72,
+        "row": {
+            "query": "từ đồng nghĩa của sự phát triển",
+            "positive": "phát triển | định nghĩa: hành động cải thiện bằng cách mở rộng hoặc phóng to hoặc tinh chỉnh | từ đồng nghĩa: mở rộng, xây dựng, phát triển sản phẩm, tiến bộ, cải tiến, làm việc, tiến bộ Làm việc trên một văn bản dài hơn?",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 73,
+        "row": {
+            "query": "từ đồng nghĩa với cổ đại",
+            "positive": "Từ đồng nghĩa cổ và từ trái nghĩa cổ. Từ đồng nghĩa hàng đầu với cổ (một từ khác của cổ) là cũ.",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 74,
+        "row": {
+            "query": "ngày phát hành dvd thử nghiệm scorch",
+            "positive": "The Maze Runner đã nhanh chóng mở màn thành công tại phòng vé vào cuối tuần này, và hiện tại 20th Century Fox đang tiến hành phần tiếp theo, The Scorch Trials, sẽ ra mắt vào ngày 18 tháng 9 năm 2015.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 75,
+        "row": {
+            "query": "các đặc điểm địa lý chính của California",
+            "positive": "Thung lũng Trung tâm của California là một thung lũng lớn, bằng phẳng, chiếm ưu thế ở trung tâm địa lý của bang California, Hoa Kỳ, rộng từ 40 đến 60 dặm (60 đến 100 km) và trải dài khoảng 450 dặm (720 km) từ bắc-tây bắc đến nam- về phía đông nam, nội địa từ và song song với bờ biển Thái Bình Dương. Thung lũng Trung tâm của California là một thung lũng lớn, bằng phẳng, chiếm ưu thế ở trung tâm địa lý của tiểu bang California của Hoa Kỳ.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 76,
+        "row": {
+            "query": "nguyên nhân gây ra táo bón nghiêm trọng sau khi ăn sô cô la đen",
+            "positive": "Ca cao, ở bất kỳ dạng nào, không có khả năng gây táo bón. Sô cô la càng sẫm màu thì hàm lượng chất béo ca cao tự nhiên càng cao và càng ít gây táo bón. Có, bạn có thể ăn sô cô la đen béo ngậy, đắng nhẹ mà không sợ bị táo bón. Sô cô la càng nhạt thì càng chứa nhiều sữa và đường, dễ gây táo bón. Một câu trả lời hoàn hảo cho những người yêu thích sô cô la",
+            "negative": "Nói chung, phụ nữ mang thai ăn sô cô la là an toàn vì các nghiên cứu đã chứng minh những lợi ích nhất định của việc ăn sô cô la trong thai kỳ. Tuy nhiên, phụ nữ mang thai nên đảm bảo lượng caffein của họ dưới 200 mg mỗi ngày."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 77,
+        "row": {
+            "query": "nguồn thực phẩm tốt cho magiê là gì",
+            "positive": "Nguồn thực phẩm giàu magiê. Các loại rau xanh như rau bina là nguồn cung cấp magiê dồi dào vì trung tâm của phân tử diệp lục (giúp rau có màu xanh) chứa magiê. nên lưu ý rằng ngũ cốc tinh chế thường có hàm lượng magiê thấp. Khi bột mì trắng được chế biến, mầm và cám giàu magiê sẽ bị loại bỏ. Nguồn thực phẩm giàu magiê. Các loại rau xanh như rau bina là nguồn cung cấp magiê dồi dào vì trung tâm của phân tử diệp lục (tạo ra màu xanh cho rau) có chứa magiê.",
+            "negative": "Rất bổ dưỡng. New Zealand GreenshellÃƒÂ ¢ Ã‚â € žÃ‚Â ¢ Vẹm là thực phẩm tốt cho sức khỏe. Chứa nhiều protein, ít chất béo nhưng cung cấp 680mg omega-3 từ EPA và DHA trong một khẩu phần. Chúng cũng là nguồn cung cấp dồi dào selen, sắt, Vitamin B12 và i-ốt, đồng thời là nguồn cung cấp magiê và canxi dồi dào."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 78,
+        "row": {
+            "query": "từ đồng nghĩa với mật độ",
+            "positive": "Princeton's WordNet (4.00 / 2 lượt bình chọn) Xếp hạng các từ đồng nghĩa này: 1 mật độ, mật độ (danh từ) số lượng trên một đơn vị kích thước. 2 nồng độ, mật độ, độ đặc, độ chặt, độ đặc (danh từ) tính chất không gian của sự đông đúc với nhau.",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 79,
+        "row": {
+            "query": "ngày phát hành cho bộ phim kỳ diệu là ngày nào",
+            "positive": "Gal Gadot trong vai Wonder Woman. Công chúa Amazonian huyền thoại của DC Comics cuối cùng cũng sẽ có phim của riêng mình. Wonder Woman, bộ phim sẽ bắt đầu quay vào mùa thu năm 2015. DC Comics và Warner Brothers đã công bố ngày phát hành cho bộ phim vào ngày 23 tháng 6 năm 2017. Gal Gadot, một người mẫu kiêm diễn viên người Israel, người cũng đóng vai chính trong bộ ba Fast & Phim về Furious, từ lâu đã được chọn để đóng vai siêu anh hùng và công chúa chiến binh.",
+            "negative": "1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không có ngày phát hành chính thức.Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này. Hoặc các phiên bản khác, hãy xem Lịch sử phiên bản (định hướng). 1.9, bản phát hành đầu tiên của Bản cập nhật chiến đấu, là bản cập nhật lớn sắp tới cho Minecraft mà không xác định ngày phát hành. Dinnerbone đã tuyên bố vào tháng 5 rằng nhiều tính năng mà anh ấy đã hiển thị cho 1.9 không phải là ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “100% finalÃƒÂ ¢ Ã‚â‚¬Ã‚, vì vậy mọi thứ có thể thay đổi sau này."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 80,
+        "row": {
+            "query": "bẫy nó là gì",
+            "positive": "Bẫy (điện toán) Trong máy tính và hệ điều hành, bẫy, còn được gọi là ngoại lệ hoặc lỗi, thường là [NB 1] [1] một loại ngắt đồng bộ thường gây ra bởi một điều kiện ngoại lệ (ví dụ: điểm ngắt, phép chia cho 0 , truy cập bộ nhớ không hợp lệ).",
+            "negative": "1 Bẫy lồng có mồi bằng bơ đậu phộng hoặc bẫy dính có kích thước được thiết kế để bắt chuột sẽ lấy được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác. Một cái bẫy lồng có mồi bằng bơ đậu phộng hoặc một cái bẫy dính có kích thước được thiết kế để bắt chuột sẽ bắt được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 81,
+        "row": {
+            "query": "ciprofloxacin có thể được sử dụng để điều trị viêm phổi không",
+            "positive": "Một số bệnh nhiễm trùng do vi khuẩn có thể được điều trị bằng ciprofloxacin, chẳng hạn như nhiễm trùng bàng quang, viêm phổi và nhiễm trùng xoang. Sử dụng ngoài nhãn cho ciprofloxacin bao gồm điều trị các loại nhiễm trùng khác do vi khuẩn nhạy cảm gây ra. Thuốc này không thích hợp cho tất cả các bệnh nhiễm trùng do vi khuẩn và nó sẽ không điều trị các bệnh nhiễm trùng do vi rút. Trẻ em có thể sử dụng nhiều sản phẩm ciprofloxacin; tuy nhiên, họ có thể tăng nguy cơ mắc các vấn đề về gân.",
+            "negative": "Không nên dùng Ciprofloxacin nếu thú cưng của bạn có biểu hiện nhạy cảm hoặc dị ứng với thuốc kháng sinh. Những con chó bị tổn thương hệ thần kinh trung ương nên dùng ciprofloxacin một cách thận trọng, vì nó có thể làm tăng nguy cơ co giật."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 82,
+        "row": {
+            "query": "xếp hạng cnn có giảm không",
+            "positive": "Đây là lý do tại sao CNN tăng xếp hạng. CNN nhận được một số tin xấu và kênh tin tức cáp 24 giờ đầu tiên có thể gặp rắc rối lớn, đặc biệt nếu Trump thắng. CNN đã hoàn toàn ủng hộ ý tưởng báo chí độc lập và báo cáo tin tức thực tế và đã đưa ÃƒÂ ¢ Ã‚â‚¬Ã‚Å “không chính thứcÃƒÂ ¢ Ã‚â‚¬Ã‚ trở thành Mạng tin tức Clinton. Xếp hạng được đưa ra và sau một cú tăng tốt trong thời gian DNC, CNN đã tụt lại phía sau MSNBC và mạng lưới đang tự hỏi tại sao. Một trong những lý do cho sự sụp đổ là việc Trump liên tục tấn công. CNN đã dành một khoảng thời gian đáng kinh ngạc để chỉ trích và lên án Donald Trump và thêm một vòng xoáy tiêu cực vào bất cứ điều gì họ có thể.",
+            "negative": "Trái tim của cộng đồng LGBTQ như chùng xuống khi Alexis Arquette, một nữ diễn viên kiêm nhà hoạt động chuyển giới, qua đời hôm Chủ nhật. Theo CNN, Alexis Arquette được bao quanh bởi các thành viên trong gia đình vào thời điểm cô qua đời. Arquette lúc qua đời mới 47 tuổi và chính anh trai cô ÃƒÂ ¢ Ã‚â‚¬Ã‚â € œ Richmond Arquette ÃƒÂ ¢ Ã‚â‚¬Ã‚â € œ người đầu tiên xác nhận cái chết của cô với CNN."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 83,
+        "row": {
+            "query": "trọng lượng của chuột wistar",
+            "positive": "Trọng lượng sơ sinh bình thường của chuột Wistar là từ 5-6 gram. Do đó, trọng lượng sơ sinh dưới 5gram có thể được coi là nhẹ cân ở chuột Wistar. Nghiên cứu này; được tiến hành tại Đại học Bowen, Iwo, bang Osun, Nigeria, vào năm 2013, được thực hiện để xác định ảnh hưởng của việc mẹ uống aspirin đối với kết quả mang thai ở chuột Wistar, có liên quan đặc biệt đến cân nặng sơ sinh.",
+            "negative": "1 Bẫy lồng có mồi bằng bơ đậu phộng hoặc bẫy dính có kích thước được thiết kế để bắt chuột sẽ lấy được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác. Một cái bẫy lồng có mồi bằng bơ đậu phộng hoặc một cái bẫy dính có kích thước được thiết kế để bắt chuột sẽ bắt được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 84,
+        "row": {
+            "query": "từ đồng nghĩa với phun trào",
+            "positive": "Từ đồng nghĩa với tụ máu phun trào trong Từ điển đồng nghĩa miễn phí. Từ trái nghĩa với tụ máu phun trào. 33 từ đồng nghĩa với phun trào: bùng nổ, phóng điện, bùng phát, thông hơi, đẩy ra, bùng phát, bùng phát, sally, viêm, bùng phát, phát ban, bùng phát, bùng nổ .... Từ đồng nghĩa với phun trào tụ máu là gì? Từ đồng nghĩa với tụ máu phun trào, từ trái nghĩa với tụ máu phun trào - FreeThesaurus.com https://www.freethesaurus.com/eruption+hematoma",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 85,
+        "row": {
+            "query": "chi phí để lắp đặt một máy bơm bể phốt",
+            "positive": "Chi phí trung bình để lắp đặt một máy bơm hút bể phốt dao động từ $ 550 đến $ 1,100 tùy thuộc vào kích thước của máy bơm. Làm thế nào để bạn xây dựng một hố bể phốt? Hố bể phốt theo nghĩa đen là một lỗ vừa đủ lớn để chứa máy bơm có lót nhựa.",
+            "negative": "Kết quả mỗi trang: 16 | 32 | 48. Bảo vệ máy móc khỏi bị hư hại do nước bằng máy bơm bể phốt thang máy có cảm biến dầu của Grainger. Nếu để nước đọng lại trong hố thang máy, nó có thể tạo điều kiện cho vi khuẩn, nấm mốc phát triển. Các máy bơm này được thiết kế và phê duyệt để vận hành an toàn bơm, báo động và giám sát hố thang máy, hầm biến áp và các ứng dụng khác nơi phải phát hiện dầu và nước."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 86,
+        "row": {
+            "query": "mất bao lâu để nhận được thư báo ghi nợ tại uop",
+            "positive": "Thường mất hai ngày. Ví dụ: nếu thư báo ghi nợ hiển thị vào tối thứ Tư, khoản tiền gửi của bạn sẽ được đăng lên WalMart Moneycard vào đầu thứ Sáu ... đọc thêm. Chào! Theo trang web của Đại học Phoenix, khoản hoàn trả được xử lý trong vòng TEN ngày làm việc và việc hoàn trả được cấp bởi Đại học Phoen ...",
+            "negative": "Đơn giản. 1 Mẫu bản ghi nhớ Đường đen Sử dụng tài liệu này như một bản ghi ngắn gọn được viết để hỗ trợ cho việc ghi nhớ: ghi nhớ, ký hiệu, ghi chú. 2 Mẫu bản ghi nhớ Blue Gradient Thiết kế bản ghi nhớ đơn giản với các ô màu xanh lam ở đầu trang và chân trang. 3 Thanh bên màu đỏ Bản ghi nhớ kinh doanh Thiết kế trang trọng với thanh bên hoa văn màu đỏ và đen."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 87,
+        "row": {
+            "query": "dệt may đã làm gì trong cuộc cách mạng công nghiệp",
+            "positive": "Ngành công nghiệp dệt may đã phát triển đáng kể trong cuộc Cách mạng Công nghiệp. Nhu cầu về vải tăng lên, vì vậy các thương gia phải cạnh tranh với những người khác để có nguồn cung cấp vải.",
+            "negative": "Cuộc Cách mạng Công nghiệp bắt đầu ở Vương quốc Anh và hầu hết các đổi mới công nghệ quan trọng là của Anh. Sản xuất hàng dệt cơ giới hóa lan rộng sang lục địa châu Âu vào đầu thế kỷ 19, với các trung tâm quan trọng ở Pháp. Ấn Độ, và Trung Đông, hoặc vào những thời điểm khác như trong Thời cổ đại Cổ điển hoặc Thời Trung cổ."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 88,
+        "row": {
+            "query": "chuột mái là gì",
+            "positive": "Rattus Rattus chuyển hướng đến đây. Đối với album của Merzbow, xem Rattus Rattus (album). Chuột đen (Rattusitzus), còn được gọi là chuột tàu, chuột mái, chuột nhà, là một loài gặm nhấm đuôi dài phổ biến thuộc chi Rattus (chuột cống) trong phân họ Murinae. Loài này có nguồn gốc từ châu Á nhiệt đới và lan rộng qua Cận Đông vào thời La Mã trước khi đến châu Âu vào thế kỷ thứ nhất và lan rộng với người châu Âu trên khắp thế giới.",
+            "negative": "1 Bẫy lồng có mồi bằng bơ đậu phộng hoặc bẫy dính có kích thước được thiết kế để bắt chuột sẽ lấy được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác. Một cái bẫy lồng có mồi bằng bơ đậu phộng hoặc một cái bẫy dính có kích thước được thiết kế để bắt chuột sẽ bắt được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 89,
+        "row": {
+            "query": "pizza có được coi là thức ăn nhanh không",
+            "positive": "Thức ăn nhanh Pizza là không lành mạnh. Pizza thức ăn nhanh không lành mạnh vì các thành phần của nó. Pizza thức ăn nhanh được làm trên một lớp vỏ màu trắng chứa đầy carbs tinh chế. Những loại ngũ cốc đã qua chế biến hoặc tinh chế này bị tước đi hầu hết các chất dinh dưỡng có lợi cho sức khỏe nhân danh hương vị.",
+            "negative": "Tôi đã chứng minh rằng chế độ có thể là số trong các câu trên. Ví dụ về dữ liệu phân loại, giả sử tôi đã khảo sát một số người về món ăn yêu thích của họ là gì và đây là dữ liệu: Pizza, pizza, pizza, kem, kem, dâu tây, dâu tây, cam, mì Ý. Chế độ sẽ là pizza."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 90,
+        "row": {
+            "query": "từ đồng nghĩa của sở thích là gì",
+            "positive": "English Collins Dictionary - Từ đồng nghĩa & Từ đồng nghĩa trong tiếng Anh. (số nhiều sở thích) Sở thích là một hoạt động mà bạn thích làm trong thời gian rảnh rỗi. n-count (= trò tiêu khiển) Sở thích của tôi là viết thư, bóng đá, âm nhạc, nhiếp ảnh và quần vợt.",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 91,
+        "row": {
+            "query": "cách mua chi phí nhượng quyền của mcdonald",
+            "positive": "Họ nghe nói thu nhập và lợi nhuận từ nhượng quyền của McDonalds là đáng kể và chi phí để mua nhượng quyền McDonalds là 45.000 đô la - một khoản đầu tư nằm trong phạm vi khả năng chi trả của nhượng quyền thương mại của họ. Như với hầu hết mọi thứ trong cuộc sống, một ít thông tin là một điều nguy hiểm.",
+            "negative": "Loại bằng cấp nào được yêu cầu để mở một nhượng quyền thương mại của McdonaldÃƒÂ ¢ Ã‚â‚¬Ã‚â (ngoài tiền bạc, bạn phải đáp ứng những tiêu chuẩn nào)? Bạn cần bao nhiêu vốn để mở một cửa hàng McDonalds và chính xác thì bạn đang sở hữu những gì? Bạn được yêu cầu phải có bằng cấp kinh doanh hoặc một sự nghiệp kinh doanh thành công. Bạn cũng được yêu cầu đưa vào $ 650,000 để giúp khởi động. McDonaldÃƒÂ ¢ Ã‚â‚¬Ã‚â „¢ s sở hữu đất và tòa nhà. Đó là cách công ty kiếm tiền ÃƒÂ ¢ Ã‚â‚¬Ã‚â € œ thông qua việc cho thuê. Tôi chỉ sở hữu những gì bên trong cửa hàng."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 92,
+        "row": {
+            "query": "từ đồng nghĩa của guốc",
+            "positive": "Từ đồng nghĩa với Gugs: cản trở (danh từ) rào cản, phong tỏa, tắc nghẽn, phức tạp, ràng buộc, cul-de-sacs, giảm chấn, ngăn cản,",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 93,
+        "row": {
+            "query": "máy tính được bán vào tháng mấy",
+            "positive": "3. Phần mềm và dịch vụ khai thuế-Các công ty khai thuế đang cố gắng thu hút sự chú ý của bạn. Họ làm điều đó bằng cách cung cấp các dịch vụ và phần mềm giảm giá, hoặc các chương trình khuyến mãi đặc biệt. 4. Máy tính-Về mặt lịch sử, tháng Hai là một tháng tốt để mua máy tính.",
+            "negative": "Vận chuyển nó từ Las Vegas đến Houston với HaulBikes (công ty tuyệt vời). Trong vòng một tháng, tôi nhận ra, đây không phải là giấc mơ của tôi, và nếu tôi định sở hữu một chiếc xe đạp, thì đó phải là chiếc tôi muốn. Dyna hiện đang được bán. Tôi vừa có được giấc mơ cả đời của mình (tiết kiệm từ năm 18 tuổi), một chiếc FLHTC / I Electra Glide Classic 2006 tuyệt đẹp."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 94,
+        "row": {
+            "query": "chuột mang bệnh gì",
+            "positive": "Bệnh Leptospirosis. Leptospirosis, còn được gọi là bệnh Weil, là một loại vi khuẩn mà nhiều con chuột mang theo mà không có triệu chứng nhiễm trùng. Con người bị nhiễm bệnh khi nước tiểu hoặc phân chuột bị ô nhiễm tiếp xúc với màng nhầy. Các triệu chứng ở người bao gồm nhức đầu, sốt, nôn mửa, phát ban và đau cơ. Trong khi chúng có thể mang và lây bệnh, bọ chét trên chuột thường là nguyên nhân gây bệnh. Bọ chét lây lan bệnh dịch giữa động vật và từ động vật sang người. Chuột sẽ chết nếu chúng bị nhiễm bệnh dịch hạch. Con người cũng có thể chết nếu không được điều trị, nhưng thuốc kháng sinh thường có hiệu quả.",
+            "negative": "1 Bẫy lồng có mồi bằng bơ đậu phộng hoặc bẫy dính có kích thước được thiết kế để bắt chuột sẽ lấy được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác. Một cái bẫy lồng có mồi bằng bơ đậu phộng hoặc một cái bẫy dính có kích thước được thiết kế để bắt chuột sẽ bắt được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 95,
+        "row": {
+            "query": "định nghĩa giữa chừng",
+            "positive": "định nghĩa giữa chừng: 1. Obs. 2. giữa đường hoặc khoảng cách 3. một đường giữa hoặc khóa học 4. Nguồn gốc của midwayorig. viết tắt của Midway Plaisance, khu vực giải trí của Columbian Exposition (1893), ở Chicago, một phần của hội chợ hoặc triển lãm, nơi c ...",
+            "negative": "Tôi tin bạn có nghĩa là tại sao những hòn đảo ở giữa lại là lãnh thổ của Hoa Kỳ. Chà, từ giữa những năm 1800 đến 1900, Mỹ là một quốc gia theo chủ nghĩa đế quốc. Nước Mỹ đang mong muốn mở rộng. Ngoài việc Ãƒâ ¢ Ã‚â‚¬Ã‚Â¦ để tham gia nhiều hơn vào các vấn đề của dân tộc, Hoa Kỳ đã tìm kiếm các thuộc địa. Nó giành được lãnh thổ ở Carribean và Thái Bình Dương thông qua cuộc chiến tranh Tây Ban Nha-Mỹ. Tuy nhiên, Midway đơn giản được tuyên bố là lãnh thổ của Hoa Kỳ và cho đến nay. Không tranh luận, không xung đột, không mua bán, nó chỉ là của tôi bởi vì tôi muốn nó trở thành .... đó là cách chúng ta ngày nay. tin rằng bạn có nghĩa là tại sao các hòn đảo ở giữa là lãnh thổ của Hoa Kỳ. Vâng, từ giữa những năm 1800 đến 1900, Mỹ là một quốc gia theo chủ nghĩa đế quốc."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 96,
+        "row": {
+            "query": "chi phí dexlansoprazole",
+            "positive": "Dexilant (Dexlansoprazole) là một loại thuốc hiệu quả để điều trị chứng ợ nóng và loét, nhưng có thể đắt tiền. Giá và chiết khấu. (30) Viên nang 60mg. Chi phí cho (30) viên nang 60mg Dexilant (Dexlansoprazole) tại các hiệu thuốc. Hiệu thuốc Kroger $ 292,85 Giá mới: $ 257,71 Tiết kiệm: 12%. $ 303,59Giá mới: $ 258,05Tiết kiệm: 15%.",
+            "negative": "Ngoài việc liệt kê chi phí sở hữu một con mèo đắt hơn trong năm đầu tiên, chi phí sở hữu con mèo trong 13 năm còn lại được chia thành chi phí trung bình hàng năm và sau đó được tổng hợp ở cuối cho biết chi phí để sở hữu một con mèo trong 14 năm. Giá thấp."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 97,
+        "row": {
+            "query": "cái gì được làm bằng nhôm",
+            "positive": "Kết hợp với các khoáng chất khác, nhôm được tìm thấy trong nhà bếp của hầu hết mọi nhà. Tất cả các lon chứa nước ngọt và nước trái cây của bạn đều được làm bằng nhôm, một số khay TV dùng cho các bữa ăn đông lạnh cũng vậy. Bạn có thể sử dụng nhôm để nấu thức ăn của mình, vì có những loại nồi và chảo được làm từ nhôm. Ngoài ra, đừng quên thứ dễ sử dụng nhất và được sử dụng nhiều nhất trong nhà bếp của bạn đó chính là nhôm, giấy bạc. Giấy bạc từng được làm từ thiếc, nhưng thiếc để lại mùi vị kim loại trong thực phẩm, vì vậy nhôm đã thay thế thiếc làm giấy bạc gia dụng vào năm 1910.",
+            "negative": "nhôm clorua, một dung dịch làm se và chống mồ hôi tại chỗ. nhôm chlorohydrate một chất chống mồ hôi; còn được gọi là nhôm hydroxyclorua. nhôm hydroxit hydroxit nhôm, được sử dụng làm chất kết dính kháng axit và photphat; chế phẩm chính thức là gel nhôm hydroxit."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 98,
+        "row": {
+            "query": "phô trương từ đồng nghĩa",
+            "positive": "Danh từ trưng bày, chỉ, cuộc diễu hành, khoe khoang, phát triển mạnh mẽ, khoe khoang (không chính thức), sự phô trương, phô trương, phô trương, khoe khoang, mặc quần áo lên cửa sổ, sự hào nhoáng, ảnh hưởng, sang chảnh (không chính thức), cuộc thi, chủ nghĩa phô trương, kiêu căng, hào nhoáng, phô trương Mặc dù cô ấy giàu có , cô ấy đã sống với một sự thiếu phô trương đáng chú ý.",
+            "negative": "Hãy nỗ lực từ đồng nghĩa. Top make a nỗ lực từ đồng nghĩa (chỉ thành ngữ) là có một vết nứt, bỏ đi và cho đi."
+        },
+        "truncated_cells": []
+    },
+    {
+        "row_idx": 99,
+        "row": {
+            "query": "Túi vải thô có thể mang theo cỡ nào khi đi máy bay",
+            "positive": "Kích thước tối đa cho hành lý là 45 inch tuyến tính nghĩa là chiều dài + chiều cao + chiều sâu. Túi của bạn sẽ là 65 inch tuyến tính, vì vậy bạn không thể mang túi của mình. Bạn có thể kiểm tra chiếc túi đó. Không quan trọng nếu nó là một túi vải thô, nhưng nó phải dưới 70 lbs. Tôi đã đi du lịch đến Hawaii với một chiếc túi vải thô và tôi không gặp vấn đề gì.",
+            "negative": "1 Bẫy lồng có mồi bằng bơ đậu phộng hoặc bẫy dính có kích thước được thiết kế để bắt chuột sẽ lấy được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác. Một cái bẫy lồng có mồi bằng bơ đậu phộng hoặc một cái bẫy dính có kích thước được thiết kế để bắt chuột sẽ bắt được chúng khi ở trên xe. 2 Sau đó dìm chuột hoặc làm chúng chết ngạt trong một túi nhựa (bẫy và chuột chui vào trong túi) rồi cho chúng vào thùng rác."
+        },
+        "truncated_cells": []
+    }
+]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Họ và tên: Vũ Cao Bảo\n\nGiới tính: Nam\n\nNgày sinh: 23 - 4 - 2012\n\nNơi sinh: Thái Bình\n\nQuê quán: Xã Tây Tiến, huyện Đông Hưng, Thái Bình.\n\nNơi ở hiện nay: 35 phố Hàng Bạc, quận Hoàn kiếm, Hà Nội.\n\nHọc sinh lớp: 2B\n\nTrường: Tiểu học Võ Thị Sáu, quận Hoàn Kiếm, Hà Nội.\n\n                            Hà Nội, ngày 15 tháng 8 năm 2018\n\n                                                             Người tự thuật\n\n                                                              Vũ Cao Bảo",
+    "questions": [
+        "Vũ Cao Bảo sinh vào năm nào?",
+        "Tên của người viết tự thuật này là gì?",
+        "Bạn Vũ Cao Bảo sinh ra ở nơi nào?",
+        "Bạn Vũ Cao Bảo đang học lớp nào?",
+        "Bạn Vũ Cao Bảo đang học trường nào?",
+        "Bạn Vũ Cao Bảo đang sống ở đâu?"
+    ],
+    "options": [
+        [
+            "2011.",
+            "2012.",
+            "2013.",
+            "2014."
+        ],
+        [
+            "Vũ Cao Bảo.",
+            "Vũ Cao.",
+            "Cao Bảo.",
+            "Thái Thanh."
+        ],
+        [
+            "Hà Nam.",
+            "Thái Bình.",
+            "Hà Nội.",
+            "Thái Nguyên."
+        ],
+        [
+            "1A.",
+            "2B.",
+            "2C.",
+            "3A."
+        ],
+        [
+            "Trường tiểu học Tây Tiến.",
+            "Trường tiểu học Hàng Bạc.",
+            "Trường tiểu học Võ Thị Sáu.",
+            "Trường tiểu học Đông Hưng."
+        ],
+        [
+            "Xã Tây Tiến, huyện Đông Hưng, Thái Bình.",
+            "35 phố Hàng Bạc, quận Hoàn kiếm, Hà Nội.",
+            "Đường Võ Thị Sáu, Hoàn Kiếm, Hà Nội.",
+            "Đường Đông Hưng, Hà Hội."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "C",
+        "B"
+    ]
+}

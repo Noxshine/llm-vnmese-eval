@@ -1,0 +1,65 @@
+{
+    "article": "Cha gửi cho con chiếc ảnh cái cầu\nCha vừa bắc xong qua dòng sông sâu\nXe lửa sắp qua, thư cha nói thế\nCon cho mẹ xem, cho xem hơi lâu.\n\nNhững cái cầu ơi, yêu sao yêu thế!\nNhện qua chum nước bắc cầu tơ nhỏ\nCon sáo sang sông bắc cầu ngọn gió\nCon kiến qua ngòi bắc cầu lá tre.\n\nYêu cái cầu treo lối sang bà ngoại\nNhư võng trên sông, ru người qua lại\nDưới cầu, thuyền chở đá, chở vôi\nThuyền buồm đi ngược, thuyền thoi đi xuôi.\n\nYêu hơn cả cầu ao mẹ thường đãi đỗ\nLà cái cầu này ảnh chụp xa xa\nMẹ bảo: cầu Hàm Rồng sông Mã\nCon cứ gọi cái cầu của cha.",
+    "questions": [
+        "Nghề của cha bạn nhỏ là gì?",
+        "Trong bài thơ này, người cha gửi cho bạn nhỏ cái gì?",
+        "Từ chiếc cầu mà cha làm, bạn nhỏ đã suy nghĩ gì?",
+        "Bạn nhỏ yêu nhất chiếc cầu nào?",
+        "Tại sao bạn nhỏ yêu nhất cái cầu Hàm Rồng trên sông Mã?",
+        "Cây cầu nào mà cha bạn nhỏ xây nên?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Xây cầu.",
+            "Buôn bán.",
+            "Giáo viên.",
+            "Xây nhà."
+        ],
+        [
+            "Bức thư hỏi thăm bạn nhỏ.",
+            "Mô hình chiếc cầu cha làm.",
+            "Chiếc ảnh cái cầu cha làm.",
+            "Món quà mà cha đi công tác."
+        ],
+        [
+            "Những nhớ thương mà bạn nhỏ muốn nói với cha.",
+            "Những vất vả mà cha trải qua để xây dựng chiếc cầu.",
+            "Những chiếc cầu khác trong tưởng tượng.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chiếc cầu bằng lá tre con kiến bắc qua ngòi.",
+            "Chiếc cầu Hàm Rồng trên sông Mã.",
+            "Chiếc cầu bằng tơ nhện bắc qua chum nước.",
+            "Chiếc cầu bằng ngọn gió con sáo bắc sang sông."
+        ],
+        [
+            "Vì đó là cây cầu mẹ thường hay đưa bạn nhỏ đi chơi.",
+            "Vì đó là cây cầu gắn với những kỉ niệm thuở nhỏ.",
+            "Vì đó là cây cầu mà hằng ngày bạn nhỏ vẫn đi học.",
+            "Vì đó là cây cầu mà cha bạn nhỏ góp sức xây nên."
+        ],
+        [
+            "Cầu tơ nhỏ bắc qua chum nước.",
+            "Cầu ngọn gió bắc qua sông.",
+            "Cầu lá tre bắc qua ngòi.",
+            "Cầu Hàm Rồng trên sông Mã."
+        ],
+        [
+            "Bạn nhỏ rất thích những cái cầu, hay tưởng tượng ra các loại cầu.",
+            "Bạn nhỏ rất khâm phục và ước mơ trở thành người xây cầu như cha.",
+            "Bạn nhỏ rất yêu cha, yêu những cái cầu do cha làm ra.",
+            "Bạn nhỏ rất hồn nhiên, hiếu động và giàu trí tưởng tượng."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "D",
+        "C"
+    ]
+}

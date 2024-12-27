@@ -1,0 +1,97 @@
+{
+    "article": "1. Ở lớp 1A, học sinh bắt đầu được viết bút mực, chỉ còn Mai và Lan vẫn phải viết bút chì.\n\n2. Sáng hôm ấy, cô giáo gọi Lan lên bàn cô lấy mực. Mai hồi hộp nhìn cô, nhưng cô chẳng nói gì. Mai buồn lắm. Thế là trong lớp chỉ còn mình em viết bút chì.\n\n3. Bỗng Lan gục đầu xuống bàn khóc nức nở. Cô giáo ngạc nhiên:\n\n- Em làm sao thế?\n\nLan nói trong nước mắt:\n\n- Tối qua, anh trai em mượn bút, quên không bỏ vào cặp cho em. Lúc này, Mai cứ loay hoay mãi với cái hộp đựng bút. Em mở ra, đóng lại... Cuối cùng, em lấy bút đưa cho Lan:\n\n- Bạn cầm lấy. Mình đang viết bút chì.\n\n4. Lan rất ngạc nhiên. Còn cô giáo thì rất vui. Cô khen:\n\n- Mai ngoan lắm! Nhưng hôm nay cô cũng định cho em viết bút mực vì em viết khá rồi.\n\nMai thấy tiếc nhưng rồi em nói:\n\n- Thôi cô ạ, cứ để bạn Lan viết trước.\n\nCô giáo mỉm cười lấy trong cặp ra một chiếc bút mới tinh:\n\n- Cô cho em mượn, em thật đáng khen.",
+    "questions": [
+        "Câu chuyện đề cập đến những nhân vật/người nào?",
+        "Bài đọc đã kể chuyện gì đã xảy ra với Mai và Lan?",
+        "Sáng hôm ấy, cô giáo và Lan đã xảy ra chuyện gì?",
+        "Chuyện gì đã xảy ra với Lan trong buổi sáng hôm ấy?",
+        "Tại sao Mai cứ loay hoay mãi với cái hộp bút?",
+        "Cuối cùng, Mai đã quyết định làm gì với cây bút mực của mình?",
+        "Thái độ của Lan như thế nào khi được Mai cho mượn bút để viết?",
+        "Cảm xúc của cô giáo ra sao khi Mai cho Lan mượn bút mực?",
+        "Cô giáo đã bày tỏ điều gì với Mai khi Mai cho Lan mượn bút?",
+        "Thái độ của Mai như thế nào khi cô bảo cũng định cho Mai viết bút mực?",
+        "Mai đã nói gì khi biết cô cũng quyết định cho mình viết bút mực?"
+    ],
+    "options": [
+        [
+            "Mai, Hoa và cô giáo.",
+            "Lan, Mai và cô giáo.",
+            "Lan, Na và cô giáo.",
+            "Lan, Mai và thầy giáo."
+        ],
+        [
+            "Cả lớp sử dụng bút mực trừ Lan và Mai.",
+            "Cô giáo quan tâm chỉ có Mai và Lan.",
+            "Cả lớp viết bút mực.",
+            "Cô tặng bút mực cho Mai và Lan."
+        ],
+        [
+            "Lan không được cô cho viết bút mực.",
+            "Mai được cô cho viết bằng bút mực.",
+            "Mai và Lan được cô cho viết bằng bút mực.",
+            "Lan được cô gọi lên bàn cô lấy mực về viết."
+        ],
+        [
+            "Lan lại không biết bơm mực vào bút.",
+            "Anh trai đã làm hỏng bút.",
+            "Bút mực của Lan bị hỏng.",
+            "Anh trai của Lan mượn bút mực chưa trả nên Lan không có bút để viết."
+        ],
+        [
+            "Vì Mai muốn viết bút mực.",
+            "Vì Mai buồn khi không được viết bút mực.",
+            "Vì Mai đang rãnh rỗi.",
+            "Vì Mai đang phân vân đưa ra quyết định có nên cho Lan mượn bút."
+        ],
+        [
+            "Cho Lan luôn chiếc bút mực của mình.",
+            "Xin cô cho mình được viết bút mực.",
+            "Xin cô bơm mực cho chiếc bút của mình.",
+            "Cho Lan mượn bút mực của mình để viết."
+        ],
+        [
+            "Xấu hổ và thẹn thùng.",
+            "Ngạc nhiên.",
+            "Tức giận nhưng hiền lành.",
+            "Vui mừng và sung sướng."
+        ],
+        [
+            "Bối rối.",
+            "Rất vui.",
+            "Khó xử.",
+            "Ngạc nhiên."
+        ],
+        [
+            "Bạn Mai ngoan lắm. Bạn Lan cảm ơn bạn Mai đi nào.",
+            "Em ngoan lắm nhưng cô cũng định hôm nay cho em viết bút mực.",
+            "Em cứ giữ lấy mà dùng, cô sẽ cho Lan mượn bút.",
+            "Em ngoan lắm, vậy từ ngày mai em sẽ được viết bút mực nhé."
+        ],
+        [
+            "Ngạc nhiên.",
+            "Vui mừng.",
+            "Tiếc nuối.",
+            "Hối hận."
+        ],
+        [
+            "Thôi cô ạ, em không thích viết bút mực.",
+            "Thôi cô ạ, cứ để bạn Lan viết trước.",
+            "Thôi cô ạ, thế thì em không cho Lan mượn bút nữa.",
+            "Thôi cô ạ, em nhường bạn Lan viết bút mực."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "D",
+        "D",
+        "D",
+        "D",
+        "B",
+        "B",
+        "B",
+        "C",
+        "B"
+    ]
+}

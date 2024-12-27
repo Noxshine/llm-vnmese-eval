@@ -1,0 +1,49 @@
+{
+    "article": "Ông em trồng cây xoài cát này trước sân khi em còn đi lẫm chẫm. Cuối đông, hoa nở trắng cành. Đầu hè, quả sai lúc lỉu. Trông từng chùm quả to, đu đưa theo gió, em càng nhớ ông. Mùa xoài nào, mẹ em cũng chọn những quả chín vàng và to nhất bày lên bàn thờ ông.\n\nXoài thanh ca, xoài tượng...đều ngon. Nhưng em thích xoài cát nhất. Mùi xoài thơm dịu dàng, vị ngọt đậm đà, màu sắc đẹp, quả lại to.\n\nĂn quả xoài cát chín trảy từ cây của ông em trồng, kèm với xôi nếp hương, thì đối với em không thứ quà gì ngon bằng.",
+    "questions": [
+        "Cây xoài trong câu chuyện này là do ai trồng?",
+        "Ông của bạn nhỏ trồng cây xoài từ lúc nào?",
+        "Quả xoài cát chín có mùi vị và màu sắc như thế nào?",
+        "Vì sao mẹ lại chọn quả xoài ngon nhất cúng trên bàn thờ ông?",
+        "Món ăn nào mà bạn nhỏ cho rằng không thứ quà nào ngon bằng?"
+    ],
+    "options": [
+        [
+            "Do ông trồng.",
+            "Do mẹ trồng.",
+            "Do bạn nhỏ tự trồng.",
+            "Do thầy giáo trồng."
+        ],
+        [
+            "Từ khi ông còn nhỏ.",
+            "Từ khi gia đình mới chuyển về đây.",
+            "Từ khi bạn nhỏ còn đi lẫm chẫm.",
+            "Từ khi bạn nhỏ còn chưa ra đời."
+        ],
+        [
+            "Hoa nở trắng cành và quả sai lúc lỉu.",
+            "Thơm ngào ngạt, vị chua thanh và màu xanh non bóng bảy.",
+            "Từng chùm quả to và đu đưa theo gió.",
+            "Thơm dịu dàng, vị ngọt đậm đà, màu sắc đẹp và quả lại to."
+        ],
+        [
+            "Vì quả xoài rất ngon.",
+            "Vì mẹ muốn dạy bé tôn thờ tổ tiên.",
+            "Vì để tưởng nhớ ông, thể hiện lòng kính trọng, biết ơn đối với ông.",
+            "Vì chỉ có ông mới xứng đáng ăn quả xoài đó."
+        ],
+        [
+            "Xoài cát ăn kèm xôi nếp hương.",
+            "Xoài tượng kèm xôi nếp rán.",
+            "Xoài thanh ca xay sinh tố.",
+            "Xoài ăn kèm với nước mắm."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "D",
+        "C",
+        "A"
+    ]
+}

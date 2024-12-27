@@ -1,0 +1,49 @@
+{
+    "article": "1. Ngày xưa, có một ông vua muốn tìm người tài ra lệnh giúp nước. Vua hạ lệnh cho mỗi làng trong vùng nọ nộp một con gà trống biết đẻ trứng, nếu không có thì cả làng sẽ phải chịu tội.\n\nĐược lệnh vua, cả vùng lo sợ. Chỉ có một cậu bé bình tĩnh thưa với cha:\n\n - Cha đưa con lên kinh đô gặp Đức Vua, con sẽ lo được việc này.\n\nNgười cha lấy làm lạ, nói với làng. Làng không biết làm thế nào, đành cấp tiền cho hai cha con lên đường. \n\n2. Đến trước cung vua, cậu bé kêu khóc om sòm. Vua cho gọi vào, hỏi:\n\n- Cậu bé kia, sao dám đến đây làm ầm ĩ?\n\n- Muôn tâu Đức Vua - cậu bé đáp - bố con mới đẻ em bé, bắt con đi xin sữa cho em. Con không xin được, liền bị đuổi đi.\n\nVua quát:\n\n- Thằng bé này láo, dám đùa với trẫm! Bố ngươi là đàn ông thì đẻ làm sao được!\n\nCậu bé bèn đáp:\n\n- Muôn tâu, vậy sao Đức Vua lại ra lệnh cho làng con phải nộp gà trống biết đẻ trứng ạ?\n\nVua bật cười, thầm khen cậu bé, nhưng vẫn muốn thử tài cậu lần nữa. \n\n3. Hôm sau, nhà vua cho người đem đến một con chim sẻ nhỏ, bảo cậu bé làm ba mâm cỗ. Cậu bé đưa cho sứ giả một chiếc kim khâu, nói:\n\n- Xin ông về tâu Đức Vua rèn cho tôi chiếc kim này thành một con dao thật sắc để xẻ thịt chim.\n\nVua biết là đã tìm được người tài giỏi, bèn trọng thưởng cho cậu bé và gửi cậu vào trường học để rèn luyện thành tài.",
+    "questions": [
+        "Nhà vua đã nghĩ ra kế gì để tìm kiếm những người tài?",
+        "Tại sao người dân lo sợ khi nghe lệnh của nhà vua?",
+        "Trong cuộc thử tài lần sau, cậu bé đã yêu cầu sứ giả làm điều gì?",
+        "Cậu bé đã làm gì khi đến trước cung vua?",
+        "Sau hai lần thử tài cậu bé, nhà vua đã làm gì với cậu bé?"
+    ],
+    "options": [
+        [
+            "Vua hạ lệnh chiêu mộ người tài giỏi ra giúp vua dựng nước .",
+            "Vua ra lệnh mỗi làng phải nộp một con gà trống biết đẻ trứng.",
+            "Vua ra lệnh mỗi làng phải cử ra người thông minh sáng dạ nhất đi thi.",
+            "Vua tìm những người khoẻ mạnh nhất."
+        ],
+        [
+            "Vì gà mái không đẻ trứng được.",
+            "Vì gà trống không đẻ trứng được.",
+            "Vì không tìm được người tài giúp nước.",
+            "Vì khó khả thi tìm người tài."
+        ],
+        [
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua đưa cho một con dao thật sắc để xẻ thịt chim.",
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua rèn chiếc kim thành một lưỡi hái thật sắc để xẻ thịt chim.",
+            "Cậu bé yêu cầu sứ giả về tâu Đức Vua rèn chiếc kim thành một con dao thật sắc để xẻ thịt chim.",
+            "Cậu bé không yêu cầu sứ giả về tâu Đức Vua rèn chiếc kim thành một con dao thật sắc để xẻ thịt chim."
+        ],
+        [
+            "Kêu khóc om sòm.",
+            "Cười thật to.",
+            "Buồn vời vợi.",
+            "Lo sợ vì không làm được."
+        ],
+        [
+            "Thưởng và gửi cậu bé vào trường học để nâng cao kiến thức và kỹ năng.",
+            "Cho về quê.",
+            "Bắt giữ cậu bé.",
+            "Tiếp tục thử thách cậu bé."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

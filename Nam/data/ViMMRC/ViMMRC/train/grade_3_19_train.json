@@ -1,0 +1,89 @@
+{
+    "article": "Khi mẹ vắng nhà, em luộc khoai\nKhi mẹ vắng nhà, em cũng chị giã gạo\nKhi mẹ vắng nhà, em thổi cơm\nKhi mẹ vắng nhà, em nhổ cỏ vườn\nKhi mẹ vắng nhà, em quét sân và quét cổng.\nSớm mẹ về, thấy khoai đã chín\nBuổi mẹ về, gạo đã trắng tinh\nTrưa mẹ về, cơm dẻo và ngon\nChiều mẹ về, cỏ đã quang vườn\nTối mẹ về, cổng nhà sạch sẽ.\nMẹ bảo em: Dạo này ngoan thế!\n- Không, mẹ ơi ! Con đã ngoan đâu!\nÁo mẹ mưa bạc đầu\nĐầu mẹ nắng cháy tóc\nMẹ ngày đêm khó nhọc\nCon chưa ngoan, chưa ngoan!",
+    "questions": [
+        "Cụm từ nào được lặp đi lặp lại nhiều nhất trong bài thơ?",
+        "Từ \"quang\" trong câu thơ \"Chiều mẹ về, cỏ đã quang vườn\" có ý nghĩa là gì?",
+        "Bạn nhỏ đã làm việc gì cùng chị mình?",
+        "Hiệu quả những công việc mà bạn nhỏ làm như thế nào?",
+        "Mẹ bạn nhỏ đã nói điều gì với bạn nhỏ?",
+        "Bạn nhỏ đã nói gì khi mẹ khen mình?",
+        "Vì sao bạn nhỏ không dám nhận lời khen của mẹ?",
+        "Bạn nhỏ trong bài thơ này đã thật sự ngoan chưa?",
+        "Nội dung của bài thơ này là gì?",
+        "Bạn nhỏ trong bài thơ này đã ngoan như thế nào?"
+    ],
+    "options": [
+        [
+            "Sớm mẹ về.",
+            "Con chưa ngoan.",
+            "Con đã ngoan đâu.",
+            "Khi mẹ vắng nhà."
+        ],
+        [
+            "Ánh sáng của điện.",
+            "Sạch, hết vướng víu.",
+            "Sáng, như bóng đèn.",
+            "Nghĩa là quang cảnh."
+        ],
+        [
+            "Giã gạo.",
+            "Quét sân, quét cổng.",
+            "Luộc khoai.",
+            "Thổi cơm."
+        ],
+        [
+            "Mọi việc đều tươm tất, chỉn chu.",
+            "Cơm dẻo.",
+            "Vườn sạch cỏ.",
+            "Gạo trắng tinh."
+        ],
+        [
+            "Ồ con ngoan quá!.",
+            "Dạo này ngoan thế!.",
+            "Dạo này ngoan thế?",
+            "Dạo này ngoan hơn rồi đấy!."
+        ],
+        [
+            "Mẹ mua đồ chơi cho con mẹ nhé!.",
+            "Ôi vui quá, con cảm ơn mẹ!.",
+            "Vâng, mẹ thưởng cho con gì đi mẹ nhé!.",
+            "Không, mẹ ơi! Con đã ngoan đâu!."
+        ],
+        [
+            "Vì vẫn chưa giúp được mẹ nhiều, mẹ vẫn phải vất vả.",
+            "Vì bạn nhỏ chỉ muốn mẹ mua quà cho, không cần mẹ khen.",
+            "Vì không cần mẹ phải bận tâm lo lắng.",
+            "Vì bạn nhỏ chỉ muốn làm mẹ vui, không cần mẹ phải khen."
+        ],
+        [
+            "Rất hư.",
+            "Ngoan.",
+            "Chưa ngoan.",
+            "Mải chơi."
+        ],
+        [
+            "Bạn nhỏ làm việc nhà đợi mẹ về mẹ khen.",
+            "Bạn nhỏ giúp đỡ mẹ việc nhà trong lúc mẹ đi vắng.",
+            "Bạn nhỏ tranh thủ làm việc nhà trong lúc đợi mẹ đi làm về.",
+            "Bạn nhỏ cùng chị làm việc nhà và đợi mẹ đi chợ về."
+        ],
+        [
+            "Biết cùng phụ chị làm việc nhà và vui khi được mẹ khen.",
+            "Biết làm giúp mẹ việc nhà và ngoan ngoãn đợi mẹ về.",
+            "Biết giúp mẹ làm việc nhà, biết thương mẹ lo toan vất vả.",
+            "Biết tự học bài mà không cần mẹ kèm."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "A",
+        "B",
+        "D",
+        "A",
+        "B",
+        "B",
+        "C"
+    ]
+}

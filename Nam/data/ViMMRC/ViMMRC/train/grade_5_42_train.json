@@ -1,0 +1,65 @@
+{
+    "article": "Trần Thủ Độ là người có công lập nên nhà Trần, lại là chú của vua và đứng đầu trăm quan, nhưng không vì thế mà tự cho phép mình vượt qua phép nước.\n\nCó lần, Linh Từ Quốc Mẫu, vợ ông, muốn xin riêng cho một người chức câu đương. Trần Thủ Độ bảo người ấy:\n\n- Ngươi có phu nhân xin cho chức câu đương, không thể ví như những câu đương khác. Vì vậy, phải chặt một ngón chân để phân biệt.\n\nNgười ấy kêu van mãi, ông mới tha cho.\n\nMột lần khác, Linh Từ Quốc Mẫu ngồi kiệu đi chơi chỗ thềm cấm, bị một người quân hiệu ngăn lại. Về nhà, bà khóc:\n\n- Tôi là vợ thái sư mà bị kẻ dưới khinh nhờn.\n\nÔng cho bắt người quân hiệu đến. Người này nghĩ là phải chết. Nhưng khi ông ta kể rõ ngọn ngành, ông bảo:\n\n- Ngươi ở chức thấp mà biết giữ phép nước như thế, ta còn trách gì nữa!\n\nNói rồi, lấy vàng, lụa thưởng cho.\n\nTrần Thủ Độ có công lớn, vua cũng phải nể. Có viên quan nhân lúc vào chầu vua, ứa nước mắt tâu:\n\n- Bệ hạ còn trẻ mà thái sư chuyên quyền, không biết rồi xã tắc sẽ ra sao. Hạ thần lấy làm lo lắm.\n\nVua đem viên quan đến gặp Trần Thủ Độ và nói:\n\n- Kẻ này dám tâu xằng với Trẫm là Thượng phụ chuyên quyền, nguy cho xã tắc.\n\nTrần Thủ Độ trầm ngâm suy nghĩ rồi tâu:\n\n- Quả có chuyện như vậy. Xin Bệ hạ quở trách thần và ban thưởng cho người nói thật.",
+    "questions": [
+        "Thái sư Trần Thủ Độ có công lập nên triều đại nào?",
+        "Linh Từ Quốc Mẫu có quan hệ như thế nào với Trần Thủ Độ?",
+        "Trước việc làm của người câu đương, Trần Thủ Độ xử trí ra sao?",
+        "Trước việc làm của người quân hiệu, Trần Thủ Độ xử lí ra sao?",
+        "Khi có viên quan tâu với vua rằng mình chuyên quyền, Trần Thủ Độ nói thế nào?",
+        "Qua truyện trên, Trần Thủ Độ hiện lên là một con người như thế nào?",
+        "Vì sao Trần Thủ Độ lại thưởng vàng, lụa cho người quân hiệu?"
+    ],
+    "options": [
+        [
+            "Nhà Lý.",
+            "Nhà Hồ.",
+            "Nhà Trần.",
+            "Nhà Nguyễn."
+        ],
+        [
+            "Là hoàng hậu.",
+            "Là vợ.",
+            "Là mẹ.",
+            "Là mẹ vợ."
+        ],
+        [
+            "Yêu cầu người đó chặt một ngón chân để phân biệt với các câu đương khác.",
+            "Lấy vàng, lụa thưởng cho.",
+            "Để người câu đương nhận chức theo chuyện thường.",
+            "Trói người này lại."
+        ],
+        [
+            "Khen ngợi và lấy vàng lụa thưởng cho.",
+            "Trừng trị nghiêm minh vì dám khinh thường vợ quan.",
+            "Khen ngợi nhưng nhắc nhở kín đáo lần sau không được làm vậy nữa.",
+            "Bắt tạm giam."
+        ],
+        [
+            "Đời nào có chuyện như vậy. Thần nào dám lộng quyền.",
+            "Quả có chuyện như vậy. Xin Bệ hạ quở trách thần và ban thưởng cho người nói thật..",
+            "Đời nào có chuyện như vậy. Xin Bệ hạ xét xử nghiêm minh.",
+            "Điêu dân to gan!."
+        ],
+        [
+            "Chính trực, biết lắng nghe ý kiến của người khác.",
+            "Bảo thủ, cố chấp, tham lam.",
+            "Chuyên quyền, lộng hành.",
+            "Tham quan, ô lại."
+        ],
+        [
+            "Vì người quân hiệu bị giữ phép nước.",
+            "Vì người quân hiệu dám chống lại quyền lực.",
+            "Vì người quân hiệu dám phạt vợ ông.",
+            "Vì người quân hiệu thông minh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "A",
+        "B",
+        "A",
+        "A"
+    ]
+}

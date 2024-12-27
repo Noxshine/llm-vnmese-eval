@@ -1,0 +1,49 @@
+{
+    "article": "Chiều đi học về\nChúng em qua ngôi nhà xây dở\nGiàn giáo tựa cái lồng che chở\nTrụ bê tông nhú lên như một mầm cây\nBác thợ nề ra về còn huơ huơ cái tay:\nTạm biệt!\n\nNgôi nhà tựa vào nền trời sẫm biếc\nThở ra mùi vôi vữa nồng hăng\nNhôi nhà giống như bài thơ sắp làm xong\nLà bức tranh còn nguyên màu vôi, gạch.\n\nBầy chim đi ăn về\nRót vào ô cửa chưa sơn vài nốt nhạc.\nNắng đứng ngủ quên\nTrên những bức tường\nLàn gió nào về mang hương\nỦ đầy những rãnh tường chưa trát vữa.\nBao ngôi nhà đã hoàn thành\nĐều qua những ngày xây dở.\n\nNgôi nhà như trẻ nhỏ\nLớn lên với trời xanh...",
+    "questions": [
+        "Chi tiết nào không vẽ lên hình ảnh một ngôi nhà đang xây?",
+        "Đâu không phải là hình ảnh so sánh nói lên vẻ đẹp của ngôi nhà",
+        "Đâu không phải là hình ảnh nhân hóa ngôi nhà",
+        "Đâu không phải là hình ảnh nhân hóa ngôi nhà đang xây",
+        "Ngôi nhà được ví như cái gì lớn lên giữa bầu trời xanh?"
+    ],
+    "options": [
+        [
+            "Ngôi nhà thở ra mùi vôi vữa, còn nguyên mùi gạch.",
+            "Ngôi nhà đang lớn lên.",
+            "Giàn giáo tựa cái lồng che chở.",
+            "Những chú chim đứng trên ô cửa."
+        ],
+        [
+            "Ngôi nhà giống bài thơ sắp làm xong.",
+            "Ngôi nhà mang hương những rãnh tường chưa trát.",
+            "Trụ bê tông nhú lên như một mầm cây.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ngôi nhà tựa vào nền trời sẫm biếc, thở ra mùi vôi vữa.",
+            "Nắng đứng ngủ quên trên những bức tường.",
+            "Ngôi nhà giống bài thơ sắp làm xong.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Ngôi nhà giống như bức tranh còn nguyên màu vôi, gạch.",
+            "Làn gió mang hương ủ đầy những rãnh tường chưa trát.",
+            "Nắng đứng ngủ quên trên những bức tường.",
+            "Tất cả đều đúng."
+        ],
+        [
+            "Đứa bé.",
+            "Con chim.",
+            "Hải cẩu.",
+            "Làng gió."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "C",
+        "A",
+        "A"
+    ]
+}

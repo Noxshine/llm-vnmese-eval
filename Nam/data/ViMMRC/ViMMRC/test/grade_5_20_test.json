@@ -1,0 +1,65 @@
+{
+    "article": "Thân yêu tặng các cháu học sinh miền Nam    \nGió hun hút lạnh lùng\nTrong đêm khuya phố vắng\nSúng tròng tay im lặng,\nChú đi tuần đêm nay\nHải Phòng yên giấc ngủ say\nCây rung theo gió, lá bay xuống đường...\nChú đi qua cổng trường\nCác cháu miền Nam yêu mến.\nNhìn ánh điện qua khe phòng lưu luyến\nCác cháu ơi! Giấc ngủ có ngon không?\nCửa đóng che gió kín, ấm áp dưới mền bông\nCác cháu cứ yên tâm ngủ nhé!\n\nTrong đêm khuya vắng vẻ,\nChú đi tuần đêm nay\nNép mình dưới bóng hàng cây\nGió đông lạnh buốt đôi tay chú rồi!\nRét thì mặc rét cháu ơi!\nChú đi giữ mãi ấm nơi cháu nằm.\nMai các cháu học hành tiến bộ\nĐời đẹp tươi khăn đỏ tung bay\nCháu ơi! Ngủ nhé, cho say...",
+    "questions": [
+        "Người chiến sĩ đi tuần trong thời gian nào?",
+        "Đặt hình ảnh người chiến sĩ đi tuần bên hình ảnh giấc ngủ yên bình của học sinh, tác giả bài thơ muốn nói lên điều gì?",
+        "Địa danh nào được nhắc đến trong bài thơ?",
+        "Bài thơ được viết để gửi tặng ai?",
+        "Tình cảm của các chiến sĩ đối với các cháu học sinh được thể hiện qua những từ ngữ nào?",
+        "Mong ước của người chiến sĩ được thể hiện qua đoạn thơ nào?",
+        "Câu thơ nào nói lên nhiệm vụ của các chú chiến sĩ?"
+    ],
+    "options": [
+        [
+            "Đêm đông.",
+            "Đêm khuya.",
+            "Trưa hè.",
+            "Đêm lạnh."
+        ],
+        [
+            "Tác giả muốn bày tỏ lòng biết ơn của mình với các chiến sĩ an ninh.",
+            "Tác giả muốn ca ngợi những chiến sĩ an ninh tận tụy, quên mình vì hạnh phúc của trẻ thơ.",
+            "Tác giả muốn nói lên những vất vả của những chiến sĩ an ninh.",
+            "Tác giả muốn khái quát hiện thực khó khăn, vất vả trong công tác của các chiến sĩ an ninh."
+        ],
+        [
+            "Cà Mau.",
+            "Thành phố Hồ Chí Minh.",
+            "Hà Nội.",
+            "Hải Phòng."
+        ],
+        [
+            "Các chiến sĩ an ninh.",
+            "Các cháu học sinh Hải Phòng.",
+            "Chú đi tuần.",
+            "Các cháu học sinh miền Nam."
+        ],
+        [
+            "Lưu luyến.",
+            "Cháu ơi.",
+            "Yên tâm ngủ.",
+            "Khuya khoắt."
+        ],
+        [
+            "Chú đi qua cổng trường/ Các cháu miền Nam yêu mến./ Nhìn ánh điện qua khe phòng lưu luyến/ Các cháu ơi! Giấc ngủ có ngon không?",
+            "Mai các cháu học hành tiến bộ/ Đời đẹp tươi khăn đỏ tung bay/ Cháu ơi! Ngủ nhé, cho say...",
+            "Gió đông lạnh buốt đôi tay chú rồi!/ Rét thì mặc rét cháu ơi!/ Chú đi giữ mãi ấm nơi cháu nằm.",
+            "Hải Phòng yên giấc ngủ say/ Cây rung theo gió, lá bay xuống đường..."
+        ],
+        [
+            "Đời đẹp tươi khăn đỏ tung bay.",
+            "Chú đi giữ mãi ấm nơi cháu nằm.",
+            "Mai các cháu học hành tiến bộ.",
+            "Cháu ơi! Ngủ nhé, cho say...."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "D",
+        "A",
+        "B",
+        "B"
+    ]
+}

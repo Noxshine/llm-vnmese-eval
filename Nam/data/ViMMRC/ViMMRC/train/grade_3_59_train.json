@@ -1,0 +1,73 @@
+{
+    "article": "1. Sáng hôm ấy, anh Đức Thanh dẫn Kim Đồng đến điểm hẹn. Một ông ké đã chờ sẵn ở đấy. Ông mỉm cười hiền hậu:\n\n- Nào, bác cháu ta lên đường!\n\nÔng ké chống gậy trúc, mặc áo Nùng đã phai, bợt cả hai cửa tay. Trông ông như người Hà Quảng đi cào cỏ lúa. Kim Đồng đeo túi nhanh nhẹn đi trước, ông ké lững thững đằng sau. Gặp điều gì đáng ngờ, người đi trước làm hiệu, người đằng sau tránh vào ven đường.\n\n2. Đến quãng suối, vừa qua cầu thì gặp Tây đồn đem lính đi tuần. Kim Đồng bình tĩnh huýt sáo. Ông ké dừng lại, tránh sau lưng một tảng đá. Lưng đá to lù lù, cao ngập đầu người. Nhưng lũ lính đã trông thấy. Chúng nó kêu ầm lên. Ông ké ngồi ngay xuống bên tảng đá, thản nhiên nhìn bọn lính, như người đi đường xa, mỏi chân, gặp được tảng đá phẳng thì ngồi nghỉ chốc lát.\n\n3. Nghe đằng trước có tiếng hỏi:\n\n- Bé con đi đâu sớm thế?\n\nKim Đồng nói:\n\n- Đón thầy mo này về cúng cho mẹ ốm.\n\nTrả lời xong, Kim Đồng quay lại, hỏi:\n\n- Già ơi! Ta đi thôi! Về nhà cháu còn xa đấy!\n\n4. Mắt giặc tráo trưng mà hóa thong manh. Hai bác cháu đã ung dung đi qua trước mặt chúng. Những tảng đá ven đường sáng hẳn lên như vui trong nắng sớm.",
+    "questions": [
+        "Nhân vật nào được kể trong câu chuyện này?",
+        "Anh Kim Đồng đang thực hiện nhiệm vụ gì?",
+        "Công việc giao liên cụ thể là làm gì?",
+        "Tại sao bác cán bộ phải đóng giả vai một ông già người Nùng?",
+        "Kim Đồng ra dấu hiệu cho ông ké bằng cách nào?",
+        "Biểu hiện của lũ lính (địch) như thế nào khi trông thấy Kim Đồng và ông ké?",
+        "Khi thấy Kim Đồng ra hiệu, ông ké đã có biểu hiện ra sao?",
+        "Cậu bé Kim Đồng là người như thế nào?"
+    ],
+    "options": [
+        [
+            "Lượm.",
+            "Kim Dồng.",
+            "Thầy mo.",
+            "Tây đồn."
+        ],
+        [
+            "Giao liên.",
+            "Hành quân.",
+            "Mai phục.",
+            "Đánh địch."
+        ],
+        [
+            "Dẫn đường đưa cán bộ đến địa điểm mới.",
+            "Mai phục, đánh tiêu hao lực lượng địch.",
+            "Hướng dẫn cán bộ mai phục và đánh địch.",
+            "Hướng dẫn viên du lịch."
+        ],
+        [
+            "Để che mắt địch.",
+            "Để bà con người Nùng không nhận ra.",
+            "Để bố mẹ Kim Đồng không phát hiện ra.",
+            "Để tập cho vở kịch sắp diễn."
+        ],
+        [
+            "Hú hét.",
+            "Liếc mắt.",
+            "Vẫy tay.",
+            "Huýt sáo."
+        ],
+        [
+            "Chúng nó kêu ầm lên.",
+            "Chúng không để ý, đi tiếp.",
+            "Chúng bao vây, chĩa súng.",
+            "Chúng bình tĩnh đi qua."
+        ],
+        [
+            "Đầu hàng và giao nộp vũ khí.",
+            "Thản nhiên ngồi xuống tảng đá vờ nghỉ chân.",
+            "Hú hét kéo Kim Đồng bỏ chạy.",
+            "Rút súng định chiến đấu với cả toán lính."
+        ],
+        [
+            "Nhanh trí, dũng cảm.",
+            "Gian xảo, giả dối.",
+            "Yêu đời, lạc quan.",
+            "Hèn nhát, yếu đuối."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A",
+        "B",
+        "A"
+    ]
+}

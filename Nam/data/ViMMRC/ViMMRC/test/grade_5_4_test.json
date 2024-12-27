@@ -1,0 +1,57 @@
+{
+    "article": "Có lẽ với ai đó khi nghĩ về mẹ, về những món ăn mẹ nấu sẽ nhớ nhiều đến thứ ngon vật lạ, còn tôi đơn giản chỉ là món canh rau mồng tơi thuở ấy. Ngày đó bố mất, mẹ một mình nuôi ba anh em ăn học, bữa cơm của mấy mẹ con chẳng bao giờ có đủ thịt cá. Cơm dọn ra chỉ bát nước mắm, vài quả cà với nồi canh rau mồng tơi, gần như là ngày nào cũng vậy. Rau mẹ hái ở ngoài vườn rửa sạch, nước đổ vào nồi nổi lửa, đợi sôi lên thì thả rau, thêm ít muối trắng, bắc xuống thế là thành canh. Bữa nào mẹ đi chợ mua ít thịt bỏ vào nồi canh trở nên ngọt lạ, hôm đó tôi ăn nhiều hơn, đưa bát liên tục. Mẹ bảo: “Nấu canh có thịt dễ ăn hơn phải không con?”. Tôi ngoan ngoãn gật đầu. Thế là từ bữa đó nồi canh rau mồng tơi thay vì chỉ có nước lã đã có thêm thịt. Tôi lớn dần bên mẹ cùng với món sở trường là canh rau mồng tơi, ăn hoài thành nghiền. Mà lạ một nỗi vườn nhà tôi trồng rau gì cũng không thể phát triển được trừ rau này. Ngày tôi vào đại học, mẹ cũng ăn mừng bằng nồi canh rau mồng tơi, nhưng lần này là nấu bằng nước luộc gà. Trước hôm tôi đi, mẹ dặn đủ điều sợ con điều gì cũng không biết. Lúc mẹ tiễn ra xe, tôi chẳng dám ngoái lại nhìn nhưng qua gương chiếu hậu tôi thấy mẹ khóc. Hình ảnh mẹ gầy ốm, đứng lẻ loi cuối con đường cứ bám riết lấy tôi suốt chặng đường dài... Thời gian trôi nhanh quá! Giờ ngồi nhớ lại tất cả tôi không nghĩ gia đình mình đã trải qua những tháng ngày vất vả như thế. Niềm hạnh phúc lớn nhất của tôi lúc này là hằng ngày đi làm về nhìn thấy mẹ, cất tiếng gọi \"mẹ ơi\" và để tôi có thời gian bù đắp vào khoảng thời gian trước đó - khoảng thời gian mà tôi biết mẹ đã thắt lưng buộc bụng nuôi các con thành người.",
+    "questions": [
+        "Món ăn nào gắn bó thân thiết với tác giả?",
+        "Lúc mẹ tiễn ra xe, giả đã làm gì?",
+        "Niềm hạnh phúc lớn nhất của tác giả là gì?",
+        "Canh nào được nhân vật tôi nhớ đến khi nhắc về mẹ?",
+        "Niềm hạnh phúc lớn nhất của nhân vật tôi là gì?",
+        "Người mẹ phải nuôi bao nhiêu người con?"
+    ],
+    "options": [
+        [
+            "Canh rau mồng tơi.",
+            "Gà luộc.",
+            "Các loại rau trong vườn.",
+            "Thịt kho trứng."
+        ],
+        [
+            "Tạm biệt mẹ.",
+            "Ngoái lại nhìn, ôm mẹ.",
+            "Chẳng dám ngoái lại nhìn mẹ.",
+            "Vẫy tay chào mẹ."
+        ],
+        [
+            "Gia đình đã trải qua những ngày tháng vất vả.",
+            "Hằng ngày đi làm về nhìn thấy mẹ và cất tiếng gọi “ Mẹ ơi !”.",
+            "Được ăn canh rau mồng tơi nấu với nước luộc gà.",
+            "Cơm dọn ra chỉ bát nước mắm, vài quả cà với nồi canh rau mồng tơi."
+        ],
+        [
+            "Canh rau mồng tơi.",
+            "Canh cá.",
+            "Canh thịt.",
+            "Canh rau."
+        ],
+        [
+            "Cảm giác dễ chịu vì được ăn ngon, ngủ yên.",
+            "Là đi làm về nhìn thấy mẹ.",
+            "Hồ hởi, háo hức sẵn sàng làm mọi việc.",
+            "Được nhiều tiền ăn vặt hơn bình thường."
+        ],
+        [
+            "Ba người.",
+            "Hai người.",
+            "Bốn người.",
+            "Năm người."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "C",
+        "B",
+        "A"
+    ]
+}

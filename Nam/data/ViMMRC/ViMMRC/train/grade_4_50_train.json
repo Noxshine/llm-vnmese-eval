@@ -1,0 +1,49 @@
+{
+    "article": "Hôm ấy là ngày đầu tiên của năm học mới, lòng tôi tràn đầy niềm tin nhưng thực sự vẫn rất lo cho những kì thi sắp tới. Tiết Toán đầu tiên. Vừa vào lớp, thầy cho cả lớp làm bài kiểm tra đầu năm. Cả lớp đều cảm thấy rất ngạc nhiên khi thầy phát cho chúng tôi ba loại đề bài khác nhau rồi nói :\n\n- Đề thứ nhất gồm những câu hỏi rất cơ bản nhưng cũng khá nâng cao, nếu làm hết các em sẽ được điểm mười. Đề thứ hai có điểm cao nhất là tám với mức độ tương đối. Với dạng đề thứ ba, các em dễ dàng đạt điểm sáu với những bài toán rất dễ. Các em được quyền chọn một trong ba loại đề này .\n\nThầy chỉ giới hạn thời gian làm bài là mười lăm phút nên tôi quyết định chon dạng đề thứ hai cho chắc ăn. Không chỉ tôi mà các bạn trong lớp cũng thế, đa phần chon dạng đề thứ hai, số ít học kém hơn thì chọn dạng đề thứ ba.\n\nMột tuần sau, thầy trả bài kiểm tra. Cả lớp càng ngạc nhiên hơn khi ai chọn dạng đề nào thì được đúng tổng điểm của đề đó, bất kể đúng sai. Lớp trưởng rụt rè hỏi thầy :\n\n- Thưa thầy, tại sao lại thế ạ?\n\nThầy khẽ mỉm cười rồi nghiêm nghị trả lời :\n\n- Với bài kiểm tra này, thầy chỉ muốn thử thách sự tự tin của lớp mình. Ai trong số các em cũng mơ ước được điểm mười nhưng ít ai dám vượt qua thử thách để biến ước mơ ấy thành hiện thực. Các em ạ, có những việc thoạt nhìn tưởng như rất khó khăn nên dễ làm chúng ta rút lui ngay từ phút đầu tiên. Nhưng nếu không tự tin đối đầu với thử thách thì chúng ta sẽ chẳng biết khả năng của mình đến đâu và cũng khó vươn tới đỉnh điểm của thành công.\n\nBài kiểm tra kì lạ của thầy giáo đã dạy cho chúng tôi một bài học: Hãy ước mơ và phải biết vượt qua mọi thử thách để đạt được ước mơ!",
+    "questions": [
+        "Thầy giáo cho kiểm tra Toán đầu năm học nhằm mục đích gì?",
+        "Thầy giáo cho mấy loại đề kiểm tra?",
+        "Loại đề thứ mấy là dễ nhất?",
+        "Tại sao phần lớn học sinh trong lớp lại chọn dạng đề thứ hai?",
+        "Câu chuyện muốn nói với em điều gì?"
+    ],
+    "options": [
+        [
+            "Kiểm tra chất lượng học toán của học sinh.",
+            "Kiểm tra nếp làm bài của học sinh.",
+            "Thử thách sự tự tin của học sinh.",
+            "Thử thách sự siêng năng của học sinh."
+        ],
+        [
+            "2.",
+            "3.",
+            "4.",
+            "5."
+        ],
+        [
+            "Loại đề thứ nhất.",
+            "Loại đề thứ hai.",
+            "Loại đề thứ ba.",
+            "Loại đề thứ tư."
+        ],
+        [
+            "Vì dạng đề thứ hai được nhiều điểm.",
+            "Vì dạng đề thứ hai ở mức độ tương đối, chọn làm cho chắc ăn.",
+            "Vì học sinh trong lớp thiếu tự tin.",
+            "Vì học sinh trong lớp rất siêng năng."
+        ],
+        [
+            "Khi kiểm tra nên chon dạng đề được điểm cao.",
+            "Nên chọn đề vừa sức với mình.",
+            "Cần tự tin đối đầu với thử thách để biết được khả năng của mình và có cơ hội vươn tới thành công.",
+            "Cần tự tin đối đầu với những thành công nhất định."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "B",
+        "C"
+    ]
+}

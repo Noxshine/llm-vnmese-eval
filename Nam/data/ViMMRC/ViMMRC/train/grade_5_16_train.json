@@ -1,0 +1,49 @@
+{
+    "article": "Trong buổi nói chuyện với một nhóm các doanh nhân, một chuyên gia trình bày về cách sử dụng thời gian có hiệu quả. Đứng trước những người khá thành đạt trong cuộc sống, ông mỉm cười: \"Sau đây là một câu hỏi trắc nghiệm\". Ông ta lấy từ gầm bàn một cái lọ rộng miệng cỡ bốn lít và một túi chứa những hòn đá cuội to bằng nắm tay. Ông lần lượt đặt từng hòn đá vào lọ cho đến khi không thể bỏ vào được nữa. Ông hỏi:\n\nCái lọ đã đầy chưa?\nMọi người đáp:\n\nĐây rồi!\nThật không? - Ông lấy từ gầm bàn ra một túi sỏi nhỏ đổ từ từ vào lọ và lắc cho các hòn sỏi chen vào tất cả các khoảng trống giữa các hòn đá cuội. Ông nhoẻn miệng cười và hỏi:\nCái lọ đầy chưa?\n\nLần này thì mọi người dường như bắt kịp ông. Ai đó trả lời: \"Chắc là chưa\".\n\n- Tốt! - Ông nói và lấy ra một túi cát rồi đổ vào lọ. Cát chen đầy vào các khoảng trống giữa những hòn đá cuội và sỏi.\n\n- Cái lọ đầy chưa? – Ông hỏi lại một lần nữa.\n\n- Chưa.-  Mọi người nhao nhao.\n\n-Tốt. - Ông lặp lại và vớ lấy bình nước đổ vào lọ cho đến khi nước ngập đến miệng lọ. Ông ngước nhìn mọi người và hỏi: \"Minh họa này nói lên điều gì?\".\nMột nhà kinh doanh nhanh nhảu đáp:\n\n- Vấn đề là cho dù kế hoạch làm việc của bạn có sít sao thế nào đi nữa, nếu cố gắng bạn luôn có thể làm thêm nhiều việc nữa!\n- Có thể, nhưng đó không phải là vấn đề. Điều minh họa vừa rồi nói lên là nếu bạn không đặt những hòn đá cuội vào lọ trước, bạn sẽ không bao giờ có thể nhét chúng vào được. – Ông đáp.\n\nCái gì là những \"hòn đá cuội\" trong cuộc sống của bạn? Có thể là một dự án, một hoài bão mà bạn muốn thực hiện, thời gian với những người mà bạn thương yêu, học vấn của bạn, sức khỏe của bạn... Nhưng nhớ đặt những \"hòn đá cuội\" đó vào lọ trước hoặc bạn sẽ không bao giờ nhét chúng vào được. Chúng ta luôn cố gắng làm thật nhiều việc trong khoảng thời gian giới hạn của mình. Nhưng điều quan trọng là những việc bạn đang làm thật sự có ý nghĩa.\n\nThế thì tối nay hay sáng mai khi bạn suy ngẫm về câu chuyện này, hãy tự hỏi bản thân mình rằng điều gì là những \"hòn đá cuội\" trong cuộc sống của chính bạn và hãy đặt chúng vào trong lọ trước.",
+    "questions": [
+        "Vị chuyên gia đã đặt các vật vào chiếc lọ theo thứ tự nào?",
+        "Theo em, điều gì sẽ xảy ra khi ta bỏ các vật vào lọ theo trình tự: nước- sỏi- cát - đá cuội?",
+        "Những hòn đá cuội trong câu chuyện tượng trưng cho điều gì?",
+        "Chiếc lọ trong câu chuyện tượng trưng cho điều gì?",
+        "Câu chuyện trên muốn gửi gắm tới chúng ta điều gì?"
+    ],
+    "options": [
+        [
+            "Nước – những viên sỏi nhỏ - cát- những hòn đá cuội to bằng nắm tay.",
+            "Những hòn đá cuội - cát - những viên sỏi nhỏ - nước.",
+            "Những hòn đá cuội - những viên sỏi nhỏ - cát - nước.",
+            "Nước - cát - đá."
+        ],
+        [
+            "Sỏi và đá cuội không thể bỏ vào được.",
+            "Không thể bỏ được những viên đá cuội vào lọ.",
+            "Cát, sỏi, đá cuội không thể bỏ vào lọ.",
+            "Tất cả các vật vẫn được cho vào lọ."
+        ],
+        [
+            "Quỹ thời gian mà mỗi con người có được trong đời.",
+            "Một dự án kinh doanh với vốn đầu tư khổng lồ.",
+            "Những việc quan trọng, có ý nghĩa trong cuộc sống.",
+            "Một công việc đáng yêu."
+        ],
+        [
+            "Một khoản tiền lớn.",
+            "Quỹ thời gian mà mỗi con người có được trong đời.",
+            "Sức khỏe của con người.",
+            "Cảm xúc của con người."
+        ],
+        [
+            "Mỗi người cần xác định cho mình những việc quan trọng, thật sự có ý nghĩa để ưu tiên thực hiện chúng trước khi quá muộn.",
+            "Mỗi người cần có kế hoạch tận dụng tốt quỹ thời gian có hạn của mình.",
+            "Mỗi người cần quản lý thời gian hiệu quả, ưu tiên những công việc quan trọng.",
+            "Nên làm việc yêu thích trước."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "B",
+        "C"
+    ]
+}

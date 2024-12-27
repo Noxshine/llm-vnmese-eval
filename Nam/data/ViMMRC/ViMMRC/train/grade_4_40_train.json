@@ -1,0 +1,65 @@
+{
+    "article": "Tên chúa tàu ấy cao lớn, vạm vỡ, da lưng sạm như gạch nung. Trên má hắn có một vết sẹo chém dọc xuống, trắng bệch. Hắn uống lắm rượu đến nỗi nhiều đêm như lên cơn loạn óc, ngồi hát những bài ca man rợ.\n\nMột lần, bác sĩ Ly - một người nổi tiếng nhân từ - đến thăm bệnh cho ông chủ quán trọ. Tên chúa tàu lúc ấy đang ê a bài hát cũ. Hát xong, hắn quen lệ đập tay xuống bàn quát mọi người im. Ai nấy nín thít. Riêng bác sĩ vẫn ôn tồn giảng cho ông chủ quán trọ cách trị bệnh. Chúa tàu trừng mắt nhìn bác sĩ, quát:\n\n- Có câm mồm không?\n\nBác sĩ điềm tĩnh hỏi:\n\n- Anh bảo tôi phải không?\n\nKhi tên chúa tàu cục cằn bảo \"phải\", bác sĩ nói:\n\n- Anh cứ uống rượu mãi như thế thì đến phải tống anh đi nơi khác.\n\nCơn tức giận của tên cướp thật dữ dội. Hắn đứng phắt dậy, rút soạt dao ra, lăm lăm chực đâm. Bác sĩ Ly vẫn dõng dạc và quả quyết:\n\n- Nếu anh không cất dao, tôi quyết làm cho anh bị treo cổ trong phiên tòa sắp tới.\n\nTrông bác sĩ lúc này với gã kia thật khác nhau một trời một vực. Một đằng thì đức độ, hiền từ mà nghiêm nghị. Một đằng thì nanh ác, hung hăng như con thú dữ nhốt chuồng. Hai người gườm gườm nhìn nhau. Rốt cục, tên cướp biển cúi gằm mặt, tra dao vào, ngồi xuống, làu bàu trong cổ họng.\n\nMột lát sau, bác sĩ lên ngựa. Từ đêm ấy, tên chúa tàu im như thóc.",
+    "questions": [
+        "Cuộc đối thoại chủ yếu diễn ra giữa những người nào với nhau?",
+        "Tên gọi khác của nhân vật tên chúa tàu là gì?",
+        "Nhân vật nào không xuất hiện trong truyện này?",
+        "Chi tiết nào thể hiện tính hung hãn của tên chúa tàu?",
+        "Cặp câu nào trong bài khắc họa hình ảnh trái ngược nhau giữa bác sĩ Ly và tên cướp biển?",
+        "Cuối truyện, thái độ của tên cướp biển như thế nào trước biểu hiện nghiêm nghị của bác sĩ Ly?",
+        "Tại sao bác sĩ Ly khuất phục được tên cướp biển hung hãn?"
+    ],
+    "options": [
+        [
+            "Bác sỹ Ly và người khách trọ.",
+            "Tên chúa tàu và con vẹt.",
+            "Bác sỹ Ly và Tên chúa tàu.",
+            "Chủ quán trọ và người khách trọ."
+        ],
+        [
+            "Bác sĩ Ly.",
+            "Chủ quán trọ.",
+            "Ông chủ tàu.",
+            "Tên cướp biển."
+        ],
+        [
+            "Tên chúa tàu.",
+            "Ông chủ Hán.",
+            "Chủ quán trọ.",
+            "Bác sỹ Ly."
+        ],
+        [
+            "Hắn uống lắm rượu đến nỗi nhiều đêm như lên cơn loạn óc.",
+            "Hắn đập tay xuống bàn quát mọi người im.",
+            "Hắn có một vết sẹo chém dọc xuống, trắng bệch.",
+            "Tên bạo chúa cúi gằm mặt, tra dao vào, làu bàu trong cổ họng, từ đêm ấy im như thóc."
+        ],
+        [
+            "Tên chúa tàu quen lệ đập tay xuống bàn quát mọi người im. Bác sĩ vẫn ôn tồn giảng cho ông chủ quán trọ cách trị bệnh.",
+            "Một đằng thì đức độ, hiền từ mà nghiêm nghị. Một đằng thì nanh ác, hung hăng như con thú dữ nhốt chuồng.",
+            "Tên chúa tàu ấy cao lớn, vạm vỡ, da lưng sạm như gạch nung.",
+            "Trên má hắn có một vết sẹo chém dọc xuống, trắng bệch."
+        ],
+        [
+            "Hát xong, hắn quen lệ đập tay xuống bàn quát mọi người im. Ai nấy nín thít.",
+            "Cơn tức giận của tên cướp thật dữ dội. Hắn đứng phắt dậy, rút soạt dao ra, lăm lăm chực đâm.",
+            "Từ đêm ấy, tên chúa tàu im như thóc.",
+            "Vênh váo thách thức mọi người."
+        ],
+        [
+            "Vì bác sĩ giảng giải và cho tên cướp biển lời khuyên chân thành.",
+            "Vì bác sĩ khỏe hơn tên cướp biển.",
+            "Vì bác sĩ bình tĩnh và cương quyết bảo vệ lẽ phải.",
+            "Vì bác sĩ dọa đưa tên cướp biển ra tòa."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "B",
+        "D",
+        "B",
+        "C",
+        "C"
+    ]
+}

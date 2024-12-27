@@ -1,0 +1,65 @@
+{
+    "article": "Càng về sáng, tiết trời càng lạnh giá.\n\nTrong bếp, bác mèo mướp vẫn nằm lì bên đống tro ấm. Bác lim dim đôi mắt, luôn miệng gừ gừ kêu: \"Rét! Rét!\"\n\nThế nhưng, mới sớm tinh mơ, chú gà trống đã chạy tót ra giữa sân. Chú vươn mình, dang đôi cánh to, khỏe như hai chiếc quạt, vỗ cánh phành phạch, rồi gáy vang: ''Ò ... ó ... o ... o ...''",
+    "questions": [
+        "Bác mèo mướp nằm ngủ ở đâu?",
+        "Mới sớm tinh mơ, con gì đã chạy tót ra giữa sân?",
+        "Chú gà trống chạy tót ra giữa sân để làm gì?",
+        "Từ nào diễn tả đôi mắt của bác mèo mướp?",
+        "Ai là người than trời đang lạnh rét?",
+        "Tiếng vỗ cánh được miêu tả như thế nào trong bài đọc?",
+        "Thời tiết mô tả như thế nào?"
+    ],
+    "options": [
+        [
+            "Trong bếp ăn.",
+            "Bên đống tro ấm.",
+            "Trong sân nhà.",
+            "Trong vườn cây."
+        ],
+        [
+            "Mèo mướp.",
+            "Con gà trống.",
+            "Chị gà mái.",
+            "Chú chó lông xù."
+        ],
+        [
+            "Tắm nắng và tìm thức ăn.",
+            "Nhảy múa và tỏ ra quyền lực.",
+            "Tìm thức ăn quanh sân.",
+            "Gáy."
+        ],
+        [
+            "Tròn xoe.",
+            "Lim dim.",
+            "Long lanh.",
+            "Sáng rực."
+        ],
+        [
+            "Bác mèo.",
+            "Chú chó.",
+            "Cô gà.",
+            "Thỏ ngọc."
+        ],
+        [
+            "Vang.",
+            "Phành phạch.",
+            "Tinh mơ.",
+            "Rét."
+        ],
+        [
+            "Lạnh.",
+            "Ấm.",
+            "Nóng.",
+            "Mát."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "D",
+        "B",
+        "A",
+        "B",
+        "A"
+    ]
+}

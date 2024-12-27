@@ -1,0 +1,57 @@
+{
+    "article": "Cây dừa xanh tỏa nhiều tàu,\nDang tay đón gió, gật đầu gọi trăng.\nThân dừa bạc phếch tháng năm,\nQuả dừa - đàn lợn con nằm trên cao.\nĐêm hè hoa nở cùng sao,\nTàu dừa - chiếc lược chải vào mây xanh.\nAi mang nước ngọt, nước lành,\nAi đeo bao hũ rượu quanh cổ dừa.\nTiếng dừa làm dịu nắng trưa,\nGọi đàn gió đến cùng dừa múa reo.\nTrời trong đầy tiếng rì rào,\nĐàn cò đánh nhịp bay vào bay ra.\nĐứng canh trời đất bao la\nMà dừa đủng đỉnh như là đứng chơi.",
+    "questions": [
+        "Lá dừa được ví như thứ gì?",
+        "Ngọn của cây dừa được ví với thứ gì?",
+        "Thân dừa được giống với thứ gì?",
+        "Quả dừa giống với thứ gì?",
+        "Hũ rượu được ví với thứ gì của cây dừa?",
+        "Hình ảnh cây dừa đứng canh trời đất bao la mà dừa đủng đỉnh như là đứng chơi giúp chúng ta liên tưởng đến ai?"
+    ],
+    "options": [
+        [
+            "Như cái đầu (gật đầu).",
+            "Như đàn lợn con.",
+            "Như cánh tay chiếc lược.",
+            "Như con người đứng canh gác trời đất."
+        ],
+        [
+            "Như đàn lợn con.",
+            "Như con người đứng canh gác trời đất.",
+            "Như cánh tay chiếc lược.",
+            "Như cái đầu (gật đầu)."
+        ],
+        [
+            "Như cái đầu (gật đầu).",
+            "Như đàn lợn con.",
+            "Như con người đứng canh gác trời đất.",
+            "Như cánh tay chiếc lược."
+        ],
+        [
+            "Như đàn lợn con.",
+            "Như con người đứng canh gác trời đất.",
+            "Như cánh tay chiếc lược.",
+            "Như cái đầu (gật đầu)."
+        ],
+        [
+            "Ngọn dừa.",
+            "Tàu lá dừa.",
+            "Quả dừa.",
+            "Thân dừa."
+        ],
+        [
+            "Người nông dân hiền lành.",
+            "Người bà đang kể chuyện.",
+            "Người thầy giáo giảng bài.",
+            "Người lính đứng canh gác."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "C",
+        "D"
+    ]
+}

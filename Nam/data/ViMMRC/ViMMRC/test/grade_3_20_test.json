@@ -1,0 +1,65 @@
+{
+    "article": "Ngày xưa ở một vùng quê nọ, có chàng Mồ Côi được dân tin cậy giao cho việc xử kiện.\n\nMột hôm, có người chủ quán đưa một bác nông dân, đến công đường Chủ quán thưa:\n\n- Bác này vào quán của tôi hít hết mùi thơm lợn quay, gà luộc, vịt rán mà không trả tiền. Nhờ Ngài xét cho.\n\nMồ côi hỏi bác nông dân. Bác trả lời:\n\n- Tôi chỉ vào quán ngồi nhờ để ăn miếng cơm nắm. Tôi không mua gì cả. Mồ côi bảo:\n\n- Nhưng bác có hít hương thơm thức ăn trong quán không?\n\nBác nông dân đáp:\n\n- Thưa có\n\nMồ Côi nói.\n\n- Thế thì bác phải bồi thường. Chủ quán muống bồi thường bao nhiêu?\n\n- Thưa ngài hai mươi đồng\n\n- Bác hãy đưa hai mươi đồng đây, tôi phân xử cho!\n\nNghe nói bác nông dân giãy nảy:\n\n- Tôi có đụng chạm gì đến thức ăn trong quán đâu mà phải trả tiền?\n\nBác cứ đưa tiền đây.\n\nBác nông dân ấm ức.\n\n- Nhưng tôi chỉ có hai đồng.\n\n- Cũng được: Mồ côi vừa nói vừa thản nhiên cầm lấy hai đồng bạc bỏ vào một cái bát, rồi úp một cái bát khác lên đưa cho bác nông dân nói:\n\n- Bác hãy sóc lên cho đử mười lần. Còn ông chủ quán ông hãy chịu khó mà nghe. Hai người tuy chưa hiểu gì nhưng cũng cố làm thẹo. Khi đồng bạc trong bát úp đã kêu lách cách đến lần thứ mười. Mồ Côi phán:\n\nBác này đã bồi thường cho chủ quán đủ số tiền. Một bên “hít mùi thịt”, một bên “Nghe tiếng bạc”. Thế là công bằng.",
+    "questions": [
+        "Câu chuyện xảy ra ở nơi nào?",
+        "Đoạn đọc này ca ngợi sự thông minh của người nào?",
+        "Bác nông dân đã hít bao nhiêu mùi thơm của thức ăn?",
+        "Chủ quán đã đòi bác nông dân bồi thường bao nhiêu tiền?",
+        "Câu chuyện này nói lên điều gì?",
+        "Trong câu: “Mồ côi là người rất thông minh” thuộc dạng câu nào?",
+        "Tính cách của bác nông dân được thể hiện qua từ nào?"
+    ],
+    "options": [
+        [
+            "Thành phố.",
+            "Vùng quê.",
+            "Thành thị.",
+            "Thị trấn."
+        ],
+        [
+            "Bác nông dân.",
+            "Người chủ quán.",
+            "Mồ côi.",
+            "Thợ săn."
+        ],
+        [
+            "Một mùi.",
+            "Hai mùi.",
+            "Ba mùi.",
+            "Bốn mùi."
+        ],
+        [
+            "Hai mươi đồng.",
+            "Ba mươi đồng.",
+            "Bốn mươi đồng.",
+            "Năm mươi đồng."
+        ],
+        [
+            "Mô Côi là người hiền lành.",
+            "Mô Côi là người tài trí thông minh.",
+            "Mô Côi là người tài .",
+            "Mồ Côi là người tài trí hơn người."
+        ],
+        [
+            "Ai là gì?",
+            "Ai thế nào?",
+            "Ai làm gì?",
+            "Ai như thế nào?"
+        ],
+        [
+            "Hiền lành.",
+            "Giả dối.",
+            "Thật thà.",
+            ""
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "C",
+        "C",
+        "A",
+        "B",
+        "C"
+    ]
+}

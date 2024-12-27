@@ -1,0 +1,57 @@
+{
+    "article": "Ôi chao! Chú chuồn chuồn nước mới đẹp làm sao! Màu vàng trên lưng chú lấp lánh. Bốn cái cánh mỏng như giấy bóng. Cái đầu tròn và hai con mắt long lanh như thủy tinh. Thân hình chú nhỏ và thon vàng như màu vàng của nắng mùa thu. Chú đậu trên một cành lộc vừng ngả dài trên mặt hồ. Bốn cánh khẽ rung rung như đang còn phân vân.   \n\nRồi đột nhiên, chú chuồn chuồn nước tung cánh bay vọt lên. Cái bóng chú nhỏ xíu lướt nhanh trên mặt hồ. Mặt hồ trải rộng mênh mông và lặng sóng. Chú bay lên cao hơn và xa hơn. Dưới tầm cánh chú bây giờ là lũy tre xanh rì rào trong gió, là bờ ao với những khóm khoai nước rung rinh. Rồi những cảnh tuyệt đẹp của đất nước hiện ra: cánh đồng với những đàn trâu thung thăng gặm cỏ; dòng sông với những đoàn thuyền ngược xuôi. Còn trên tầng cao là đàn cò đang bay, là trời xanh trong và cao vút.",
+    "questions": [
+        "Bài văn miêu tả con vật nào?",
+        "Hãy chỉ ra câu cảm thán trong bài đọc này là gì?",
+        "Cánh chuồn chuồn được ví mỏng như thứ gì?",
+        "Tình yêu quê hương, đất nước của tác giả được mô tả qua những câu văn nào?",
+        "Những nội dung nào bên dưới xuất hiện trong bài?",
+        "Cặp mặt chuồn chuồn được ví long lanh như gì?"
+    ],
+    "options": [
+        [
+            "Con cánh cam.",
+            "Con chuồn chuồn.",
+            "Con bọ hung.",
+            "Con mèo mướp."
+        ],
+        [
+            "Bốn cái cánh mỏng như giấy bóng.",
+            "Màu vàng trên lưng chú lấp lánh.",
+            "Ôi chao! Chú chuồn chuồn nước mới đẹp làm sao!.",
+            "Cái đầu tròn và hai con mắt long lanh như thủy tinh."
+        ],
+        [
+            "Thuỷ tinh.",
+            "Cành lộc vừng.",
+            "Giấy bóng.",
+            "Khóm khoai."
+        ],
+        [
+            "Rồi đột nhiên, chú chuồn chuồn nước tung cánh bay vọt lên. Cái bóng chú nhỏ xíu lướt nhanh trên mặt hồ.",
+            "Dưới tầm cánh chú bây giờ là lũy tre xanh rì rào trong gió, là bờ ao với những khóm khoai nước rung rinh.",
+            "Ôi chao! Chú chuồn chuồn nước mới đẹp làm sao!.",
+            "Rồi những cảnh tuyệt đẹp của đất nước hiện ra: cánh đồng với những đàn trâu thung thăng gặm cỏ; dòng sông với những đoàn thuyền ngược xuôi. Còn trên tầng cao là đàn cò đang bay, là trời xanh trong và cao vút."
+        ],
+        [
+            "Tình yêu của tác giả đối với quê hương, đất nước.",
+            "Miêu tả vẻ đẹp của chú chuồn chuồn.",
+            "Miêu tả vẻ đẹp của chú chuồn chuồn, cảnh đẹp quê hương và tình yêu của tác giả đối với đất nước.",
+            "Miêu tả vẻ đẹp của quê hương, đất nước."
+        ],
+        [
+            "Giấy bóng.",
+            "Dầu.",
+            "Nước.",
+            "Thuỷ tinh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "C",
+        "D",
+        "C",
+        "D"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Trường đua voi là một đường rộng phẳng lì, dài hơn năm cây số. Chiêng khua trống đánh vang lừng. Voi đua từng tốp mười con dàn hàng ngang ở nơi xuất phát. Trên mỗi con voi, ngồi hai chàng man-gát. Người ngồi phía cổ có vuông vải đỏ thắm ở ngực. Người ngồi trên lưng mặc áo xanh da trời. Trông họ rất bình tĩnh vì họ thường là những người phi ngựa giỏi nhất.\n\nĐến giờ xuất phát, chiêng trống nổi lên thì cả mười con voi lao đầu chạy. Cái dáng lầm lì, chậm chạp thường ngày bỗng dưng biến mất. Cả bầy hăng máu phóng như bay. Bụi cuốn mù mịt. Các chàng man-gát phải rất gan dạ và khéo léo điều khiển cho voi về trúng đích. Những chú voi chạy đến đích trước tiên đều ghìm đà, huơ vòi chào những khán giả đã nhiệt liệt cổ vũ, khen ngợi chúng.",
+    "questions": [
+        "Ngày hội đua voi diễn ra ở nơi nào?",
+        "Hội đua voi ở Tây Nguyên được tổ chức ở nơi nào?",
+        "Đàn voi trong cuộc đua được miêu tả như thế nào?",
+        "Các chàng man-gat trong cuộc đua được miêu tả như thế nào?",
+        "Tại sao các chàng man-gát lại có dáng vẻ bình tĩnh trước khi tham gia cuộc đua?",
+        "Những chú voi đua có cử chỉ ngộ nghĩnh và dễ thương nào?"
+    ],
+    "options": [
+        [
+            "Thái Nguyên.",
+            "Tây Tạng.",
+            "Tây Nguyên.",
+            "Cao Nguyên."
+        ],
+        [
+            "Đường quốc lộ.",
+            "Công viên.",
+            "Trường đua.",
+            "Nhà hàng."
+        ],
+        [
+            "Hăng máu phóng như bay.",
+            "Ghìm đà, huơ vòi chào khán giả.",
+            "Đi lầm lì, chậm chạp.",
+            "Gan dạ và khéo léo."
+        ],
+        [
+            "Lầm lì và chậm chạp.",
+            "Ăn mặc đẹp đẽ và bình tĩnh.",
+            "Gan dạ và khéo léo.",
+            "Nhiệt liệt cổ vũ và khen ngợi."
+        ],
+        [
+            "Vì họ đã có sự chuẩn bị kĩ lưỡng.",
+            "Vì họ là những người giỏi nhất và đã có sự chuẩn bị kĩ lưỡng.",
+            "Vì họ là những người (phi ngựa) giỏi nhất.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cả mười con đều lao đầu chạy khi có hiệu lệnh.",
+            "Cái dáng vẻ lầm lì chậm chạp thay bằng sự hăng máu.",
+            "Huơ vòi chào khán giả đã nhiệt liệt cổ vũ, khen ngợi chúng.",
+            "Cả bầy hăng máu phóng như bay, bụi cuốn mù mịt."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "C",
+        "B",
+        "C"
+    ]
+}

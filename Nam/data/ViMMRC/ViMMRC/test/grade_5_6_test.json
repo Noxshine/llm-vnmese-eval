@@ -1,0 +1,57 @@
+{
+    "article": "Có một người chẳng may đánh mất dấu phẩy. Anh ta sợ những câu phức tạp và chỉ tìm những câu đơn giản. Đằng sau những câu đơn giản là những ý nghĩ đơn giản.\n\nSau đó, không may, anh ta lại làm mất dấu chấm than. Anh bắt đầu nói khe khẽ, đều đều, không ngữ điệu. Anh không cảm thán, không xuýt xoa. Không có gì có thể làm anh ta anh ta sung sướng, mừng rỡ hay phẫn nộ nữa cả. Đằng sau đó là sự thờ ơ đối với mọi chuyện.\n\nKế đó, anh ta đánh mất dấu chấm hỏi và chẳng bao giờ anh ta dám hỏi ai điều gì nữa. Mọi sự kiện xảy ra ở đâu, dù trong vũ trụ hay trong mặt đất hay ngay trong nhà mình, anh ta cũng không biết. Anh ta đã mất khả năng học hỏi. Đằng sau đó là sự thiếu quan tâm đến mọi điều.\n\nMột vài tháng sau, anh ta đánh mất dấu hai chấm. Từ đó anh ta không liệt kê được nữa, không còn giải thích được hành vi của mình nữa. Anh ta đổ lỗi cho tất cả, trừ chính mình.\n\nCứ mất dần các dấu câu, cuối cùng anh ta chỉ còn lại dấu ngoặc kép mà thôi. Anh ta không phát biểu được một ý kiến nào của riêng mình nữa, lúc nào cũng chỉ trích, dẫn lời của người khác. Thế là anh ta hoàn toàn quên mất cách tư duy. Cứ như vậy anh ta đi đến dấu chấm hết. Thiếu những dấu câu trong bài văn, có thể bạn chỉ bị điểm thấp vì bài văn của bạn không hay, không ý nghĩa, nhưng đánh mất những dấu câu trong cuộc đời, tuy không ai chấm điểm nhưng cuộc đời bạn cũng vô vị, cũng mất ý nghĩa như vậy.\n\nMong bạn hãy giữ những dấu câu của mình, bạn nhé!",
+    "questions": [
+        "Trong câu chuyện trên, người “đánh mất dấu phẩy” trong cuộc đời sẽ như thế nào?",
+        "Nếu anh ta “đánh mất dấu chấm than”, anh ta sẽ ra sao?",
+        "Nếu “đánh mất dấu chấm hỏi”, anh ta sẽ như thế nào?",
+        "Tiếp tục “đánh mất dấu hai chấm” sẽ ra sao?",
+        "Đến khi “chỉ còn dấu ngoặc kép” điều gì sẽ xảy ra?",
+        "Câu “Cứ như vậy, anh ta đi đến dấu chấm hết.” có kết thúc ra sao?"
+    ],
+    "options": [
+        [
+            "Trở thành một người không biết cách dùng dấu phẩy.",
+            "Trở thành một người lười suy nghĩ, sợ vất vả.",
+            "Trở thành một người viết văn kém.",
+            "Trở thành người thiếu hiểu biết."
+        ],
+        [
+            "Trở thành một người suốt ngày buồn rầu, ủ rũ.",
+            "Trở thành một người vui sướng, nói cười suốt ngày.",
+            "Trở thành một người thơ ơ, mất hết cảm xúc.",
+            "Trở thành một người giàu tình thương."
+        ],
+        [
+            "Trở thành một người ích kỉ chỉ biết mình.",
+            "Trở thành một người hiểu biết hết mọi điều.",
+            "Mất khả năng học hỏi, không quan tâm đến mọi điều.",
+            "Trở thành người tài giỏi."
+        ],
+        [
+            "Trở thành một người không còn khả năng giải thích, hay đổ lỗi cho người khác và sống vô trách nhiệm.",
+            "Trở thành một người vụng về, hay làm hỏng mọi việc.",
+            "Trở thành một người hay quên, không nhớ những việc mình đã làm.",
+            "Trở thành một người tài giỏi trong văn viết."
+        ],
+        [
+            "Trở thành một người uyên thâm, nhớ hết mọi điều.",
+            "Trở thành một người hay trích dẫn lời của người khác, không có chính kiến riêng, chỉ biết nói dựa theo người khác, không chịu đôc lập suy nghĩ.",
+            "Trở thành một người có khả năng nói năng rành mạch, rõ ràng.",
+            "Trở thành người sử dụng linh hoạt các dấu câu."
+        ],
+        [
+            "Trở thành một người không có giá trị, sống một cuộc đời vô nghĩa.",
+            "Trở thành một người nghèo khổ, mất hết tiền bạc của cải.",
+            "Trở thành một người cô đơn không còn ai thân thích.",
+            "Trở thành một người luôn đi đầu trong công việc."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

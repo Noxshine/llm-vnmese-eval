@@ -1,0 +1,57 @@
+{
+    "article": "Những ngày hè nắng gắt, trời đất lặng gió, bạn hãy chịu khó ngồi yên ở một nơi khuất nẻo nào đó bên bờ suối, nơi quê hương của hươu nai thì bạn sẽ nhìn thấy đàn nai xuống suối.\n\nMột con đầu đàn, cũng có thể là con dũng cảm nhất, mắt ngơ ngác nhìn từ phía sau, vừa đi vừa ngửi đất, lò dò từng bước một từ lưng sườn núi giữa rừng đi xuống suối. Khi con đầu đàn đi xuống khe nước được an toàn. Nó liền kêu lên những tiếng man dại, con người rất khó bắt chước. Lập tức cả đàn đi nhanh xuống suối.\n\nXuống đến suối, việc đầu tiên là chúng uống một bụng nước thật hả hê. Hai cánh mũi phập phồng, cái mõm đen kịt nhệu nhạo nhai, như lựa từng miếng nước ngon lành, đầy thích thú. Sau đó cả đàn từ từ lội xuống giữa suối. Bao giờ nước vừa xâm xấp chớm đến bụng thì chúng dừng lại. Những con nai con đứng cạnh mẹ, nước gần ngập đến lưng. Nai đứng giữa nước như vậy người miền núi gọi là nai tắm suối. Chúng đứng rất lâu, nếu xung quanh hoàn toàn yên tĩnh. Cho đến khi chúng thấy mát lạnh mới lên bờ. Cảm thấy khoan khoái vì mát mẻ, chúng liếm láp, âu yếm lẫn nhau.",
+    "questions": [
+        "Nai thường tắm suối khi nào?",
+        "Khi con nai đầu đàn muốn gọi cả đàn xuống suối, nó làm gì?",
+        "Việc đầu tiên chúng làm khi xuống suối là gì?",
+        "Như thế nào thì được gọi là “nai tắm suối”?",
+        "Có thể thay từ mát lạnh bằng từ nào sau đây?",
+        "Trong câu: Khi con đầu đàn đi xuống khe nước được an toàn, nó liền kêu lên những tiếng man dại, con người rất khó bắt chước. Từ nó chỉ ai?"
+    ],
+    "options": [
+        [
+            "Vào những ngày nóng nực, trời nắng gắt.",
+            "Vào những hôm mưa bão.",
+            "Vào những ngày nắng gắt, trời lặng gió.",
+            "Vào những ngày hanh khô."
+        ],
+        [
+            "Đập vào mặt nước.",
+            "Kêu lên những tiếng man dại.",
+            "Quay lên bờ gọi cả đàn.",
+            "Tăng độ làm ẩm."
+        ],
+        [
+            "Uống một bụng nước thật hả hê.",
+            "Lao ra giữa dòng, cho nước chớm đến bụng.",
+            "Đứng yên lặng thật lâu.",
+            "Nhìn xung quanh."
+        ],
+        [
+            "Nai bơi ở dòng suối.",
+            "Nai đứng giữa nước suối.",
+            "Nai uống nước ở suối.",
+            "Nai đứng cạnh bờ suối."
+        ],
+        [
+            "Mát mẻ, mát rượi.",
+            "Lạnh buốt, lạnh giá.",
+            "Nóng nực, oi nóng.",
+            "OI bức và lạnh buốt."
+        ],
+        [
+            "Con nai con.",
+            "Con nai đầu đàn.",
+            "Con người.",
+            "Con heo."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "article": "Giữa hai bên vách đá\nMở ra một khoảng trời\nCó gió thoảng, mây trôi\nCổng trời trên mặt đất?\n\nNhìn ra xa ngút ngát \nBao sắc màu cỏ hoa\nCon thác réo ngân nga\nĐàn dê soi đáy suối\nGiữa ngút ngàn cây trái\nDọc vùng rừng nguyên sơ\nKhông biết thực hay mơ\nRáng chiều như hơi khói...\n\nNhững vạt nương màu mật\nLúa chín ngập lòng thung\nVà tiếng nhạc ngựa rung\nSuốt triền rừng hoang dã\nNgười Tày đi khắp ngả\nĐi gặt lúa, trồng rau\nNhững người Giáy, người Dao\nĐi tìm măng, hái nấm\nVạt áo chàm thấp thoáng\nNhuộm xanh cả nắng chiều\nVà gió thổi, suối reo\nẤm giữa rùng sương giá.",
+    "questions": [
+        "Vì sao địa điểm được tả trong bài được gọi là \"cổng trời\"?",
+        "Chọn ý sai  Bài thơ mở ra một không gian như thế nào?",
+        "Điều gì đã khiến cho cánh rừng sương giá như ấm lên?",
+        "Hình ảnh \"vạt áo chàm thấp thoáng - Nhuộm xanh cả nắng chiều\" được dùng để nói về ai?"
+    ],
+    "options": [
+        [
+            "Vì có cổng trời ở tận cuối chân trời, nơi đó có mây bay, gió thổi.",
+            "Vì có gió thoảng mây trôi ở tận cuối chân trời.",
+            "Vì ở giữa hai bên vách đá có mở ra một khoảng trời, có gió thoảng, mây trôi.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Bên dòng suối mát uốn lượn dưới chân núi, đàn dê thong dong soi mình xuống đáy nước.",
+            "Không gian từ cổng trời nhìn ra cao rộng với ngút ngàn cây trái và muôn vàn sắc màu cỏ hoa những vạt nương, những lòng thung  lúa đã chín vàng màu mật ong, khoảng trời bồng bềnh mây trôi gió thoảng.",
+            "Không gian trong tâm tưởng tác giả.",
+            "Có không gian của thác nước trắng đổ từ triền núi cao xuống vang vọng ngân nga như khúc nhạc của đất ta."
+        ],
+        [
+            "Nhờ có sự xuất hiện của hình ảnh con người.",
+            "Nhờ có sự xuất hiện của lửa sưởi ấm.",
+            "Nhờ có sự xuất hiện của thiên nhiên.",
+            "Nhờ có sự xuất hiện của mặt trời."
+        ],
+        [
+            "Người Tày.",
+            "Người Giáy, người Dao, người Tày.",
+            "Người Giáy, người Dao.",
+            "Người Rục."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "B"
+    ]
+}

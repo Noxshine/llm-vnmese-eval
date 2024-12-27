@@ -1,0 +1,57 @@
+{
+    "article": "Đi chơi phố\nGặp đèn đỏ\nDừng lại thôi\nChớ qua vội\n\nĐèn vàng rồi\nTiếp đèn xanh\nNào nhanh nhanh\nQua đường nhé",
+    "questions": [
+        "Gặp đèn đỏ thì phải làm gì?",
+        "Có mấy từ chỉ màu sắc trong bài thơ?",
+        "Những từ nào chỉ màu sắc?",
+        "Có mấy loại đèn được miêu tả trong bài thơ trên?",
+        "Theo thứ tự các loại đèn hoạt động lặp đi lặp lại?",
+        "Khi tham gia giao thông và gặp đèn đỏ, chúng ta phải làm gì?"
+    ],
+    "options": [
+        [
+            "Đi tiếp.",
+            "Dừng lại.",
+            "Vội qua đường.",
+            "Đi chậm."
+        ],
+        [
+            "Một màu.",
+            "Hai màu.",
+            "Ba màu.",
+            "Bốn màu."
+        ],
+        [
+            "Xanh, đỏ và vàng.",
+            "Tím, đỏ và vàng.",
+            "Vàng, cam và đỏ.",
+            "Đỏ và vàng."
+        ],
+        [
+            "Ba.",
+            "Bốn.",
+            "Năm.",
+            "Sáu."
+        ],
+        [
+            "Đỏ - vàng - xanh.",
+            "Xanh - vàng - đỏ.",
+            "Đỏ - xanh - vàng.",
+            "Vàng - vàng - xanh."
+        ],
+        [
+            "Đi tiếp.",
+            "Dừng.",
+            "Chạy tăng tốc.",
+            "Chạy với tốc độ chậm."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "A",
+        "A",
+        "B"
+    ]
+}

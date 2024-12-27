@@ -1,0 +1,49 @@
+{
+    "article": "1. Ngày xưa, có một nông dân người Chăm rất siêng năng. Về già, ông để dành được một hũ bạc. Tuy vậy, ông rất buồn vì cậu con trai lười biếng.\n\nMột hôm, ông bảo con:\n\n- Cha muốn trước khi nhắm mắt thấy con kiếm nổi bát cơm. Con hãy đi làm và mang tiền về đây!\n\n2. Bà mẹ sợ con vất vả, liền dúi cho một ít tiền. Anh này cầm tiền đi chơi mấy hôm, khi chỉ còn vài đồng mới trở về đưa cho cha. Người cha vứt ngay nắm tiền xuống ao. Thấy con vẫn thản nhiên, ông nghiêm giọng:\n\n- Đây không phải tiền con làm ra .\n\n3. Người con lại ra đi. Bà mẹ chỉ dám cho ít tiền ăn đường. Ăn hết tiền, anh ta đành tìm vô một làng xin xay thóc thuê. Xay một thúng thóc được trả công hai bát gạo, anh chỉ dám ăn một bát. Suốt ba tháng, dành dụm được chín mươi bát gạo, anh bán lấy tiền.\n\n4. Hôm đó, ông lo đang ngồi sưởi lửa thì con đem tiền về. Ông liền ném luôn mấy đồng vào bếp lửa. Người con vội thọc tay vào lửa lấy ra. Ông lo cười chảy nước mắt :\n\n- Bây giờ cha tin tiền đó chính tay con làm ra. Có làm lụng vất vả, người ta mới biết quý đồng tiền.\n\n5. Ông đào hũ bạc lên, đưa cho con và bảo :\n\n- Nếu con lười biếng, dù cha cho một trăm hũ bạc cũng không đủ. Hũ bạc tiêu không bao giờ hết chính là hai",
+    "questions": [
+        "Ông lão trước khi nhắm mắt muốn con trai mình trở thành người như thế nào?",
+        "Người con đã vất vả làm lụng và tiết kiệm như thế nào để đem tiền về cho cha?",
+        "Khi ông lão vứt tiền vào bếp lửa, người con đã làm gì ? Vì sao?",
+        "Ý nào dưới đây nói lên ý nghĩa của truyện?",
+        "Người ta làm lụng như thế nào thì người ta mới biết quý đồng tiền?"
+    ],
+    "options": [
+        [
+            "Muốn con trai trở thành người có nhiều hũ bạc.",
+            "Muốn con trai trở thành người tự mình kiếm nổi bát cơm.",
+            "Muốn con trai trở thành người ăn nhiều bát cơm.",
+            "Muốn con trai trở thành người kiếm nhiều tiền nhất."
+        ],
+        [
+            "Anh này cầm tiền của mẹ đưa đi chơi mấy hôm, khi chỉ còn vài đồng mới trở về đưa cho cha.",
+            "Đi buôn bán, được bao nhiêu tiền thì để dành không dám ăn uống gì.",
+            "Xay thóc thuê, xay một thúng thóc trả công 2 bát gạo. Anh chỉ dám ăn một bát. Suốt ba tháng dành dụm chín mươi bát gạo, anh bán lấy tiền.",
+            "Đi buôn bán, được bao nhiêu tiền thì tiết kiệm."
+        ],
+        [
+            "Người con vội thọc tay vào lửa lấy tiền ra vì tiền đó do anh vất vả kiếm được.",
+            "Người con vẫn thản nhiên như không vì tiền đó không phải do anh làm ra.",
+            "Người con vội thọc tay vào lửa lấy tiền ra vì đó là tiền mẹ anh cho.",
+            "Người con lấy tiền vì đó là tiền anh lấy từ cha của anh."
+        ],
+        [
+            "Có làm lụng vất vả, người ta mới biết quý đồng tiền.",
+            "Hũ bạc tiêu không bao giờ hết chính là hai bàn tay con người.",
+            "Có làm mới biết quý đồng tiền và con người có thể tạo ra tiền.",
+            "Con người quý đồng tiền do nhu cầu cần thiết."
+        ],
+        [
+            "Vất vả.",
+            "Đồng tiền.",
+            "Làm lụng.",
+            "Kinh doanh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "C",
+        "C"
+    ]
+}

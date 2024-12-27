@@ -1,0 +1,89 @@
+{
+    "article": "1. Giữa cảnh nhộn nhịp của giờ ra chơi, từ phía cổng trường bỗng xuất hiện một chú bộ đội. Chú là bố của Dũng. Chú tìm đến lớp của con mình để chào thầy giáo cũ.\n\n2. Vừa tới cửa lớp, thấy thầy giáo bước ra, chú vội bỏ mũ, lễ phép chào thầy. Thầy nhấc kính, chớp mắt ngạc nhiên. Chú liền nói:\n\n- Thưa thầy, em là Khánh, đứa học trò năm nào trèo cửa sổ lớp bị thầy phạt đấy ạ!\n\nThầy giáo cười vui vẻ:\n\n- À, Khánh! Thầy nhớ ra rồi. Nhưng... hình như hôm ấy thầy có phạt em đâu!\n\n- Vâng, thầy không phạt. Nhưng thầy buồn. Lúc ấy, thầy bảo: \"Trước khi làm việc gì, cần phải nghĩ chứ! Thôi, em về đi, thầy không phạt em đâu.\"\n\n3. Giờ ra chơi đã hết. Dũng xúc động nhìn theo bố đang đi ra phía cổng trường rồi lại nhìn khung cửa sổ lớp học. Em nghĩ: bố cũng có lần mắc lỗi, thầy không phạt, nhưng bố nhận đó là hình phạt và nhớ mãi. Nhớ để không bao giờ mắc lại nữa.",
+    "questions": [
+        "Bố Dũng đến trường học để làm điều gì?",
+        "Khi gặp lại thầy giáo cũ, bố của Dũng đã thể hiện sự kính trọng như thế nào?",
+        "Bố Dũng nhớ nhất kỉ niệm gì với người thầy cũ?",
+        "Thầy cũ nhớ được bố của Dũng là ai?",
+        "Thầy nhớ điều gì về kỉ niệm với học trò Khánh - bố của Dũng nói?",
+        "Nguyên nhân nào dẫn đến thầy không phạt nhưng bố của Dũng lại nhớ là thầy có phạt?",
+        "Dũng đã có suy nghĩ gì khi bố đã ra về?",
+        "Nội dung của bài đọc này là gì?",
+        "Câu chuyện này có ý nghĩa như thế nào?",
+        "Tại sao bố Dũng đến trường học?"
+    ],
+    "options": [
+        [
+            "Để họp phụ hunh đầu năm.",
+            "Để đưa đồ cho Dũng.",
+            "Để chào người thầy giáo cũ.",
+            "Để đưa Dũng đi học."
+        ],
+        [
+            "Vội bỏ mũ, lễ phép chào thầy.",
+            "Khoanh tay, lễ phép chào thầy.",
+            "Vội bỏ mũ ra, ngước nhìn thầy.",
+            "Vẫy tay chào thầy từ đằng xa."
+        ],
+        [
+            "Trốn học bỏ đi chơi.",
+            "Nói dối không làm bài tập về nhà.",
+            "Nói chuyện trong giờ bị thầy phạt.",
+            "Trèo cửa sổ lớp bị thầy phạt."
+        ],
+        [
+            "Khánh.",
+            "Minh.",
+            "Dũng.",
+            "Tiến."
+        ],
+        [
+            "Nhưng hôm ấy thầy có phạt em đâu.",
+            "Thầy còn nhớ em đã khóc rất nhiều vì xấu hổ.",
+            "Đúng rồi, hôm đó thầy đã phạt em rất nặng.",
+            "Không đúng ạ. Em là Minh."
+        ],
+        [
+            "Thầy không phạt nhưng bố của Dũng đã tự phạt bản thân vì thấy có lỗi.",
+            "Thầy không phạt nhưng thầy đã liên lạc với gia đình để báo cho phụ huynh biết.",
+            "Thầy không phạt nhưng thầy buồn và nhắc: \"Trước khi làm việc gì, cần phải nghĩ chứ!\".",
+            "Thầy không phạt nhưng thầy đã bảo bố của Dũng xin lỗi trước lớp."
+        ],
+        [
+            "Bố cũng có lần mắc lỗi hồi còn đi học và đó lại là kỉ niệm đẹp đối với bố.",
+            "Bố của Dũng cũng từng là cậu học trò rất nghịch ngợm từng bị thầy trách phạt.",
+            "Bố cũng có lần mắc lỗi ở trường học và từng bị thầy trách phạt.",
+            "Bố cũng có lần mắc lỗi, thầy không trách phạt nhưng bố nhận đó là hình phạt và nhớ mãi."
+        ],
+        [
+            "Chú bộ đội cùng bạn bè trở lại thăm ngôi trường xưa và các thầy cô.",
+            "Chú bộ đội trở lại trường xưa thăm người thầy giáo cũ, người thầy ấy hiện cũng đang dạy con trai của chú.",
+            "Chú bộ đội và con trai gặp lại người thầy cũ trên đường đi làm.",
+            "Chú bộ đội đưa con trai đi học, ngôi trường mà chú từng học tại đó."
+        ],
+        [
+            "Câu chuyện cho thấy chú bộ đội rất yêu quý con trai của mình.",
+            "Câu chuyện cho thấy chú bộ đội hay dạy cho con trai những bài học ý nghĩa.",
+            "Câu chuyện cho thấy được người học trò cũ ngày nào cũng thương nhớ trường cũ.",
+            "Câu chuyện cho thấy lòng biết ơn và kính trọng của chú bộ đội với người thầy cũ."
+        ],
+        [
+            "Để họp phụ huynh đầu năm.",
+            "Để đưa đồ cho Dũng.",
+            "Để đưa Dũng đi học.",
+            "Để chào người thầy giáo cũ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "A",
+        "A",
+        "C",
+        "D",
+        "B",
+        "D",
+        "D"
+    ]
+}

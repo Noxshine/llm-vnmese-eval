@@ -1,0 +1,97 @@
+{
+    "article": "1. Bạn Na là một cô bé tốt bụng. Ở lớp, ai cũng mến em. Em gọt bút chì giúp bạn Lan. Em cho bạn Minh nửa cục tẩy. Nhiều lần, em làm trực nhật giúp các bạn bị mệt... Na chỉ buồn vì em chưa học giỏi.\n\n2. Cuối năm học, cả lớp bàn tán về điểm thi và phần thưởng. Riêng Na chỉ lặng yên nghe các bạn. Em biết mình chưa giỏi môn nào. \n\nMột buổi sáng, vào giờ ra chơi, các bạn trong lớp túm tụm bàn bạc điều gì đó vẻ bí mật lắm. Rồi các bạn kéo nhau đến gặp cô giáo.\n\nCô giáo cho rằng sáng kiến của các bạn rất hay.\n\n3. Ngày tổng kết năm học, từng học sinh giỏi bước lên bục nhận phần thưởng. Cha mẹ các em cũng hồi hộp. Bất ngờ, cô giáo nó:\n\n- Bây giờ cô sẽ trao một phần thưởng đặc biệt. Đây là phần thưởng cả lớp đề nghị tặng bạn Na. Na học chưa giỏi nhưng em có tấm lòng thật đáng quý.\n\nNa không hiểu mình có nghe nhầm không. Đỏ bừng mặt, cô bé đứng dậy bước lên bục. Tiếng vỗ tay vang dậy. Mẹ của Na lặng lẽ chấm khăn trên đôi mắt đỏ hoe.",
+    "questions": [
+        "Bạn Na là cô bé như thế nào?",
+        "Bạn Na là cô bé như thế nào?",
+        "Tại sao bạn Na lại buồn?",
+        "Biểu hiện của Na như thế nào khi các bạn bàn tán về điểm thi và phần thưởng?",
+        "Vì sao Na chỉ lặng yên nghe các bạn bàn tán về điểm thi và phần thưởng?",
+        "Điều mà các bạn của Na đã bí mật bàn bạc là gì?",
+        "Cô giáo có đồng ý với sáng kiến của cả lớp là trao cho Na phần thưởng đặc biệt không?",
+        "Vì sao Na được nhận phần thưởng đặc biệt?",
+        "Khi nhận phần thưởng, Na có biểu hiện như thế nào?",
+        "Mẹ của Na có biểu hiện như thế nào khi lên nhận thưởng?",
+        "Các bạn của Na đã bí mật bàn bạc về điều gì?"
+    ],
+    "options": [
+        [
+            "Ích kỷ.",
+            "Học giỏi.",
+            "Tốt bụng.",
+            "Chăm chỉ."
+        ],
+        [
+            "Ích kỷ.",
+            "Học giỏi.",
+            "Tốt bụng.",
+            "Chăm chỉ."
+        ],
+        [
+            "Vì không được các bạn cảm ơn.",
+            "Vì các bạn không giúp đỡ em.",
+            "Vì chưa giúp được nhiều bạn.",
+            "Vì em chưa học giỏi."
+        ],
+        [
+            "Vui vì đã giúp đỡ các bạn học giỏi.",
+            "Tự hào vì mình cũng có thưởng.",
+            "Cùng bàn tán sôi nổi với các bạn.",
+            "Chỉ lặng yên nghe các bạn."
+        ],
+        [
+            "Vì Na không vui khi không được phần thưởng.",
+            "Vì em thích lắng nghe các bạn nói chuyện.",
+            "Vì em biết mình chưa giỏi môn nào.",
+            "Vì em muốn biết các bạn có đang nhắc đến mình không."
+        ],
+        [
+            "Mua quà tặng Na vì đã giúp đỡ các bạn trong lớp.",
+            "Mua tặng bạn Na một phần quà để bạn bớt buồn.",
+            "Xin cô giáo trao cho Na phần thưởng đặc biệt.",
+            "Na nhận phần thưởng từ các bạn thân của mình."
+        ],
+        [
+            "Cô giáo có đồng ý.",
+            "Không.",
+            "Chờ suy nghĩ thêm vài ngày nữa.",
+            "Các bạn trong lớp không đồng ý."
+        ],
+        [
+            "Vì tuy học chưa giỏi nhưng có tấm lòng thật đáng quý.",
+            "Vì Na đã xin với cô cho mình được nhận phần thưởng đặc biệt.",
+            "Vì Na lười học lại hay trốn học đi chơi.",
+            "Vì Na vừa học giỏi, nhà lại có điều kiện."
+        ],
+        [
+            "Khóc sụt sùi vì quá vui mừng và cảm động.",
+            "Không biết có nghe nhầm không, đỏ bừng mặt, đứng dậy bước lên bục.",
+            "Vui và hạnh phúc vì được cô và các bạn tặng cho phần thưởng đặc biệt ấy.",
+            "Ngạc nhiên, ngỡ ngàng, không tin vào mắt mình."
+        ],
+        [
+            "Lặng lẽ chấm khăn lên đôi mắt đỏ hoe.",
+            "Cười hạnh phúc, lòng tràn ngập niềm tự hào.",
+            "Khuôn mặt rạng rỡ, vui mừng cho con.",
+            "Lặng lẽ dõi theo từng bước của Na."
+        ],
+        [
+            "Đề nghị với cô giáo về phần thưởng đặc biệt cho Na.",
+            "Mua tặng bạn Na một phần quà.",
+            "Phần thưởng đặc biệt cho cô giáo.",
+            "Na nhận được phần quà từ hội phụ huynh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "D",
+        "D",
+        "C",
+        "C",
+        "A",
+        "A",
+        "B",
+        "A",
+        "C"
+    ]
+}

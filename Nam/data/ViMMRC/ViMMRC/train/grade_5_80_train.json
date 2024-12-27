@@ -1,0 +1,65 @@
+{
+    "article": "A-ri-ôn là một nghệ sĩ nổi tiếng của nước Hi Lạp cổ. Trong một cuộc thi ca hát ở đảo Xi-xin, ông đoạt giải nhất với nhiều tặng vật quý giá. Trên đường trở về kinh đô, đến giữa biển thì đoàn thủy thủ trên chiếc tàu chở ông nổi lòng tham, cướp hết tặng vật và đòi giết A-ri-ôn. Nghệ sĩ xin được hát bài ông yêu thích trước khi chết. Bọn cướp đồng ý. A-ri-ôn đứng trên boong tàu cất tiếng hát, đến đoạn mê say nhất, ông nhảy xuống biển. Bọn cướp cho rằng A-ri-ôn đã chết liền dong buồm trở về đất liền.\n\nNhưng những tên cướp đã nhầm. Khi tiếng đàn, tiếng hát của A-ri-ôn vang lên, có một đàn cá heo đã bơi đến vây quanh tàu, say sưa thưởng thức tiếng hát của người nghệ sĩ tài ba. Bầy cá heo đã cứu A-ri-ôn. Chúng đưa ông trở về đất liền nhanh hơn cả tàu của bọn cướp. A-ri-ôn tâu với vua toàn bộ sự việc nhưng nhà vua không tin, sai giam ông lại.\n\nHai hôm sau, bọn cướp mới về tới đất liền. Vua cho gọi chúng vào gặng hỏi về cuộc hành trình. Chúng bịa chuyện A-ri-ôn ở lại đảo. Đúng lúc đó A-ri-ôn bước ra. Đám thủy thủ sửng sốt, không tin vào mắt mình. Vua truyền lệnh trị tội bọn cướp và trả lại tự do cho A-ri-ôn.\n\nSau câu chuyện kì lạ ấy, ở nhiều thành phố Hi Lạp và La Mã đã xuất hiện những đồng tiền khắc hình một con cá heo cõng người trên lưng. Có lẽ đó là đồng tiền được  ra đời để ghi lại tình cảm yêu quý con người của loài cá thông minh.",
+    "questions": [
+        "A-ri-ôn là nghệ sĩ nổi tiếng trong lĩnh vực nghệ thuật nào?",
+        "Ai là người khiến A-ri-ôn phải nhảy xuống biển?",
+        "Vì sao nghệ sĩ A-ri-ôn phải nhảy xuống biển?",
+        "Qua câu chuyện, em thấy cá heo đáng yêu, đáng quý ở điểm nào?",
+        "Những đồng tiền ở Hi Lạp và La Mã có hình ảnh gì?",
+        "Hành động của đám thủy thủ như thế nào?",
+        "Dòng nào phát biểu đúng nhất nội dung chính của câu chuyện trên?"
+    ],
+    "options": [
+        [
+            "Hội họa.",
+            "Văn học.",
+            "Điêu khắc.",
+            "Âm nhạc."
+        ],
+        [
+            "Những người thủy thủ trên chiếc tàu chở ông.",
+            "Những khán giả đi cùng cổ vũ cho ông.",
+            "Những nghệ sĩ khác không được giải nhất như ông.",
+            "Những người giúp việc của ông trên tàu."
+        ],
+        [
+            "Vì đoàn thủy thủ uy hiếp, đe dọa tinh thần đối với A-ri-ôn.",
+            "Vì A-ri-ôn là nghệ sĩ đại tài, nếu ông sống sẽ là đại họa với quốc gia.",
+            "Vì đến giữa biển thì đoàn thủy thủ trên chiếc tàu trở ông nổi lòng tham, cướp hết tặng vật và đòi giết ông.",
+            "Vì A-ri-ôn không đạt giải trong cuộc thi, ông chết để thể hiện sự bất mãn của mình."
+        ],
+        [
+            "Cá heo biết thưởng thức nghệ thuật, biết cứu giúp nghệ sĩ và là bạn tốt của con người.",
+            "Cá heo biết cứu giúp người nghệ sĩ.",
+            "Cá heo là người bạn tốt của con người.",
+            "Cá heo biết thưởng thức nghệ thuật."
+        ],
+        [
+            "Hình ảnh một con cá heo cõng người trên lưng.",
+            "Hình ảnh những chú cá heo thông minh.",
+            "Hình ảnh A-ri-ôn cảm ơn đàn cá heo.",
+            "Hình ảnh A-ri-on - người nghệ sĩ tài ba."
+        ],
+        [
+            "Tráo trở, bất nhân.",
+            "Độc ác, tham lam.",
+            "Nhu nhược, bỉ ổi.",
+            "Hèn nhát, bạo tàn."
+        ],
+        [
+            "Câu chuyện ca ngợi tình cảm yêu quý, gắn bó giữa con người và loài cá heo thông minh.",
+            "Câu chuyện nhắc nhở chúng ta phải biết sống tốt, biết yêu thương mọi người.",
+            "Câu chuyện ca ngợi tài hoa của người nghệ sĩ A-ri-ôn.",
+            "Câu chuyện là lời lên tiếng tố cáo bọn thủy thủ độc ác, tham lam."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "C",
+        "A",
+        "A",
+        "B",
+        "A"
+    ]
+}

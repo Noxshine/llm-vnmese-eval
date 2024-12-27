@@ -1,0 +1,73 @@
+{
+    "article": "Ngày xửa ngày xưa, có một vương quốc buồn chán kinh khủng chỉ vì cư dân ở đó không ai biết cười. Nói chính xác là chỉ có rất ít trẻ con cười được, còn người lớn thì hoàn toàn không. Buổi sáng, mặt trời không muốn dậy, chim không muốn hót, hoa trong vườn chưa nở đã tàn. Ra đường gặp toàn những gương mặt rầu rĩ, héo hon. Ngay kinh đô là nơi nhộn nhịp cũng chỉ nghe thấy tiếng ngựa hí, tiếng sỏi đá lạo xạo dưới bánh xe, tiếng gió thở dài trên những mái nhà... Nhà vua, may sao, vẫn còn tỉnh táo để nhận ra mối nguy cơ đó. Ngài họp triều đình và cử ngay một viên đại thần đi du học, chuyên về môn cười.\n\nMột năm trôi qua, thời hạn học tập đã hết, nhà vua thân hành dẫn các quan ra tận cửa ải đón vị đại thần du học trở về. Ai cũng hồi hộp mong nhìn thấy nụ cười mầu nhiệm của ông ta. Nhưng họ đã thất vọng. Vị đại thần vừa xuất hiện đã vội rập đầu, tâu lạy:\n\n- Muôn tâu Bệ hạ, thần xin chịu tội. Thần đã cố gắng hết sức nhưng học không vào.\n\nCác quan nghe vậy ỉu xìu, còn nhà vua thì thở dài sườn sượt. Không khí của triều đình thật là ảo não. Đúng lúc đó, một viên thị vệ hớt hải chạy vào:\n\n- Tâu Bệ hạ! Thần vừa tóm được một kẻ đang cười sằng sặc ngoài đường.\n\n- Dẫn nó vào! - Nhà vua phấn khởi ra lệnh.",
+    "questions": [
+        "Đặc điểm của vương quốc của nhà vua có gì đặc biệt?",
+        "Trong vương quốc này, chỉ có ai cười được?",
+        "Tại sao cuộc sống ở vương quốc nọ lại buồn chán như vậy?",
+        "Người nào đã nhận ra những \"mối nguy cơ\" về vương quốc buồn tẻ?",
+        "Nhà vua đã làm như thế nào để thay đổi tình hình?",
+        "Kết quả của việc vua cử vị đại thần đi du học như thế nào?",
+        "Từ \"du học\" có nghĩa là gì?",
+        "Ở cuối truyện, tên lính vào tâu với vua vừa xảy ra việc gì?"
+    ],
+    "options": [
+        [
+            "Không ai biết cười.",
+            "Không ai làm việc.",
+            "Không ai biết ngủ.",
+            "Không ai biết khóc."
+        ],
+        [
+            "Phần lời trẻ con.",
+            "Các vị đại thần.",
+            "Số ít trẻ con.",
+            "Những người nông dân."
+        ],
+        [
+            "Vì cư dân ở đó không ai biết cười.",
+            "Vì cư dân ở đó vừa trải qua cuộc chiến tranh.",
+            "Vì thiên nhiên và cuộc sống quá tàn khốc.",
+            "Vì những người dân bị bóc lột thậm tệ."
+        ],
+        [
+            "Các con vật.",
+            "Người dân.",
+            "Nhà vua.",
+            "Các vị đại thần."
+        ],
+        [
+            "Nhà vua cử đại thần đi du học, chuyên về môn cười.",
+            "Nhà vua cử đại thần đi du học, chuyên về chữa bệnh.  .",
+            "Nhà vua cử đại thần đi du học, chuyên về nghiên cứu.",
+            "Nhà vua cử đại thần đi du học, chuyên về nỗi buồn."
+        ],
+        [
+            "Viên đại thần xin chịu tội vì đã chọn học môn khác.",
+            "Viên đại thần xin chịu tội vì đã tiêu hết tiền mà vua ban.",
+            "Viên đại thần xin chịu tội vì không học môn cười được.",
+            "Viên đại thần xin chịu tội vì không có môn học nào như thế."
+        ],
+        [
+            "Đi học cách giúp đỡ mọi người.",
+            "Đi làm ăn xa.",
+            "Đi học xa (đi nước ngoài).",
+            "Đi chơi xa (đi nước ngoài)."
+        ],
+        [
+            "Cả vương quốc đã chìm ngập trong chết chóc.",
+            "Có người tâu với vua biết cách dạy mọi người cười.",
+            "Có kẻ đang cười sằng sặc ngoài đường.",
+            "Ngày càng nhiều kẻ ủ rũ, không biết cười."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "C",
+        "C"
+    ]
+}

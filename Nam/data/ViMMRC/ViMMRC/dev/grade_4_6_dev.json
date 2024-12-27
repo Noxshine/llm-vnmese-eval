@@ -1,0 +1,49 @@
+{
+    "article": "Ngày nọ, bố tôi lái xe đưa ông chủ đi tham dự một buổi họp quan trọng tại một thành phố khác. Trong lúc nghỉ ở giữa đường, mấy cậu bé đang chơi quanh đấy hiếu kì kéo đến vây quanh, ngắm nghía và sờ mó chiếc xe sang trọng. Thấy một cậu bé trong nhóm đi cà nhắc vì bị tật ở chân, ông chủ liền bước ra khỏi xe, đến chỗ cậu bé và hỏi:\n\n- Cháu có muốn đôi chân được lành lặn bình thường không?\n\n- Chắc chắn là muốn ạ! Nhưng sao ông lại hỏi cháu như thế? – Cậu bé ngạc nhiên trước sự quan tâm của người xa lạ.\n\n…Chiều hôm đó, theo lời dặn của ông chủ, bố tôi đã đến gặp gia đình cậu bé có đôi chân tật nguyền ấy.\n\n- Chào chị! – Bố tôi lên tiếng trước. - Chị có phải là mẹ cháu Giêm–mi không ? Tôi đến đây để xin phép chị cho chúng tôi đưa Giêm –mi đi phẫu thuật để đôi chân cháu trở lại bình thường.\n\n- Thế điều kiện của ông là gì? Đời này chẳng có ai có gì cho không cả. – Mẹ Giêm–mi nghi ngờ nói.\n\nTrong gần một tiếng đồng hồ sau đó, bố tôi kiên nhẫn giải thích mọi chuyện và trả lời mọi câu hỏi của hai vợ chồng. Cuối cùng, hai người đồng ý cho Giêm –mi phẫu thuật.\n\nKết quả cuối cùng hết sức tốt đẹp. Đôi chân Giêm –mi đã khỏe mạnh và lành lặn trở lại. Giêm –mi kể cho bố tôi nghe ước mơ được trở thành doanh nhân thành công và sẽ giúp đỡ những người có hoàn cảnh không may mắn như cậu.\n\nVề sau, cậu bé Giêm–mi may mắn ấy trở thành một nhà kinh doanh rất thành đạt như ước mơ của mình. Đến tận khi qua đời, theo tôi biết, Giêm –mi vẫn không biết ai là người đã giúp đỡ ông chữa bệnh hồi đó… Nhiều năm trôi qua, tôi luôn ghi nhớ lời ông chủ đã nói với bố tôi: “Cho đi mà không cần phải nhận lại sẽ là niềm vui lâu dài”.",
+    "questions": [
+        "Cậu bé trong câu chuyện gặp điều không may gì?",
+        "Ông chủ đã làm gì cho cậu bé?",
+        "Tại sao ông chủ lại bảo người lái xe riêng của mình làm việc đó?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Giêm-mi trở thành người như thế nào?"
+    ],
+    "options": [
+        [
+            "Bị tật ở chân.",
+            "Bị ốm nặng.",
+            "Bị khiếm thị.",
+            "Bị tật ở tay."
+        ],
+        [
+            "Cho cậu một số tiền lớn để cậu có vốn làm ăn buôn bán.",
+            "Đến nhà chữa bệnh cho cậu.",
+            "Nói với người lái xe riêng đến nhà thuyết phục cha mẹ cậu và đưa cậu bé đi chữa bệnh.",
+            "Dẫn cậu bé đi chơi."
+        ],
+        [
+            "Vì ông không có thời gian.",
+            "Vì ông không muốn gia đình người được giúp đỡ biết mình.",
+            "Vì ông ngại xuất hiện.",
+            "Vì ông nội xuất hiện."
+        ],
+        [
+            "Hãy giúp đỡ người khác một cách thầm lặng mà không cần đòi hỏi phải được cảm ơn.",
+            "Hãy giúp đỡ người khác nếu mình giàu có.",
+            "Hãy giúp đỡ các trẻ em nghèo, bệnh tật.",
+            "Hãy yêu thương nhân loại."
+        ],
+        [
+            "Một doanh nhân rất thành đạt.",
+            "Một giáo sư.",
+            "Một nhà giáo ưu tú.",
+            "Một bác sĩ."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "A",
+        "A"
+    ]
+}

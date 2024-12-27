@@ -1,0 +1,49 @@
+{
+    "article": "Tại đại hội Ô-lim –píc dành cho người khuyết tật, một học sinh tên Giôn, 14 tuổi, mắc hội chứng Đao(*) nên mắt nhìn không rõ. Giôn đăng kí chạy môn 400 mét.\n\nVào ngày thi, sau khi đăng kí để nhận đường chạy và số hiệu, thì cặp kính của Giôn biến mất, nhưng cậu vẫn nói rất quyết tâm:\n\n- Em sẽ gắng hết sức để giành huy chương vàng.\n\nKhi có tín hiệu xuất phát, Giôn đã khởi đầu rất tốt. Đột nhiên một vận động viên khác chạy lấn vào đường đua của Giôn khiến em không nhìn thấy đường chạy và ngã vào khu vực đá dăm bên cạnh đường đua.\n\nThế nhưng Giôn đã gượng đứng dậy, nheo mắt nhìn đường đua và tiếp tục chạy dù chân trái khập khiễng vì đau. Cậu tiếp tục chạy qua khúc cua một cách bền bỉ. Khi gần bắt kịp vận động viên cuối cùng, Giôn lại bị trượt chân và ngã. Cậu nằm khá lâu. Nhưng Giôn lại gượng đứng dậy. Lúc này, sức chạy của Giôn đã giảm đi rất nhiều, chân tay cậu bắt đầu run lẩy bẩy, người lả đi vì kiệt sức. Khi chỉ còn cách đích khoảng 10 mét, cậu lại bị ngã một lần nữa.\n\nBỗng nhiên, mẹ của Giôn đến đứng gần vạch đích và gọi to:\n\n- Giôn! Mẹ ở đây, con có nghe thấy tiếng mẹ không?\n\nMặc cho khuỷu tay, đầu gối đang bị trầy xước và rớm máu, Giôn vẫn khập khiễng tiến về phía vạch đích, hướng theo tiếng gọi của người mẹ.\n\n- Phía này, con yêu ơi! – Mẹ cậu gọi.\n\nGương mặt của cậu trông rạng rỡ và vui sướng hẳn lên khi băng qua vạch đích và ngã vào vòng tay âu yếm của mẹ.\n\nGiôn đã không chiến thắng trên đường đua nhưng niềm tin chiến thắng đã cháy bỏng, tỏa sáng trong cậu. Giôn thật xứng đáng nhận cùng một lúc hai huy chương về bản lĩnh và niềm tin; một huy chương khác cho sự quyết tâm tuyệt vời – không bao giờ bỏ cuộc .",
+    "questions": [
+        "Cậu bé Giôn trong câu chuyện tham gia thi đấu môn thể thao nào?",
+        "Cậu đã gặp phải rủi ro gì khi chuẩn bị thi đấu?",
+        "Cậu bé bị ngã mấy lần trong khi chạy đua?",
+        "Cậu đã làm thế nào để có thể về đúng đích?",
+        "Câu chuyện muốn nói với em điều gì?"
+    ],
+    "options": [
+        [
+            "Chạy việt dã.",
+            "Chạy 400 mét.",
+            "Chạy 1000 mét.",
+            "Chạy 2000 mét."
+        ],
+        [
+            "Cậu bị mất kính.",
+            "Cậu bị kém mắt.",
+            "Cậu bị đến muộn.",
+            "Cậu bị đi trễ."
+        ],
+        [
+            "Một lần.",
+            "Hai lần.",
+            "Ba lần.",
+            "Bốn lần."
+        ],
+        [
+            "Nhìn vào hai vạch sơn trắng của đường chạy đua để chạy cho đúng.",
+            "Nghe theo sự chỉ dẫn của huấn luyện viên.",
+            "Nghe theo tiếng mẹ gọi ở vạch đích.",
+            "Nghe tiếng bên ngoài nhà."
+        ],
+        [
+            "Cần cẩn thận, chuẩn bị kĩ lưỡng trước khi thi đấu.",
+            "Cần quyết tâm thi đấu đến cùng.",
+            "Cần có bản lĩnh, niềm tin và quyết tâm thực hiện mọi việc mình đã đề ra.",
+            "Cần phải siêng năng và cần cù."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "C",
+        "C"
+    ]
+}

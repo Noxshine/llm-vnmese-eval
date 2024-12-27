@@ -1,0 +1,49 @@
+{
+    "article": "Tết trung thu, cu Chắt được món quà. Đó là một chàng kị sĩ rất bảnh, cưỡi ngựa tía, dây cương vàng và một nàng công chúa mặt trắng, ngồi trong mái lầu son. Chắt còn một đồ chơi nữa là chú bé bằng đất em nặn lúc đi chăn trâu.\n\nCu Chắt cất đồ chơi vào cái nắp cháp hỏng. Hai người bột và chú bé Đất làm quen với nhau. Sáng hôm sau, chàng kị sĩ phàn nàn với nàng công chúa :\n\n- Cu Đất thật đoảng. Mới chơi với nó một tí mà chúng mình đã bẩn hết quần áo đẹp.\n\nCu Chắt bèn bỏ hai người bột vào cái lọ thủy tinh.\n\nCòn một mình, chú bé Đất nhớ quê, tìm đường ra cánh đồng. Mới đến chái bếp, gặp trời đổ mưa, chú ngấm nước, rét quá. Chú bèn vào bếp, cơi đống rấm ra sưởi. Ban đầu thấy ấm và khoan khoái. Lúc sau nóng rát cả chân tay. Chú sợ, lùi lại.\n\nÔng Hòn Rấm cười bảo:\n\n- Sao chú mày nhát thế? Đất có thể nung trong lửa kia mà !\n\nChú bé Đất ngạc nhiên hỏi lại:\n\n- Nung ấy ạ?\n\n- Chứ sao? Đã là người thì phải dám xông pha, làm được nhiều việc có ích. Nghe thế, chú bé Đất không thấy sợ nữa. Chú vui vẻ bảo:\n\n- Nào, nung thì nung !\n\nTừ đấy, chú thành Đất Nung.",
+    "questions": [
+        "Cu Chắt có những đồ chơi gì?",
+        "Chơi với ai một tí mà chúng mình đã bẩn hết quần áo đẹp?",
+        "Không gian bài đọc diễn ra trong dịp nào?",
+        "Cu Chắc bỏ hai người bột vào đâu?",
+        "Tại sao chú Đất nhờ quê?"
+    ],
+    "options": [
+        [
+            "Chàng kị sĩ, nàng công chúa.",
+            "Nàng công chúa, chú bé đất.",
+            "Chàng kị sĩ, nàng công chúa, chú bé đất.",
+            "Chàng kị sĩ và chú bé đất."
+        ],
+        [
+            "Cây kiếm.",
+            "Cục Đất.",
+            "Búp bê.",
+            "Làng."
+        ],
+        [
+            "Tết trung thu.",
+            "Tết Nguyên Đán.",
+            "Lễ Quốc khánh.",
+            "Đất nước trọn niềm vui."
+        ],
+        [
+            "Lọ thuỷ tinh.",
+            "Lọ nước hoa.",
+            "Sọt rác.",
+            "Bếp lửa."
+        ],
+        [
+            "Còn ở một mình.",
+            "Không có quà.",
+            "Không tìm được người quen.",
+            "Do cậu Chắt đối xử không tốt."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "A",
+        "A"
+    ]
+}

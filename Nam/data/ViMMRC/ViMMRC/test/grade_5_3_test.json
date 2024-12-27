@@ -1,0 +1,49 @@
+{
+    "article": "Một cậu bé hỏi mẹ:\nTại sao mẹ lại khóc?\n\nNgười mẹ đáp:\nVì mẹ là một phụ nữ.\nCon không hiểu. – Cậu bé ngơ ngác.\n\nNgười mẹ ôm chặt con và âu yếm:\nCon không bao giờ hiểu được nhưng nó là như thế đấy…\nThời gian trôi đi. Câu bé lại hỏi cha:\n\nSao mẹ lại khóc hả cha ?\nTất cả phụ nữ đều như thế, con yêu ạ. – Người cha mỉm cười đáp.\nKhi cậu bé trở thành một người đàn ông, anh vẫn thường tự hỏi: “ Tại sao phụ nữ lại khóc nhỉ?”\n\nCuối cùng anh ta tìm đến một nhà hiền triết. Nghe hỏi, nhà hiền triết đáp: “ Khi Thượng đế tạo ra phụ nữ, Người đã làm cho họ thật đặc sắc. Người làm cho họ có đôi vai thật cứng cáp để che chở được cả thế giới, đôi tay họ mát lành để săn sóc yêu thương và cho họ một sức mạnh tiềm ẩn để mang nặng đẻ đau.\n\nNgười cho họ một sự dũng cảm để nuôi dưỡng và chăm sóc gia đình, người thân, bạn bè ngay cả trong những lúc mọi người dường như buông trôi, dù có nhọc nhằn đến mấy đi nữa họ cũng không bao giờ than thở… Người cho họ tình cảm để họ yêu thương con cái, ngay cả lúc con họ gây cho họ đau khổ. \n\nNgười cho họ sức mạnh để chăm sóc người chồng của họ, để bảo vệ trái tim anh ta… Người cho họ sự khôn ngoan để biết rằng một người chồng tốt sẽ không bao giờ làm tổn thương vợ mình, hiểu rõ sự chịu đựng của người phụ nữ và cô ta luôn thấp thoáng sau mỗi sự thành công của người chồng.\n\nĐể làm được những việc nhọc nhằn đó, Người đã cho họ những giọt nước mắt để rơi, để họ sử dụng bất cứ lúc nào và đấy là điểm yếu duy nhất của họ. Khi con thấy họ khóc, hãy nói với họ con yêu họ biết bao và nếu họ vẫn khóc, con hãy làm trái tim họ được bình yên.”",
+    "questions": [
+        "Theo lời người nhà hiền triết, người phụ nữ được Thượng đế tạo nên có những điểm tốt đẹp đặc sắc nào?",
+        "Nhà hiền triết giải thích tại sao phụ nữ lại khóc?",
+        "Nhà hiền triết khuyên chúng ta nên làm gì khi thấy phụ nữ khóc?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Từ nào không thể thay thế cho từ Thượng đế trong câu chuyện trên?"
+    ],
+    "options": [
+        [
+            "Người làm cho họ có đôi vai thật cứng cáp để che chở được cả thế giới, đôi tay họ mát lành để săn sóc yêu thương và cho họ một sức mạnh tiềm ẩn để mang nặng đẻ đau.",
+            "Người phụ nữ rất dễ rơi nước mắt.",
+            "Người phụ nữ có sự dũng cảm để nuôi dưỡng và chăm sóc gia đình, tình cảm để họ yêu thương con cái, sức mạnh để chăm sóc người chồng, có sự khôn ngoan và biết chịu đựng.",
+            "Phụ nữ luôn được xem là phái yếu."
+        ],
+        [
+            "Vì mắt của họ có nhiều nước mắt hơn đàn ông.",
+            "Họ khóc để làm vơi đi những nhọc nhằn và đau khổ mà họ phải chịu đựng trong cuộc sống.",
+            "Để làm cho người khác thương xót mình.",
+            "Vì họ dễ khóc."
+        ],
+        [
+            "Nói với họ những lời yêu mến và làm trái tim họ được bình yên.",
+            "Nắm lấy tay họ và nói lời an ủi.",
+            "Để yên cho họ khóc và đừng làm phiền đến họ.",
+            "Hãy vỗ về họ."
+        ],
+        [
+            "Người phụ nữ rất nhạy cảm, dễ bị tổn thương và dễ khóc.",
+            "Người phụ nữ rất tài giỏi, hãy dành cho họ quyền lãnh đạo.",
+            "Người phụ nữ có sức mạnh, giàu lòng yêu thương và đức hi sinh.",
+            "Người phụ nữ mong manh và dễ vỡ."
+        ],
+        [
+            "Ngọc Hoàng.",
+            "Trời.",
+            "Tạo hoá.",
+            "Tự nhiên."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "C",
+        "D"
+    ]
+}

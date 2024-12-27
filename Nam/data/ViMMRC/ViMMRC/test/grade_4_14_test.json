@@ -1,0 +1,49 @@
+{
+    "article": "Dòng sông mới điệu làm sao\nNắng lên mặc áo lụa đào thướt tha\nTrưa về trời rộng bao la\nÁo xanh sông mặc như là mới may\nChiều trôi thơ thẩn áng mây\nCài lên màu áo hây hây ráng vàng\nĐêm thêu trước ngực vầng trăng\nTrên nền nhung tím trăm ngàn sao lên\nKhuya rồi, sông mặc áo đen\nNép trong rừng bưởi lặng yên đôi bờ...\nSáng ra thơm đến ngẩn ngơ\nDòng sông đã mặc bao giờ áo hoa\nNgước lên bỗng gặp la đà\nNgàn hoa bưởi trắng nở nhòa áo ai...",
+    "questions": [
+        "Nắng lên thì dòng sông mặc cái gì?",
+        "Vì sao tác giả có thái độ \"ngẩn ngơ\" trước dòng sông?",
+        "Đêm khuya, sông mặc áo gì?",
+        "Nội dung của bài thơ này là gì?",
+        "Thái độ của tác giả khi viết bài thơ như thế nào?"
+    ],
+    "options": [
+        [
+            "Áo xanh.",
+            "Áng mây.",
+            "Áo đen.",
+            "Áo lụa đào."
+        ],
+        [
+            "Vì tác giả đang hồi tưởng lại những hồi ức về dòng sông quê hương.",
+            "Vì tác giả sững sờ trước vẻ đẹp của dòng sông quê hương.",
+            "Vì tác giả đang buồn vì nhớ quê hương.",
+            "Vì tác giả đang quên điều gì đó."
+        ],
+        [
+            "Áo đen.",
+            "Áo vàng.",
+            "Áo tím.",
+            "Áo xanh."
+        ],
+        [
+            "Ca ngợi vẻ đẹp của con người quê hương.",
+            "Ca ngợi vẻ đẹp của thiên nhiên đất nước.",
+            "Ca ngợi sức sống kì diệu của quê hương.",
+            "Ca ngợi vẻ đẹp của dòng sông quê hương."
+        ],
+        [
+            "Bài thơ cho thấy sự gắn bó của dòng sông quê hương với cuộc sống của con người.",
+            "Bài thơ cho thấy nỗi nhớ của người con xa quê đối với quê hương.",
+            "Bài thơ cho thấy tình yêu tha thiết của tác giả đối với dòng sông quê mình.",
+            "Bài thơ cho thấy niềm ngưỡng mộ của tác giả về dòng sông quê mình."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "D",
+        "C"
+    ]
+}

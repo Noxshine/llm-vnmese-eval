@@ -1,0 +1,97 @@
+{
+    "article": "1. Nai Nhỏ xin phép cha được đi chơi xa cùng bạn. Cha Nai Nhỏ nói:\n\n- Cha không ngăn cản con. Nhưng con hãy kể cho cha nghe về bạn của con. \n\n2. - Vâng! - Nai Nhỏ đáp - Có lần, chúng con gặp một hòn đá to chặn lối. Bạn con chỉ hích vai, hòn đá đã lăn sang một bên. \n\nCha Nai Nhỏ hài lòng nói:\n\n- Bạn con thật khỏe. Nhưng cha vẫn lo cho con.\n\n3. - Một lần khác, chúng con đang đi dọc bờ sông tìm nước uống thì thấy lão Hổ hung dữ đang rình sau bụi cây. Bạn con đã nhanh trí kéo con chạy nhanh như bay.\n\n- Bạn con thật thông minh và nhanh nhẹn. Nhưng cha vẫn còn lo.\n\n4. Nai nhỏ nói tiếp:\n\n- Lần khác nữa, chúng con đang nghỉ trên một bãi cỏ xanh thì thấy gã Sói hung ác đuổi bắt cậu Dê Non. Sói sắp tóm được Dê Non thì bạn con đã kịp lao tới, dùng đôi gạc chắc khỏe húc Sói ngã ngửa.\n\nNghe đến đây, cha Nai Nhỏ mừng rỡ nói:\n\n- Đó chính là điều tốt nhất. Con trai bé bỏng của cha, con có một người bạn như thế thì cha không phải lo lắng một chút nào nữa.",
+    "questions": [
+        "Nai Nhỏ đã xin phép bố đi đâu?",
+        "Bố bạn Nai Nhỏ đã nói gì khi Nai Nhỏ xin đi chơi xa cùng bạn?",
+        "Bạn của Nai Nhỏ có cách xử lý như thế nào khi gặp hòn đá chặn đường?",
+        "Ở bờ sông, bạn của Nai Nhỏ đã làm gì khi gặp Hổ?",
+        "Bạn của Nai Nhỏ đã xử lý như thế nào khi thấy Sói đang đuổi bắt Dê Non?",
+        "Hành động dùng vai hích để đẩy hòn đá chặn đường cho thấy bạn của Nai Nhỏ như thế nào?",
+        "Hành động kéo Nai Nhỏ chạy như bay khi thấy có lão Hổ rình mò cho thấy bạn của Nai Nhỏ như thế nào?",
+        "Hành động húc gã Sói để cứu Dê Non cho bạn của Nai Nhỏ như thế nào?",
+        "Trong bài đọc này, bạn của Nai Nhỏ có những điểm nào tốt?",
+        "Tại sao nói bạn của Nai Nhỏ được đánh giá là một người bạn tốt?",
+        "Biểu hiện của người cha ra sao khi nghe Nai Nhỏ kể những câu chuyện về bạn mình?"
+    ],
+    "options": [
+        [
+            "Được đi du lịch cùng bạn.",
+            "Được đi ăn cùng bạn.",
+            "Được đi chơi xa cùng bạn.",
+            "Được đến nhà bạn chơi."
+        ],
+        [
+            "Cha không ngăn cản con nhưng con hãy kể cho cha nghe về bạn của con.",
+            "Cha không ngăn cản con nhưng hãy để cha đi cùng, bảo vệ các con.",
+            "Cha không ngăn cản con nhưng con hãy rủ thêm nhiều bạn nữa đi cho vui.",
+            "Cha không ngăn cản con nhưng cha muốn biết con đi chơi ở đâu."
+        ],
+        [
+            "Hích vai đẩy hòn đá lăn qua một bên.",
+            "Bảo các bạn đi vòng để tránh hòn đá.",
+            "Nhảy qua hòn đá để đi tiếp.",
+            "Dùng gạc đẩy hòn đá qua một bên."
+        ],
+        [
+            "Nhanh trí bảo Nai Nhỏ cùng bơi qua sông.",
+            "Nhanh trí bảo Nai Nhỏ cảnh giác.",
+            "Nhanh trí kéo Nai Nhỏ chạy như bay.",
+            "Nhanh trí chạy thoát bỏ lại Nai Nhỏ."
+        ],
+        [
+            "Chặn đường Sói, đấu với gã, để cứu Dê Non.",
+            "Lập mưu với Nai Nhỏ, gài bẫy gã Sói để cứu Dê Non.",
+            "Nhanh trí bảo Nai Nhỏ chạy trốn gã Sói.",
+            "Lao tới dùng đôi gạc chắc khỏe húc Sói ngã ngửa."
+        ],
+        [
+            "Yếu đuối.",
+            "Hèn nhát.",
+            "Thông minh.",
+            "Mạnh mẽ."
+        ],
+        [
+            "Chậm chạp và lề mề.",
+            "Khôn lỏi và gian xảo.",
+            "Thông minh và nhanh trí.",
+            "Tử tế và hiền lành."
+        ],
+        [
+            "Hèn nhát và yếu đuối.",
+            "Thông minh và nhanh trí.",
+            "Ngu dốt và ra oai.",
+            "Dũng cảm và tốt bụng."
+        ],
+        [
+            "Cậy có sức khỏe mà cà khịa với cả loài hung dữ.",
+            "Yếu đuối, chậm chạp, hèn  nhát, bỏ bạn khi gặp nguy hiểm.",
+            "Hay rủ bạn đi chơi những nơi nguy hiểm.",
+            "Khỏe khắn, nhanh trí, dũng cảm và sẵn sàng vì bạn khi gặp hoạn nạn."
+        ],
+        [
+            "Vì bạn của Nai Nhỏ rất cao lớn.",
+            "Vì bạn của Nai Nhỏ rất dũng cảm, sẵn sàng giúp đỡ bạn khi gặp hoạn nạn.",
+            "Vì bạn của Nai Nhỏ rất khỏe.",
+            "Vì bạn của Nai Nhỏ rất hay cười, thân thiện với một mình Nai Nhỏ."
+        ],
+        [
+            "Không phải lo lắng nữa và đồng ý cho Nai Nhỏ đi chơi.",
+            "Vẫn còn băn khoăn về sự an toàn của chuyến đi chơi xa.",
+            "Muốn gặp ngay người bạn của Nai Nhỏ để dặn dò cho chuyến đi chơi xa.",
+            "Vẫn chưa tin những câu chuyện mà Nai Nhỏ kể về bạn mình ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "C",
+        "D",
+        "D",
+        "C",
+        "D",
+        "D",
+        "B",
+        "B"
+    ]
+}

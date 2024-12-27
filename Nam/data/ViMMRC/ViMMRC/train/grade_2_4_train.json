@@ -1,0 +1,81 @@
+{
+    "article": "Gần tối, cơn mưa rừng ập xuống. Chiếc xe của chúng tôi bỗng khựng lại. \n\nTứ rú ga mấy lần nhưng xe không nhúc nhích. Hai bánh trước đã vục xuống vũng lầy. Chúng tôi đành ngồi thu lu trong xe, chịu rét qua đêm. \n\nGần sáng, trời tạnh. Tứ nhảy xuống nhìn, lắc đầu:\n\n- Thế này thì hết cách rồi!\n\nBỗng Cần kêu lên:\n\n- Chạy đi! Voi rừng đấy!\n\nMọi người vội vã nép vào lùm cây ven đường.\n\nMột con voi già lừng lững tiến về chiếc xe. Tứ chộp lấy khẩu súng. Cần vội ngăn lại:\n\n- Không được bắn!\n\nCon voi lúc lắc vòi ra hiệu điều gì đó, rồi đến trước mũi xe.\n\nTứ lo lắng:\n\n- Nó đập tan xe mất. Phải bắn thôi!\n\nNhưng kìa, con voi quặp chặt vòi vào đầu xe và co mình lôi mạnh chiếc xe qua vũng lầy. Lôi xong, nó huơ vòi về phía lùm cây rồi lững thững đi theo hướng bản Tun.\n\nThật may cho chúng tôi đã gặp được voi nhà.",
+    "questions": [
+        "Tại sao những người trên xe phải ngủ qua đêm trong rừng?",
+        "Đến gần sáng, mọi người đã gặp điều gì xảy ra?",
+        "Nhân vật Tứ đã nói gì khi con voi đến gần chiếc xe?",
+        "Mọi người đã lo lắng ra sao khi con voi đến gần chiếc xe?",
+        "Người nào là người muốn bắn con voi?",
+        "Người nào đã ngăn việc bắn con voi lại?",
+        "Con voi đã làm điều gì khiến mọi người ngạc nhiên?",
+        "Những con voi đã giúp những người đi xe là loài voi gì?",
+        "Voi nhà là con vật như thế nào?"
+    ],
+    "options": [
+        [
+            "Vì xe bị hết xăng.",
+            "Vì người trên xe bị thương.",
+            "Vì chiếc xe bị thú dữ tấn công.",
+            "Vì xe đã vục xuống vũng lầy."
+        ],
+        [
+            "Vũng bùn ngày càng lún xuống.",
+            "Có voi rừng đến.",
+            "Bị hổ báo tấn công.",
+            "Có người bị cảm lạnh."
+        ],
+        [
+            "Thế này thì hết cách rồi!.",
+            "Không được bắn!.",
+            "Nó đập tan xe mất, phải bắn thôi!.",
+            "Chạy đi! Voi rừng đấy!."
+        ],
+        [
+            "Mọi người lo sợ con voi sẽ tiến đến chỗ mình.",
+            "Mọi người lo con voi sẽ đập tan chiếc xe.",
+            "Mọi người lo con voi sẽ lấy hết đồ ăn trên xe.",
+            "Mọi người sợ voi ăn thịt."
+        ],
+        [
+            "Tứ.",
+            "Toàn.",
+            "Thích.",
+            "Cần."
+        ],
+        [
+            "Tứ.",
+            "Quân.",
+            "Toàn.",
+            "Cần."
+        ],
+        [
+            "Con voi chở mọi người về bản.",
+            "Con voi đập tan chiếc xe như lời Tứ.",
+            "Con voi lôi chiếc xe qua vũng lầy.",
+            "Con voi xéo nát cả những bụi rậm, lùm cây."
+        ],
+        [
+            "Voi rạp xiếc.",
+            "Voi nhà.",
+            "Voi rừng.",
+            "Voi châu Phi."
+        ],
+        [
+            "Nhút nhát.",
+            "Hung dữ.",
+            "Có ích.",
+            "Có hại."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "C",
+        "B",
+        "C"
+    ]
+}

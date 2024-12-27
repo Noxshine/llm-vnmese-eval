@@ -1,0 +1,81 @@
+{
+    "article": "1. Một ngày nắng đẹp, đang leo trèo trên hàng dừa ven sông, Khỉ bỗng nghe tiếng quẫy mạnh dưới nước. Một con vật da sần sùi, dài thượt, nhe hàm răng nhọn hoắt như một lưỡi cưa sắc, trườn lên bãi cát.\n\nNó nhìn Khỉ bằng cặp mắt ti hí với hai hàng nước mắt chảy dài. Khỉ ngạc nhiên:\n\n- Bạn là ai? Vì sao bạn khóc?\n\n- Tôi là Cá Sấu. Tôi khóc vì chả ai chơi với tôi.\n\nKhỉ nghe vậy, mời Cá Sấu kết bạn.\n\nTừ đó, ngày nào Cá Sấu cũng đến, ăn những hoa quả mà Khỉ hái cho.\n\n2. Một hôm, Cá Sấu mời Khỉ đến chơi nhà. Khỉ nhận lời, ngồi lên lưng Cá Sấu. Bơi đã xa bờ, Cá Sấu mới bảo:\n\n- Vua của chúng tôi ốm nặng, phải ăn một quả tim khỉ mới khỏi. Tôi cần quả tim của bạn.\n\nKhỉ nghe vậy hết sức hoảng sợ. Nhưng rồi trấn tĩnh lại, nó bảo:\n\n- Chuyện quan trọng vậy mà bạn chẳng bảo trước. Quả tim tôi để ở nhà. Mau đưa tôi về lấy, tôi sẽ lấy tim dâng lên vua của bạn.\n\n3. Cá Sấu tưởng thật, liền đưa Khỉ trở lại bờ. Tới nơi, Khỉ đu vút lên cành cây, mắng:\n\n- Con vật bội bạc kia! Đi đi! Chẳng ai thèm kết bạn với những kẻ giả dối như mi đâu.\n\n4. Cá Sấu tẽn tò, lặn sâu xuống nước, lủi mất.",
+    "questions": [
+        "Những con vật nào được đề cập đến câu chuyện này?",
+        "Nguyên nhân nào dẫn đến Cá Sấu lại khóc?",
+        "Thái độ đối xử của Khỉ với Cá Sấu như thế nào?",
+        "Vì sao Cá Sấu cần quả tim khỉ?",
+        "Thái độ của Khỉ như thế nào khi biết Cá Sấu cần quả tim của mình?",
+        "Khỉ đã nghĩ ra mưu mẹo gì để thoát nạn?",
+        "Sau khi thoát khỏi Cá Sấu, Khỉ đã mắng Cá Sấu như thế nào?",
+        "Khi bị Khỉ mắng, Cá Sấu cảm thấy ra sao?",
+        "Tại sao Cá Sấu cảm thấy tẽn tò và lủi mất?"
+    ],
+    "options": [
+        [
+            "Khỉ và Quạ.",
+            "Cá Sấu và Khỉ.",
+            "Cá Sấu và Hươu.",
+            "Khỉ và Cá."
+        ],
+        [
+            "Vì Cá Sấu không kiếm được thức ăn.",
+            "Vì Cá Sấu bị lạc mẹ.",
+            "Vì Cá Sấu vừa bị thương.",
+            "Vì chẳng có ai chơi với nó."
+        ],
+        [
+            "Rất thân thiện.",
+            "Rất kính trọng.",
+            "Rất giả dối.",
+            "Rất lạnh lùng."
+        ],
+        [
+            "Để nuôi sống cả gia đình Cá Sấu.",
+            "Chữa bệnh cho vua của Cá Sấu.",
+            "Cho thêm vào bộ sưu tập của Cá Sấu.",
+            "Chữa bệnh cho con của Cá Sấu."
+        ],
+        [
+            "Hoảng sợ nhưng cố trấn tĩnh.",
+            "Hoảng sợ và khóc lóc, van xin.",
+            "Bình thản, chẳng hề lo sợ.",
+            "Hoảng sợ và kêu cứu, bỏ chạy."
+        ],
+        [
+            "Khỉ nói mình để quả tim ở nhà.",
+            "Khi nói mình có rất nhiều nhưng đều bị hỏng.",
+            "Khỉ nói mình đã cho mất tim rồi.",
+            "Khỉ nói mình không có tim."
+        ],
+        [
+            "Con vật giả dối kia! Ngươi đã bị ta lừa rồi, trái tim của ta luôn ở lồng ngực đây!.",
+            "Con vật xấu xa kia! Ngươi không đánh lừa được ta đâu!.",
+            "Con vật bội bạc kia! Chẳng ai thèm kết bạn với kẻ giả dối như mi đâu.",
+            "Mi đúng là xấu như cá sấu!."
+        ],
+        [
+            "Tủi thân.",
+            "Tức giận.",
+            "Tẽn tò.",
+            "Buồn bã."
+        ],
+        [
+            "Vì Cá Sấu bị Khỉ nói không đúng sự thật về mình.",
+            "Vì mọi người đều chứng kiến Khỉ mắng Cá Sấu.",
+            "Vì Cá Sấu hay mắc bệnh xấu hổ.",
+            "Vì Cá Sấu đã lừa người bạn của mình."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "A",
+        "A",
+        "C",
+        "C",
+        "D"
+    ]
+}

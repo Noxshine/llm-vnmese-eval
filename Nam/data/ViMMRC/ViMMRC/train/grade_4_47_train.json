@@ -1,0 +1,73 @@
+{
+    "article": "Ngày còn bé, có lần tôi đã thấy anh họ tôi đi đôi giày ba ta màu xanh nước biển. Chao ôi! Đôi giày mới đẹp làm sao! Cổ giày ôm sát chân. Thân giày làm bằng vải cứng, dáng thon thả, màu vải như màu da trời những ngày thu. Phần thân giày gần sát cổ có hai hàng khuy dập và luồn một sợi dây trắng nhỏ vắt ngang. Tôi tưởng tượng nếu mang nó vào chắc bước đi sẽ nhẹ và nhanh hơn, tôi sẽ chạy trên những con đường đất mịn trong làng trước cái nhìn thèm muốn của các bạn tôi...\n\nSau này làm công tác Đội ở phường, có lần tôi phải vận động Lái, một cậu bé lang thang, đi học. Tôi đã theo Lái trên khắp các đường phố. Một lần, tôi bắt gặp cậu ngẩn ngơ nhìn theo đôi giày ba ta màu xanh của một cậu bé đang dạo chơi. Hóa ra trẻ con thời nào cũng giống nhau. Tôi quyết định chọn đôi giày ba ta màu xanh để thưởng cho Lái trong buổi đầu cậu đến lớp. Hôm nhận giày, tay Lái run run, môi cậu mấp máy, mắt hết nhìn đôi giày, lại nhìn xuống đôi bàn chân mình đang ngọ nguậy dưới đất. Lúc ra khỏi lớp, Lái cột hai chiếc giày vào nhau, đeo vào cổ, nhảy tưng tưng.",
+    "questions": [
+        "Nhân vật tôi đã miêu tả đôi giày ba ta của người nào?",
+        "Chi tiết nào không được nhắc tới khi tả vẻ đẹp của đôi giày?",
+        "Màu giày được so sánh giống với thứ gì?",
+        "Tên một người bạn của nhân vật tôi là gì?",
+        "Nhân vật tôi đã làm như thế nào để vận động Lái (một cậu bé lang thang) đi học?",
+        "Tại sao nhân vật tôi quyết định tặng Lái đôi giày ba ta màu xanh?",
+        "Chi tiết gì cho thấy sự xúc động của Lái khi nhận món quà?",
+        "Câu văn nào thể hiện niềm vui của Lái khi được tặng đôi giày?"
+    ],
+    "options": [
+        [
+            "Anh họ.",
+            "Ông ngoại.",
+            "Chị gái.",
+            "Bố."
+        ],
+        [
+            "Đôi giày có đế bằng cao su đi rất êm chân.",
+            "Phần thân giày gần sát cổ có hai hàng khuy dập và luồn một sợi trắng nhỏ vắt ngang.",
+            "Thân giày làm bằng vải cứng, dáng thon thả, màu vải như màu xanh da trời những ngày thu.",
+            "Cổ giày ôm sát chân."
+        ],
+        [
+            "Như màu lúa non trên đồng.",
+            "Như màu da trời những ngày thu.",
+            "Như màu nước suối trong vắt.",
+            "Như màu nước biển vào cuối thu."
+        ],
+        [
+            "Lái.",
+            "Thu.",
+            "Đội.",
+            "Nguyên."
+        ],
+        [
+            "Đôi dép màu xanh.",
+            "Bộ quần áo đồng phục.",
+            "Đôi giày ba ta màu xanh.",
+            "Chiếc cặp sách mới."
+        ],
+        [
+            "Để Lái rủ các bạn của mình cùng tới trường.",
+            "Để thưởng cho cậu vì đã đạt thành tích học tốt nhất lớp.",
+            "Để động viên cậu trong buổi đầu cậu đến lớp.",
+            "Để khuyến khích cậu học giỏi hơn nữa."
+        ],
+        [
+            "Tôi theo Lái lang thang trên khắp các đường phố.",
+            "Tay run run, môi mấp máy, mắt nhìn đôi giày rồi lại nhìn đôi bàn chân mình.",
+            "Lái ngẩn ngơ nhìn theo đôi giày ba ta của một cậu bé đang dạo chơi.",
+            "Cậu bé lang thang được nhân vật tôi vận động đi học tên là Lái."
+        ],
+        [
+            "Lái ngẩn ngơ nhìn theo đôi giày ba ta màu xanh của một cậu bé.",
+            "Tôi theo Lái lang thang trên khắp các đường phố.",
+            "Lái cột chiếc giày vào nhau, đeo vào cổ, nhảy tưng tưng.",
+            "Lái nhìn xuống đôi bàn chân đang ngọ nguậy dưới đất."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "B",
+        "A",
+        "C",
+        "C",
+        "B",
+        "C"
+    ]
+}

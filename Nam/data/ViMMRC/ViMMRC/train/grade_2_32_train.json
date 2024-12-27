@@ -1,0 +1,65 @@
+{
+    "article": "1. Ngày xửa ngày xưa có hai vợ chồng đi rừng, bắt được một con dúi. Dúi lạy van xin tha, hứa sẽ nói một điều bí mật. Hai vợ chồng thương tình tha cho. Dúi báo sắp có mưa to gió lớn làm ngập lụt khắp nơi. Nó khuyên họ lấy khúc gỗ to, khoét rỗng, chuẩn bị thức ăn đầy đủ bảy ngày, bảy đêm, rồi chui vào đó, bịt kín miệng gỗ bằng sáp ong, hết hạn bảy ngày hãy chui ra.\n\n2. Hai vợ chồng làm theo. Họ còn khuyên bà con trong bản cùng làm nhưng chẳng ai tin. Hai người vừa chuẩn bị xong thì sấm chớp đùng đùng, mây đen ùn ùn kéo đến. Mưa to, gió lớn, nước ngập mênh mông. Muôn loài đều chết chìm trong biển nước. Nhờ sống trong khúc gỗ nổi như thuyền, hai vợ chồng thoát nạn. Sau bảy ngày, họ chui ra. Cỏ cây vàng úa. Mặt đất vắng tanh không còn một bóng người.\n\n3. Ít lâu sau, người vợ sinh ra một quả bầu. Thấy chồng buồn, chị đem bầu cất lên giàn bếp.\n\nMột lần, hai vợ chồng đi làm nương về, nghe thấy tiếng cười đùa trong bếp. Lấy làm lạ, họ lấy quả bầu xuống, áp tai nghe thì thấy có tiếng lao xao. Người vợ lấy que đốt thành cái dùi, rồi nhẹ nhàng dùi quả bầu.\n\nLạ thay, từ trong quả bầu, những con người bé nhỏ nhảy ra. Người Khơ-mú nhanh nhảu ra trước, dính than nên hơi đen. Tiếp đến, người Thái, người Mường, người Dao, người Hmông, người Ê-đê, người Ba-na, người Kinh,... lần lượt ra theo.\n\nĐó là tổ tiên của các dân tộc anh em trên đất nước ta ngày nay.",
+    "questions": [
+        "Trong câu chuyện này, hai vợ chồng đi rừng đã bắt được con gì?",
+        "Dúi đã van xin tha mạng và sẽ nói cho hai vợ chồng về điều gì?",
+        "Hai vợ chồng làm gì để thoát nạn ngập lụt?",
+        "Hai vợ chồng đã khuyên bà con trong bản tránh lũ lụt nhưng chuyện gì đã xảy ra?",
+        "Có chuyện gì đã xảy ra với hai vợ chồng sau nạn ngập lụt?",
+        "Câu chuyện người chui ra từ quả bầu đã dạy chúng ta điều gì?",
+        "Dòng nào sau đây kể đúng một số dân tộc trên đất nước ta?"
+    ],
+    "options": [
+        [
+            "Con sói.",
+            "Con dúi.",
+            "Con báo.",
+            "Con dế."
+        ],
+        [
+            "Sắp có núi lửa, bảo hai vợ chồng hãy chạy về đồng bằng.",
+            "Sắp có động đất, bảo hai vợ chồng hãy rời khỏi núi.",
+            "Sắp có hạn hán, bảo hai vợ chồng hãy tích trữ nước.",
+            "Sắp có mưa và ngập lụt, nên chuẩn bị thức ăn."
+        ],
+        [
+            "Nhờ sống trong khúc gỗ nổi như thuyền, hai vợ chồng thoát nạn.",
+            "Nhờ trồng được quả bầu to, hai vợ chồng vào đó nên thoát nạn lụt.",
+            "Nhờ tìm đến nơi núi cao nhất để ở mà nhà hai vợ chồng không bị lụt.",
+            "Hai vợ chồng đã leo lên đỉnh núi."
+        ],
+        [
+            "Mọi người đều tin và làm theo.",
+            "Mọi người mắng hai vợ chồng là gàn dở.",
+            "Tất cả mọi người đều thoát nạn.",
+            "Chẳng ai tin và làm theo."
+        ],
+        [
+            "Hai vợ chồng đem hết của cải cứu mọi người.",
+            "Hai vợ chồng gặp lại con dúi và cảm ơn.",
+            "Hai vợ chồng trở nên giàu có.",
+            "Người vợ sinh ra một quả bầu."
+        ],
+        [
+            "Đó là tổ tiên của các dân tộc anh em trên đất nước ta ngày nay.",
+            "Đó là sự hồi sinh sự sống loài người sau nạn lụt.",
+            "Đó là nguồn gốc những đứa trẻ tí hon mà ông cha ta thêu dệt.",
+            "Đó là các người con lạ kì mà hai vợ chồng sinh ra."
+        ],
+        [
+            "Người Khmer, người Chàm, người Thượng, người Campuchia gốc Hoa,...",
+            "Người Hán, Mãn, Hồi, Mông Cổ, Tây Tạng, Đồng, Bố Y, Dao,...",
+            "Người Khơ-mú, Thái, Mường, Hmông, Dao, Ê-đê, Ba-na, Kinh,...",
+            "Người Kinh, Hoa, Mông, và Khmer, ..."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Mưa đá. Một cục nước đá trắng tinh, to lông lốc như quả trứng rơi bộp xuống đất. Dòng nước dang rộng tay nói:\n- Chào bạn! Mời bạn nhập vào với chúng tôi!\nCục nước đá lạnh lùng đáp:\n- Các anh đục ngầu, bẩn thỉu như thế, tôi hòa nhập với các anh sao được? Trời cao kia mới là bạn của tôi!\nDòng nước cười xoà rồi ào ào chảy ra sông, ra biển. Cục nước đá trơ lại một mình, lúc sau thì tan ra, ướt nhoẹt ở một góc sân.",
+    "questions": [
+        "Mưa đang ở trạng thái nào?",
+        "Dòng nước đã làm gì khi thấy cục nước đá?",
+        "Cuối cùng, số phận của cục nước đá ra sao?",
+        "Câu chuyện khuyên ta điều gì?",
+        "Mưa ở trạng thái nào nào?"
+    ],
+    "options": [
+        [
+            "Mưa đá.",
+            "Mưa hạt to.",
+            "Mưa phùng.",
+            "Mưa to."
+        ],
+        [
+            "Không làm gì cả.",
+            "Dang rộng tay, mời cục nước đá hòa nhập với dòng chảy.",
+            "Cười xòa rồi ào ào chảy ra sông biển.",
+            "Đông lạnh."
+        ],
+        [
+            "Hòa mình cùng dòng nước, chảy ra sông, ra biển.",
+            "Trở về làm bạn với trời cao.",
+            "Trơ lại một mình, sau thì bị tan ra.",
+            "Trơ một mình."
+        ],
+        [
+            "Không nên nghe lời dụ dỗ của bạn bè.",
+            "Kiêu ngạo chỉ khiến ta cô đơn và chẳng có ý nghĩa gì cả.",
+            "Dòng nước luôn luôn tốt bụng.",
+            "Dòng nước và con người."
+        ],
+        [
+            "Mưa to.",
+            "Mưa đá.",
+            "Mưa phùng.",
+            "Mưa rơi to."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "B",
+        "A"
+    ]
+}

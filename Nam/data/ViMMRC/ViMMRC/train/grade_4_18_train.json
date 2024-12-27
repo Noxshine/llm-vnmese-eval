@@ -1,0 +1,49 @@
+{
+    "article": "- Mẹ ơi, con tuổi gì?\n- Tuổi con là tuổi Ngựa\nNgựa không yên một chỗ\nTuổi con là tuổi đi...\n\n- Mẹ ơi, con sẽ phi\nQua bao nhiêu ngọn gió\nGió xanh miền trung du\nGió hồng vùng đất đỏ\nGió đen hút đại ngàn\nMấp mô triền núi đá...\nCon mang về cho mẹ\nNgọn gió của trăm miền...\n\nNgựa con sẽ đi khắp\nTrên những cánh đồng hoa\nLóa màu trắng hoa mơ\nTrang giấy nguyên chưa viết\nCon làm sao ôm hết\nMùi hoa huệ ngạt ngào\nGió và nắng xôn xao\nKhắp đồng hoa cúc dại.\n\nTuổi con là tuổi Ngựa\nNhưng mẹ ơi, đừng buồn\nDẫu cách núi cách rừng\nDẫu cách sông cách biển\nCon tìm về với mẹ\nNgựa con vẫn nhớ đường.",
+    "questions": [
+        "Bạn nhỏ thuộc tuổi con giáp nào?",
+        "Mẹ bạn nhỏ cho rằng tuổi ngựa tính nết thế nào?",
+        "\"Ngựa con\" theo ngọn gió rong chơi ở những nơi nào?",
+        "Trong khổ thơ cuối, \"ngựa con\" muốn gửi thông điệp gì với người mẹ?",
+        "Tình cảm của cậu bé \"tuổi ngựa\" đối với mẹ như thế nàoì?"
+    ],
+    "options": [
+        [
+            "Tuổi hổ.",
+            "Tuổi chó.",
+            "Tuổi ngựa.",
+            "Tuổi lợn."
+        ],
+        [
+            "Là tuổi đi, không chịu yên một chỗ.",
+            "Là tuổi chơi, không chịu ở nhà.",
+            "Là tuổi ăn, rất lém lỉnh, mập mạp.",
+            "Là tuổi ngủ, không chịu làm việc."
+        ],
+        [
+            "Chỉ ở vùng đồng bằng.",
+            "Khắp mọi miền Tổ quốc.",
+            "Chỉ ở cao nguyên đất đỏ.",
+            "Chỉ ở vùng núi cao."
+        ],
+        [
+            "Mẹ đừng buồn, tuy tuổi Ngựa đi nhiều nhưng con sẽ sống thật an vui, hạnh phúc.",
+            "Mẹ đừng buồn, tuy tuổi Ngựa đi nhiều nhưng con sẽ thật trưởng thành và chững chạc.",
+            "Mẹ đừng buồn, tuy tuổi Ngựa đi nhiều nhưng con sẽ nhớ tìm đường về thăm mẹ.",
+            "Mẹ đừng buồn, con đi nhiều và cố gắng học giỏi."
+        ],
+        [
+            "Yêu quý mẹ.",
+            "Thương hại mẹ.",
+            "Căm ghét mẹ.",
+            "Thờ ơ với mẹ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "C",
+        "A"
+    ]
+}

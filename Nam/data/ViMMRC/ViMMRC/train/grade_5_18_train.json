@@ -1,0 +1,57 @@
+{
+    "article": "Phụ nữ Việt Nam xưa hay mặc áo lối mớ ba, mớ bảy, tức là mặc nhiều áo cánh lồng vào nhau. Tuy nhiên, với phong cách tế nhị, kín đáo, người phụ nữ Việt thường mặc chiếc áo dài thẫm màu bên ngoài, lấp ló bên trong mới là các lớp áo cánh nhiều màu (vàng mỡ gà, vàng chanh, hồng cánh sen, hồng đào, xanh hồ thủy,…)\n\nTừ đầu thế kỉ XIX đến sau năm 1945, ở một số vùng, người ta mặc áo dài kể cả khi lao động nặng nhọc. Áo dài phụ nữ có hai loại: áo tứ thân và áo năm thân. Phổ biến hơn là áo tứ thân, được may từ bốn mảnh vải, hai mảnh sau ghép liền ở giữa sống lưng. Đằng trước là hai vạt áo, không có khuy, khi mặc bỏ buông hoặc buộc thắt vào nhau. Áo năm thân cũng may như áo tứ thân, chỉ có điều vạt trước phía trái may ghép từ hai thân vải, thành ra rộng gấp đôi vạt phải.\n\nTừ những năm 30 của thế kỉ XX, chiếc áo dài cổ truyền được cải tiến dần thành chiếc áo tân thời. Chiếc áo tân thời là sự kết hợp hài hòa giữa phong cách dân tộc tế nhị, kín đáo với phong cách phương Tây hiện đại, trẻ trung.\n\nÁo dài trở thành biểu tượng cho y phục truyền thống của Việt Nam. Trong tà áo dài, hình ảnh người phụ nữ Việt Nam như đẹp hơn, tự nhiên, mềm mại và thanh thoát hơn.",
+    "questions": [
+        "Mặc áo mớ ba, mớ bảy nghĩa là thế nào?",
+        "Chiếc áo dài đóng vai trò thế nào trong trang phục của người phụ nữ Việt Nam?",
+        "Người phụ nữ Việt mặc áo dài như thế nào để phù hợp với phong cách tế nhị, kín đáo của mình?",
+        "Áo dài cho phụ nữ trong giai đoạn từ thế kỉ XIX đến đầu năm 1945 có mấy loại?",
+        "Áo năm thân có đặc điểm gì khác so với áo tứ thân?",
+        "Chiếc áo tân thời xuất hiện ở nước Việt Nam vào giai đoạn nào?"
+    ],
+    "options": [
+        [
+            "Mặc bốn áo cánh lồng vào nhau.",
+            "Mặc hai áo cánh lồng vào nhau.",
+            "Mặc nhiều áo cánh lồng vào nhau.",
+            "Mặc ba áo cánh lồng vào nhau."
+        ],
+        [
+            "Làm cho người phụ nữ trở nên tế nhị, xinh đẹp.",
+            "Làm cho người phụ nữ trở nên xinh đẹp, kín đáo.",
+            "Làm cho người phụ nữ trở nên duyên dáng, kín đáo.",
+            "Làm cho người phụ nữ trở nên tế nhị, kín đáo."
+        ],
+        [
+            "Mặc chiếc áo dài nhiều màu bên ngoài, lấp ló bên trong là các lớp áo cánh nhiều màu.",
+            "Mặc chiếc áo dài thẫm màu bên ngoài, lấp ló bên trong mới là các lớp áo cánh màu vàng.",
+            "Mặc chiếc áo dài thẫm màu bên ngoài, lấp ló bên trong mới là các lớp áo cánh nhiều màu.",
+            "Mặc chiếc áo dài nhiều màu bên ngoài, lấp ló bên trong mới là các lớp áo cánh thẫm màu."
+        ],
+        [
+            "1.",
+            "2.",
+            "3.",
+            "4."
+        ],
+        [
+            "Hai mảnh sau ghép liền ở giữa sống lưng.",
+            "Vạt trước phía trái may ghép từ hai thân vải, thành ra rộng gấp đôi vạt phải.",
+            "Đằng trước là hai vạt áo, không có khuy, khi mặc bỏ buông hoặc buộc thắt vào nhau.",
+            "Được may từ bốn mảnh vải."
+        ],
+        [
+            "Từ đầu thế kỉ XIX đến sau năm 1930.",
+            "Từ đầu thế kỉ XIX đến sau năm 1945.",
+            "Từ những năm 45 của thế kỉ XX.",
+            "Từ những năm 30 của thế kỉ XX."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "C",
+        "B",
+        "B",
+        "D"
+    ]
+}

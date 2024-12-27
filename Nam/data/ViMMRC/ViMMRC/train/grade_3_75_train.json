@@ -1,0 +1,57 @@
+{
+    "article": "Ơi chích chòe ơi!\nChim đừng hót nữa,\nBà em ốm rồi,\nLặng cho bà ngủ.\nBàn tay bé nhỏ\nVẫy quạt thật đều\nNgấn nắng thiu thiu\nĐậu trên tường trắng.\nCăn nhà đã vắng\nCốc chén nằm im.\nĐôi mắt lim dim\nNgủ ngon bà nhé.\nHoa cam, hoa khế\nChín lặng trong vườn,\nBà mơ tay cháu\nQuạt đầy hương thơm.",
+    "questions": [
+        "Bạn nhỏ đang làm gì?",
+        "Bà của bạn nhỏ bị gì?",
+        "Cảnh vật trong nhà ở trạng thái ra sao?",
+        "Cảnh vật ngoài vườn trong trạng thái ra sao?",
+        "Bà của bạn nhỏ mơ thấy thứ gì?",
+        "Bài thơ này có nội dung gì?"
+    ],
+    "options": [
+        [
+            "Ngắm cây cối trong vườn.",
+            "Nói chuyện với chim chích chòe.",
+            "Dọn dẹp nhà cửa.",
+            "Quạt cho bà ngủ."
+        ],
+        [
+            "Bà bị ốm.",
+            "Bà đang ăn trầu.",
+            "Bà buồn ngủ.",
+            "Bà đang buồn."
+        ],
+        [
+            "Vắng vẻ, im lìm.",
+            "Mới mẻ, sinh động.",
+            "Buồn bã, hiu quạnh.",
+            "Vui tươi, rộn rã."
+        ],
+        [
+            "Không có người chăm.",
+            "Chín lặng trong vườn.",
+            "Xôn xao, rộn rã.",
+            "Buồn héo ủ rũ."
+        ],
+        [
+            "Bà mơ tay cháu, quạt đầy hương thơm.",
+            "Bà mơ hai bà cháu, có đầy quả thơm.",
+            "Bà mơ vườn nhà, chứa đầy quả thơm.",
+            "Bà mơ trong nhà, chứa đầy hoa thơm."
+        ],
+        [
+            "Ca ngợi tình cảm gắn bó của hai bà cháu.",
+            "Ca ngợi bạn nhỏ biết chăm sóc ngôi nhà và vườn cây.",
+            "Ca ngợi bạn nhỏ biết yêu thương, hiếu thảo với bà.",
+            "Ca ngợi bạn nhỏ biết quạt cho bà khi bà bị ốm."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "A",
+        "B",
+        "A",
+        "C"
+    ]
+}

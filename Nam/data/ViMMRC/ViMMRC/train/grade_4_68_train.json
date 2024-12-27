@@ -1,0 +1,49 @@
+{
+    "article": "Không phải là pháo đùng, pháo tép, pháo hoa, pháo cao xạ,… Nó chỉ là pháo bằng đất, đất sét thôi.\n\nNhà ai vượt ao làm nền, nhà ai đào giếng… và chỗ nào mà chẳng có đất. Lò gạch đầu làng, đất sét có hàng đống. Nhiều tiết thủ công, học nặn quả chuối, quả na, cái nồi,… nặn xong còn thừa vô khối là đất. Thế là có nó: chiếc pháo đền.\n\nĐất sét có thứ vàng như pha nghệ, có thứ đen xám như màu chì. Chẳng sao. Cứ nặn một nắm đất như cái máng cho lợn ăn, bé xíu, nhưng đáy phải mỏng, thật mỏng, rồi giơ thẳng cánh, đập mạnh một cái xuống đất. Có một tiếng nổ to như pháo đùng, đáy máng vỡ tung lên, từng mảnh đất sét còn nham nhở như bị xé. Một cuộc thi.  Pháo của ai nổ to, đáy vỡ rộng là người ấy được cuộc. Người thua phải véo đất của mình hàn vào chỗ vỡ của người được. Đền đấy.\n\nAnh nào đập không khéo, pháo xịt. Ai giỏi thì pháo nổ to, được đền nhiều. Pháo xịt không được đền, mà còn xấu hổ nữa.\n\nTôi đã có lần phát khóc lên vì lúc bắt đầu chơi, hai nắm đất của hai người bằng nhau, cuối cuộc chơi, nắm đất của tôi bằng bàn tay chỉ còn lại bằng hòn bi. Còn nắm đất của bạn thì cứ lớn dần lên. Ức ghê. Chơi gì bị thua mà chả ức!\n\nPháo đền là thứ trò chơi của con nhà nghèo. Không có đồ chơi sang trọng đắt tiền thì kiếm tí đất mà chơi vậy. Không chơi thì chịu làm sao được.\n\nNhững trò chơi của tuổi thơ đã cho chúng tôi bao nhiêu phút sung sướng, có khi còn quý hơn những món quà ăn được. Ai không được chơi hoặc không biết chơi những trò chơi thơ bé quả là một thiệt thòi lớn, thiệt suốt đời…",
+    "questions": [
+        "Pháo đền được làm bằng gì?",
+        "Cách làm pháo đền như thế nào?",
+        "Cách chơi pháo đền như thế nào?",
+        "Luật chơi pháo đền như thế nào?",
+        "Cái tên “pháo đền” xuất phát từ đâu?"
+    ],
+    "options": [
+        [
+            "Đất sét.",
+            "Đất sét và thuốc pháo.",
+            "Giấy và thuốc pháo.",
+            "Đất sét và thuốc pháo."
+        ],
+        [
+            "Nặn một nắm đất thành hình quả pháo rồi châm lửa đốt.",
+            "Nặn một nắm đất tròn rồi nhồi thuốc pháo.",
+            "Nặn một nắm đất như cái máng cho lợn ăn, bé xíu, nhưng đáy phải mỏng, thật mỏng.",
+            "Nặn một khẩu súng."
+        ],
+        [
+            "Giơ thẳng cánh, đập vào quả pháo.",
+            "Giơ thẳng cánh, đập mạnh một cái xuống đất.",
+            "Giơ thẳng cánh, đập hai quả pháo vào nhau.",
+            "Giơ thẳng tay, đập mạnh vào quả pháo."
+        ],
+        [
+            "Pháo của ai to nhất, nổ to nhất là người thắng cuộc. Người thắng được quyền lấy hết đất làm pháo của người kia.",
+            "Pháo của ai nổ to nhất là người thắng cuộc. Người thua phải cho người thắng hết chỗ đất của mình.",
+            "Pháo của ai nổ to, đáy vỡ rộng là người ấy được cuộc. Người thua phải véo đất của mình, hàn vào chỗ vỡ cho người thắng.",
+            "Pháo ai nổ to nhất là người thắng cuộc."
+        ],
+        [
+            "Từ người chơi đầu tiên.",
+            "Từ luật chơi.",
+            "Từ tên làng quê nghĩ ra trò chơi đó.",
+            "Có từ thời xa xưa."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "C",
+        "B"
+    ]
+}

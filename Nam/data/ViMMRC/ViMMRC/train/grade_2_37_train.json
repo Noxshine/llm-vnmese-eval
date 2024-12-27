@@ -1,0 +1,57 @@
+{
+    "article": "Lặng rồi cả tiếng con ve\nCon ve cũng mệt vì hè nắng oi.\nNhà em vẫn tiếng ạ ời\nKẽo cà tiếng võng mẹ ngồi mẹ ru.\nLời ru có gió mùa thu\nBàn tay mẹ quạt mẹ đưa gió về.\nNhững ngôi sao thức ngoài kia \nChẳng bằng mẹ đã thức vì chúng con.\nĐêm nay con ngủ giấc tròn\nMẹ là ngọn gió của con suốt đời.",
+    "questions": [
+        "Nội dung bài thơ trên là mô tả về ai?",
+        "Chi tiết nào cho biết đêm hè rất oi ả?",
+        "Muốn con mình ngủ ngon giấc, người mẹ đã làm gì?",
+        "Người mẹ thức vì con được so sánh với vật nào trong vũ trụ?",
+        "Người mẹ quạt cho con ngủ ngon được so sánh với chi tiết nào?",
+        "Để có giấc ngủ ngon trong đêm cho con, người mẹ đã làm gì?"
+    ],
+    "options": [
+        [
+            "Mẹ.",
+            "Bà.",
+            "Chị.",
+            "Ông."
+        ],
+        [
+            "Con ve cũng mệt vì hè nắng oi.",
+            "Bàn tay mẹ quạt mẹ đưa gió về.",
+            "Kẽo cà tiếng võng mẹ ngồi mẹ ru.",
+            "Mẹ là ngọn gió của con suốt đời."
+        ],
+        [
+            "Mẹ hát ru, đưa võng và quạt cho con.",
+            "Mẹ kể chuyện cho nghe trước khi đi ngủ.",
+            "Mẹ mua cho con nhiều gấu bông.",
+            "Mẹ bật quạt cho con mát."
+        ],
+        [
+            "Trăng sáng.",
+            "Ngọn sáng.",
+            "Ngôi sao.",
+            "Lời ru."
+        ],
+        [
+            "Ngôi sao.",
+            "Lời ru.",
+            "Ngọn gió.",
+            "Tiếng ve."
+        ],
+        [
+            "Người mẹ đã tạo gió làm dịu đi cái hè oi bức.",
+            "Người mẹ đã thức trắng đêm để đắp chăn cho con.",
+            "Người mẹ nấu cháo cho con ăn.",
+            "Người mẹ đã đi mua thuốc về cho con."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "A",
+        "C",
+        "C",
+        "A"
+    ]
+}

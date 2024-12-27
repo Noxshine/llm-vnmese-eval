@@ -1,0 +1,65 @@
+{
+    "article": "1. Bác Nhân, hàng xóm nhà tôi, là một người làm đồ chơi bằng bột màu. \n\nỞ ngoài phố, cái sào nứa cắm đồ chơi của bác dựng chỗ nào là chỗ ấy, trẻ con xúm lại. Các bạn ngắm đồ chơi, tò mò xem bác nặn những ông Bụt, Thạch Sanh, Tôn Ngộ Không, những con vịt, con gà,... sắc màu sặc sỡ.\n\nBác Nhân rất vui với công việc của mình. Mỗi chiều bán hàng về, bác lại kể cho chúng tôi nghe trẻ nhỏ thích đồ chơi của bác như thế nào.\n\n2. Dạo này, hàng của bác Nhân bỗng ế. Những đồ chơi mới bằng nhựa đã xuất hiện.\n\nMột hôm, bác Nhân bảo: bác sắp về quê làm ruộng, không nặn đồ chơi nữa.\n\nTôi suýt khóc, nhưng cố tỏ ra bình tĩnh:\n\n- Bác đừng về. Bác ở đây làm đồ chơi bán cho chúng cháu.\n\n- Nhưng độ này chả mấy ai mua đồ chơi của bác nữa.\n\n- Cháu mua và sẽ rủ bạn cùng mua.\n\nBác cảm động ôm lấy tôi.\n\n3. Hôm sau là buổi bán hàng cuối cùng của bác Nhân. Sáng ấy, tôi đập con lợn đất, đếm được hơn mười nghìn đồng. Tôi chia nhỏ món tiền, nhờ mấy bạn trong lớp mua giúp đồ chơi của bác.\n\nGặp bác chiều ấy, tôi thấy bác rất vui. Bác tặng tôi hai con giống, rồi kể: \"Hôm nay, bác bán hết nhẵn hàng. Thì ra, vẫn còn nhiều trẻ nhỏ thích đồ chơi của bác.\"\n\nBác còn bảo: \n\n- Về quê, bác cũng sẽ nặn đồ chơi để bán. Nghe nói trẻ ở nông thôn thích thứ này hơn trẻ thành phố.",
+    "questions": [
+        "Nghề nghiệp của bác Nhân là gì?",
+        "Vì sao bác Nhân quyết định chuyển về quê sinh sống?",
+        "Nguyên nhân nào dẫn đến hàng hoá của bác Nhân bỗng ế?",
+        "Khi về quê, bác Nhân có ý định làm gì?",
+        "Vì sao bác Nhân lại bán rất đắt hàng trong buổi bán hàng cuối cùng?",
+        "Với quyết định cuối cùng, bác Nhân chọn làm nghề gì khi về quê?",
+        "Bác Nhân sẽ nói gì với những bạn nhỏ, nếu bác Nhân biết vì sao hôm đó đắt hàng?"
+    ],
+    "options": [
+        [
+            "Người làm đồ chơi bằng bột màu.",
+            "Người làm nghề cày ruộng.",
+            "Người gánh cát thuê ven sông.",
+            "Người bán hàng rong trên phố."
+        ],
+        [
+            "Vì hàng của bác bỗng ế.",
+            "Vì nhà bác ở quê có việc.",
+            "Vì bác đã chán nặn đồ chơi.",
+            "Vì bán đồ chơi được rất ít tiền."
+        ],
+        [
+            "Vì những đồ chơi bằng nhựa xuất hiện, ít trẻ mua đồ chơi nặn của bác.",
+            "Vì những món đồ chơi nặn của bác xấu hơn đồ chơi nặn của hàng xóm.",
+            "Vì trẻ con trong xóm đã lớn hết, không ai còn chơi đồ chơi nặn nữa.",
+            "Vì cha mẹ dạy trẻ con: chơi đồ chơi nặn rất bẩn và độc hại."
+        ],
+        [
+            "Bác về quê lái đò, không nặn đồ chơi nữa.",
+            "Bác làm ruộng, không nặn đồ chơi nữa.",
+            "Bác vẫn tiếp tục nặn đồ chơi cho trẻ em.",
+            "Bác về quê bán hàng, không nặn đồ chơi nữa."
+        ],
+        [
+            "Vì bạn nhỏ đã kể với cô giáo, cô giáo và các bạn đã nghĩ cách giúp bạn nhỏ.",
+            "Vì trong buổi bán hàng cuối, bác Nhân nặn đồ chơi rất đẹp và bán rất rẻ.",
+            "Vì bạn nhỏ đã nhờ các bạn của mình xin tiền bố mẹ mua đồ chơi nặn cho bác.",
+            "Vì bạn nhỏ đã chia nhỏ số tiền tiết kiệm của mình, nhờ các bạn mua hàng cho bác."
+        ],
+        [
+            "Chuyển sang nghề lái đò.",
+            "Chuyển sang nghề làm thuê.",
+            "Tiếp tục bán đồ chơi nặn.",
+            "Bác làm ruộng, cày cấy."
+        ],
+        [
+            "Bác sẽ tức giận vì bạn nhỏ nói dối.",
+            "Bác sẽ cảm ơn và ôm chặt lấy bạn nhỏ.",
+            "Bác sẽ trách bạn nhỏ đã làm điều dại dột.",
+            "Bác sẽ tiếp tục bán hàng tại đây."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "A",
+        "B",
+        "D",
+        "C",
+        "B"
+    ]
+}

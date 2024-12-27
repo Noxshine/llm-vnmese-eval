@@ -1,0 +1,73 @@
+{
+    "article": "Ngày xưa có một ông vua cao tuổi muốn tìm người nối ngôi. Vua ra lệnh phát cho mỗi người dân một thúng thóc về gieo trồng và giao hẹn: ai thu được nhiều thóc nhất sẽ được truyền ngôi, ai không có thóc nộp sẽ bị trừng phạt.\n\nCó chú bé mồ côi tên là Chôm nhận thóc về, dốc công chăm sóc mà thóc vẫn chẳng nảy mầm. \n\nĐến vụ thu hoạch, mọi người nô nức chở thóc về kinh thành nộp cho nhà vua. Chôm lo lắng đến trước nhà vua, quỳ tâu:\n\n- Tâu Bệ hạ! Con không làm sao cho thóc nảy mầm được.\n\nMọi người đều sững sờ vì lời thú tội của Chôm. Nhưng nhà vua đã đỡ chú bé đứng dậy. Ngài hỏi còn ai để chết thóc giống không. Không ai trả lời. Lúc bấy giờ nhà vua mới ôn tồn nói:\n\n- Trước khi phát thóc giống, ta đã cho luộc kĩ rồi. Lẽ nào thóc ấy còn mọc được? Những xe thóc đầy ắp kia đâu phải thu được từ thóc giống của ta!\n\nRồi vua dõng dạ nói tiếp:\n\n- Trung thực là đức tính quý nhất của con người. Ta sẽ truyền ngôi cho chú bé trung thực và dũng cảm này.\n\nChôm được truyền ngôi và trở thành ông vua hiền minh.",
+    "questions": [
+        "Nhà vua chọn người có đức tính gì để truyền ngôi?",
+        "Nhà vua đã làm gì để tìm được người trung thực truyền ngôi?",
+        "Người nào là người trung thực được truyền ngôi báu?",
+        "Chú bé Chôm có điểm gì đặc biệt so với mọi người?",
+        "Tại sao chú bé Chôm là người được truyền ngôi báu?",
+        "Chú bé Chôm có phẩm chất gì đáng quý mà người khác không có?",
+        "Theo bạn, vì sao người trung thực là người đáng quý?",
+        "Nội dung và ý nghĩa của câu chuyện này là gì?"
+    ],
+    "options": [
+        [
+            "Nhà vua chọn người tài giỏi để truyền ngôi.",
+            "Nhà vua chọn người làm được nhiều thóc gạo nhất.",
+            "Nhà vua chọn người trung thực để truyền ngôi.",
+            "Nhà vua chọn người dũng cảm để truyền ngôi."
+        ],
+        [
+            "Nhà vua ban cho mỗi người một thúng thóc xem ai người trung thực để truyền ngôi.",
+            "Nhà vua ban cho mỗi người một thúng thóc đã luộc và bảo: ai thu được nhiều thóc nhất sẽ được truyền ngôi.",
+            "Nhà vua ban cho mỗi người một thúng thóc xem ai tiết kiệm nhất sẽ được truyền ngôi.",
+            "Nhà vua ban cho mỗi người một thúng thóc giống và bảo: ai thu được nhiều thóc nhất sẽ được truyền ngôi."
+        ],
+        [
+            "Nhà vua.",
+            "Quân lính.",
+            "Chú bé Chôm.",
+            "Người dân."
+        ],
+        [
+            "Chú đã phát hiện ra bí mật thúng thóc và tố cáo mọi người.",
+            "Chú bé dũng cảm nói lên sự thật, không sợ bị trừng phạt.",
+            "Chú bé làm ra được nhiều thóc gạo nhất.",
+            "Chú bé đã dũng cảm nhận mình là người thua cuộc."
+        ],
+        [
+            "Vì chú bé đã tố cáo được hành động gian lận của mọi người.",
+            "Vì chú bé tài giỏi, được nhà vua yêu quý và tin tưởng.",
+            "Vì chú bé là người làm ra được nhiều thóc gạo nhất.",
+            "Vì chú bé dũng cảm nói ra sự thật, không sợ bị trừng phạt."
+        ],
+        [
+            "Thông minh và tài giỏi.",
+            "Cần cù và chịu khó.",
+            "Ngoan ngoãn và thật thà.",
+            "Trung thực và dũng cảm."
+        ],
+        [
+            "Vì họ luôn nói ra sự thật, không vì lợi ích cá nhân mà nói dối làm hỏng việc chung.",
+            "Vì người trung thực luôn nói ra sự thật để có lợi cho bản thân.",
+            "Vì người trung thực luôn được mọi người quý mến, tin tưởng.",
+            "Vì họ luôn tỏ ra thật thà, trung thực, dành được phần ưu tiên và sự tin tưởng."
+        ],
+        [
+            "Phê phán người dân đã gian lận để đạt được mục đích.",
+            "Ca ngợi nhà vua thông minh, nghĩ ra cách để tìm người tài giỏi.",
+            "Phê phán người dân chưa trung thực, dũng cảm nói ra sự thật.",
+            "Ca ngợi chú bé Chôm trung thực, dũng cảm, dám nói lên sự thật."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "B",
+        "D",
+        "D",
+        "A",
+        "D"
+    ]
+}

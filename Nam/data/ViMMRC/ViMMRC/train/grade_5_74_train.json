@@ -1,0 +1,57 @@
+{
+    "article": "Đông Chiêu bẻ cục đất sét bằng nắm tay đặt trên mặt bàn nhỏ. Hai bàn tay em mềm mại, thoăn thoắt biến cục đất sét vô tri thành cái nồi xinh xắn, trong khi hai chân em không ngừng di chuyển xung quanh mặt bàn. Nét đặc biệt trong nghề gốm cổ truyền của làng Chăm là không dùng bàn xoay mà người thợ phải đi xung quanh cái bàn.\nTrên mảnh sân nhỏ, những chiếc nồi tròn vo, đều đặn như được đúc từ một cái khuôn, được tắm nắng trước khi đem nung. Ở quê Đông Chiêu, cách nung đồ gốm cũng khác lạ, không cần cho sản phẩm vào lò mà xếp xen kẽ với rơm rạ, củi khô thành nhiều lớp trên bãi đất trống đầu làng. Khi gió nổi, người thợ mới châm lửa cháy bùng, và chỉ cần mười lăm đến hai mươi phút đã đủ chín sản phẩm.\nĐã chín giờ, Đông Chiêu ngừng tay, đi ôn tập cho buổi học chiều. Như bao cô học trò Chăm nhỏ khác, ngoài việc học em còn phải giúp đỡ cha mẹ nhiều việc để cải thiện cuộc sống vốn không mấy dư dả. Năm nay Đông Chiêu thi tốt nghiệp tiểu học nên em càng phải học nhiều hơn...",
+    "questions": [
+        "Dưới bàn tay khéo léo của Đông Chiêu cục đất sét đã biến thành vật gì?",
+        "Nét đặc biệt trong nghề gốm cổ truyền của làng Chăm là gì?",
+        "Vì sao tác giả nói những cái nồi do bạn Đông Chiêu làm ra như đúc từ một cái khuôn?",
+        "Những người Chăm nung đồ gốm bằng cách nào?",
+        "Qua bài văn em rút ra được bài học gì?",
+        "Hai bàn tay có thể biến cái gì thành nồi xinh đẹp?"
+    ],
+    "options": [
+        [
+            "Cái nồi.",
+            "Cái bình.",
+            "Cái chén.",
+            "Cái rổ."
+        ],
+        [
+            "Người thợ dùng một cái bàn xoay.",
+            "Người thợ phải đi xung quanh cái bàn.",
+            "Đồ vật phải được đúc bằng khuôn.",
+            "Đồ vật được đun trước khi tạo hình."
+        ],
+        [
+            "Vì những chiếc nồi tròn vo và đều đặn.",
+            "Vì những chiếc nồi đều do một người làm ra.",
+            "Vì những chiếc nồi đều được làm ra từ một chiếc bàn xoay.",
+            "Vì những chiếc nồi có cùng loại nguyên liệu tạo ra."
+        ],
+        [
+            "Xếp sản phẩm trên sân và phơi nắng cho đến khi chín sản phẩm.",
+            "Cho sản phẩm vào lò và dùng củi đun từ mười lăm đến hai mươi phút đủ chín sản phẩm.",
+            "Không cần cho sản phẩm vào lò mà xếp xen kẽ với rơm rạ, củi khô thành nhiều lớp trên bãi đất trống đầu làng. Khi gió nổi người thợ mới châm củi cháy bùng.",
+            "Phơi sản phẩm dưới trời nắng một ngày mới đem đi đun."
+        ],
+        [
+            "Ngoài việc học tập chúng ta cần phải biết giúp đỡ cha mẹ công việc nhà.",
+            "Chúng ta phải biết nặn đồ gốm để giúp đỡ cha mẹ.",
+            "Chúng ta phải học tập thật giỏi, không nên làm việc khác làm ảnh hưởng đến việc học của mình.",
+            "Chúng ta nên làm việc nhà cho hoàn tất mới đến việc học."
+        ],
+        [
+            "Đất sét.",
+            "Lá cây.",
+            "Quả.",
+            "Thân cây."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

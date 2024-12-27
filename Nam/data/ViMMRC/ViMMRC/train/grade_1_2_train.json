@@ -1,0 +1,57 @@
+{
+    "article": "Mỗi năm có bốn mùa: Xuân, Hạ, Thu, Đông. Mùa Xuân tiết trời ấm áp, cây cối đâm chồi nảy lộc. Mùa Hạ nóng bức, ve sầu kêu inh ỏi. Thu đến, bầu trời trong xanh mát mẻ. Đông về rét ơi là rét.",
+    "questions": [
+        "Mỗi năm có mấy mùa?",
+        "Mùa hè tiết trời như thế nào?",
+        "Mùa đông tiết trời như thế nào?",
+        "Hãy kể tên bốn mùa trong năm?",
+        "Mùa nào có tiếng ve sầu kêu?",
+        "Màu sắc nào được mô tả bầu trời vào Thu?"
+    ],
+    "options": [
+        [
+            "Hai mùa.",
+            "Một mùa.",
+            "Bốn mùa.",
+            "Ba mùa."
+        ],
+        [
+            "Lạnh.",
+            "Nóng bức.",
+            "Mát mẻ.",
+            "Ấm áp."
+        ],
+        [
+            "Nóng.",
+            "Lạnh rét.",
+            "Độ ẩm nhiều.",
+            "Ấm áp."
+        ],
+        [
+            "Xuân, Hè, Thu và Đông.",
+            "Đông, Hạ, Lạnh và Nóng.",
+            "Mưa, Nắng, Thu và Đông.",
+            "Đông, Nam, Tây và Bắc."
+        ],
+        [
+            "Mùa Hè.",
+            "Mùa Thu.",
+            "Mùa Đông.",
+            "Mùa Xuân."
+        ],
+        [
+            "Xanh.",
+            "Đỏ.",
+            "Lục.",
+            "Nâu."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "A",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Bố đi câu về, không một lần nào là chúng tôi không có quà. \n\nMở thúng câu ra là cả một thế giới dưới nước: cà cuống, niềng niễng đực, niềng niễng cái bò nhộn nhạo. Hoa sen đỏ, nhị sen vàng tỏa hương thơm lừng. Những con cá sộp, cá chuối quẫy tóe nước, mắt thao láo...\n\nBố đi cắt tóc về, cũng không lần nào chúng tôi không có quà.\n\nMở hòm dụng cụ ra là cả một thế giới mặt đất: con xập xành, con muỗm to xù, mốc thếch, ngó ngoáy. Hấp dẫn nhất là những con dế lạo xạo trong các vỏ bao diêm: toàn dế đực, cánh xoăn, gáy vang nhà và chọi nhau phải biết.\n\nQuà của bó làm anh em tôi giàu quá!",
+    "questions": [
+        "Quà của bố có những gì sau những buổi đi câu về?",
+        "Quà của bố có những gì sau mỗi lần cắt tóc về?",
+        "Những con vật: cà cuống, niềng niễng, hoa sen, cá sộp, cá chuối sống trong môi trường nào?",
+        "Những con vật: con xập xành, con muỗm, con dế sống ở môi trường nào?",
+        "Nội dung của bài đọc này là gì?",
+        "Những món quà mà bố mang về cho các con nói lên điều gì?"
+    ],
+    "options": [
+        [
+            "Cà cuống, niềng niễng, hoa sen, cá sộp và cá chuối.",
+            "Con chim, con châu chấu và con bướm.",
+            "Con khỉ, con thỏ, con cò hương và con khướu.",
+            "Con xập xành, con muỗm và con dế."
+        ],
+        [
+            "Cà cuống, niềng niễng, hoa sen, cá sộp, cá chuối.",
+            "Con xập xành, con muỗm, con dế.",
+            "Những lọn tóc dài, mớ tóc rối của khách.",
+            "Những quả ổi, quả cóc và cả chùm nhãn to."
+        ],
+        [
+            "Thế giới tưởng tượng.",
+            "Thế giới trên trời.",
+            "Thế giới mặt đất.",
+            "Thế giới dưới nước."
+        ],
+        [
+            "Thế giới côn trùng.",
+            "Thế giới dưới nước.",
+            "Thế giới mặt đất.",
+            "Thế giới loài có cánh."
+        ],
+        [
+            "Kỉ niệm của cậu bé về những năm tháng tuổi thơ.",
+            "Tình cảm của bố dành cho các con qua những món quà đơn sơ.",
+            "Những sinh vật sống dưới nước và mặt đất.",
+            "Chuyến đi câu và đi cắt tóc của bố."
+        ],
+        [
+            "Bố rất yêu thương hai anh em.",
+            "Bố rất giỏi đi câu và cắt tóc.",
+            "Bố rất thích đồng quê và sông nước.",
+            "Bố rất thích tặng quà."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "D",
+        "C",
+        "B",
+        "A"
+    ]
+}

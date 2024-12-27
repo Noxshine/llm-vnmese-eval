@@ -1,0 +1,73 @@
+{
+    "article": "Có một khu du lịch ven biển mới mở khá đông khách. Khách sạn nào cũng hết sạch cả phòng. Bỗng xuất hiện một tin đồn làm cho mọi người sợ hết hồn: hình như ở bãi tắm có cá sấu.\n\nMột số khách đem ngay chuyện này ra hỏi chủ khách sạn:\n\n- Ông chủ ơi! Chúng tôi nghe nói bãi tắm này có cá sấu. Có phải vậy không, ông?\n\nChủ khách sạn quả quyết:\n\n- Không! Ở đây làm gì có cá sấu!\n\n- Vì sao vậy?\n\n- Vì những vùng biển sâu như thế này nhiều cá mập lắm. Mà cá sấu thì rất sợ cá mập.\n\nCác vị khách nghe xong, khiếp đảm, mặt cắt không còn giọt máu.",
+    "questions": [
+        "Khách lo lắng điều gì khi tắm biển?",
+        "Tin tức ở bãi tắm có cá sấu là tin gì?",
+        "Ai là người giải đáp về tin đồn bãi biển có cá sấu cho khách?",
+        "Ông chủ khách sạn đã nói thế nào về tin đồn có cá sấu ở bãi biển?",
+        "Khi khách hỏi về thông tin bãi biển có cá sấu không thì chủ khách sạn đã trả lời như thế nào?",
+        "Tại sao ông chủ quả quyết ở đây không có cá sấu?",
+        "Thái độ của các vị khách sau khi nói chuyện với ông chủ khách sạn như thế nào?",
+        "Tại sao các vị khách lại khiếp đảm, mặt cắt không còn giọt máu?"
+    ],
+    "options": [
+        [
+            "Ở bãi tắm có nước xoáy.",
+            "Ở bãi tắm có cá sấu.",
+            "Ở bãi tắm có cướp biển.",
+            "Ở bãi tắm có thuyền đắm."
+        ],
+        [
+            "Chỉ là tin đồn.",
+            "Chỉ là huyền thoại.",
+            "Thông tin xác thực.",
+            "Phát trên TV."
+        ],
+        [
+            "Các nhà khoa học.",
+            "Chủ khách sạn.",
+            "Người dân địa phương.",
+            "Cảnh sát biển."
+        ],
+        [
+            "Đúng! Ở đây có rất nhiều cá sấu!.",
+            "Thỉnh thoảng ở đây vẫn xuất hiện!.",
+            "Không! Ở đây làm gì có cá sấu!.",
+            "Không! Nhưng ở đây có cá ăn thịt người!."
+        ],
+        [
+            "Không! Ở đây làm gì có cá sấu!.",
+            "Không! Ở đây chỉ toàn cá mập!.",
+            "Không! Ở đây chỉ có cá heo!.",
+            "Đúng! Ở đây có nhiều cá sấu!."
+        ],
+        [
+            "Vì vùng này là biển mà cá sấu chỉ sống ở vùng sông nước.",
+            "Vì vùng nước này nguồn thức ăn cho cá sấu sinh sống rất ít.",
+            "Vì vùng nước sâu có nhiều cá mập. Mà cá sấu thì sợ cá mập.",
+            "Vì vùng này được khai thác để phục vụ du lịch nên an toàn."
+        ],
+        [
+            "Khiếp đảm, mặt cắt không còn giọt máu.",
+            "Lo lắng, lập tức thu dọn hành lí.",
+            "Tức giận, nổi cáu với ông chủ khách sạn.",
+            "Cười nói vui vẻ, tiếp tục đi tắm biển."
+        ],
+        [
+            "Vì biết vùng này có cá sấu.",
+            "Vì biết vùng này không có cá.",
+            "Vì biết vùng này có cá mập.",
+            "Vì biết vùng này không có bãi tắm."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "C",
+        "A",
+        "A",
+        "A",
+        "C"
+    ]
+}

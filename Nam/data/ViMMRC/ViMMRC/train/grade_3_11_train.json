@@ -1,0 +1,57 @@
+{
+    "article": "1. Ngày xưa, có một nông dân người Chăm rất siêng năng. Về già, ông để dành được một hũ bạc. Tuy vậy, ông rất buồn vì cậu con trai lười biếng.\n\nMột hôm, ông bảo con:\n\n- Cha muốn trước khi nhắm mắt thấy con kiếm nổi bát cơm. Con hãy đi làm và mang tiền về đây!\n\n2. Bà mẹ sợ con vất vả, liền dúi cho một ít tiền. Anh này cầm tiền đi chơi mấy hôm, chỉ còn vài đồng mới trở về đưa cho cha. Người cha vứt ngay nắm tiền xuống ao. Thấy con vẫn thản nhiên, ông nghiêm giọng:\n\n- Đây không phải tiền con làm ra.\n\n3. Người con lại ra đi. Bà mẹ chỉ dám cho ít tiền ăn đường. Ăn hết tiền, anh ta đành tìm vào một làng xin xay thóc thuê. Xay một thúng thóc được trả công hai bát gạo, anh chỉ dám ăn một bát. Suốt ba tháng, dành dụm được chín mươi bát gạo, anh bán lấy tiền.\n\n4. Hôm đó, ông lão đang ngồi sưởi lửa thì con đem tiền về. Ông liền ném mấy đồng tiền vào bếp lửa. Người con vội thọc tay vào lửa lấy ra. Ông lão cười chảy nước mắt:\n\n- Bây giờ cha tin tiền đó chính tay con làm ra. Có làm lụng vất vả người ta mới biết quý trọng đồng tiền.\n\n5. Ông lão đào hũ bạc lên, đưa cho con và bảo:\n\n- Nếu con lười biếng, dù cha cho một trăm hũ bạc cũng không đủ. Hũ bạc tiêu không bao giờ hết chính là hai bàn tay con.",
+    "questions": [
+        "Ông lão muốn con trai của mình trở thành người như thế nào?",
+        "Khi thấy cậu con trai lười biếng, ông lão có tâm trạng như thế nào?",
+        "Khi thấy cậu con trai lười biếng, ông lão đã nói cậu con trai những gì?",
+        "Trước lúc nhắm mắt, người cha muốn con trai mình làm gì?",
+        "Trong lần thứ nhất, khi người cha vứt tiền vào bếp lửa, thái độ của cậu con trai như thế nào?",
+        "Lần thứ hai, khi người cha ném tiền vào lửa, thái độ và biểu hiện của người con trai như thế nào?"
+    ],
+    "options": [
+        [
+            "Giàu có.",
+            "Lười biếng.",
+            "Nghèo túng.",
+            "Chăm chỉ."
+        ],
+        [
+            "Buồn bã.",
+            "Vui vẻ.",
+            "Ghét bỏ.",
+            "Tức giận."
+        ],
+        [
+            "Con hãy đi làm và mang tiền về đây!.",
+            "Cha muốn trước khi trước khi chết sẽ trao gia sản cho con!.",
+            "Cha muốn con nối nghiệp cha, cha sẽ cho con một hũ bạc!.",
+            "Cha muốn trước khi nhắm mắt muốn bế đứa cháu nội!."
+        ],
+        [
+            "Kế thừa tài sản và sản nghiệp.",
+            "Con sống vui vẻ, sung túc, giàu có.",
+            "Có gia đình và có con cái.",
+            "Tự biết kiếm và quý trọng đồng tiền."
+        ],
+        [
+            "Thản nhiên.",
+            "Tiếc nuối.",
+            "Xuống ao mò tiền.",
+            "Bực tức."
+        ],
+        [
+            "Tức giận, khóc lóc, trách móc.",
+            "Vội thọc tay vào lửa để lấy ra.",
+            "Vẫn thản nhiên như không.",
+            "Cười vui sướng."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "A",
+        "D",
+        "A",
+        "A"
+    ]
+}

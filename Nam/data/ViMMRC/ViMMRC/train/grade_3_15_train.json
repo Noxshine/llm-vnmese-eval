@@ -1,0 +1,49 @@
+{
+    "article": "Nhà rông thường được làm bằng các loại gỗ bền chắc như lim, gụ, sến, táu. Nó phải cao để đàn voi đi qua mà không đụng sàn và khi múa rông chiêng trên sàn, ngọn giáo không vướng mái.\n\nGian đầu nhà rông là nơi thờ thần làng, trên vách treo một giỏ mây đựng hòn đá thần. Đó là hòn đá mà già làng nhặt lấy khi chọn đất lập làng. Xung quanh hòn đá thần, người ta treo những cành hoa đan bằng tre, vũ khí, nông cụ của cha ông truyền lại và chiêng trống dùng khi cúng tế.\n\nGian giữa với bếp lửa là trung tâm của nhà rông. Các già làng thường họp tại đây để bàn những việc lớn. Đây cũng là nơi tiếp khách của làng.\n\nTừ gian thứ ba là nơi ngủ của thanh niên. Theo tập quán của nhiều dân tộc, trai làng từ 16 tuổi chưa lập gia đình đều ngủ tập trung ở nhà rông để bảo vệ buôn làng.",
+    "questions": [
+        "Tại sao nhà rông phải cao và chắc?",
+        "Gian đầu của nhà rông được trang trí như thế nào?",
+        "Gian giữa của nhà rông dùng vào gì?",
+        "Câu nào không có sử dụng hình ảnh so sánh?",
+        "Nhà rông làm bằng những loại gỗ gì?"
+    ],
+    "options": [
+        [
+            "Vì để các già làng họp tại đây để bàn những việc lớn.",
+            "Vì nhà rông dùng cho nhịều người ở.",
+            "Vì cao để đàn voi đi qua mà không đụng sàn và khi múa rông chiêng trên sàn ngọn giáo không vướng mái.",
+            "Vì sự thoáng mát."
+        ],
+        [
+            "Treo rất nhiều hình ảnh.",
+            "Trên vách treo giỏ mây đựng hòn đá thần. Xung quanh hòn đá thần, người ta treo những cành hoa đan bằng tre, vũ khí, nông cụ và chịêng trống dùng khi cúng tế.",
+            "Treo rất nhiều hình ảnh và trang trí rất nhiều hoa.",
+            "Treo rất nhiều vỏ hoa."
+        ],
+        [
+            "Là nơi thờ thần làng.",
+            "Là nơi các già làng họp bàn những việc lớn và cũng là nơi tiếp khách của làng.",
+            "Là nơi trai làng từ 16 tuổi chưa lập gia đình ngủ để bảo vệ buôn làng.",
+            "Là nơi trang trí."
+        ],
+        [
+            "Ngôi nhà như trẻ nhỏ.",
+            "Ngựa tuần tra biên giới, dừng đỉnh đèo hí vang.",
+            "Trẻ em như búp trên cành.",
+            "Trẻ con."
+        ],
+        [
+            "Lim, gụ, sến và táu.",
+            "Lim, gụ, sến và gõ.",
+            "Lim, gụ, sến và dừa.",
+            "Lim, gụ, sến và xoài."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "B",
+        "A"
+    ]
+}

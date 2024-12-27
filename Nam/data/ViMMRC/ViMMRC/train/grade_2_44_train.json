@@ -1,0 +1,73 @@
+{
+    "article": "1. Ngày xưa có cậu bé làm việc gì cũng mau chán. Mỗi khi cầm quyển sách, cậu chỉ đọc vài dòng đã ngáp ngắn ngáp dài, rồi bỏ dở. Những lúc, cậu cũng chỉ nắn nót được mấy chữ đầu, rồi lại viết nguệch ngoạc, trông rất xấu.\n2. Một hôm trong lúc đi chơi, cậu nhìn thấy một bà cụ tay cầm thỏi sắt mải miết mài vào tảng đá ven đường . Thấy lạ, cậu bèn hỏi :\n- Bà ơi, bà làm gì thế ?\nBà cụ trả lời :\n- Bà mài thỏi sắt này thành một chiếc kim để khâu vá quần áo.\nCậu bé ngạc nhiên :\n- Thỏi sắt to như thế, làm sao bà mài thành kim được.\n3. Bà cụ ôn tồn giảng giải :\n- Mỗi ngày mài thỏi sắt nhỏ đi một tí, sẽ có ngày nó thành kim. Giống như cháu đi học, mỗi ngày  cháu học một ít , sẽ có ngày cháu thành tài.\n4. Cậu bé hiểu ra, quay về nhà học bài.",
+    "questions": [
+        "Bà cụ đã mài thứ gì để thành kim?",
+        "Bà cụ đang làm gì bên ven đường?",
+        "Ban đầu, tính cách của cậu bé như thế nào?",
+        "Nội dung câu chuyện này khuyên chúng ta điều gì?",
+        "Câu chuyện này giống với câu thành ngữ nào?",
+        "Trạng thái của cậu bé mỗi khi cầm quyển sách là gì?",
+        "Ai là người đã khai sáng cho cậu bé hiểu được chân lý \"có công mài sắt có ngày nên kim\"?",
+        "Sau khi hiểu được chân lý \"có công mài sắt có ngày nên kim\", câu bé đã làm gì?"
+    ],
+    "options": [
+        [
+            "Thỏi sắt to.",
+            "Đất sét.",
+            "Đá.",
+            "Bột gạo."
+        ],
+        [
+            "Bà cụ đang học bài.",
+            "Bà cụ đang đi chợ.",
+            "Bà cụ đang mài thỏi sắt.",
+            "Bà cụ đang chán về mọi thứ."
+        ],
+        [
+            "Làm việc gì cũng hết mình.",
+            "Làm việc gì cũng cẩn thận.",
+            "Làm việc gì cũng mau chán.",
+            "Chăm ngoan và rất đam mê với những gì mình đang làm."
+        ],
+        [
+            "Không cần học hỏi cũng có thể thành tài.",
+            "Có tính nhẫn nại và kiên trì học hỏi thì có ngày cũng thành tài.",
+            "Chỉ cần đọc vài dòng đã ngáp ngắn ngáp dài là có thể học giỏi.",
+            "Chăm chỉ đọc sách nhiều hơn."
+        ],
+        [
+            "Có công mài sắc có ngày nên kim.",
+            "Đi một ngày đàng học một sàn không.",
+            "Học học nữa học mãi.",
+            "Hãy chăm chỉ siêng năng nuôi dưỡng ước mơ."
+        ],
+        [
+            "Ngáp ngắn ngáp dài.",
+            "Vui vẻ.",
+            "Luôn cảm thấy đam mê xuất hiện.",
+            "Tuông trào cảm xúc hạnh phú."
+        ],
+        [
+            "Bà lão.",
+            "Bà tiên.",
+            "Ông cụ.",
+            "Cô giáo."
+        ],
+        [
+            "Quay về nhà học bài.",
+            "Tiếp tục nghe bà lão kể chuyện.",
+            "Phụ bà lão mài sắt.",
+            "Tiếp tục cảm thấy chán mọi thứ xung quanh."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "B",
+        "A",
+        "A",
+        "A",
+        "A"
+    ]
+}

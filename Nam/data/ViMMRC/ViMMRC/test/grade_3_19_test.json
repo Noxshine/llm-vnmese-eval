@@ -1,0 +1,81 @@
+{
+    "article": "1. Ở nhiều nơi trong thành phố, người ta dán quảng cáo về buổi biểu diễn của một nhà ảo thuật Trung Quốc nổi tiếng. Chiều nay, trường của Xô-phi và Mác tổ chức cho học sinh đi xem. Nhưng hai chị em không dám xin tiền mua vé vì bố đang nằm viện, các em biết mẹ rất cần tiền.\n\n2. Tình cờ trong lúc ra ga mua sữa, hai chị em gặp chú Lý, nhà ảo thuật. Các em giúp chú mang những đồ đạc lỉnh kỉnh đến rạp xiếc. Biết hai chị em thích xem ảo thuật, chú Lý bảo các em chờ một lát. Nhưng chị em Xô-phi đã về ngay vì nhớ lời mẹ dặn không được làm phiền người khác.\n\n3. Thế rồi, chẳng biết hỏi thăm ai, buổi tối hôm ấy, chú Lý tìm tới nhà. Lúc đó, mẹ đang chuẩn bị bữa tối. Bước vào nhà, chú nói:\n\n- Tôi đến để cảm ơn các con chị. Các cháu rất ngoan.\n\n4. Mẹ mời chú Lý uống trà. Chú nhận lời. Nhưng từ lúc ngồi vào bàn, cả nhà cứ chứng kiến hết bất ngờ này đến bất ngờ khác. Xô-phi lấy một cái bánh, đến lúc đặt vào đĩa lại thành hai cái. Khi mẹ mở nắp lọ đường, có hàng mét dải băng đỏ, xanh, vàng bắn ra. Còn Mác đang ngồi bỗng cảm thấy có một khối nóng mềm trên chân. Hóa ra đó là một chú thỏ trắng mắt hồng.\n\nHai chị em thán phục nhìn chú Lý. Đúng là một nhà ảo thuật đại tài.",
+    "questions": [
+        "Hai chị em Xô-phi và Mác muốn đi xem loại hình nghệ thuật gì?",
+        "Tại sao hai chị em Xô-phi không đi xem ảo thuật?",
+        "Khi ra ga mua sữa, hai chị em đã gặp người nào?",
+        "Hai chị em đã giúp đỡ gì cho nhà ảo thuật?",
+        "Tại sao hai chị em không chờ chú Lý dẫn vào rạp?",
+        "Khi mẹ Xô-phi đang chuẩn bị bữa tối, chuyện gì đã xảy ra ?",
+        "Vì sao chú Lý lại tìm đến và cảm ơn hai chị em?",
+        "Hai chị em Xô-phi đã được xem ảo thuật chưa?",
+        "Chúng ta có nhận xét gì về hai chị em Xô-phi?"
+    ],
+    "options": [
+        [
+            "Xem ảo thuật.",
+            "Xem xiếc.",
+            "Xem tranh.",
+            "Xem chiếu phim."
+        ],
+        [
+            "Vì hai chị em đã xin mà mẹ không cho tiền mua vé để đi xem.",
+            "Vì hai chị em không dám xin tiền mẹ mua vé, bố đang nằm viện nên mẹ rất cần tiền.",
+            "Vì hai chị em lại thích đi xem biểu diễn xiếc.",
+            "Vì bố Xô-phi hứa khi khỏi bệnh sẽ đưa hai chị em đi xem ảo thuật sau."
+        ],
+        [
+            "Bà Mary - bà ngoại của Xô-phi.",
+            "Ông Ba - bác hàng xóm.",
+            "Chú Lý - nhà ảo thuật.",
+            "Ông Thom - ông ngoại."
+        ],
+        [
+            "Hai chị em giúp chú tìm chú thỏ vừa đi lạc trong món đồ đạc.",
+            "Hai chị em giúp chú nhặt những đồ lỉnh kỉnh bị rơi vương vãi.",
+            "Hai chị em giúp chú chuẩn bị đạo cụ trước khi lên biểu diễn.",
+            "Hai chị em giúp chú mang những đồ đạc lỉnh kỉnh đến rạp xiếc."
+        ],
+        [
+            "Vì hai chị em còn phải quay về bệnh viện thăm bố.",
+            "Vì hai chị em không dám làm phiền chú ảo thuật biểu diễn.",
+            "Vì hai chị em không có tiền để đưa cho chú Lý ảo thuật.",
+            "Vì hai chị em nhớ lời mẹ dặn không được làm phiền người khác."
+        ],
+        [
+            "Bố thông báo sẽ đưa hai chị em đi xem ảo thuật.",
+            "Chú Lý mời chị em Xô-phi đi xem biểu diễn ảo thuật.",
+            "Chú Lý tìm tới nhà chơi.",
+            "Mẹ cho hai chị em Xô-phi tiền mua vé xem ảo thuật."
+        ],
+        [
+            "Vì đã biết nghĩ cho bố mẹ.",
+            "Vì trung thực, không gian dối.",
+            "Vì đã giúp đỡ chú xách đồ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Hai chị em đã được xem ảo thuật rồi.",
+            "Hai chị em chưa được xem ảo thuật.",
+            "Hai chị em đang xem ảo thuật.",
+            "Hai chị em sẽ được xem trong vài ngày tới."
+        ],
+        [
+            "Hai chị em là những đứa trẻ thông minh.",
+            "Hai chị em là những đứa trẻ vòi vĩnh.",
+            "Hai chị em là những đứa trẻ hư.",
+            "Hai chị em là những đứa trẻ ngoan."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "D",
+        "C",
+        "C",
+        "A",
+        "D"
+    ]
+}

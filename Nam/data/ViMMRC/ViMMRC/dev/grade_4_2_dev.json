@@ -1,0 +1,57 @@
+{
+    "article": "Có hai hạt lúa nọ được người chủ chọn làm hạt giống cho mùa sau vì cả hai đều là những hạt lúa tốt, to khỏe và chắc mẩy.\n\nMột hôm, người chủ định đem chúng gieo xuống cánh đồng. Hạt thứ nhất nhủ thầm: “Dại gì ta phải theo ông chủ ra đồng. Ta không muốn cả thân mình phải nát tan trong đất. Tốt nhất ta hãy giữ lại tất cả chất dinh dưỡng trong lớp vỏ này và tìm một nơi lí tưởng để trú ngụ.” Thế là nó chọn một góc tối trong kho lúa để lăn vào đó.\n\nCòn hạt lúa thứ hai thì ngày đêm mong được ông chủ đem gieo xuống đất. Nó thật sự sung sướng khi được bắt đầu một cuộc đời mới mẻ ở ngoài cánh đồng.\n\nThời gian trôi qua, hạt lúa thứ nhất bị héo khô nơi góc nhà vì nó chẳng nhận được nước và ánh sáng. Lúc này chất dinh dưỡng chẳng giúp ích được gì - nó chết dần chết mòn. Trong khi đó, hạt lúa thứ hai dù nát tan trong đất nhưng từ thân nó lại mọc lên cây lúa xanh tươi, trĩu hạt vàng óng. Nó mang đến cuộc đời những hạt lúa mới…",
+    "questions": [
+        "Hai hạt lúa trong bài có đặc điểm là gì?",
+        "Tại sao người chủ chọn hạt lúa nọ làm giống?",
+        "Kết quả của hạt lúa thứ hai là gì?",
+        "Kết quả của hạt lúa thứ nhất?",
+        "Vì sao hạt lúa thứ nhất héo khô?",
+        "Hạt lúa thứ nhất suy nghĩ và hành động là gì?"
+    ],
+    "options": [
+        [
+            "Tốt, xinh đẹp, vàng óng.",
+            "Vàng óng, trĩu hạt, chắc mẩy.",
+            "Tốt, to khỏe và chắc mẩy.",
+            "Vàng óng, to khỏe và trĩu hạt."
+        ],
+        [
+            "To và dài.",
+            "Tốt và to.",
+            "Tốt, to khoẻ và chắc mẩy.",
+            "Dài và to."
+        ],
+        [
+            "Bị héo khô nơi gốc nhà.",
+            "Nó mang lại cuộc đời cho những hạt lúa mới.",
+            "Ở tại một gốc nhà.",
+            "Thiếu chất dinh dưỡng."
+        ],
+        [
+            "Bị héo khô tại một gốc nhà.",
+            "Rất tươi tốt.",
+            "Chờ ngày gặt hái.",
+            "Tạo cuộc đời cho những hạt lúa mới."
+        ],
+        [
+            "Vì nó không nhận được ánh sáng và nước.",
+            "Vì nó nhận được nước và ánh sáng.",
+            "Vì nó được trồng ở cánh đồng khô hạn.",
+            "Vì nó không được quản lý tốt."
+        ],
+        [
+            "Dại gì ta phải theo ông chủ ra đồng. Ta không muốn cả thân mình phải nát tan trong đất. Tốt nhất ta hãy giữ lại tất cả chất dinh dưỡng trong lớp vỏ này và tìm một nơi lí tưởng để trú ngụ.",
+            "Muốn bắt đầu cuộc đời mới ở ngoài cánh đồng.",
+            "Muốn ra cánh đồng.",
+            "Muốn được ông chủ chăm sóc."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "A",
+        "A",
+        "B"
+    ]
+}

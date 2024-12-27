@@ -1,0 +1,57 @@
+{
+    "article": "1. Mới sáng tinh mơ, Chi đã vào vườn hoa của trường. Em đến tìm những bông cúc màu xanh, được cả lớp gọi là hoa Niềm Vui. Bố của Chi đang nằm viện. Em muốn đem tặng bố một bông hoa Niềm Vui để bố dịu cơn đau.\n\n2. Những bông hoa màu xanh lộng lẫy dưới ánh mặt trời buổi sáng. Chi giơ tay định hái, nhưng em bỗng chần chừ vì không ai được ngắt hoa trong vườn. Mọi người vun trồng và chỉ đến đây để ngắm vẻ đẹp của hoa.\n\n3. Cánh cửa kẹt mở. Cô giáo đến. Cô không hiểu vì sao Chi đến đây sớm thế. Chi nói:\n\n- Xin cô cho em được hái một bông hoa. Bố em đang ốm nặng.\n\nCô giáo đã hiểu. Cô ôm em vào lòng:\n\n- Em hãy hái thêm hai bông nữa, Chi ạ! Một bông cho em, vì trái tim nhân hậu của em. Một bông cho mẹ, vì cả bố và mẹ đã dạy dỗ em thành một cô bé hiếu thảo.\n\n4. Khi bố khỏi bệnh, Chi cùng bố đến trường cảm ơn cô giáo. Bố còn tặng nhà trường một khóm hoa cúc đại đóa màu tím đẹp mê hồn.",
+    "questions": [
+        "Chi đã vào vườn hoa để làm gì vào lúc sáng sớm?",
+        "Chi muốn hái loại hoa nào?",
+        "Những bông cúc xanh được Chi và cả lớp gọi với cái tên gì?",
+        "Vì sao Chi không dám tự hái bông hoa Niềm Vui?",
+        "Trong lúc chần chừ không dám hái hoa, Chi đã gặp ai?",
+        "Chi đã nói gì với cô khi gặp cô?"
+    ],
+    "options": [
+        [
+            "Hái một bông hoa để ngắm vì hoa đẹp quá.",
+            "Hái một bó hoa tặng mẹ nhân ngày Quốc tế Phụ nữ.",
+            "Hái một bó hoa để tặng cô giáo nhân ngày 20 - 11.",
+            "Hái tặng bố một bông hoa, mong bố dịu cơn đau."
+        ],
+        [
+            "Những bông hoa ly.",
+            "Khóm cúc đại đóa.",
+            "Những bông cúc xanh.",
+            "Những đóa hồng đỏ."
+        ],
+        [
+            "Hoa Thần Tiên.",
+            "Hoa Niềm Vui.",
+            "Hoa Hiếu Thảo.",
+            "Hoa Tang Tóc."
+        ],
+        [
+            "Bố của Chi không thích hoa cúc màu xanh.",
+            "Mọi người đến đây để ngắm vẻ đẹp của hoa, không ai được phép hái hoa.",
+            "Vì Chi không mai theo dụng cụ hái hoa, Chi sợ bị gai làm chảy máu.",
+            "Vì có một lời nguyền dành cho ai hái bông hoa Niềm Vui."
+        ],
+        [
+            "Bác chủ vườn.",
+            "Bạn thân.",
+            "Cô giáo.",
+            "Bác bảo vệ."
+        ],
+        [
+            "Xin cô cho em được hái một bông hoa.",
+            "Cô ơi em muốn trồng bông hoa như vậy.",
+            "Xin cô đừng hiểu lầm, em chỉ ngắm hoa.",
+            "Hoa hôm nay đẹp quá cô nhỉ."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "A",
+        "B",
+        "C",
+        "A"
+    ]
+}

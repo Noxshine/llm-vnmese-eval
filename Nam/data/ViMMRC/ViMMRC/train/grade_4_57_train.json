@@ -1,0 +1,49 @@
+{
+    "article": "Mặt trời xuống biển như hòn lửa\nSóng đã cài then đêm sập cửa\nĐoàn thuyền đánh cá lại ra khơi.\nCâu hát căng buồm cùng gió khơi.\n\nHát rằng: cá bạc Biển Đông lặng,\nCá thu Biển Đông như đoàn thoi\nĐêm ngày dệt biển muôn luồng sáng\nĐến dệt lưới ta, đoàn cá ơi!\n\nTa hát bài ca gọi cá vào,\nGõ thuyền đã có nhịp trăng cao,\nBiển cho ta cá như lòng mẹ\nNuôi lớn đời ta tự buổi nào.\n\nSao mờ, kéo lưới kịp trời sáng\nTa kéo xoăn tay chùm cá nặng\nVảy bạc đuôi vàng lóe rạng đông\nLưới xếp buồm lên đón nắng hồng.\n\nCâu hát căng buồm với gió khơi,\nĐoàn thuyền chạy đua cùng mặt trời,\nMặt trời đội biển nhô màu mới,\nMắt cá huy hoàng muôn dặm phơi.",
+    "questions": [
+        "Bài thơ nảy được chia làm mấy khổ?",
+        "Vào thời điểm nào, đoàn thuyền đánh cá ra khơi?",
+        "Đoàn thuyền đánh cá quay về vào thời điểm nào?",
+        "Bài thơ đã mô tả biển cả đẹp như thế nào?",
+        "Đoàn thuyền cá đã chạy đua cùng ai?"
+    ],
+    "options": [
+        [
+            "Bốn khổ.",
+            "Năm khổ.",
+            "Sáu khổ.",
+            "Ba khổ."
+        ],
+        [
+            "Hoàng hôn.",
+            "Bình minh.",
+            "Cuối năm.",
+            "Giữa trưa."
+        ],
+        [
+            "Bình minh.",
+            "Hoàng hôn.",
+            "Giữa trưa.",
+            "Chiều muộn."
+        ],
+        [
+            "Biển cả đẹp huy hoàng và giàu có.",
+            "Biển cả rộng lớn mênh mông.",
+            "Biển cả nghèo nàn, xơ xác.",
+            "Biển cả nóng nảy, hung bạo, dữ dằn."
+        ],
+        [
+            "Mặt trời.",
+            "Đoàn thuyền khác.",
+            "Đoàn cá dưới biển.",
+            "Bóng của đoàn thuyền."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "A",
+        "A",
+        "A"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "1. Giờ ra chơi, Minh thầm thì với Nam: \"Ngoài phố có gánh xiếc. Bọn mình ra xem đi!\"\nNghe vậy, Nam không nén nổi tò mò. Nhưng cổng trường khóa, trốn ra sao được. Minh bảo:\n- Tớ biết có một chỗ tường thủng.\n\n2. Hết giờ ra chơi, hai em đã ở bên bức tường. Minh chui đầu ra. Nam đẩy Minh lọt ra ngoài. Đến lượt Nam đang cố lách ra thì bác bảo vệ vừa tới, nắm chặt hai chân em: \"Cậu nào đây? Trốn học hả?\" Nam vũng vẫy. Bác nắm chặt cổ chân Nam. Sợ quá, Nam khóc toáng lên.\n\n3. Bỗng có tiếng cô giáo:\n- Bác nhẹ tay kẻo cháu đau. Cháu là học sinh lớp tôi.\nCô nhẹ nhàng kéo Nam lùi lại rồi đỡ em ngồi dậy. Cô phủi đất cát lấm lem trên người Nam và đưa em về lớp.\n\n4. Vừa đau vừa xấu hổ, Nam bật khóc. Cô xoa đầu Nam và gọi Minh đang thập thò ở cửa lớp vào, nghiêm giọng hỏi:\n- Từ nay các em có trốn học đi chơi nữa không?\nHai em cùng đáp:\n- Thưa cô, không ạ. Chúng em xin lỗi cô.\nCô hài lòng, bảo hai em về chỗ, rồi tiếp tục giảng bài.",
+    "questions": [
+        "Trong giờ ra chơi, Minh rủ Nam đến nơi nào?",
+        "Nam và Minh trốn học để đi xem xiếc bằng cách nào?",
+        "Ai là người đã bắt giữ Nam và Minh khi hai bạn này đang lách để trốn ra ngoài?",
+        "Khi bắt gặp, cô đã làm gì với hai bạn Nam và Minh?",
+        "Qua câu chuyện em thấy cô giáo là người như nào?"
+    ],
+    "options": [
+        [
+            "Đi ăn quà vặt.",
+            "Chơi bắn bi.",
+            "Chơi bài.",
+            "Xem xiếc."
+        ],
+        [
+            "Giả vờ ốm để bố mẹ đến đón.",
+            "Chui qua chỗ tường thủng.",
+            "Xin phép bác bảo vệ cho đi.",
+            "​đi qua cổng trường."
+        ],
+        [
+            "Bác bảo vệ.",
+            "Cô giáo.",
+            "Các bạn.",
+            "Thầy hiệu trưởng."
+        ],
+        [
+            "Phạt hai bạn.",
+            "Cho hai bạn đi chơi tiếp.",
+            "Cô xoa đầu và nhắc các bạn không trốn học nữa.",
+            "Cô giáo cho chạy vài vòng sân trường."
+        ],
+        [
+            "Cô rất khó tính.",
+            "Cô rất nghiêm khắc.",
+            "Cô rất hiền và sâu sắc.",
+            "Cô rất khiêm tốn."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "C",
+        "C"
+    ]
+}

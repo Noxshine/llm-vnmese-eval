@@ -1,0 +1,49 @@
+{
+    "article": "1. Ngày xưa, có một năm nắng hạn rất lâu, ruộng đồng nứt nẻ, cây cỏ trụi trơ, chim muông khát khô cả họng.\n\nCóc thấy nguy quá, bèn lên thiên đình kiện Trời. Dọc đường, gặp Cua, Gấu, Cọp, Ong và Cáo. Tất cả đều xin đi theo.\n\n2. Đến cửa nhà Trời, chỉ thấy một cái trống to, Cóc bảo:\n\n- Anh Cua bò vào chum nước này. Cô Ong đợi sau cánh cửa. Còn chị Cáo, anh Gấu, anh Cọp thì nấp ở hai bên.\n\nSắp đặt xong, Cóc một mình bước tới, lấy dùi đánh ba hồi trống. Thấy chú Cóc bé tẹo dám náo động thiên đình, Trời nổi giận, sai Gà ra trị tội. Gà vừa bay đến, Cóc ra hiệu, Cáo nhảy xổ tới, cắn cổ Gà tha đi. Trời sai Chó ra bắt Cáo, Chó mới ra tới cửa, Gấu đã quật Chó chết tươi. Trời càng tức, sai thần Sét ra trị Gấu. Thần Sét cầm lưỡi tầm sét hùng hổ đi ra, chưa kịp nhìn địch thủ, đã bị Ong ở sau cửa bay ra đốt túi bụi. Thần nhảy vào chum nước, lập tức Cua giơ càng ra kẹp. Thần đau quá, nhảy ra thì bị Cọp vồ.\n\n3. Trời túng thế, đành mời Cóc vào, Cóc tâu:\n\n- Muôn tâu Thượng đế! Đã lâu lắm rồi, trần gian không hề được một giọt mưa. Thượng đế cần làm mưa ngay để cứu muôn loài.\n\nTrời sợ trần gian nổi loạn, dịu giọng nói:\n\n- Thôi, cậu hãy về đi. Ta sẽ cho mưa xuống!\n\nLại cò dặn thêm:\n\n- Lần sau, hễ muốn mưa, cậu chỉ cần nghiến răng báo hiệu cho ta, khi phải lên đây!\n\nCóc về đến trần gian thì nước đã ngập cả ruộng đồng.\n\nTừ đó, hễ Cóc nghiến răng là trời đổ mưa.",
+    "questions": [
+        "Tại sao Cóc phải kiện Trời?",
+        "Có bao nhiêu con vật đã đi cùng với Cóc lên kiện trời?",
+        "Tên các con vật cùng đi với Cóc là gì?",
+        "Cóc buộc trời phải làm gì?",
+        "Anh Cua bò vào cái gì?"
+    ],
+    "options": [
+        [
+            "Vì Trời lâu ngày không mưa, hạ giới bị hạn hán lớn, muôn loài đều khổ sở.",
+            "Nắng hạn lâu năm.",
+            "Chim muôn khát khô cả họng.",
+            "Cả ba ý trên."
+        ],
+        [
+            "Ba con vật.",
+            "Bốn con vật.",
+            "Năm con vật.",
+            "Hai con vật."
+        ],
+        [
+            "Cóc, Gà, Cáo.",
+            "Mèo, Chó, Ong.",
+            "Cua, Gấu, Cọp, Ong, Cáo.",
+            "Cua, Gấu, Cọp, Ong."
+        ],
+        [
+            "Cho mùa màng bội thu.",
+            "Cho mưa xuống trần gian.",
+            "Cho thêm nắng.",
+            "Cho phép màu."
+        ],
+        [
+            "Ấm nước.",
+            "Chum nước.",
+            "Cái thao.",
+            "Cái nồi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "B",
+        "B"
+    ]
+}

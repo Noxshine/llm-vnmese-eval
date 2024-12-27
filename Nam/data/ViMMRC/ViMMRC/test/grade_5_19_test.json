@@ -1,0 +1,49 @@
+{
+    "article": "Chiều hôm ấy có một em gái nhỏ đứng áp trán vào tủ kính cửa hàng của Pi-e, nhìn từng đồ vật như muốn kiếm thứ gì. Bỗng em ngửng đầu lên:\n-Cháu có thể xem chuỗi ngọc lam này không ạ?\n\nPi-e lấy chuỗi ngọc, đưa cho cô bé. Cô bé thốt lên:\n-Đẹp quá! Xin chú gói lại cho cháu!\n\nPi-e ngạc nhiên:\n-Ai sai cháu đi mua?\n-Cháu mua tặng chị cháu nhân lễ Nô-en. Chị đã nuôi cháu từ khi mẹ cháu mất.\n-Cháu có bao nhiêu tiền?\n\nCô bé mở khăn tay ra, đổ lên bàn một nắm xu:\n\n-Cháu đã đập con lợn đất đấy!\n\nPi-e trầm ngâm nhìn cô bé. Rồi vừa lúi húi gỡ mảnh giấy ghi giá tiền, anh vừa hỏi:\n\n-Cháu tên gì?\n-Cháu là Gioan.\n\nAnh đưa Gioan chuỗi ngọc gói trong bao lụa đỏ:\n-Đừng đánh rơi nhé!\n\nCô bé mỉm cười rạng rỡ, chạy vụt đi. Cô đâu biết chuỗi ngọc này Pi-e dành để tặng vợ chưa cưới của mình, nhưng rồi một tai nạn giao thông đã cướp mất người anh yêu quý.\n\nNgày lễ Nô-en tới. Khách hàng ai cũng vui làm cho Pi-e càng đau lòng. Khi người khách cuối cùng bước ra, anh thở phào. Thế là qua được năm nay! Nhưng anh đã lầm.\n\nCửa lại mở, một thiếu nữ bước vào. Cô lấy trong túi xách ra chuỗi ngọc lam:\n-Chuỗi ngọc này có phải của tiệm ông không ạ?\n-Phải.\n-Thưa… Có phải ngọc thật không?\n-Không phải thứ ngọc quý nhất, nhưng là ngọc thật.\n- Ông có nhớ đã bán cho ai không?\n-Một cô bé tên là Gioan mua tặng chị của mình.\n-Giá bao nhiêu ạ?\n-Tôi không khi nào nói giá tiền của quà tặng.\n-Gioan chỉ có ít tiền tiêu vặt. Làm sao em mua nổi chuỗi ngọc này?\n\nPi-e gói lại chuỗi ngọc và đáp:\n-Em đã trả giá rất cao. Bằng toàn bộ số tiền em có.\n\nHai người đều im lặng. Tiếng chuông từ một giáo đường gần đó bắt đầu đổ.\n-Nhưng sao ông lại làm như vậy?\n\nPi-e vừa đưa chuỗi ngọc cho cô gái vừa nói:\n-Hôm nay là ngày Nô-en. Tôi không có ai để tặng quà. Cho phép tôi đưa cô về nhà và chúc cô một lễ Nô-en vui vẻ nhé!\n\nTrong tiếng chuông đổ hồi, Pi-e và thiếu nữ cùng sánh nhau sánh bước qua một năm mới hi vọng tràn trề.",
+    "questions": [
+        "Cô bé mua chuỗi ngọc lam tặng ai?",
+        "Vì sao Pi-e cho rằng em bé trả giá rất cao để mua chuỗi ngọc?",
+        "Từ “cháu” trong câu “Cháu là Gioan” đóng vai trò cú pháp gì?",
+        "Cặp quan hệ từ trong câu “Tuy Gioan không đủ tiền nhưng Pi-e vẫn bán cho cô bé chuỗi ngọc lam.” biểu thị quan hệ gì?",
+        "Trong câu “Cháu đã đập con lợn đất đấy!” từ nào là động từ?"
+    ],
+    "options": [
+        [
+            "Bà.",
+            "Mẹ.",
+            "Chị.",
+            "Em."
+        ],
+        [
+            "Vì em bé đã mua chuỗi ngọc bằng tất cả số tiền dành dụm được.",
+            "Vì em bé rất thích chuỗi ngọc.",
+            "Vì em bé rất yêu chị của mình và muốn tặng chị chuỗi ngọc.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Danh từ làm chủ ngữ.",
+            "Đại từ làm chủ ngữ.",
+            "Tính từ làm chủ ngữ.",
+            "Động từ làm chủ ngữ."
+        ],
+        [
+            "Biểu thị quan hệ tương phản.",
+            "Biểu thị quan hệ giả thiết, kết quả.",
+            "Biểu thị quan hệ nguyên nhân, kết quả.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Đã.",
+            "Đập.",
+            "Cháu.",
+            "Lợn."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "A",
+        "B"
+    ]
+}

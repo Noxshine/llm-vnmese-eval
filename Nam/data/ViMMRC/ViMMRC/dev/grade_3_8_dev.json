@@ -1,0 +1,89 @@
+{
+    "article": "Bà kính yêu!\n\nLâu rồi, cháu chưa được về quê, cháu nhớ bà lắm.\nDạo này bà có khỏe không ạ?\nGia đình cháu ngoài này vẫn bình thường. Năm nay, cháu học lớp 3. Từ đầu năm học đến giờ, cháu được tám điểm 10 rồi đấy, bà ạ! Ngày nghỉ, cháu thường được bố mẹ cháu cho đi chơi.\nCháu vẫn nhớ năm ngoái được về quê, thả diều cùng anh Tuấn trên đê và đêm đêm ngồi nghe bà kể chuyện cổ tích dưới ánh trăng.\nCháu hứa với bà sẽ học thật giỏi, luôn chăm ngoan để bà vui. Cháu kính chúc bà luôn mạnh khỏe, sống lâu. Cháu mong chóng đến hè để được về quê thăm bà.\nCháu của bà.\n\nĐức\nTrần Hoài Đức",
+    "questions": [
+        "Bạn Đức viết lá thư cho người nào?",
+        "Dòng đầu của bức thư, bạn Đức viết gì?",
+        "Sau khi ghi địa chỉ, Đức viết gì cho bà phần đầu bức thư?",
+        "Đức đã hỏi thăm bà về những gì?",
+        "Đức không nói với bà điều gì?",
+        "Phần cuối lá thư, Đức hứa với bà điều gì?",
+        "Phần cuối lá thư, Đức đã chúc bà điều gì?",
+        "Phần cuối bức thư, Đức bày tỏ niềm mong ước gì với bà?",
+        "Phần cuối thư thể hiện tình cảm của Đức với bà thế nào?",
+        "Nội dung của bài này là gì?"
+    ],
+    "options": [
+        [
+            "Bố.",
+            "Bạn.",
+            "Mẹ.",
+            "Bà."
+        ],
+        [
+            "Địa chỉ, ngày tháng viết thư.",
+            "Lời chào hỏi.",
+            "Lời thông báo, kể chuyện.",
+            "Lời hứa, lời chào tạm biệt."
+        ],
+        [
+            "Lời kể về tình hình.",
+            "Lời chào, bày tỏ tình cảm.",
+            "Lời hứa, lời chúc, tạm biệt.",
+            "Lời hồi tưởng về quá khứ."
+        ],
+        [
+            "Dạo này con mèo ở nhà thế nào rồi ạ?",
+            "Dạo này bà có nhớ cháu không ạ?",
+            "Dạo này ông có đi làm đồng nữa không ạ?",
+            "Dạo này bà có khỏe không ạ?"
+        ],
+        [
+            "Cháu lên lớp 3, từ đầu năm được 8 điểm mười.",
+            "Cháu có thêm bạn mới, bạn ấy học rất giỏi và tốt bụng.",
+            "Cháu nhớ hè năm ngoái được về quê thả diều, nghe bà kể chuyện.",
+            "Ngày nghỉ được bố mẹ đưa đi chơi."
+        ],
+        [
+            "Sẽ học để kể chuyện cho bà nghe.",
+            "Sẽ xin bố mẹ cuối tuần về thăm bà.",
+            "Sẽ chăm ngoan học giỏi để bà vui.",
+            "Sẽ mua tặng bà một cây hoa."
+        ],
+        [
+            "Luôn trẻ trung, yêu đời.",
+            "Luôn mạnh khỏe, sống lâu.",
+            "Luôn giàu có, sung túc.",
+            "Luôn chăm ngoan, học giỏi."
+        ],
+        [
+            "Mong chóng biết đi xe để tự đạp xe tới trường.",
+            "Mong chóng đến hè để được về quê thăm bà.",
+            "Mong chóng học giỏi, trưởng thành để bà vui.",
+            "Mong bức thư chóng đến được tay bà."
+        ],
+        [
+            "Khó chịu, thù ghét.",
+            "Yên mến, kính trọng.",
+            "Tiếc thương, đau lòng.",
+            "Khinh bỉ, coi thường."
+        ],
+        [
+            "Thể hiện nỗi buồn, sự ân hận của Đức đối với bà.",
+            "Thể hiện sự thất vọng, nhớ thương của Đức đối với bà.",
+            "Thể hiện niềm tiếc thương, sự nối tiếc với những kỉ niệm về bà.",
+            "Thể hiện tình yêu, sự gắn bó, kính trọng của Đức đối với bà."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "B",
+        "D",
+        "B",
+        "C",
+        "B",
+        "B",
+        "B",
+        "D"
+    ]
+}

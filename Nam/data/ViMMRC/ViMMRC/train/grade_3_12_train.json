@@ -1,0 +1,49 @@
+{
+    "article": "Nườm nượp người, xe đi\nMùa xuân về trẩy hội.\nRừng mơ thay áo mới.\nXúng xính hoa đón mời.\n\nNơi núi cũ xa vời\nBỗng thành nơi gặp gỡ.\nMột câu chào cởi mở\nHóa ra người cùng quê.\n\nBước mỗi bước say mê\nNhư giữa trang cổ tích.\nĐất nước mình thanh lịch\nNên núi rừng cũng thơ.\n\nDù không ai đợi chờ\nCũng thấy lòng bổi hổi.\nLẫn trong làn sương khói\nMột mùi thơm cứ vương.\n\nĐộng chùa Tiên, chùa Hương\nĐá còn vang tiếng nhạc.\nĐộng chùa núi Hinh Bồng\nGió còn ngân khúc hát.\n\nÔi phải đâu lễ Phật\nNgười mới đi chùa Hương.\nNgười đi thăm đất nước\nNgười về trong yêu thương.",
+    "questions": [
+        "Lễ hội diễn ra ở địa danh nào?",
+        "Đoạn thơ thứ nhất đã diễn đạt cảnh như thế nào?",
+        "Chùa Hương đã trở thành nơi để làm gì của con người?",
+        "Dòng nào dưới đây nói đúng về nội dung của khổ thơ thứ 3?",
+        "Những động chùa nào được nhắc đến trong bài thơ?"
+    ],
+    "options": [
+        [
+            "Chùa Keo.",
+            "Chùa Hương.",
+            "Chùa Hà.",
+            "Chùa Thầy."
+        ],
+        [
+            "Mùa xuân, cây cối đâm chồi nảy lộc.",
+            "Cảnh rừng xuân rất đẹp và thơ mộng.",
+            "Mùa xuân về tràn ngập đất nước.",
+            "Mùa xuân rất ấm áp."
+        ],
+        [
+            "Chùa Hương có cảnh đẹp khiến lòng người say mê.",
+            "Chùa Hương trở thành không gian gặp gỡ của con người.",
+            "Chùa Hương vào mùa xuân, cảnh rất đẹp và thơ mộng.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chùa Hương trở thành không gian gặp gỡ của con người.",
+            "Chùa Hương vào mùa xuân, cảnh rất đẹp và thơ mộng.",
+            "Chùa Hương có cảnh đẹp khiến lòng người say mê.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Động chùa Tiên và động chùa núi Hinh.",
+            "Phong Nha - Kẻ Bàng.",
+            "Bái Đính.",
+            "Động núi Bà Đen."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "C",
+        "A"
+    ]
+}

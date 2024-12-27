@@ -1,0 +1,81 @@
+{
+    "article": "Sư Tử bàn chuyện xuất quân\nMuốn sao cho khắp thần dân trổ tài\nNhỏ to, khỏe yếu muôn loài\nAi ai cũng được tùy tài lập công:\nVoi vận tải trên lưng quân bị\nVào trận sao cho khỏe như voi.\nCông đồn, Gấu phải kịp thời,\nCáo nhiều mưu kế tính bài quân cơ.\nMẹo lừa địch, phải nhờ chú Khỉ...\nBỗng có người nảy ý tâu Vua:\n\"Người ta bảo ngốc như Lừa\nNhát như Thỏ Đế, xin chưa vội dùng.\"\n\"Không! - Vua phán - Trẫm dùng cả chứ!\nLoại họ ra, đội ngũ không yên\nAnh Lừa lo chuyện gạo tiền,\nGiấy tờ Thỏ chạy giao liên tài tình.\"\nĐã rằng khiển tướng, điều binh\nNhìn người giao việc cho tinh mới tài.",
+    "questions": [
+        "Con vật nào là vua của muôn loài?",
+        "Sư Tử thảo luận gì với thần dân?",
+        "Sư Tử muốn giao việc cho thần dân bằng cách nào?",
+        "Con vật nào bị cho là ngốc và nhát?",
+        "Tại sao Sư Tử vẫn giao việc cho Lừa và Thỏ?",
+        "Sư Tử giao cho Thỏ việc gì?",
+        "Sư tử giao cho Lừa việc gì cho Lừa?",
+        "Quan điểm đúng đắn của Sư Tử khi dùng quân là gì?",
+        "Những con vật trong bài thơ như thế nào?"
+    ],
+    "options": [
+        [
+            "Sư tử.",
+            "Voi.",
+            "Khỉ.",
+            "Lừa."
+        ],
+        [
+            "Kén rể.",
+            "Xuất quân.",
+            "Lập nước.",
+            "Xâm lược."
+        ],
+        [
+            "Không phân biệt to khỏe, khỏe yếu, ai cũng có thể trổ tài lập công.",
+            "Những con vật nhỏ yếu cho ở nhà để khỏi bị vướng chân.",
+            "Chọn những con vật to khỏe, tài năng để xuất trận lập công.",
+            "Chỉ dành cho những người xuất sắc và làm được việc."
+        ],
+        [
+            "Lừa và Thỏ.",
+            "Bò và Rùa.",
+            "Lợn và Chuột.",
+            "Ốc Sên và Chồn."
+        ],
+        [
+            "Vì vẫn có thể dùng thế mạnh của mỗi con vật để tạo nên đội quân hùng mạnh.",
+            "Vì Sư Tử sợ những con vật nhỏ yếu sẽ nổi loạn, chống lại đội quân.",
+            "Vì Sư Tử không muốn Lừa và Thỏ buồn.",
+            "Vì chúng chăm chỉ và siêng năng."
+        ],
+        [
+            "Giao liên.",
+            "Trồng cây.",
+            "Điều binh và khiển tướng.",
+            "Vua."
+        ],
+        [
+            "Giao liên.",
+            "Gạo tiền.",
+            "Điều binh và khiển tướng.",
+            "Lập mưu kế."
+        ],
+        [
+            "Người ta bảo ngốc như Lừa, Nhát như Thỏ Đế, ta chưa vội dùng.",
+            "Đã rằng khiển tướng, điều binh, Nhìn người giao việc cho tinh mới tài.",
+            "Chỉ tin dùng loài to khỏe, Còn loài nhỏ yếu thì thôi ở nhà.",
+            "Chỉ tin vào những người khoẻ mạnh."
+        ],
+        [
+            "Sống trong một xã hội không trật tự.",
+            "Đều chỉ biết lợi ích cho mình.",
+            "Đều có ích.",
+            "Đều có hại."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "A",
+        "A",
+        "A",
+        "B",
+        "B",
+        "C"
+    ]
+}

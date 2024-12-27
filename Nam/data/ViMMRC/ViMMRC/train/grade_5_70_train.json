@@ -1,0 +1,49 @@
+{
+    "article": "Sáng mát trong như sáng năm xưa\nGió thổi mùa thu hương cốm mới\nTôi nhớ những ngày thu đã xa.\n\nSáng chớm lạnh trong lòng Hà Nội\nNhững phố dài xao xác hơi may\nNgười ra đi đầu không ngoảnh lại\nSau lưng thềm nắng lá rơi đầy.\nMùa thu nay khác rồi\nTôi đứng vui nghe giữa núi đồi\nGió thổi rừng tre phấp phới\nTrời thu thay áo mới\nTrong biếc nói cười thiết tha!\nTrời xanh đây là của chúng ta\nNúi rừng đây là của chúng ta\nNhững cánh đồng thơm mát\nNhững ngả đường bát ngát\nNhững dòng sông đỏ nặng phù sa\nNước chúng ta\nNước những người chưa bao giờ khuất\nÐêm đêm rì rầm trong tiếng đất\nNhững buổi ngày xưa vọng nói về!",
+    "questions": [
+        "Mùa nào trong năm được miêu tả chủ đạo trong bài?",
+        "Những từ ngữ nào miêu tả vẻ đẹp của những ngày thu đã xa Hà Nội?",
+        "Các từ: “đây, của chúng ta” được lặp lại có tác dụng gì?",
+        "Dòng nào dưới đây chỉ gồm các động từ?",
+        "Giải nghĩa từ “hơi may” trong bài là gì?"
+    ],
+    "options": [
+        [
+            "Mùa xuân.",
+            "Mùa thu.",
+            "Mùa hè.",
+            "Mùa đông."
+        ],
+        [
+            "Hương cốm mới.",
+            "Sáng chớm lạnh.",
+            "Dòng sông nặng phù sa.",
+            "Nước chúng ta."
+        ],
+        [
+            "Cảnh đất nước trong mùa thu rất đẹp.",
+            "Nhấn mạnh niềm tự hào, hạnh phúc về đất nước.",
+            "Đất nước đã đổi mới sau chiến tranh.",
+            "Niềm vui vì sự chuyển mùa."
+        ],
+        [
+            "Rơi, đỏ, về, đêm, thơm.",
+            "Thổi, cười, đi, nghe, nói.",
+            "Nói, rơi, sông, xưa, đầy.",
+            "Rơi, thơm, đầy, nói."
+        ],
+        [
+            "Nắng nhẹ, trời có gió.",
+            "Gió heo may.",
+            "Trời hơi nhiều mây.",
+            "Trời quang mây tạnh."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "article": "Từ ngày phải nghỉ học, Cương đâm ra nhớ cái lò rèn cạnh trường. Một hôm, em ngỏ ý với mẹ:\n\n- Mẹ nói với thầy cho con đi học nghề rèn. \n\nMẹ Cương đã nghe rõ mồn một lời con, nhưng bà vẫn hỏi lại:\n\n- Con vừa bảo gì?\n\n- Mẹ xin thầy cho con đi làm thợ rèn.\n\n- Ai xui con thế?\n\nCương cố cắt nghĩa cho mẹ hiểu:\n\n- Thưa mẹ, tự ý con muốn thế. Con thương mẹ vất vả, đã phải nuôi bằng ấy đứa em còn phải nuôi con... Con muốn học một nghề để kiếm sống...\n\nMẹ Cương như đã hiểu lòng con. Bà cảm động, xoa đầu Cương và bảo:\n\n- Con muốn giúp mẹ như thế là phải. Nhưng biết thầy có chịu nghe không? Nhà ta tuy nghèo nhưng dòng dõi quan sang. Không lẽ bây giờ mẹ để con phải làm đầy tớ anh thợ rèn.\n\nCương thấy nghèn nghẹn ở cổ. Em nắm lấy tay mẹ, thiết tha:\n\n- Mẹ ơi! Người ta ai cũng phải có một nghề. Làm ruộng hay buôn bán, làm thầy hay làm thợ đều đáng trọng như nhau. Chỉ những ai trộm cắp hay ăn bám mới đáng bị coi thường.\n\nBất giác, em lại nhớ đến ba người thợ nhễ nhại mồ hôi mà vui vẻ bên tiếng bễ thổi \"phì phào\", tiếng búa con, búa lớn theo nhau đập \"cúc cắc\" và những tàn lửa đỏ hồng, bắn tóe lên như khi đốt cây bông.",
+    "questions": [
+        "Cương đã xin với mẹ đi học gì?",
+        "Cương xin mẹ đi học nghề rèn để làm gì?",
+        "Phản ứng của mẹ khi nghe Cương xin học nghề rèn như thế nào?",
+        "Mẹ Cương đã nêu lí do gì để phản đối việc Cương xin đi học nghề rèn?",
+        "Cương không dùng lập luận nào dưới đây để thuyết phục mẹ cho đi học nghề rèn?",
+        "Cách xưng hô của Cương khi trò chuyện với mẹ như thế nào?",
+        "Cách trò chuyện của mẹ với Cương như thế nào?",
+        "Trong bài đọc, cử chỉ nào của mẹ được thể hiện khi thuyết phục Cương?",
+        "Trong bài đọc, cử chỉ của Cương như thế nào khi thuyết phục mẹ?",
+        "Theo lời thuyết phục của Cương, nghề nào là đáng khinh bỉ?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Cho đi học nghề rèn.",
+            "Cho đi học đóng gạch.",
+            "Cho đi học nghề may.",
+            "Cho đi học đại học."
+        ],
+        [
+            "Để trải nghiệm và tìm kiếm nghề phù hợp.",
+            "Để kiếm sống, phụ giúp mẹ cho khỏi vất vả.",
+            "Để biết thêm nhiều nghề, nhiều kiến thức bổ ích.",
+            "Để dạy lại cho các em và bạn bè."
+        ],
+        [
+            "Ủng hộ.",
+            "Không nói gì.",
+            "Phản đối.",
+            "Tức giận."
+        ],
+        [
+            "Con vừa bảo gì? Ai xui con thế?",
+            "Nhà ta có truyền đời làm thợ rèn rồi, con vẫn muốn nối nghiệp làm thợ rèn sao?",
+            "Gia đình ta tuy nghèo nhưng dòng dõi quan sang, làm đầy tớ anh thợ rèn sẽ gây mất thể diện.",
+            "Công việc này rất nặng nhọc, con từ bé chỉ biết học, không làm được đâu."
+        ],
+        [
+            "Dù là nghề nào đều đáng trọng, chỉ trộm cắp, ăn bám mới đáng coi khinh.",
+            "Mẹ ơi ai cũng phải có một nghề: làm ruộng, buôn bán, làm thầy, làm thợ...",
+            "Con rất muốn nối nghiệp cha trở thành thợ rèn, giúp đỡ cha mẹ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cương rất hỗn láo, xấc xược với mẹ.",
+            "Cương xưng hô thiếu lễ độ, thiếu chừng mực.",
+            "Cương gắt gỏng, quát mắng mẹ.",
+            "Cương rất lễ phép, kính trọng mẹ."
+        ],
+        [
+            "Mẹ rất buồn và không nói chuyện với Cương.",
+            "Mẹ rất dịu dàng, nhẹ nhàng nói chuyện, thuyết phục.",
+            "Mẹ rất nóng nảy, bực bội, cáu gắt về ý định của Cương.",
+            "Mẹ rất vui và cởi mở trò chuyện, ủng hộ ý định của Cương."
+        ],
+        [
+            "Vui vẻ, nắm lấy tay Cương chia sẻ, ủng hộ.",
+            "Cáu gắt, bực bội, quát mắng Cương.",
+            "Cảm động xoa đầu Cương và bảo...",
+            "Buồn rầu, không ủng hộ ý định của Cương."
+        ],
+        [
+            "Nắm lấy tay mẹ, tha thiết.",
+            "Cho mẹ thấy được sức khỏe và tài năng của mình.",
+            "Năn nỉ, quỳ lạy để thuyết phục.",
+            "Khóc lóc, rầu rĩ, kêu gào."
+        ],
+        [
+            "Nghề làm thầy hay làm thợ.",
+            "Nghề làm ruộng hay buôn bán.",
+            "Nghề thợ rèn.",
+            "Nghề trộm cắp hay ăn bám."
+        ],
+        [
+            "Cương thuyết phục mẹ cho các em cùng đi học, còn Cương sẽ đi làm giúp mẹ.",
+            "Cương thuyết phục mẹ cho mình học nghề rèn, đây là ước muốn chính đáng.",
+            "Cương thuyết phục mẹ cho mình được nghỉ học đi làm thuê, phụ giúp mẹ.",
+            "Cương thuyết phục mẹ cho mình được nghỉ học, nối nghiệp cha."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "C",
+        "C",
+        "D",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Trường mới của em xây trên nền ngôi trường cũ lợp lá. Nhìn từ xa, những mảng tường vàng, ngói đỏ như những cánh hoa lấp ló trong cây. \n\nEm bước vào lớp, vừa bỡ ngỡ vừa thấy quen thân. Tường vôi trắng, cánh cửa xanh, bàn ghế gỗ xoan đào nổi vân như lụa. Em thấy tất cả đều sáng lên và thơm tho trong nắng mùa thu.\n\nDưới mái trường mới, sao tiếng trống rung động kéo dài! Tiếng cô giáo trang nghiêm mà ấm áp. Tiếng đọc bài của em cũng vang vang đến lạ! Em nhìn ai cũng thấy thân thương. Cả đến chiếc thước kẻ, chiếc bút chì sao cũng đáng yêu đến thế!",
+    "questions": [
+        "Ngôi trường mới được xây ở đâu?",
+        "Nhìn từ xa, ngôi trường được miêu tả như thế nào?",
+        "Khi bước vào lớp học, cảm xúc của bạn học sinh được miêu tả như thế nào?",
+        "Dưới mái trường mới, cảm xúc của bạn học sinh như thế nào?",
+        "Tường của trường học mới màu gì?",
+        "Ngôi trường mới được mô tả trong mùa nào trong năm?",
+        "Những nhân vật nào được nhắc đến trong bài đọc?"
+    ],
+    "options": [
+        [
+            "Được xây cạnh một ngôi trường khác.",
+            "Được xây cạnh ga tàu.",
+            "Được xây trên nền ngôi trường cũ lợp lá.",
+            "Được xây cạnh một khu thương mại sầm uất."
+        ],
+        [
+            "Tường vôi trắng, cánh cửa xanh, bàn ghế xoan đào nổi vân như lụa.",
+            "Ngôi trường im lìm như một người trầm ngâm suy nghĩ.",
+            "Tường vàng, ngói đỏ như những cánh hoa lấp ló trong cây.",
+            "Ngôi trường ngói đỏ và khang trang như khoác tấm áo mới."
+        ],
+        [
+            "Vừa vui tươi vừa lo lắng.",
+            "Vừa hoang mang vừa vui vẻ.",
+            "Vừa bỡ ngỡ vừa thân quen.",
+            "Vừa lạ lùng vừa sợ sệt."
+        ],
+        [
+            "Nhìn mọi thứ đều thấy quen thuộc và gần gũi.",
+            "Nhìn mọi thứ đều thấy đáng sợ và ngại ngùng.",
+            "Nhìn mọi thứ đều thấy lạ lẫm và mới mẻ.",
+            "Nhìn mọi thứ đều thấy thân thương và đáng yêu."
+        ],
+        [
+            "Trắng xanh.",
+            "Trắng.",
+            "Cam.",
+            "Vàng trắng."
+        ],
+        [
+            "Xuân.",
+            "Hạ.",
+            "Thu.",
+            "Đông."
+        ],
+        [
+            "Giáo viên và học sinh.",
+            "Nhân viên và học sinh.",
+            "Cô giáo và nhân viên trường.",
+            "Cán bộ nhà trường."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "C",
+        "D",
+        "B",
+        "C",
+        "A"
+    ]
+}

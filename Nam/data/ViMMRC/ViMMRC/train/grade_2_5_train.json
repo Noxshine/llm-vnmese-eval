@@ -1,0 +1,65 @@
+{
+    "article": "Ai cũng bảo bố Trung lắm hoa tay. Bố làm gì cũng khéo, viết chữ thì đẹp. Chẳng hiểu sao, Trung không có được hoa tay như thế. Tháng nào, trong sổ liên lạc, cô giáo cũng nhắc Trung phải tập viết thêm ở nhà.\n\nMột hôm, bố lấy trong tủ ra một quyển sổ mỏng đã ngả màu, đưa cho Trung. Trung ngạc nhiên: đó là quyển sổ liên lạc của bố ngày bố còn là một cậu học trò lớp hai. Trang sổ nào cũng ghi lời thầy khen bố Trung chăm ngoan, học giỏi. Nhưng cuối lời phê, thầy thường nhận xét chữ bố Trung nguệch ngoạc, cần luyện viết nhiều hơn. Trung băn khoăn:\n\n- Sao chữ bố đẹp thế mà thầy còn chê?\n\nBố bảo:\n\n- Đấy là do sau này bố tập viết rất nhiều, chữ mới được như vậy.\n\n- Thế bố có được thầy khen không?\n\nGiọng bố buồn hẳn:\n\n- Không. Năm bố học lớp ba, thầy đi bộ đội rồi hy sinh.",
+    "questions": [
+        "Trong sổ liên lạc, cô giáo đã nhắc Trung phải làm gì?",
+        "Bố đưa cho Trung xem quyển sổ liên lạc của bố khi học lớp mấy?",
+        "Trong các sổ liên lạc cũ của bố, thầy giáo đã ghi lời phê như thế nào về bố?",
+        "Vì sao chữ bố đẹp vậy rồi mà thầy vẫn còn phê chữ bố chưa đẹp?",
+        "Khi Trung nhắc tới thầy giáo cũ, thái độ của người bố như thế nào?",
+        "Tại sao bố lại buồn khi nhắc tới thầy giáo cũ của bố?",
+        "Nội dung của bài đọc Quyển sổ liên lạc là gì?"
+    ],
+    "options": [
+        [
+            "Phải chăm chỉ học bài hơn.",
+            "Phải kiên nhẫn và cẩn thận hơn.",
+            "Phải tập viết thêm ở nhà.",
+            "Phải chú ý và tập trung hơn."
+        ],
+        [
+            "Lớp 1.",
+            "Lớp 2.",
+            "Lớp 3.",
+            "Lớp 4."
+        ],
+        [
+            "Trang sổ nào cũng ghi lời thầy khen bố Trung chăm ngoan và học giỏi.",
+            "Thầy phê là hach nghịch ngợm.",
+            "Thầy khen hay giúp đỡ bạn.",
+            "Thầy khen hay đi học đúng giờ."
+        ],
+        [
+            "Do về sau, bố chăm chỉ tập viết nhiều.",
+            "Do bố vốn viết chữ đẹp nhưng ẩu.",
+            "Do bố đi học thầy luyện chữ.",
+            "Do bố đi học thêm."
+        ],
+        [
+            "Vui vẻ.",
+            "Buồn.",
+            "Bồi hồi, nhớ nhung.",
+            "Sợ hãi."
+        ],
+        [
+            "Vì thầy từng chê bố là học sinh chưa ngoan.",
+            "Vì thầy của bố hay phê bố viết chữ xấu.",
+            "Vì thầy của bố đã đi bộ đội và hi sinh.",
+            "Vì thầy từng phạt bố khi bố mắc lỗi."
+        ],
+        [
+            "Bố muốn Trung hiểu rằng chăm chỉ tập viết, chữ sẽ đẹp hơn, cũng như nỗ lực vượt khó sẽ thành công.",
+            "Bố muốn Trung biết được ngày xưa bố cũng từng là học sinh giỏi được thầy giáo khen.",
+            "Bố muốn Trung biết được bố ngày xưa từng có một người thầy giáo rất đáng kính.",
+            "Bố muốn Trung biết được chuyện buồn đã xảy ra với người thầy giáo đáng kính của mình."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "A",
+        "B",
+        "C",
+        "D"
+    ]
+}

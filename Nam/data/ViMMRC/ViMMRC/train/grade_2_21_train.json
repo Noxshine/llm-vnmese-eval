@@ -1,0 +1,41 @@
+{
+    "article": "Đêm nay bên bến Ô Lâu\n\nCháu ngồi cháu nhớ chòm râu Bác Hồ.\n\nNhớ hình Bác giữa bóng cờ\n\nHồng hào đôi má, bạc phơ mái đầu.\n\nMắt hiền sáng tựa vì sao\n\nBác nhìn đến tận Cà Mau cuối trời.\n\nNhớ khi trăng sáng đầy trời\n\nTrung thu Bác gửi những lời vào thăm.\n\nĐêm đêm cháu những bâng khuâng\n\nGiở xem ảnh Bác cất thầm bấy lâu.\n\nNhìn mắt sáng, nhìn chòm râu,\n\nNhìn vầng trán rộng, nhìn đầu bạc phơ.\n\nCàng nhìn càng lại ngẩn ngơ,\n\nÔm hôn ảnh Bác mà ngờ Bác hôn.",
+    "questions": [
+        "Bạn nhỏ trong bài thơ quê ở đâu?",
+        "Bạn nhỏ trong bài thơ nhớ tới ai?",
+        "Dòng thơ nào dưới đây thể hiện tình cảm của Bác dành cho thiếu nhi?",
+        "Nội dung chính cả bài thơ là gì?"
+    ],
+    "options": [
+        [
+            "Ven sông Hương.",
+            "Ở tỉnh Đà Nẵng.",
+            "Ven sông Ô Lâu.",
+            "Ở tỉnh Quảng Ngãi."
+        ],
+        [
+            "Bác Hồ.",
+            "Đồng chí.",
+            "Cha mẹ.",
+            "Bác Hai."
+        ],
+        [
+            "Trung thu Bác gửi những lời vào thăm.",
+            "Đêm đêm cháu những bâng khuâng.",
+            "Càng nhìn lại càng ngẩn ngơ.",
+            "Cháu ngồi cháu nhớ chòm râu Bác Hồ."
+        ],
+        [
+            "Bày tỏ nỗi thương xót trước cảnh mất nước.",
+            "Bày tỏ niềm thương nhớ Bác của bạn nhỏ.",
+            "Bày tỏ niềm thương yêu của Bác đối với thiếu nhi.",
+            "Bày tỏ niềm căm thù giặc của bạn nhỏ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "A",
+        "B"
+    ]
+}

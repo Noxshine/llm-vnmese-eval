@@ -1,0 +1,49 @@
+{
+    "article": "Tối hôm ấy, mẹ đi vắng, dặn Cún trông nhà, không được đi đâu. Chợt Cún nghe có tiếng kêu ngoài sân:\n\n- Cứu tôi với!\n\nThì ra Cáo già đã tóm được Gà con tội nghiệp.\n\nCún con sợ Cáo nhưng lại rất thương Gà con. Cún nảy ra một kế. Cậu đội mũ sư tử lên đầu rồi hùng dũng tiến ra sân. Cáo già trông thấy hoảng quá, buông ngay Gà con để chạy thoát thân. Móng vuốt của Cáo cào làm Gà con bị thương. Cún liền ôm Gà con, vượt đường xa, vượt đêm tối, chạy một mạch đến nhà bác sĩ Dê núi. Bác sĩ nhanh chóng băng bó vết thương cho Gà con. Gà con run rẩy vì lạnh và đau, Cún liền cởi áo của mình ra đắp cho bạn. Thế là Gà con được cứu sống. Về nhà, Cún kể lại mọi chuyện cho mẹ nghe. Mẹ liền xoa đầu Cún, khen:\n\n- Con đúng là Cún con dũng cảm! Mẹ rất tự hào về con!",
+    "questions": [
+        "Thấy Gà con bị Cáo già bắt, Cún con đã làm gì?",
+        "Vì sao Cáo già lại bỏ Gà con lại và chạy thoát chân?",
+        "Thấy Gà con đã bị thương, Cún con đã làm những gì để cứu bạn?",
+        "Cún liền cởi áo của mình ra để làm gì?",
+        "Mẹ đã khen Cún con điều gì?"
+    ],
+    "options": [
+        [
+            "Cún con đứng nép vào cánh cửa quan sát.",
+            "Cún con không biết làm cách nào vì Cún rất sợ Cáo.",
+            "Cún nảy ra một kế là đội mũ sư tử lên đầu rồi hùng dũng tiến ra sân.",
+            "Cún con bé nhỏ nên Cún con rất sợ Cáo."
+        ],
+        [
+            "Vì Cáo nhìn thấy Cún con.",
+            "Vì Cáo già rất sợ sư tử.",
+            "Vì Cáo già rất sợ Cún con.",
+            "Vì Cáo già rất sợ hổ."
+        ],
+        [
+            "Cún ôm gà con, vượt đường xa, đêm tối để tìm bác sĩ Dê núi.",
+            "Cún cởi áo của mình ra đắp cho bạn.",
+            "Cún con sợ Cáo và không làm gì để cứu bạn.",
+            "Cún con sợ Cáo nhưng đã dũng cảm chống trả."
+        ],
+        [
+            "Đắp cho bạn.",
+            "Để giặt.",
+            "Để phơi.",
+            "Để tấn công."
+        ],
+        [
+            "Dũng cảm.",
+            "Tự tin.",
+            "Siêng năng.",
+            "Cần cù."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "A",
+        "A"
+    ]
+}

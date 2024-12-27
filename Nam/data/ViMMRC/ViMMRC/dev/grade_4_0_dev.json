@@ -1,0 +1,89 @@
+{
+    "article": "Hòa Bình, ngày 5 tháng 8 năm 2000\n\nBạn Hồng thân mến, \n\nMình là Quách Tuấn Lương, học sinh lớp 4B trường Tiểu học Cù Chính Lan, thị xã Hòa Bình. Hôm nay, đọc báo Thiếu niên Tiền phong, mình rất xúc động được biết ba của Hồng đã hi sinh trong trận lũ lụt vừa rồi. Mình gửi bức thư này chia buồn với bạn.\n\nHồng ơi!\n\nMình hiểu Hồng đau đớn và thiệt thòi như thế nào khi ba Hồng đã ra đi mãi mãi. Nhưng chắc là Hồng cũng tự hào về tấm gương dũng cảm của ba xả thân cứu người giữa dòng nước lũ. Mình tin rằng theo gương ba, Hồng sẽ vượt qua nỗi đau này. Bên cạnh Hồng còn có má, có cô bác và có cả những người bạn mới như mình.\n\nMấy ngày nay, ở phường mình và khắp thị xã đang có phong trào quyên góp ủng hộ đồng bào khắc phục thiên tai. Trường mình cũng vừa tổ chức đợt góp đồ dùng học tập giúp các bạn vùng lũ lụt. Riêng mình gửi giúp Hồng toàn bộ số tiền mình bỏ ống từ mấy năm nay. Hồng nhận cho mình nhé!\n\nChúc Hồng khỏe. Mong nhận được thư bạn.\n\nBạn mới của Hồng\n\nQuách Tuấn Lương",
+    "questions": [
+        "Tại sao bạn Lương viết thư cho bạn Hồng?",
+        "Bạn Lương đã giới thiệu về mình như như nào?",
+        "Lương đã đọc báo và biết được điều gì về gia đình Hồng?",
+        "Lương đã san sẻ nỗi đau cùng bạn Hồng như thế nào?",
+        "Đầu lá thư người ta sẽ viết về nội dung gì?",
+        "Những dòng kết thúc bức thư có tác dụng gì?",
+        "Tác dụng của dòng thư:  \"Hòa Bình, ngày 5 tháng 8 năm 2000\" là gì?",
+        "Lương viết thư cho Hồng để làm gì?",
+        "Cảm xúc của Lương như thế nào khi viết bức thư cho Hồng?",
+        "Câu văn nào thể hiện sự tế nhị, tôn trọng bạn của Lương khi đưa tiền quyên góp cho Hồng?"
+    ],
+    "options": [
+        [
+            "Lương viết thư để kể cho Hồng nghe về đợt quyên góp ở trường.",
+            "Lương viết thư để chia buồn cùng Hồng.",
+            "Lương viết thư để thông báo rằng mình gửi cho Hồng một khoản tiền.",
+            "Lương viết thư để kể cho Hồng nghe về đợt lũ lụt vừa qua."
+        ],
+        [
+            "Mình là Quách Tuấn Lương, học sinh lớp 4B Trường tiểu học Cù Chính Lan, thị xã Hòa Bình.",
+            "Mình là Lương, học sinh lớp 4 ở Hòa Bình.",
+            "Mình là Quách Tuấn Lương, người muốn kết bạn với bạn.",
+            "Mình là Quách Tuấn Lương, bạn mới của bạn."
+        ],
+        [
+            "Bạn Hồng đã chịu đau đớn thiệt thòi trong trận lũ.",
+            "Ba Hồng đã hi sinh trong trận lũ lụt vừa rồi.",
+            "Ba Hồng đã cứu rất nhiều người trong trận lũ lụt.",
+            "Ba Hồng đã hi sinh anh dũng trên chiến trường."
+        ],
+        [
+            "Kể cho bạn nghe về hoạt động quyên góp ở trường.",
+            "Dành tặng bạn số tiền tiết kiệm của bản thân.",
+            "Vận động các bạn cùng tham gia ủng hộ, quyên góp.",
+            "Xin bố mẹ tiền để tặng cho Hồng."
+        ],
+        [
+            "Nêu ra mục đích viết thư.",
+            "Lời chào hỏi, giới thiệu bản thân và mục đích viết thư.",
+            "Thuật lại hoàn cảnh và lí do viết thư.",
+            "Lời chào hỏi và giới thiệu bản thân."
+        ],
+        [
+            "Lời chúc, mong muốn của người viết và Kí tên.",
+            "Kí tên người viết.",
+            "Lời chúc, lời chào hỏi của người viết.",
+            "Mong nhận được hồi âm từ bạn."
+        ],
+        [
+            "Nêu rõ hoàn cảnh viết bức thư.",
+            "Nêu ra nguồn gốc của bức thư.",
+            "Nêu ra địa điểm, thời gian viết thư.",
+            "Nêu vị trí của người viết thư."
+        ],
+        [
+            "Để kể cho bạn nghe ước mơ của mình.",
+            "Để chia buồn với nỗi đau của bạn.",
+            "Để chúc mừng sinh nhật bạn.",
+            "Để muốn kết bạn, làm quen với Hồng."
+        ],
+        [
+            "Muốn kết bạn với Hồng để có thêm bạn mới.",
+            "Khẳng định cha của Hồng là người rất dũng cảm.",
+            "Thương bạn, muốn chia sẻ đau buồn cùng bạn.",
+            "Thương hại bạn, nói rằng mình đã giúp đỡ bạn."
+        ],
+        [
+            "Chúc Hồng chóng khỏe.",
+            "Mong nhận được thư bạn.",
+            "Bên cạnh bạn còn có má, có cô bác và có cả những người bạn như mình.",
+            "Hồng nhận cho mình nhé!."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "B",
+        "A",
+        "C",
+        "B",
+        "C",
+        "D"
+    ]
+}

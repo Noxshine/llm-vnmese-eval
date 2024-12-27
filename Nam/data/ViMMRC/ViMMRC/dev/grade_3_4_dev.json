@@ -1,0 +1,57 @@
+{
+    "article": "1. Ngày xưa, có một người săn bắn rất tài. Nếu con thú rừng nào không may gặp bác ta thì hôm ấy coi như ngày tận số.\n2. Một hôm, người đi săn xách nỏ vào rừng. Bác thấy một con vượn lông xám đang ngồi ôm con trên tảng đá. Bác nhẹ nhàng rút mũi tên bắn trúng vượn mẹ.\nVượn mẹ giật mình, hết nhìn mũi tên lại nhìn về phía người đi săn bằng đôi mắt căm giận, tay không rời con. Máu ở vết thương rỉ ra loang khắp ngực.\nNgười đi săn đứng im chờ kết quả…\n3. Bỗng vượn mẹ nhẹ nhàng đặt con xuống, vơ vội nắm bùi nhùi gối lên đầu con, rồi nó hái cái lá to, vắt sữa vào và đặt lên miệng con.\nSau đó, vượn mẹ nghiến răng, giật phắt mũi tên ra, hét lên một tiếng thật to rồi ngã xuống.\n4. Người đi săn đứng lặng. Hai giọt nước mắt từ từ lăn trên má. Bác cắn môi, bẻ gãy nỏ và lẳng lặng quay gót ra về.\nTừ đấy, bác không bao giờ đi săn nữa.",
+    "questions": [
+        "Chi tiết nào nói lên tài săn bắn của bác thợ săn?",
+        "Chi tiết nào cho thấy cái chết của vượn mẹ rất thương tâm?",
+        "Chứng kiến cái chết của vượn mẹ, bác thợ săn làm gì?",
+        "Kết thúc câu chuyện, bác thợ săn quyết định như thế nào?",
+        "Tình tiết nhân văn nào của vượn mẹ được thực hiện trước khi chết?",
+        "Bộ phận câu trả lời cho câu hỏi “Bằng gì?” trong câu sau là:  Vượn mẹ nhìn về phía người đi săn bằng đôi mắt căm giận."
+    ],
+    "options": [
+        [
+            "Bác thợ săn có thể bắn trúng một con vật từ rất xa.",
+            "Bác săn có thể bắn trúng một con vật đang chạy.",
+            "Con thú rừng nào không may gặp bác ta thì hôm ấy coi như là ngày tận số.",
+            "Bác bắn bách phát bách trúng."
+        ],
+        [
+            "Trước khi chết vượn mẹ vơ vội nắm bùi nhùi gối lên đầu con, rồi nó hái cái lá to, vắt sữa vào và đặt lên miệng con.",
+            "Vượn mẹ nghiến răng, giật phắt mũi tên ra, hét lên một tiếng thật to rồi ngã xuống.",
+            "Vượn mẹ nghiến răng, giật phắt mũi tên ra, hét lên một tiếng thật to rồi ngã xuống. Trước khi mất, vượn mẹ vẫn quan tâm đến con của mình.",
+            "Chết một cách tức tưởi."
+        ],
+        [
+            "Bác đứng lặng, chảy nước mắt, cắn môi, bẻ gãy nỏ và không bao giờ đi săn nữa.",
+            "Bác đứng lặng, cắn môi và đem vượn mẹ và vượn con về nhà.",
+            "Bác đứng lặng rồi tục đi săn những con thú khác.",
+            "Bác đừng lặng rồi quay lưng đi."
+        ],
+        [
+            "Tiếp tục đi săn.",
+            "Không đi săn nữa.",
+            "Người đi săn đứng im chờ kết quả.",
+            "Rủ thêm một vài người đi săn cùng."
+        ],
+        [
+            "Giật phắt mũi tên.",
+            "Hét thật to.",
+            "Nắm bùi nhùi gối lên đầu con, rồi hái cái lá to, vắt sữa và đặt lên miệng con.",
+            "Nghiến răng."
+        ],
+        [
+            "Bằng đôi mắt căm giận.",
+            "Đôi mắt căm giận.",
+            "Bằng đôi mắt.",
+            "Bằng miệng."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "B",
+        "C",
+        "A"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Một tờ giấy trắng\nCô gấp cong cong\nThoắt cái đã xong\nChiếc thuyền xinh quá!\n\nMột tờ giấy đỏ\nMềm mại tay cô\nMặt trời đã phô\nNhiều tia nắng tỏa.\n\nThêm tờ xanh nữa\nCô cắt rất nhanh\nMặt nước dập dềnh\nQuanh thuyền sóng lượn.\n\nNhư phép mầu nhiệm\nHiện trước mắt em:\nBiển biếc bình minh\nRì rào sóng vỗ...\n\nBiết bao điều lạ\nTừ bàn tay cô.",
+    "questions": [
+        "Bài thơ này viết về ai?",
+        "Từ mỗi tờ giấy, cô giáo đã tạo ra những thứ gì?",
+        "Từ những tờ giấy cắt dán, cô giáo đã tạo nên bức tranh tả cảnh gì?",
+        "Chúng ta hiểu hai dòng thơ cuối bài như thế nào?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Trường học.",
+            "Giáo viên nữ.",
+            "Bạn bè.",
+            "Giáo viên."
+        ],
+        [
+            "Chiếc thuyền, dòng sông, bầu trời, hàng cây.",
+            "Chiếc thuyền, mặt trời, mặt nước, biển biếc.",
+            "Chiếc thuyền, mặt biển, mặt nước, mặt trăng.",
+            "Chiếc thuyền, mặt trời, dòng sông, bãi biển."
+        ],
+        [
+            "Phong cảnh làng quê.",
+            "Bình minh trên biển.",
+            "Khu vườn mùa hạ.",
+            "Cảnh trẻ em tắm biển."
+        ],
+        [
+            "Sự sáng tạo và bàn tay khéo léo của cô giáo đã tạo nên bao điều mới mẻ cho các em.",
+            "Bàn tay cô giáo rất đặc biệt.",
+            "Cô giáo là người có phép thuật, có thể tạo ra những điều kì lạ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ca ngợi khả năng sáng tạo và đôi bàn tay khéo léo của cô giáo.",
+            "Ca ngợi sự say mê và ham học của học trò trong giờ học.",
+            "Ca ngợi cô giáo gần gũi và thân thiện như mẹ hiền.",
+            "Ca ngợi sự ân cần, dịu dàng và yêu quý học trò của cô giáo."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "A",
+        "A"
+    ]
+}

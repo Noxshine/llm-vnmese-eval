@@ -1,0 +1,49 @@
+{
+    "article": "Bơi càng gần lên mặt ao, thấy nước càng nóng. Cá Chuối mẹ bơi mãi, cố tìm hướng vào bờ. Mặt ao sủi bọt, nổi lên từng đám rêu. Rất khó nhận ra phương hướng. Chuối mẹ phải vừa bơi vừa nghếch lên mặt nước để tìm hướng khóm tre. Trời bức bối, ngột ngạt. Lắm lúc, Chuối mẹ chỉ muốn lặn ngay xuống đáy cho mát, nhưng nghĩ đến đàn con đang đói, chờ ở vùng nước đằng kia, Chuối mẹ lại cố bơi. Khóm tre bên bờ đã gần đây rồi. Khi tới thật gần, Chuối mẹ chỉ còn trông thấy gốc tre, không thấy ngọn tre đâu. Chuối mẹ bơi sát mép nước, rồi rạch lên chân khóm tre. Tìm một chỗ Chuối mẹ đoán chắc là có tổ Kiến gần đó, Chuối mẹ giả vờ chết, nằm im không động đậy. Trời nóng hầm hập. Hơi nước, hơi lá ải cùng với mùi tanh trên mình Chuối mẹ bốc ra làm bọn Kiến lửa gần đó thèm thuồng. Bọn chúng rủ nhau đi kiếm mồi. Vừa bò loằng ngoằng vừa dò dẫm về phía có mùi cá.\n\nĐầu tiên cá Chuối mẹ cảm thấy buồn buồn ở khắp mình, sau rồi đau nhói trên da thịt. Biết kiến kéo đến đã đông, Chuối mẹ liền lấy đà quẫy mạnh, rồi nhảy tùm xuống nước. Bọn Kiến không kịp chạy, nổi lềnh bềnh trên mặt ao. Đàn Chuối con ùa lại tranh nhau đớp tới tấp. Thế là đàn Chuối con được một mẻ no nê. Chuối mẹ bơi quanh nhìn đàn con đớp mồi, vui quá nên quên cả những chỗ đau vì bị Kiến đốt.",
+    "questions": [
+        "Chuối mẹ kiếm mồi để làm gì?",
+        "Chuối mẹ kiếm mồi bằng cách nào?",
+        "Nội dung bài viết này là gì?",
+        "Cá Chuối mẹ đã tìm thức ăn gì cho đàn Chuối con?",
+        "Vì sao cá Chuối mẹ bị đau đớn trên da thịt?"
+    ],
+    "options": [
+        [
+            "Nuôi mình và nuôi các con.",
+            "Nuôi mình.",
+            "Nuôi các con.",
+            "Nuôi ba mẹ."
+        ],
+        [
+            "Dùng mồi nhử kiến đến.",
+            "Dùng chính thân mình để nhử kiến.",
+            "Dùng bẫy để nhử kiến.",
+            "Dùng kế để bắt mồi."
+        ],
+        [
+            "Giới thiệu cách kiếm mồi của cá Chuối.",
+            "Giới thiệu cách nuôi con của cá Chuối.",
+            "Ngợi ca tình mẫu tử thiêng liêng và cảm động của muôn loài.",
+            "Ngợi ca tình yêu của con cái đối với cha mẹ."
+        ],
+        [
+            "Kiến.",
+            "Cá.",
+            "Chim.",
+            "Rong."
+        ],
+        [
+            "Vì kiếm mồi cho đàn chon và bị kiến cắn.",
+            "Vì đơn giản là bị vết thương lòng.",
+            "Vì không tìm được mồi cho đàn con.",
+            "Vì không được những điều như ước muốn về đàn con."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "C"
+    ]
+}

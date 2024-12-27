@@ -1,0 +1,57 @@
+{
+    "article": "1. Hôm nay có buổi học thể dục. Thầy giáo dẫn chúng tôi đến bên một cái cột cao, thẳng đứng. Chúng tôi phải leo lên đến trên cùng, rồi đứng thẳng người trên chiếc xà ngang.\nĐê-rốt-xi và Cô-rét-ti leo như hai con khỉ. Xtác-đi thì thở hồng hộc, mặt đỏ như chú gà tây. Ga-rô-nê leo dễ như không. Tưởng chừng cậu có thể vác thêm một người nữa trên vai vì cậu khỏe chẳng khác gì một con bò mộng non.\n\n2. Đến lượt Nen-li bạn này được miễn học thể dục vì bị tật từ nhỏ, nhưng cố xin thầy cho được tập như mọi người.\nNen-li bắt đầu leo một cách rất chật vật. Mặt cậu đỏ như lửa, mồ hôi ướt đẫm trán. Thầy giáo bảo cậu có thể xuống. Nhưng cậu vẫn cố sức leo. Mọi người vừa thấp thỏm sợ cậu tuột tay ngã xuống đất, vừa luôn miệng khuyến khích: “Cố lên! Cố lên !”.\nNen-li rướn người lên và chỉ còn cách xà ngang hai ngón tay. “Hoan hô! Cố tí nữa thôi!” - Mọi người reo lên. Lát sau, Nen-li đã nắm chặt được cái xà.\n\n3. Thầy giáo nói: “Giỏi lắm! Thôi, con xuống đi!” Nhưng Nen-li còn muốn đứng lên cái xà như những người khác.\nSau vài lần cố gắng, cậu đặt được hai khuỷu tay, rồi hai đầu gối, cuối cùng là hai bàn chân lên xà. Thế là cậu đứng thẳng người lên, thở dốc, nhưng nét mặt rạng rỡ chiến thắng, nhìn xuống chúng tôi.",
+    "questions": [
+        "Nguyên nhân nào mà Nen-li được miễn tập thể dục?",
+        "Quyết tâm của Nen-li được thể hiện qua chi tiết nào?",
+        "Tại sao Nen-li cố xin thầy cho được tập như mọi người?",
+        "Từ ngữ dùng để gọi người thi đấu các môn thể thao?",
+        "Nen-li bắt đầu làm gì?",
+        "Hãy đặt câu hỏi cho bộ phận \"đỏ như lửa, mồ hôi ướt đẫm trán\" trong câu \"Mặt cậu đỏ như lửa, mồ hôi ướt đẫm trán\"?"
+    ],
+    "options": [
+        [
+            "Vì em bị bệnh.",
+            "Vì em bị tật từ nhỏ.",
+            "Vì chân em bị đau.",
+            "Vì Nen-li không thích tập thể dục."
+        ],
+        [
+            "Nen-li leo một cách rất chật vật.",
+            "Nen-li leo mổ hôi ướt đẫm trán, nắm chặt cái xà.",
+            "Nen-li leo một cách rất chật vật, mặt đỏ như lửa, mồ hôi ướt đẫm trán, cố sức leo, nắm chặt cái xà.",
+            "Nen-li leo không biết mệt."
+        ],
+        [
+            "Nen-li muốn vượt qua chính mình.",
+            "Nen-li muốn tập như các bạn.",
+            "Nen-li muốn vượt qua chính mình, muốn làm được những việc như các bạn.",
+            "Nen-li muốn đạt giải."
+        ],
+        [
+            "Vận động viên.",
+            "Nhảy cao.",
+            "Đua xe đạp.",
+            "Chạy vượt rào."
+        ],
+        [
+            "Nen-li.",
+            "Rất chật vật.",
+            "Bắt đầu leo một cách rất chật vật.",
+            "Nen-li bắt đầu."
+        ],
+        [
+            "Mặt cậu như thế nào?",
+            "Mặt cậu để làm gì?",
+            "Mặt cậu bằng gì?",
+            "Mặt ai?"
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "C",
+        "A",
+        "C",
+        "A"
+    ]
+}

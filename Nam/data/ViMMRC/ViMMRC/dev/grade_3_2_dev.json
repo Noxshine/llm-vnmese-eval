@@ -1,0 +1,49 @@
+{
+    "article": "Nghỉ hè, Páo đi thăm bố\nNgọn núi ở lại cùng mây\nMặt trời theo về thành phố\nTiếng suối nhòa dần sau cây...\n\nCon đường sao mà rộng thế\nSông sâu chẳng lội được qua\nNgười, xe đi như gió thổi\nNgước lên mứi thấy mái nhà.\n\nNhà cao sừng sững như núi\nMấy trăm cửa sổ gió reo\nĐường lên đi vào trong ruột\nQuanh co như Páo leo đèo\n\nBố ở tầng năm chót vót\nGió như đỉnh núi bản ta\nSớm chiều xuống lên thang gác\nNhớ sao đèo dốc quê nhà...",
+    "questions": [
+        "Quê bé Páo ở nơi nào?",
+        "Páo đi thăm bố ở nơi nào?",
+        "Hai câu thơ \"Con đường sao mà rộng thế / Sông sâu chẳng lội được qua\" cho thấy điểm gì khác biệt ở thành phố khiến Páo thấy lạ?",
+        "Câu thơ \"Nhớ sao đèo dốc quê nhà...\" cho thấy tình cảm gì của Páo?",
+        "Nội dung bài thơ này ở là gì?"
+    ],
+    "options": [
+        [
+            "Miền núi.",
+            "Trung du.",
+            "Vùng biển.",
+            "Đồng bằng."
+        ],
+        [
+            "Ở thành phố.",
+            "Ở đảo xa.",
+            "Ở miền núi.",
+            "Ở nông thôn."
+        ],
+        [
+            "Nhà cao tầng có mấy trăm cửa sổ gió reo.",
+            "Đường đi lên nhà như đi vào ruột.",
+            "Không có mây vờn đỉnh núi như ở quê nhà.",
+            "Đường rộng sông sâu hơn suối ở quê nhà."
+        ],
+        [
+            "Páo không thích ở thành phố, muốn trở về quê nhà.",
+            "Dù thành phố mới lạ nhưng Páo vẫn nhớ quê nhà.",
+            "Páo rất thích cuộc sống ở thành phố hiện đại với bố.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Sự vui thích, mong muốn sống ở thành phố của bạn nhỏ Páo.",
+            "Cuộc sống ở quê hương miền núi với gió mây, suối đèo của bạn Páo.",
+            "Sự ngạc nhiên, ngỡ ngàng của bạn nhỏ khi thăm nhà bố ở thành phố.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "B",
+        "C"
+    ]
+}

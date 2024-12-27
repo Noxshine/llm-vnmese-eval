@@ -1,0 +1,113 @@
+{
+    "article": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+    "questions": [
+        "Lan đã để ý đến thứ gì của Hòa?",
+        "Chiếc áo len của Hòa đẹp và tiện lợi ra sao?",
+        "Khi thấy Hòa có áo đẹp, Lan đã bày tỏ với mẹ điều gì?",
+        "Mẹ định mua thứ gì cho hai anh em Tuấn và Lan?",
+        "Thái độ của mẹ như thế nào khi Lan đòi mẹ mua cho chiếc áo mới đắt tiền?",
+        "Mẹ đã nói như thế nào khi Lan muốn mua chiếc áo len như của bạn Hòa?",
+        "Biểu hiện của Lan như thế nào khi mẹ không mua được cho em chiếc áo như của bạn Hòa?",
+        "Tại sao bạn Lan dỗi mẹ?",
+        "Tuấn đã nói với mẹ điều gì?",
+        "Tuấn đã đưa ra thuyết phục gì với mẹ rằng mình không cần mua áo mới?",
+        "Thái độ của Lan như thế nào khi nghe mẹ và anh trai nói chuyện?",
+        "Lan đã muốn làm gì khi nghe thấy mẹ và anh trai nói chuyện với nhau?",
+        "Tại sao Lan muốn xin lỗi mẹ và anh trai nhưng lại thấy xấu hổ?"
+    ],
+    "options": [
+        [
+            "Hòa toàn mặc áo đẹp đi học.",
+            "Hòa có cặp sách mới rất đẹp.",
+            "Hòa có chiếc áo len mới rất đẹp.",
+            "Hòa không có áo để mặc đi học."
+        ],
+        [
+            "Màu vàng thật đẹp, lại có dây kéo ở giữa, có cả mũ đội, ấm ơi là ấm.",
+            "Chiếc áo có mũ để đội khi gió lạnh hoặc mưa lất phất.",
+            "Chiếc áo len có màu vàng, có dây kéo ở giữa trông rất đẹp.",
+            "Chiếc áo có màu vàng thật đẹp, Lan mặc thử thấy ấm ơi là ấm."
+        ],
+        [
+            "Muốn kể cho mẹ nghe về nhà bạn Hòa.",
+            "Muốn mẹ đan cho chiếc áo như thế.",
+            "Muốn mẹ mua cho chiếc áo đẹp hơn thế.",
+            "Muốn có một chiếc áo len như thế."
+        ],
+        [
+            "Mẹ đang định mua áo ấm cho cả hai anh em.",
+            "Mẹ định mua áo khoác cho cả hai anh em.",
+            "Mẹ định mua cho hai anh em chiếc áo như của bạn Hòa.",
+            "Mẹ định đan cho hai anh em vài chiếc áo len."
+        ],
+        [
+            "Bối rối.",
+            "Cười tươi.",
+            "Ngạc nhiên.",
+            "Vui mừng."
+        ],
+        [
+            "Cái áo mẹ mua cho hai anh em cũng đẹp mà, con xem này?",
+            "Cái áo của bạn Hòa đắt lắm, mẹ không thể cùng mua cho cả hai anh em được.",
+            "Nhưng mẹ lỡ mua áo len cho cả hai anh em rồi, không biết con có thích không?",
+            "Cái áo của bạn Hòa đắt bằng tiền cả hai cái áo của anh em con đấy."
+        ],
+        [
+            "Nói: \"Nhưng con chỉ muốn một chiếc áo như thế thôi\", dỗi mẹ, vờ nhắm mắt ngủ.",
+            "Mặt buồn thiu nhưng đành chấp nhận.",
+            "Dỗi mẹ, vờ nhắm mắt đi ngủ.",
+            "Nói: \"Nhưng con chỉ muốn một chiếc áo như thế thôi\"."
+        ],
+        [
+            "Vì mẹ chê áo của bạn Hòa xấu.",
+            "Vì mẹ không mua cho em áo như của bạn Hòa.",
+            "Vì mẹ đã không mua áo len cho cả hai anh em.",
+            "Vì mẹ chỉ mua áo cho anh Tuấn."
+        ],
+        [
+            "Mẹ không phải mua áo cho chúng con đâu, áo từ năm ngoái vẫn dùng được mà.",
+            "Mẹ cứ mua áo cho cả hai anh em đi, không cần mua theo ý em ấy đâu.",
+            "Mẹ đừng mua chiếc áo len ấy cho Lan, nó rất đắt tiền mẹ ạ.",
+            "Mẹ dành hết tiền mua áo cho em đi, con không cần thêm áo đâu."
+        ],
+        [
+            "Con khỏe lắm, không cần mặc áo len đâu.",
+            "Con có thể mượn áo của bạn mặc nếu trời rét.",
+            "Con có thể chịu được, mẹ cứ mua áo cho em Lan đi.",
+            "Con khỏe lắm, con sẽ mặc thêm nhiều áo cũ bên trong."
+        ],
+        [
+            "Ân hận.",
+            "Hối hả.",
+            "Ghen tị.",
+            "Xấu hổ."
+        ],
+        [
+            "Lan muốn ngồi dậy nói chuyện với mẹ và anh trai.",
+            "Lan muốn ngồi dậy và reo lên vui sướng.",
+            "Lan muốn ngồi dậy hưởng ứng mẹ và anh trai.",
+            "Lan đã muốn ngồi dậy xin lỗi mẹ và anh trai."
+        ],
+        [
+            "Vì thấy anh tốt quá.",
+            "Vì mình có lỗi thật.",
+            "Vì thấy đã buồn ngủ.",
+            "Vì mình đã vờ ngủ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "A",
+        "A",
+        "D",
+        "A",
+        "B",
+        "D",
+        "D",
+        "A",
+        "D",
+        "A"
+    ]
+}

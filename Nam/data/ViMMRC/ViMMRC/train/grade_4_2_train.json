@@ -1,0 +1,97 @@
+{
+    "article": "Vào đời vua Trần Thái Tông, có một gia đình nghèo sinh được cậu con trai đặt tên là Nguyễn Hiền. Chú bé rất ham thả diều. Lúc còn bé, chú đã biết làm lấy diều để chơi. Lên sáu tuổi, chú học ông thầy trong làng. Thầy phải kinh ngạc vì chú học đến đâu hiểu ngay đến đó và có trí nhớ lạ thường. Có hôm, chú thuộc hai mươi trang sách mà vẫn có thì giờ chơi điều. \n\nSau vì nhà nghèo quá, chú phải bỏ học. Ban ngày, đi chăn trâu, dù mưa gió thế nào, chú cũng đứng ngoài lớp học nghe giảng nhờ. Tối đến, chú đợi bạn học thuộc bài mới mượn vở về học. Đã học thì cũng phải đèn sách như ai nhưng sách của chú là lưng trâu, nền cát, bút là ngón tay hay mảnh gạch vỡ; còn đèn là vỏ trứng thả đom đóm vào trong. Bận làm, bận học như thế mà cánh diều của chú vẫn bay cao, tiếng sáo vẫn vi vút tầng mây. Mỗi lần có kì thi ở trường, chú làm bài vào lá chuối khô và nhờ bạn xin thầy chấm hộ. Bài của chú chữ tốt văn hay, vượt xa các học trò của thầy.\n\nThế rồi, vua mở khoa thi. Chú bé thả diều đỗ Trạng nguyên. Ông Trạng khi ấy mới có mười ba tuổi. Đó là Trạng nguyên trẻ nhất của nước Nam ta.",
+    "questions": [
+        "Câu chuyện kể về người nào?",
+        "Chú bé Nguyễn Hiền sống trong xã hội của đời vua nào?",
+        "Hoàn cảnh gia đình của Nguyễn Hiền như thế nào?",
+        "Lên mấy tuổi, chú bé mới bắt đầu đi học?",
+        "Đâu là chi tiết không nói lên tư chất thông minh của chú bé Nguyễn Hiền?",
+        "Tại sao chú bé Nguyễn Hiền phải nghỉ học?",
+        "Tại sao chú bé Hiền được xem là \"Ông Trạng thả diều\"?",
+        "Chú bé Hiền được xem là trạng nguyên như thế nào?",
+        "Chú bé Nguyễn Hiền đỗ trạng nguyên năm bao nhiêu tuổi?",
+        "Tục ngữ, thành ngữ nào dưới đây nói đúng ý nghĩa của câu chuyện này?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Mạc Đĩnh Chi.",
+            "Trần Thái Tông.",
+            "Trạng Quỳnh.",
+            "Nguyễn Hiền."
+        ],
+        [
+            "Trần Thánh Tông.",
+            "Trần Thái Tông.",
+            "Trần Hiển Tông.",
+            "Trần Nhân Tông."
+        ],
+        [
+            "Nghèo khó.",
+            "Đại địa chủ.",
+            "Trung lưu.",
+            "Khá giả."
+        ],
+        [
+            "Sáu tuổi.",
+            "Ba tuổi.",
+            "Mười ba tuổi.",
+            "Bảy tuổi."
+        ],
+        [
+            "Chú bé nhờ thầy chấm bài, bài của chú văn hay chữ tốt...",
+            "Chú bé rất ham thả diều.",
+            "Chú học đến đâu, hiểu ngay đến đó và có trí nhớ lạ thường..",
+            "Chú học thuộc hai mươi trang sách mà vẫn có thì giờ chơi diều."
+        ],
+        [
+            "Vì nhà nghèo quá.",
+            "Vì chú không thích học.",
+            "Vì đất nước có chiến tranh..",
+            "Vì mồ côi bố mẹ."
+        ],
+        [
+            "Chú học hành đỗ đạt, đỗ Trạng nguyên từ năm chú 13 tuổi.",
+            "Chú đỗ Trạng năm 13 tuổi và vẫn ham thích thả diều.",
+            "Chú bé Hiền thả diều rất giỏi khiến nhiều người khâm phục..",
+            "Chú vẫn là cậu bé ham thích thả diều."
+        ],
+        [
+            "Vị Trạng nguyên cuối cùng của nước ta.",
+            "Vị Trạng nguyên già nhất nước ta.",
+            "Vị Trạng nguyên trẻ nhất nước ta..",
+            "Vị Trạng nguyên đầu tiên của nước ta."
+        ],
+        [
+            "Ba mươi tuổi.",
+            "Sáu tuổi.",
+            "Mười ba tuổi.",
+            "Hai mươi tuổi."
+        ],
+        [
+            "Công thành danh toại.",
+            "Tuổi trẻ tài cao.",
+            "Cầu được ước thấy.",
+            "Có chí thì nên."
+        ],
+        [
+            "Những cách học bài sáng tạo của chú bé: sách, vở, bút, đèn,...",
+            "Tuổi thơ khốn khó của những đứa trẻ Việt Nam thời phong kiến.",
+            "Triều đại vua Trần Thái Tông có nhiều nhân tài..",
+            "Ca ngợi chú bé Hiền thông minh, hiếu học, vượt khó và thi đỗ Trạng nguyên."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "A",
+        "B",
+        "A",
+        "B",
+        "C",
+        "C",
+        "D",
+        "D"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "article": "1. Hồi còn nhỏ, cậu bé Trần Quốc Khái rất ham học. Cậu học cả khi đi đốn củi, lúc kéo vó tôm. Tối đến, nhà không có đèn, cậu bắt đom đóm bỏ vào vỏ trứng, lấy ánh sáng đọc sách. Chẳng bao lâu, Khái đỗ tiến sĩ, rồi làm quan to trong triều đình nhà Lê.\n\n2. Một lần, Trần Quốc Khái được triều đình cử đi sứ bên Trung Quốc. Vua Trung Quốc muốn thử tài sứ thần, sai dựng một cái lầu cao, mời ông lên chơi, rồi cất thang đi. Không còn lối xuống, ông đành ở lại trên lầu. Lầu chỉ có hai pho tượng Phật, hai cái lọng, một bức trướng thêu ba chữ \"Phật trong lòng\" và một vò nước.\n\n3. Bụng đói mà không có cơm ăn, Trần Quốc Khái lẩm nhẩm đọc ba chữ trên bức trướng, rồi mỉm cười. Ông bẻ tay pho tượng nếm thử. Thì ra hai pho tượng ấy nặn bằng bột chè lam. Từ đó, ngày hai bữa, ông cứ ung dung bẻ dần tượng mà ăn. Nhân được nhàn rỗi, ông mày mò quan sát, nhớ nhập tâm cách thêu và làm lọng.\n\n4. Học được cách thêu và làm lọng rồi, ông tìm đường xuống. Thấy những con dơi xòe cánh chao đi chao lại như chiếc lá bay, ông liền ôm lọng nhảy xuống đất bình an vô sự. Vua Trung Quốc khen ông là người có tài, đặt tiệc to tiễn về nước.\n\n5. Về đến nước nhà, Trần Quốc Khái truyền dạy cho dân nghề thêu và nghề làm lọng. Dần dần, nghề thêu lan rộng ra khắp nơi. Nhân dân vùng Thường Tín, quê ông, lập đền thờ và tôn ông là ông tổ nghề thêu.",
+    "questions": [
+        "Trần Quốc Khái là ông tổ nghề gì?",
+        "Khi nhỏ, Trần Quốc Khái ham học như thế nào?",
+        "Trần Quốc Khái học giỏi, đỗ tiến sĩ và làm quan dưới triều đại nào?",
+        "Trần Quốc Khái được nhà vua cử đi đâu?",
+        "Nhà vua Trung Quốc nghĩ ra cách gì để thử tài sứ thần Việt Nam?",
+        "Khi Trần Quốc Khái vượt qua được thử thách của vua Trung Quốc, chuyện gì đã xảy ra?",
+        "Tại sao Trần Quốc Khái được suy tôn là ông tổ nghề thêu?",
+        "Trần Quốc Khái đã dạy cho người dân nghề gì?",
+        "Nghề thêu và làm lọng có nguồn gốc từ nơi nào?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Ông tổ nghề đan.",
+            "Ông tổ nghề hàn.",
+            "Ông tổ nghề thêu.",
+            "Ông tổ nghề nón."
+        ],
+        [
+            "Cậu phải đứng ngoài lớp học lỏm và dùng que củi tập viết chữ trên nền cát.",
+            "Tối đến, nhà không có đèn, cậu bắt đom đóm bỏ vào vỏ trứng, lấy ánh sáng đọc sách.",
+            "Nhà nghèo không có tiền mua sách, cậu phải mượn sách của chúng bạn.",
+            "Cậu vừa ham học vừa mê thả diều, cậu trở thành ông Trạng trẻ tuổi nhất - 13 tuổi."
+        ],
+        [
+            "Triều Hồ.",
+            "Triều Nguyễn.",
+            "Triều Lê.",
+            "Triều Trần."
+        ],
+        [
+            "Đi sứ ở Xiêm Thành.",
+            "Đi sứ ở Trung Quốc.",
+            "Đi đánh giặc ngoại xâm.",
+            "Đi xâm lược nước Xiêm."
+        ],
+        [
+            "Vua Trung Quốc bắt ông làm câu đối.",
+            "Vua Trung Quốc muốn thử tài sứ thần, sai dựng một cái lầu cao, mời ông lên chơi, rồi cất thang đi.",
+            "Vua Trung Quốc bắt ông cân một con voi.",
+            "Vua Trung Quốc bắt ông xây thành cao."
+        ],
+        [
+            "Vua khen ông là người có tài và thả cho về nước.",
+            "Vua hậm hực vì không làm gì được sứ giả, kiếm cớ nhốt ông vào ngục.",
+            "Vua khen ông là người có tài, đặt tiệc to tiễn về nước.",
+            "Vua khen ông là người có tài và giữ ông lại cống hiến cho Trung Quốc."
+        ],
+        [
+            "Vì khi về nước, ông mở trường dạy học và xưởng dệt lụa.",
+            "Vì khi về nước, ông đã truyền dạy lại nghề thêu cho dân.",
+            "Vì khi về nước, ông tâu vua đưa người sang Trung Quốc học nghề thêu.",
+            "Vì khi về nước, ông sáng tạo ra nghề mới từ cách đan lọng."
+        ],
+        [
+            "Nghề trồng lúa nước.",
+            "Nghề se tơ và dệt lụa.",
+            "Nghề nung đồng, đúc đồng.",
+            "Nghề thêu và làm lọng."
+        ],
+        [
+            "Thường Tín, Hà Tây (Hà Nội).",
+            "Thường Tín, Hà Đông, Hà Nội.",
+            "Thường Xuân, Thanh Hóa.",
+            "Gia Định, Sài gòn."
+        ],
+        [
+            "Kể về con người Trần Quốc Khải: thông minh, nghị lực và đam mê sáng tạo, học hỏi.",
+            "Nhờ tài trí và dũng cảm, Trần Quốc Khải đã chiến thắng cuộc thử tài của vua Trung Quốc.",
+            "Trần Quốc Khái đi sứ Trung Quốc đầy khó khăn và nguy hiểm.",
+            "Trần Quốc Khái đi sứ Trung Quốc học được nghề thêu và dạy lại cho dân ta."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "B",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Tôi được tặng một chiếc xe đạp rất đẹp nhân dịp sinh nhật của mình. Trong một lần  đạp xe ra công viên dạo chơi, có một cậu bé cứ quẩn quanh ngắm nhìn chiếc xe với vẻ thích thú và ngưỡng mộ.\n\n- Chiếc xe này của bạn đấy à ? – Cậu bé hỏi.\n\n- Anh trai mình đã tặng nhân dịp sinh nhật của mình đấy. – Tôi trả lời, không giấu vẻ tự hào và mãn nguyện.\n\n- Ồ, ước gì tớ ….. – Cậu bé ngập ngừng.\n\nDĩ nhiên là tôi biết cậu cậu bé đang ước điều gì rồi. Cậu ấy hẳn đang ước ao có được một người anh như thế. Nhưng câu nói của cậu bé thật bất ngờ đối với tôi.\n\n- Ước gì tớ có thể trở thành một người anh như thế!  Cậu ấy nói chậm rãi và gương mặt lộ rõ vẻ quyết tâm. Sau đó cậu đi về phía ghế đá sau lưng tôi, nơi đứa em trai nhỏ tàn tật của cậu đang ngồi và nói: “Đến sinh nhật nào đó của em, anh sẽ mua tặng em em chiếc xe lăn, em nhé!”",
+    "questions": [
+        "Nhân vật “tôi” trong câu chuyện có chuyện gì vui?",
+        "Nhân vật “tôi” đoán cậu bé ước điều gì?",
+        "Cậu bé ước mình có thể trở thành “một người anh như thế” nghĩa là ước điều gì ?",
+        "Tình tiết nào trong câu truyện làm em bất ngờ, cảm động nhất?",
+        "Khi đến sinh nhật người anh sẽ tặng gì cho cậu em trai?"
+    ],
+    "options": [
+        [
+            "Được đi chơi công viên.",
+            "Sắp được đón ngày sinh nhật.",
+            "Được tặng một chiếc xe đạp rất đẹp nhân ngày sinh nhật.",
+            "Được tặng một chiếc bánh sinh nhật."
+        ],
+        [
+            "Ước có người anh để tặng mình xe đạp.",
+            "Ước có một chiếc xe đạp đẹp.",
+            "Ước được đi một vòng trên chiếc xe đạp đẹp.",
+            "Ước gì có một cuốn sách."
+        ],
+        [
+            "Ước trở thành người anh biết mua xe đạp tặng em.",
+            "Ước trở thành người anh yêu thương quan tâm đến em và có khả năng giúp đỡ em mình.",
+            "Ước trở thành người anh được em trai yêu mến.",
+            "Ướt trở thành một người thành đạt."
+        ],
+        [
+            "Nhân vật “tôi” được người anh tặng cho một chiếc xe đạp rất đẹp nhân dịp sinh nhật của mình.",
+            "Cậu bé quyết trở thành một người anh có khả năng cho em mình những gì cần thiết.",
+            "Cậu bé có một người em tàn tật.",
+            "Cậu bé có một ngượi chị tàn tật."
+        ],
+        [
+            "Xe lăn.",
+            "Đồ chơi.",
+            "Diều.",
+            "Sách."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "B",
+        "A"
+    ]
+}

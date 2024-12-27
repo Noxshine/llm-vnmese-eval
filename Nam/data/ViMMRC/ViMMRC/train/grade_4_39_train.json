@@ -1,0 +1,81 @@
+{
+    "article": "Xưa kia, người ta cứ nghĩ rằng trái đất là trung tâm của vũ trụ, đứng yên một chỗ, còn mặt trời, mặt trăng và muôn ngàn vì sao phải quay xung quanh cái tâm này. Người đầu tiên bác bỏ ý kiến sai lầm đó là nhà thiên văn học Ba Lan Cô-péc-ních. Năm 1543, Cô-péc-ních cho xuất bản một cuốn sách chứng minh rằng chính trái đất mới là một hành tinh quay xung quanh mặt trời. Phát hiện của nhà thiên văn học làm cho mọi người sửng sốt, thậm chí nó còn bị coi là tà thuyết vì nó ngược với những lời phán bảo của Chúa trời. \n\nChưa đầy một thế kỉ sau, năm 1632, nhà thiên văn học Ga-li-lê lại cho ra đời một cuốn sách mới cổ vũ cho ý kiến của Cô-péc-ních. Lập tức, tòa án quyết định cấm cuốn sách ấy và mang Ga-li-lê ra xét xử. Khi đó, nhà bác học đã gần bảy chục tuổi.\n\nBị coi là tội phạm, nhà bác học già buộc phải thề từ bỏ ý kiến cho rằng trái đất quay. Nhưng vừa bước ra khỏi tòa án, ông đã bực tức nói to:\n\n- Dù sao trái đất vẫn quay!\n\nGa-li-lê phải trải qua những năm cuối đời trong cảnh tù đày. Nhưng cuối cùng, lẽ phải đã thắng. Tư tưởng của hai nhà bác học dũng cảm đã trở thành chân lí giản dị trong đời sống ngày nay.",
+    "questions": [
+        "Nhà thiên văn học Cô-péc-ních và Ga-li-lê bảo vệ quan điểm nào?",
+        "Nhà thiên văn học Cô-péc-ních đã làm gì để chứng minh học thuyết của ông?",
+        "Người dân phán xét cuốn sách và học thuyết của Cô-péc-ních rao sao?",
+        "Tại sao học thuyết của Cô-péc-ních bị coi là tà thuyết?",
+        "Ga-li-lê viết sách với mục đích gì?",
+        "Tại sao lúc ấy, tòa án lại xử phạt Ga-li-lê?",
+        "Cuối cùng, giá trị học thuyết của hai nhà thiên văn học như thế nào?",
+        "Câu nói nổi tiếng nào của Ga-li-lê về trái đất?",
+        "Ý nghĩa của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Trái đất là hành tinh lớn nhất vũ trụ.",
+            "Trái đất quay xung quanh mặt trời.",
+            "Trái đất là trung tâm của vũ trụ.",
+            "Mặt trời quay xung quanh trái đất."
+        ],
+        [
+            "Tuyên truyền, vận động mọi người tin.",
+            "Phát minh ra tàu vũ trụ.",
+            "Tổ chức cuộc hội thảo.",
+            "Xuất bản một cuốn sách."
+        ],
+        [
+            "Ủng hộ.",
+            "Tin theo.",
+            "Coi là tà giáo.",
+            "Cho đó là chân lý."
+        ],
+        [
+            "Vì nó khiến con người hoang mang cho tương lai.",
+            "Vì nó đi ngược lại học thuyết của các nhà nghiên cứu trước kia.",
+            "Vì nó không mang lại lợi ích gì cho mọi người.",
+            "Vì nó đi ngược lại lời phán bảo của Chúa trời."
+        ],
+        [
+            "Phát biểu một học thuyết mới.",
+            "Phản đối học thuyết của Cô-péc-ních.",
+            "Cổ vũ học thuyết của Cô-péc-ních.",
+            "Đưa ra ý kiến của mình về học thuyết của Cô-péc-ních."
+        ],
+        [
+            "Vì Ga-li-lê xuất bản cuốn sách trái phép.",
+            "Vì ông cổ vũ cho quan điểm chống lại lời phán bảo của Chúa trời.",
+            "Vì Ga-li-lê là sáng tạo ra học thuyết chống lại lời phán bảo của Chúa trời.",
+            "Vì cuốn sách của Ga-li-lê vi phạm bản quyền của Cô-péc-ních."
+        ],
+        [
+            "Trở thành học thuyết sai lầm, xưa cũ so với thời nay.",
+            "Được nhân dân thời bấy giờ ủng hộ nhiệt liệt.",
+            "Bị Giáo hội dập tắt vì đi ngược lại lời của Chúa trời.",
+            "Trở thành chân lí giản dị trong đời sống ngày nay."
+        ],
+        [
+            "Mặt trời, mặt trăng luôn quay xung quanh trái đất!.",
+            "Trái đất luôn quay xung quanh mặt trời!.",
+            "Dù sai trái đất vẫn quay!.",
+            "Trái đất là trung tâm của vũ trụ!."
+        ],
+        [
+            "Kể về thời thơ ấu của hai nhà khoa học.",
+            "Phê phán thói mê tín dị đoan của người xưa.",
+            "Phê phán tòa án đã xử tội Galile.",
+            "Ca ngợi những nhà bác học chân chính, kiên quyết dũng cảm bảo vệ chân lý khoa học, không màng đến tính mạng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "C",
+        "D",
+        "C",
+        "B",
+        "D",
+        "C",
+        "D"
+    ]
+}

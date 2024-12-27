@@ -1,0 +1,65 @@
+{
+    "article": "Bây giờ, Hoa đã là chị rồi. Mẹ có thêm em Nụ. Em Nụ môi đỏ hồng, trông yêu lắm. Em đã lớn lên nhiều. Em ngủ ít hơn trước. Có lúc, mắt em mở to, tròn và đen láy. Em cứ nhìn Hoa mãi. Hoa yêu em và rất thích đưa võng ru em ngủ.\n\nĐêm nay, Hoa hát hết các bài hát mà mẹ vẫn chưa về. Từ ngày bố đi công tác xa, mẹ bận việc nhiều hơn. Em Nụ đã ngủ. Hoa lấy giấy bút, viết thư cho bố. Vặn to đèn, em ngồi trên ghế, nắn nót viết từng chữ:\n\nBố ạ,\n\nEm Nụ ở nhà ngoan lắm. Em ngủ cũng ngoan nữa. Con hết cả bài hát ru em rồi. Bao giờ bố về, bố dạy thêm bài khác cho con. Dạy bài dài dài ấy, bố nhé!",
+    "questions": [
+        "Gia đình Hoa có bao nhiêu người?",
+        "Ai là thành viên mới của gia đình Hoa?",
+        "Sự đáng yêu của em Nụ được miêu tả như thế nào?",
+        "Hoa đã giúp mẹ một số công việc gì?",
+        "Hoa viết thư cho bố vào thời điểm nào?",
+        "Hoa kể chuyện gì trong bức thư gửi cho bố?",
+        "Hoa mong muốn điều gì trong bức thư viết cho bố?"
+    ],
+    "options": [
+        [
+            "Ba người.",
+            "Bốn người.",
+            "Hai người.",
+            "Năm người."
+        ],
+        [
+            "Mẹ.",
+            "Bố.",
+            "Bé Nụ.",
+            "Chị Hoa."
+        ],
+        [
+            "Em lớn lên nhiều và ngủ ít hớn trước.",
+            "Hoa thích đưa võng ru em ngủ.",
+            "Hoa hát hết các bài để ru em ngủ.",
+            "Môi đỏ hồng, mắt to tròn, đen láy."
+        ],
+        [
+            "Chờ mẹ đi làm về.",
+            "Học và tập viết chăm chỉ.",
+            "Viết thư cho bố.",
+            "Trông em và hát ru em ngủ."
+        ],
+        [
+            "Khi Hoa và mẹ đã ăn cơm xong.",
+            "Khi em Nụ đang chơi trong nôi.",
+            "Khi Hoa làm xong bài tập.",
+            "Khi em Nụ đã ngủ, mẹ chưa về."
+        ],
+        [
+            "Hoa kể chuyện mình được điểm cao, cô giáo khen.",
+            "Hoa kể chuyện em Nụ và chuyện hát ru.",
+            "Hoa kể chuyện mẹ bận đi làm, em Nụ hay quấy.",
+            "Hoa kể Hoa nhớ bố và mông bố về."
+        ],
+        [
+            "Bố về trông em và hát ru cho bé Nụ.",
+            "Bố về chơi với Hoa và bé Nụ.",
+            "Bố dạy cho bài hát ru mới, dài dài.",
+            "Bố mau về và mua quà cho Hoa."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "D",
+        "D",
+        "D",
+        "B",
+        "C"
+    ]
+}

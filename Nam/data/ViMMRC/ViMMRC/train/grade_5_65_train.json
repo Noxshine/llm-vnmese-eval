@@ -1,0 +1,57 @@
+{
+    "article": "Đất nước ta xanh tươi bốn mùa, có hoa quả quanh năm. Nếu quả là phần ngon nhất thì hoa là phần đẹp nhất của cây. Chỉ nói riêng màu đỏ cũng có bao nhiêu thứ hoa đẹp.\n\nĐỏ tía là hoa chuối. Đỏ tươi là hoa vông, hoa gạo. Màu đỏ của hoa hồng nhung có quanh năm, ai mà chẳng thích. Hoa mặt trời có nhiều loại, loại cánh đơn màu đỏ cờ, cánh sen, loại cánh kép màu hồng và còn có màu đỏ rực như tiết.\n\nMùa hè, hoa mào gà đỏ đến chói mắt, hoa lựu cũng như những đốm lửa lập lòe. Mùa thu hoa lộc vừng như những tràng pháo đỏ nhỏ treo khá kín đáo trên cành lá nhiều tầng, phải nhìn thấy thảm đỏ dưới gốc ta mới biết cành hoa đang nở rộ.\n\nĐương nhiên mùa xuân là mùa hoa đẹp. Thược dược to bằng chiếc đĩa. Thu hải đường như những chùm hoa mọng, nhìn mà muốn ăn. Hải đường lại như những ngọn lửa nến lóe lên từ nách lá. Cây thu hải đường trồng trong chậu. Còn cây hải đường lại to như cây bưởi. Màu đỏ của hoa đỗ quyên làm ta tưởng như cây không biết mọc lá, cây không có lá bao giờ.\n\nTết đến, hoa đào nở thắm, nó cũng là mùa xuân đấy.\n\nSau tết những cây gạo, rồi sau đó là cây vông, sau nữa nhiều ngày mới đến lượt hoa xoan tây thi nhau nở đỏ, xem ai rực rỡ hơn. Cả cây gạo và cây vông khi ra hoa đều không có lá, trông xa giống như cành đào ngày Tết đã vụt lớn lên, trở thành khổng lồ để kéo dài mùa xuân ra. Hoa gạo, hoa vông cư thế mọc lên sáng chói ở đầu làng, ven núi hoặc ngay cả trong những thị xã, thành phố.\n\nAi mà chẳng yêu hoa. Còn nhiều thứ hoa màu đỏ nữa, với nhiều sắc thái đậm nhạt khác nhau, có thứ có hương, có thứ không thơm, nhưng đều làm đất nước và cuộc sống của chúng ta thêm tươi đẹp, thêm đáng yêu, đáng quý.",
+    "questions": [
+        "Bài văn trên giới thiệu về điều gì?",
+        "Từ \"màu đỏ\" thuộc từ loại nào?",
+        "Trong câu ghép \"Mùa hè, hoa mào gà đỏ đến chói mắt, hoa lựu như những đốm lửa lập lòe.\" có mấy vế câu?",
+        "Dấu phẩy trong câu: \"Màu đỏ của hoa hồng nhung có quanh năm, ai mà chẳng thích.\" có tác dụng gì?",
+        "Dòng nào dưới đây chỉ toàn các từ láy?",
+        "Hai câu sau liên kết với nhau bằng cách nào?  Đỏ tía là hoa chuối. Đỏ tươi là hoa vông, hoa gạo."
+    ],
+    "options": [
+        [
+            "Vẻ đẹp của các loài hoa trên đất nước ta.",
+            "Vẻ đẹp của cây trái nước ta.",
+            "Vẻ đẹp của các loại hoa màu đỏ trên đất nước ta.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Danh từ.",
+            "Động từ.",
+            "Tính từ.",
+            "Trạng từ."
+        ],
+        [
+            "Một vế câu.",
+            "Hai vế câu.",
+            "Ba vế câu.",
+            "Bốn vế câu."
+        ],
+        [
+            "Ngăn cách các vế trong câu ghép.",
+            "Ngăn cách trạng ngữ với chủ ngữ và vị ngữ.",
+            "Ngăn cách các bộ phận cùng giữ chức vụ trong câu.",
+            "Tất cả đều sai."
+        ],
+        [
+            "Dịu dàng, lim dim, mơ màng, mỏi mệt, thiêm thiếp, hí hửng, luênh loáng.",
+            "Dịu dàng, lim dim, mơ màng, thiêm thiếp, hí hửng, luênh loáng.",
+            "Bao bọc, cỏ cây, ôm ấp, vạn vật, lim dim, thiêm thiếp.",
+            "Tất cả đều đúng."
+        ],
+        [
+            "Thay thế từ ngữ.",
+            "Dùng từ ngữ nối.",
+            "Lặp từ ngữ.",
+            "So sánh từ ngữ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "A",
+        "B",
+        "C"
+    ]
+}

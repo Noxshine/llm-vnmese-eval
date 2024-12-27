@@ -1,0 +1,57 @@
+{
+    "article": "Nghe nói ở xã Sủng Thài có trường nội trú, chúng tôi lặn lội lên thăm.\n\nHội đồng giáo viên đang họp nên em Sùng Tờ Dìn, liên đội trưởng, dẫn chúng tôi đi thăm trường. Trường có đủ phòng học cho năm lớp, có bếp, phòng ăn và nhà ở. Các thầy cô ăn ở cùng học sinh.\n\nVừa đi, Dìn vừa kể: \"Cứ sáng thứ hai, chúng em đến trường cùng với gạo ăn một tuần, chiều thứ bảy lại về. Nhà ai nghèo thì Ủy ban xã giúp gạo.\"\n\nTôi hỏi:\n\n- Hằng ngày, các em làm việc gì?\n\n- Buổi sáng, chúng em học trên lớp, buổi chiều làm bài. Ngoài giờ học, chúng em hát múa, chơi thể thao hoặc trồng rau, nuôi gà để cải thiện bữa ăn.\n\n- Đi học cả tuần, Dìn có nhớ nhà không?\n\n- Lúc đầu, chúng em cũng nhớ, nhưng ở trường rất vui. Về nhà, ai cũng mong sớm đến sáng thứ hai để lại được gặp nhau.",
+    "questions": [
+        "Bài đọc này nhắc đến ngôi trường ở đâu?",
+        "Trường học mà tác giả đến thăm ở xã Sủng Thài là một trường học như thế nào?",
+        "Người nào là người dẫn khách đi thăm trường?",
+        "Bạn Dìn kể về việc đi học của học sinh như thế nào?",
+        "Cả tuần đến trường, Dìn có nhớ nhà không?",
+        "Tại sao đi học cả tuần nhưng Dìn không nhớ nhà?"
+    ],
+    "options": [
+        [
+            "Sín Thầu - Điện Biên.",
+            "Sùng Thài - Hà Giang.",
+            "Sùng Tờ Dìn - Hà Giang.",
+            "Lũng Cú - Hà Giang."
+        ],
+        [
+            "Là trường học tốt nhất.",
+            "Là trường học nội trú.",
+            "Là trường học kiểu mẫu.",
+            "Là trường học bán trú."
+        ],
+        [
+            "Cô Sùng Tờ Dìn, phó hiệu trưởng.",
+            "Thầy Sùng Tờ Dìn, hiệu trưởng.",
+            "Em Sùng Tờ Dìn, liên đội trưởng..",
+            "Em Sùng Tờ Dìn, một học sinh."
+        ],
+        [
+            "Nhà ai nghèo thì Ủy ban xã cho tiền đi học.",
+            "Sáng thứ 2 chúng em đến trường cùng gạo ăn 1 tuần, thứ 7 lại về.",
+            "Sáng thứ 2 chúng em đến trường cùng gạo ăn 1 tháng, cuối tháng lại về.",
+            "Sáng thứ 2 chúng em đến trường cùng gạo ăn 1 ngày, tối lại về."
+        ],
+        [
+            "Không nhớ nhà vì tuần nào cũng về.",
+            "Rất nhớ nhà.",
+            "Lúc đầu có nhớ, sau thì không.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Vì đi học có gạo ăn.",
+            "Vì ở trường rất vui.",
+            "Vì đi học không phải làm nương.",
+            "Vì đi học sẽ giỏi hơn."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "C",
+        "B",
+        "C",
+        "B"
+    ]
+}

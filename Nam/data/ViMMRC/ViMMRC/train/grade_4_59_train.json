@@ -1,0 +1,65 @@
+{
+    "article": "Vào đời vua Trần Thái Tông, có một gia đình nghèo sinh được cậu con trai đặt tên là Nguyễn Hiền. Chú bé rất ham thả diều. Lúc còn bé, chú đã biết làm lấy diều để chơi.\n\nLên sáu tuổi, chú học ông thầy trong làng. Thầy phải kinh ngạc vì chú học đến đâu hiểu ngay đến đó và có trí nhớ lạ thường. Có hôm, chú thuộc hai mươi trang sách mà vẫn có thì giờ chơi diều.\nSau vì nhà nghèo quá, chú phải bỏ học. Ban ngày, đi chăn trâu, dù mưa gió thế nào, chú cũng đứng ngoài lớp nghe giảng nhờ. Tối đến, chú đợi bạn học thuộc bài mới mượn vở về học. Đã học thì cũng phải đèn sách như ai nhưng sách của chú là lưng trâu, nền cát, bút là ngón tay hay mảnh gạch vỡ; còn đèn là vỏ trứng thả đom đóm vào trong. Bận làm, bận học như thế mà cánh diều của chú vẫn bay cao, tiếng sáo vẫn vi vút tầng mây. Mỗi lần có kì thi ở trường, chú làm bài vào lá chuối khô và nhờ bạn xin thầy chấm hộ. Bài của chú chữ tốt văn hay, vượt xa các học trò của thầy.\nThế rồi vua mở khoa thi. Chú bé thả diều đỗ Trạng Nguyên. Ông Trạng khi ấy mới có mười ba tuổi. Đó là Trạng Nguyên trẻ nhất nước của nước Nam ta.",
+    "questions": [
+        "Tìm những chi tiết nói lên tư chất thông minh của Nguyễn Hiền",
+        "Nguyễn Hiền ham học và chịu khó học như thế nào?",
+        "Vì sao chú bé Hiền được gọi là “Ông Trạng thả diều”?",
+        "Tục ngữ hoặc thành ngữ nào dưới đây nói đúng ý nghĩa của câu chuyện trên?",
+        "Trong bài đọc, bút của Nguyễn Hiền là những gì?",
+        "Nhà nghèo nên ban ngày Nguyễn Hiền phải làm việc gì?",
+        "Cậu bé Nguyễn Hiền đỗ trạng nguyên khi bao nhiêu tuổi?"
+    ],
+    "options": [
+        [
+            "Học đến đâu hiểu ngay đến đó, có trí nhớ lạ thường.",
+            "Có thể thuộc hai mươi trang sách trong một ngày mà vẫn có thì giờ chơi diều.",
+            "Học tới đâu hiểu tới đó, có trí nhớ lạ thường, có thể học hai mươi trang sách trong một ngày mà vẫn có thời gian chơi thả diều.",
+            "Siêng năng và cần cù."
+        ],
+        [
+            "Nhà nghèo phải bỏ học nhưng ban ngày đi chăn trâu, Hiền đứng ngoài lớp nghe giảng nhờ.",
+            "Tối đến, đợi bạn học thuộc bài rồi mượn vở của bạn về học.",
+            "Đứng ngoài lớp nghe giảng nhờ. Tối đến , đợi bạn học thuộc bài rồi mượn vở của bạn về học.",
+            "Siêng năng và cần cù giúp Nguyễn Hiền học tốt."
+        ],
+        [
+            "Vì chú bé Hiền nhờ thả diều mà đỗ Trạng nguyên.",
+            "Vì Hiền đỗ Trạng nguyên ở tuổi mười ba, khi vẫn còn là một chú bé ham thích chơi diều.",
+            "Vì chú bé Hiền tuy ham thích thả diều nhưng vẫn học giỏi.",
+            "Vì chú bé Hiền biết nhiều điều trong hiện tượng tự nhiên."
+        ],
+        [
+            "Lá lành đùm lá rách.",
+            "Có chí thì nên.",
+            "Công thành danh toại.",
+            "Ăn quả nhớ kẻ trồng cây."
+        ],
+        [
+            "Lưng trâu, nền cát.",
+            "Ngón tay, mảnh gạch vỡ.",
+            "Vỏ trứng thả đom đóm.",
+            "Mảnh giấy và ngón tay."
+        ],
+        [
+            "Làm diều chơi.",
+            "Chăn trâu.",
+            "Thổi sáo.",
+            "Đi bán đậu."
+        ],
+        [
+            "Mười ba tuổi.",
+            "Hai mươi tuổi.",
+            "Ba mươi tuổi.",
+            "Hai tuổi."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "B",
+        "B",
+        "B",
+        "A"
+    ]
+}

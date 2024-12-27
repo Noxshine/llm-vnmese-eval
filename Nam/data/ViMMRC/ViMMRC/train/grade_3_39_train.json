@@ -1,0 +1,73 @@
+{
+    "article": "Quê hương là chùm khế ngọt\nCho con trèo hái mỗi ngày\nQuê hương là đường đi học\nCon về rợp bướm vàng bay.\n\nQuê hương là con diều biếc\nTuổi thơ con thả trên đồng\nQuê hương là con đò nhỏ\nÊm đềm khua nước ven sông.\n\nQuê hương là cầu tre nhỏ\nMẹ về nón lá nghiêng che\nQuê hương là đêm trăng tỏ\nHoa cau rụng trắng ngoài hè.\n\nQuê hương mỗi người chỉ một\nNhư là chỉ một mẹ thôi\nQuê hương nếu ai không nhớ\nSẽ không lớn nổi thành người.",
+    "questions": [
+        "Từ nào được nhắc nhiều lần trong bài thơ này?",
+        "Bài thơ Quê hương được chia thành mấy khổ?",
+        "Quê hương được định nghĩa bằng những sự vật nào?",
+        "Trong khổ thơ đầu tiên, quê hương được so sánh như hình ảnh nào?",
+        "Trong khổ thơ thứ 2, quê hương được so sánh như hình ảnh nào?",
+        "Trong khổ thơ thứ ba, quê hương được so sánh như hình  ảnh nào?",
+        "Tại sao quê hương được so sánh với mẹ?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Con diều.",
+            "Con đò.",
+            "Người.",
+            "Quê hương."
+        ],
+        [
+            "Một khổ.",
+            "Hai khổ.",
+            "Ba khổ.",
+            "Bốn khổ."
+        ],
+        [
+            "Chùm khế ngọt, đường đi học, hoa cau, con đò nhỏ, cầu tre nhỏ và đêm trăng tỏ.",
+            "Chùm khế ngọt, đường đi học, con diều biếc, con đò nhỏ, tuổi thơ và đêm trăng tỏ.",
+            "Chùm khế ngọt, đường đi học, con diều biếc, con đò nhỏ, cầu tre nhỏ và nón là.",
+            "Chùm khế ngọt, đường đi học, con diều biếc, con đò nhỏ, cầu tre nhỏ và đêm trăng tỏ."
+        ],
+        [
+            "Cầu tre nhỏ, đêm trăng tỏ.",
+            "Người mẹ.",
+            "Con diều biếc, con đò nhỏ.",
+            "Chùm khế ngọt, đường đi học."
+        ],
+        [
+            "Con diều biếc, con đò nhỏ.",
+            "Cầu tre nhỏ, đêm trăng tỏ.",
+            "Chùm khế ngọt, đường đi học.",
+            "Người mẹ ruột thịt."
+        ],
+        [
+            "Người mẹ ruột thịt.",
+            "Chùm khế ngọt, đường đi học.",
+            "Cầu tre nhỏ, đêm trăng tỏ.",
+            "Con diều biếc, con đò nhỏ."
+        ],
+        [
+            "Vì đó là nơi ta sinh ra và được nuôi dưỡng khôn lớn, trưởng thành.",
+            "Vì đó là nơi mà ta hằng mơ ước được đặt chân tới.",
+            "Vì đó là nơi mà ta có những người bạn thân.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Tình yêu quê hương là tình cảm tự nhiên, sâu sắc khiến ta khôn lớn, trưởng thành.",
+            "Tình cảm gia đình là tình cảm tự nhiên, sâu sắc khiến ta có động lực, cảm hứng...",
+            "Tình yêu đất nước là tình yêu gắn với những gì gần gũi, thân thuộc, bình dị nhất.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

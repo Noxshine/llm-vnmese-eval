@@ -1,0 +1,49 @@
+{
+    "article": "Trời hé sáng, tổ ong mật nằm trong gốc cây bỗng hoá rộn rịp. Ong thường thức dậy sớm, suốt ngày làm việc không chút nghỉ ngơi. Ong Thợ vừa thức giấc đã vội vàng bước ra khỏi tổ, cất cánh tung bay. ở các vườn chung quanh, hoa đã biến thành quả. Ong Thợ phải bay xa tìm những bông hoa vừa nở. Con đường trước mắt Ong Thợ mở rộng thênh thang. Ông mặt trời nhô lên cười. Hôm nào Ong Thợ cũng thấy ông mặt trời cười. Cái cười của ông hôm nay càng rạng rỡ. Ong Thợ càng lao thẳng về phía trước.\nChợt từ xa một bóng đen xuất hiện. Đó là thằng Quạ Đen. Nó lướt về phía ong thợ, xoẹt sát bên Ong Thợ toan đớp nuốt. Nhưng Ong thợ đã kịp lách mình. Thằng Quạ Đen đuổi theo nhưng không tài nào đuổi kịp. Đường bay của Ong Thợ trở lại thênh thang.",
+    "questions": [
+        "Tổ ong mật nằm ở đâu?",
+        "Quạ Đen đuổi theo Ong Thợ để làm gì?",
+        "Ong Thợ bay xa tìm gì?",
+        "Ngoài con Ong, con vật nào khác được nhắc đến?",
+        "Con gì đuổi theo Ong thợ?"
+    ],
+    "options": [
+        [
+            "Trên ngọn cây.",
+            "Trong gốc cây.",
+            "Trên cành cây.",
+            "Dưới ngọn cây."
+        ],
+        [
+            "Để đi chơi cùng Ong Thợ.",
+            "Để đi lấy mật cùng Ong Thợ.",
+            "Để toan đớp nuốt Ong Thợ.",
+            "Để làm việc cùng Ong Thợ."
+        ],
+        [
+            "Tìm những người bạn.",
+            "Tìm những bông hoa mới nở.",
+            "Trao đổi tín hiệu.",
+            "Tìm những loài cây mới."
+        ],
+        [
+            "Quạ Đen.",
+            "Quạ Nâu.",
+            "Sáo Nâu.",
+            "Hải Âu."
+        ],
+        [
+            "Quạ Đen.",
+            "Quạ Nâu.",
+            "Chim Sáo.",
+            "Chim Công."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "B",
+        "A",
+        "A"
+    ]
+}

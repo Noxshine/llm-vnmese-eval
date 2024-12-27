@@ -1,0 +1,49 @@
+{
+    "article": "Em về quê ngoại nghỉ hè,\nGặp đầm sen nở mà mê hương trời.\nGặp bà tưổi đã tám mươi,\nQuên quên nhớ nhớ những lời ngày xưa.\nGặp trăng gặp gió bất ngờ,\nỞ trong phố chẳng bao giờ có đâu.\nBạn bè ríu rít tìm nhau\nQua con đường đất rực màu rơm phơi.\nBóng tre mát rợp vai người\nVầng trăng như lá thuyền trôi êm đềm.\nVề thăm quê ngoại, lòng em\nYêu thêm cuộc sống, yêu thêm con người:\nEm ăn hạt gạo lâu rồi\nHôm nay mới gặp những người làm ra.\nNhững người chân đất thật thà\nEm thương như thể thương bà ngoại em.",
+    "questions": [
+        "Quê ngoại bạn nhỏ trong bài ở đâu?",
+        "Ở quê ngoại của bạn nhỏ có những gì mà thành phố không có?",
+        "Trong bài thơ, vầng trăng được miêu tả như gì?",
+        "Chuyến về thăm quê đã làm cho bạn nhỏ cảm thấy như thế nào?",
+        "Em hiểu từ “hương trời” trong bài có nghĩa là gì?"
+    ],
+    "options": [
+        [
+            "Vùng biển.",
+            "Vùng nông thôn.",
+            "Vùng thành thị.",
+            "Vùng nội thành."
+        ],
+        [
+            "Đầm sen, trăng, gió, con đường đất, bóng tre, rơm.",
+            "Đèn đường, bóng tre, đầm sen, vầng trăng.",
+            "Nhà phố, rơm phơi, vầng trăng, thuyền, bóng tre.",
+            "Nhà phố, trăng, rơm."
+        ],
+        [
+            "Màu rơm phơi.",
+            "Lá thuyền trôi.",
+            "Hương sen thơm.",
+            "Hương đồng cỏ nội."
+        ],
+        [
+            "Thêm yêu quê hương và cuộc sống thành phố.",
+            "Yêu cảnh đẹp ở quê, yêu những người nông dân.",
+            "Yêu gia đình của mình hơn.",
+            "Yêu con người."
+        ],
+        [
+            "Mùi hương của những tia nắng sớm.",
+            "Mùi của bóng tre mát rợp vai người.",
+            "Mùi thơm của sen tỏa ngát.",
+            "Mùi hương của bông lúa."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "C"
+    ]
+}

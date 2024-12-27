@@ -1,0 +1,81 @@
+{
+    "article": "Bà của An mới mất nên An xin nghỉ học mấy ngày liền. Sau đám tang bà, An trở lại lớp, lòng nặng trĩu nỗi buồn. Thế là chẳng bao giờ An còn được nghe bà kể chuyện cổ tích, chẳng bao giờ An còn được bà âu yếm, vuốt ve...\n\nNhớ bà, An ngồi lặng lẽ. Thầy giáo bước vào lớp học. Thầy bắt đầu kiểm tra bài làm ở nhà của học sinh.\n\nKhi thầy đến gần, An thì thào buồn bã:\n\n- Thưa thầy, hôm nay em chưa làm bài tập.\n\nThầy nhẹ nhàng xoa đầu An. Bàn tay thầy dịu dàng đầy trìu mến, thương yêu.\n\nAn nói tiếp:\n\n- Nhưng sáng mai em sẽ làm ạ!\n\n- Tốt lắm! Thầy biết em nhất định sẽ làm! - Thầy khẽ nói với An.",
+    "questions": [
+        "An đã xin làm gì sau khi bà mất?",
+        "Những chi tiết cho thấy An rất buồn khi bà mới mất được miêu tả như thế nào?",
+        "Thầy đã làm gì khi vào lớp?",
+        "An đã nói gì với thầy khi thầy kiểm tra bài tập?",
+        "Khi biết An chưa hoàn thành bài tập, thái độ của thầy giáo như thế nào?",
+        "Tại sao thầy giáo không trách An khi biết bạn chưa làm bài tập?",
+        "Chi tiết nào thể hiện tình cảm của thầy giáo đối với An?",
+        "Hành động xoa đầu ân cần thể hiện tình cảm của thầy đối với An như thế nào?",
+        "Tình cảm của thầy giáo dành cho An được thể hiện qua những phương diện nào?"
+    ],
+    "options": [
+        [
+            "An xin nghỉ học hẳn luôn.",
+            "Xin bố mẹ cho đi du lịch.",
+            "Nghỉ học mấy ngày liền.",
+            "Xin được đi học để đỡ buồn."
+        ],
+        [
+            "An xin phép thầy cho nghỉ học hẳn vì quá buồn.",
+            "An nhớ những khi được bà dắt đi chơi và mua quà cho.",
+            "An muốn đi du lịch cùng ba mẹ cho bớt buồn.",
+            "An nhớ bà, chỉ ngồi lặng lẽ trong lớp học."
+        ],
+        [
+            "Cho An nghỉ tiết học và miễn kiểm tra bài tập về nhà.",
+            "Bước đến chỗ An và chia buồn cùng em.",
+            "Kiểm tra bài làm ở nhà của từng bạn học sinh.",
+            "Nhắc nhở cả lớp hãy an ủi, giúp đỡ để An bớt đau buồn."
+        ],
+        [
+            "Thưa thầy, hôm nay em chưa làm bài tập.",
+            "Thưa thầy, thầy đừng kiểm tra bài tập của em nhé.",
+            "Thưa thầy, thầy có thể tha lỗi cho em được không.",
+            "Thưa thầy, hôm nay em bận."
+        ],
+        [
+            "Hầy nhắc nhở An phải cố gắng hơn.",
+            "Thầy nhẹ nhàng xoa đầu An.",
+            "Thầy buồn bã lắc đầu, không nói gì.",
+            "Thầy tức giận trách mắng An."
+        ],
+        [
+            "Vì đây là lần đầu tiên An mắc lỗi.",
+            "Vì cả lớp đã kể cho thầy nghe.",
+            "Vì thầy hiểu và thông cảm hoàn cảnh của An. An cũng đã thành thực nhận lỗi.",
+            "Vì An đã mắc lỗi quá nhiều lần."
+        ],
+        [
+            "Thầy bắt đầu kiểm tra bài làm ở nhà của từng học sinh.",
+            "Thầy giáo bước vào lớp.",
+            "Thầy nhẹ nhàng xoa đầu An, bàn tay dịu dàng, trìu mến.",
+            "Thầy tha thứ lỗi lầm của An."
+        ],
+        [
+            "Thông cảm, hiểu cho hoàn cảnh của An.",
+            "Ghét bỏ, không hiểu cho hoàn cảnh của An.",
+            "Yêu thương vô bờ bến.",
+            "Yêu thương."
+        ],
+        [
+            "Lời nói.",
+            "Suy nghĩ.",
+            "Hành động.",
+            "Lời nói và hành động."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "B",
+        "C",
+        "C",
+        "A",
+        "D"
+    ]
+}

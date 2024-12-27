@@ -1,0 +1,57 @@
+{
+    "article": "Nết sinh ra đã bất hạnh với bàn chân trái thiếu ba ngón. Càng lớn, đôi chân Nết lại càng teo đi và rồi Nết phải bò khi muốn di chuyển.\n\nKhi em Na vào lớp Một, ở nhà một mình Nết buồn lắm, chỉ mong Na chóng tan trường về kể chuyện ở trường cho Nết nghe. Na kể rất nhiều về cô giáo: tà áo dài của cô trắng muốt, miệng cô tươi cười như hoa, cô đi nhẹ nhàng đến bên từng học sinh dạy các  bạn viết, vẽ…. Nghe Na kể, Nết ước mơ được đi học như Na nhưng…\n\nTrong một tiết học vẽ, cô giáo cầm vở vẻ của Na. Na vẽ một cô gái cầm đôi đũa nhỏ đứng bên một cô gái. Na giải thích: “Em vẽ cô tiên đang gõ đôi đũa thần chữa đôi chân cho chị em, để chị em cũng được đi học”. Cô giáo ngạc nhiên khi biết chị gái Na bị tật nguyền. Tối hôm ấy, cô đến thăm Nết. Biết Nết ham học, mỗi tuần ba tối, cô dạy Nết học.\n\nCòn một tháng nữa là kết thúc năm học. Mấy hôm nay, cô giáo thường kể cho 35 học trò của mình về một bạn nhỏ. Đôi chân bạn ấy không may bị liệt nên bạn phải ngồi xe lăn nhưng bạn vẫn quyết tâm học. Có lúc đau tê cứng cả lưng, bạn vẫn cố viết và viết rất đẹp. Năm học sau, bạn sẽ vào cùng các em. Nghe cô kể, mắt Na sáng lên, Na vui và tự hào về chị mình lắm.\n\nBố mẹ Nết rơm rớm nước mắt khi biết nhà trường sẽ đặc cách cho Nết vào học lớp Hai. Còn Nết, cô bé đang hình dung cảnh cô giáo cùng các bạn nhỏ xúm xít đẩy chiếc xe lăn.",
+    "questions": [
+        "Hoàn cảnh của Nết có gì đặc biệt?",
+        "Bé Na là một cô bé:",
+        "Cô giáo đã làm những gì để giúp Nết?",
+        "Bài văn thuộc chủ đề nào mà em đã học?",
+        "Cô giáo đã kể cho bao nhiêu bạn học sinh viên về câu chuyện của bạn nhỏ?",
+        "Dòng nào có những từ chỉ người gần gũi với em trong trường học?"
+    ],
+    "options": [
+        [
+            "Đôi chân bị tật, không đi được.",
+            "Bị tật bẩm sinh ở bàn chân phải.",
+            "Gia đình khó khăn, không đi học được.",
+            "Bị tật bẩm sinh và càng lớn đôi chân càng teo đi."
+        ],
+        [
+            "Chăm chỉ học hành.",
+            "Thương chị.",
+            "Yêu mến cô giáo.",
+            "Chăm chỉ học hành, thương chị và yêu mến cô giáo."
+        ],
+        [
+            "Dạy học, tổ chức quyên góp tặng Nết một chiếc xe lăn.",
+            "Dạy học và xin ba mẹ Nết cho em đến trường.",
+            "Dạy học và dẫn Nết đến trường giới thiệu với các bạn của Na.",
+            "Dạy học, kể chuyện về Nết với học trò, xin cho Nết vào học lớp Hai."
+        ],
+        [
+            "Con người với thiên nhiên.",
+            "Con người với xã hội.",
+            "Vì hạnh phúc con người.",
+            "Hãy giúp đỡ mọi người."
+        ],
+        [
+            "30 học sinh.",
+            "35 học sinh.",
+            "40 học sinh.",
+            "10 học sinh."
+        ],
+        [
+            "Cô giáo, thầy giáo, cha mẹ, công nhân.",
+            "Cô giáo, bạn bè, thầy giáo, nông dân.",
+            "Cô giáo, thầy giáo, bạn bè, bảo mẫu….",
+            "Cô giáo, thầy giáo, ông bà, anh chị."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "B",
+        "C"
+    ]
+}

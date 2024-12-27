@@ -1,0 +1,49 @@
+{
+    "article": "Thành phố sắp vào thu. Những cơn gió nóng mùa hè đã nhường chỗ cho luồng khí mát dịu buổi sáng. Trời xanh ngắt trên cao, xanh như dòng sông trong, trôi lặng lẽ giữa những ngọn cây, hè phố.\n\nNăm nay, tôi sẽ đi học. Ông ngoại dẫn tôi đi mua vở, chọn bút, hướng dẫn tôi cách bọc vở, dán nhãn, pha mực và dạy tôi những chữ cái đầu tiên. \n\nMột sáng ông bảo:\n\n- Ông cháu mình đến xem trường thế nào.\n\nÔng chậm rãi nhấn từng nhịp chân trên chiếc xe đạp cũ, đèo tôi tới trường. Trong cái vắng lặng của ngôi trường cuối hè, ông dẫn tôi lang thang khắp các căn lớp trống. Ông còn nhấc bổng tôi trên tay, cho gõ thử vào mặt da loang lổ của chiếc trống trường. Tiếng trống buổi sáng trong trẻo ấy là tiếng trông trường đầu tiên, âm vang mãi trong đời đi học của tôi sau này.\n\nTrước ngưỡng cửa của trường tiểu học, tôi đã may mắn có ông ngoại - thầy giáo đầu tiên của tôi.",
+    "questions": [
+        "Sắp vào thu, thành phố có gì đẹp?",
+        "Ông ngoại đã giúp bạn nhỏ chuẩn bị đi học như thế nào?",
+        "Hình ảnh đẹp nào mà em thích trong đoạn ông dẫn bạn nhỏ đến thăm trường?",
+        "Vì sao bạn nhỏ gọi ông ngoại là người thầy đầu tiên?",
+        "Ông ngoại đã dạy người cháu thứ gì đầu tiên?"
+    ],
+    "options": [
+        [
+            "Đường phố có nhiều lá vàng rơi và hoa nở rất đẹp.",
+            "Thành phố có nhiều ngôi trường mới xây rất đẹp.",
+            "Trời xanh ngắt trên cao, xanh như dòng sông trong, trôi lặng lẽ giữa những ngọn cây hè phố.",
+            "Thành phố rất thoáng và trong lành."
+        ],
+        [
+            "Dẫn bạn nhỏ đi mua cặp sách mới.",
+            "Dẫn bạn nhỏ đi mua vở, chọn bút, … và dạy những chữ cái đầu tiên.",
+            "Dẫn bạn nhỏ đi mua áo quần mới.",
+            "Dẫn bạn nhỏ đến trường."
+        ],
+        [
+            "Ông dẫn bạn nhỏ đến thăm khắp các căn lớp trống, còn nhấc bổng bạn nhỏ trên tay và cho gõ thử vào chiếc trống trường.",
+            "Ông dẫn bạn nhỏ đi mua vở, chọn bút, hướng dẫn bao vở, dán nhãn, pha mực và dạy những chữ cái đầu tiên.",
+            "Trong cái vắng lặng của ngôi trường cuối hè, ông dẫn tôi lang thang khắp các căn lớp trống.",
+            "Ông còn nhấc bổng tôi trên tay, cho gõ thử vào mặt da loang lổ của chiếc trống trường."
+        ],
+        [
+            "Vì ông ngoại là người đầu tiên dẫn bạn nhỏ đến trường, cho bạn nhỏ gõ thử vào chiếc trống trường.",
+            "Vì ông ngoại là người dạy bạn nhỏ những chữ cái đầu tiên.",
+            "Vì ông ngoại dắt bạn nhỏ đi học ngày đầu tiên.",
+            "Vì ông ngoại cùng bé đi chơi."
+        ],
+        [
+            "Dạy đọc.",
+            "Những chữ cái đầu tiên.",
+            "Gieo những hạt giống đầu tiên.",
+            "Biết cách nấu ăn."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "B"
+    ]
+}

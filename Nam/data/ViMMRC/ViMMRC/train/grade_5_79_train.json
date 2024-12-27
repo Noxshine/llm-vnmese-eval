@@ -1,0 +1,49 @@
+{
+    "article": "Thảo quả trên rừng Đản Khao đã vào mùa.\n\nGió tây lướt thướt bay qua rừng, quyến hương thảo quả đi, rải theo triền núi, đưa hương thảo quả ngọt lựng, thơm nồng vào những thôn xóm Chin San. Gió thơm. Cây cỏ thơm. Đất trời thơm. Người đi từ rừng thảo quả về, hương thơm đậm ủ ấp trong từng nếp áo, nếp khăn.\n\nThảo quả trên rừng Đản Khao đã chín nục. Chẳng có thứ quả nào hương thơm lại ngây ngất kì lạ đến như thế. Mới đầu xuân năm kia, những hạt thảo quả gieo trên đất rừng, qua một năm, đã lớn cao tới bụng người . Một năm sau nữa, từ một thân lẻ, thảo quả đâm thêm hai nhánh mới. Sự sinh sôi sao mà mạnh mẽ vậy. Thoáng cái, dưới bóng râm của rừng già, thảo quả lan toả nơi tầng rừng thấp, vươn ngọn, xoè lá, lấn chiếm không gian.\n\nSự sống cứ tiếp tục trong âm thầm, hoa thảo quả nảy dưới gốc cây kín đáo và lặng lẽ. Ngày qua, trong sương thu ẩm ướt và mưa rây bụi mùa đông, những chùm hoa khép miệng bắt đầu kết trái. Thảo quả chín dần. Dưới đáy rừng, tựa như đột ngột, bỗng rực lên những chùm thảo quả đỏ chon chót, như chứa lửa, chứa nắng. Rừng ngập hương thơm. Rừng sáng như có lửa hắt lên từ dưới đáy rừng .\n\nRừng say ngây và ấm nóng. Thảo quả như những đốm lửa hồng, ngày qua ngày lại thắp thêm nhiều ngọn mới, nhấp nháy vui mắt.",
+    "questions": [
+        "Thảo quả báo hiệu vào mùa bằng cách nào?",
+        "Ở nơi nào thảo quả đã vào mùa?",
+        "Hoa thảo quả nảy ra từ đâu?",
+        "Khi thảo quả chín, ở rừng có nét gì đẹp?",
+        "Nội dung của bài Mùa thảo quả là gì?"
+    ],
+    "options": [
+        [
+            "Quả chín đỏ.",
+            "Hương thơm nồng.",
+            "Sắc hoa.",
+            "Sương thu ẩm ướt."
+        ],
+        [
+            "Rừng Đản Khao.",
+            "Xóm Chin San.",
+            "Khắp buôn làng.",
+            "Trên núi."
+        ],
+        [
+            "Trên thân cây.",
+            "Khắp các ngọn cây.",
+            "Dưới gốc cây.",
+            "Khắp muôn nơi."
+        ],
+        [
+            "Rừng ẩm ướt, mưa rây bụi mùa đông.",
+            "Rừng ngập hương thơm, sáng như có lửa.",
+            "Rừng thoáng dưới bóng râm.",
+            "Rừng xanh sạch đẹp."
+        ],
+        [
+            "Miêu tả cảnh đẹp của núi rừng Đản Khao.",
+            "Cảnh nô nức của bà con thôn xóm Chin San.",
+            "Vẻ đẹp, hương thơm và sự sinh sôi nhanh của thảo quả.",
+            "Thảo quả là một loại quả đẹp."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "B",
+        "C"
+    ]
+}

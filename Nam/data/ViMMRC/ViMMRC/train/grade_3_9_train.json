@@ -1,0 +1,49 @@
+{
+    "article": "Ai trồng cây\nNgười đó có tiếng hát\nTrên vòm cây\nChim hót lời mê say.\n\nAi trồng cây\nNgười đó có ngọn gió\nRung cành cây\nHoa lá đùa lay lay.\n\nAi trồng cây\nNgười đó có bóng mát\nTrong vòm cây\nQuên nắng xa đường dài.\n\nAi trồng cây\nNgười đó có hạnh phúc\nMong chờ cây\nMau lớn lên từng ngày.\n\nAi trồng cây...\nEm trồng cây...\nEm trồng cây...",
+    "questions": [
+        "Hạnh phúc của người trồng cây là gì?",
+        "Những cụm từ nào được lặp đi lặp lại nhiều lần trong bài thơ?",
+        "Việc lặp đi lặp lại nhiều lần những cụm từ \"Ai trồng cây\", \"Người đó có\", \"Em trồng cây\" có tác dụng gì?",
+        "Nội dung đầy đủ của bài thơ này là gì?",
+        "Người trồng cây tìm thấy niềm vui khi nào?"
+    ],
+    "options": [
+        [
+            "Được nhìn thấy cây lớn lên từng ngày, cho hoa thơm trái ngọt.",
+            "Được sống trong bầu không khí trong lành, không ô nhiễm.",
+            "Được làm ra những vật dụng: bàn ghế, sách vở, cửa gỗ,...",
+            "Được cây che mát và được nghe tiếng chim hót véo von."
+        ],
+        [
+            "\"Ai trồng cây\", \"Người đó có\", \"Em trồng cây\".",
+            "\"Ai trồng cây\", \"Mong chờ cây\", \"Em trồng cây\".",
+            "Ai trồng cây\", \"Trên vòm cây\", \"Rung cành cây\".",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Tạo nên thông điệp nhắc nhở mọi người có ý thức trồng cây xanh.",
+            "Tạo thành điệp khúc khiến bài thơ có vẫn điệu, dễ nhớ, dễ thuộc.",
+            "Tạo điệp khúc khiến bài thơ có nhịp điệu và gửi gắm thông điệp: mọi người hãy có ý thức trồng cây xanh để bảo vệ môi trường sống.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Bài thơ kêu gọi mọi người hăng hái trồng cây xanh.",
+            "Bài thơ nói về lợi ích của cây xanh và kêu gọi mọi người hăng hái trồng cây xanh.",
+            "Bài thơ nói về ngày tết trồng cây mà Bác Hồ đã phát động.",
+            "Bài thơ nói về lợi ích của cây xanh."
+        ],
+        [
+            "Khi thấy cây phát triển ngày quan ngày.",
+            "Khi cây héo.",
+            "Khi cây nở hoa.",
+            "Khi nhìn cây vào buổi sáng."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "C",
+        "B",
+        "A"
+    ]
+}

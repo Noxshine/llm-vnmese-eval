@@ -1,0 +1,49 @@
+{
+    "article": "Em vẽ Bác Hồ\nTrên tờ giấy trắng.\nEm vẽ vầng trán\nTrán Bác Hồ cao.\n\nEm vẽ tóc râu\nChỉ vờn nhè nhẹ.\nEm vẽ Bác bế\nHai cháu trên tay.\n\nCháu Bắc bên này\nCháu Nam bên ấy.\nVẽ hết trang giấy\nToàn những thiếu nhi.\n\nTheo bước Bác đi\nKhăn quàng đỏ thắm.\nEm vẽ chim trắng\nBay trên trời xanh.\n\nEm để dưới tranh:\n\"Đời đời ơn Bác\".",
+    "questions": [
+        "Hình ảnh \"Bác Hồ bế hai cháu Bắc, Nam trên tay\" mang ý nghĩa gì?",
+        "Hình ảnh \"Thiếu nhi theo bước Bác Hồ\" mang ý nghĩa gì?",
+        "Hình ảnh \"Chim trắng bay trên nền trời xanh\" mang ý nghĩa gì?",
+        "Cụm từ \"Đời đời ơn Bác\" có ý nghĩa gì?",
+        "Chú chim trắng được vẽ trong trạng thái như thế nào?"
+    ],
+    "options": [
+        [
+            "Bác Hồ rất yêu nước và yêu nhân dân Việt Nam.",
+            "Bác Hồ rất công bằng, không thiên vị ai bao giờ.",
+            "Bác yêu và thương thiếu nhi hai miền như nhau.",
+            "Bác Hồ rất khỏe."
+        ],
+        [
+            "Thiếu nhi rất kính trọng và muốn được gặp gỡ, trò chuyện với Bác.",
+            "Thiếu nhi rất kính trọng, muốn trò chuyện và học tập tấm gương Bác Hồ.",
+            "Thiếu nhi muốn tiếp nối con đường, học tập tấm gương đạo đức của Bác.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cánh chim tượng trưng cho hòa bình mà Bác Hồ mang lại cho dân tộc.",
+            "Cánh chim là tượng trưng cho cuộc sống.",
+            "Cánh chim tượng trưng cho Bác Hồ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Thiếu nhi Việt Nam rất ngoan và biết kính trọng người già.",
+            "Thiếu nhi rất kính trọng và biết ơn Bác Hồ.",
+            "Thiếu nhi Việt Nam vẽ rất giỏi và tình cảm.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Đang bay trên bầu trời xanh.",
+            "Đang đậu trên cành cây.",
+            "Đang bơi dưới nước.",
+            "Đang lạc bầy."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "A"
+    ]
+}

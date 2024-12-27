@@ -1,0 +1,49 @@
+{
+    "article": "Ở vương quốc nọ có một cô bé xinh xinh chừng năm, sáu tuổi. Bé xíu như vậy, nhưng cô lại là công chúa. Một lần, công chúa ốm nặng. Nhà vua rất lo lắng. Ngài hứa tặng cô con gái bé nhỏ bất kì thứ gì cô muốn, miễn là cô khỏi bệnh. Công chúa nói rằng cô sẽ khỏi ngay nếu có được mặt trăng.\n\nVua cho vời tất cả các vị đại thần, các nhà khoa học tới để bàn cách lấy mặt trăng cho cô bé. Nhưng ai nấy đều nói là đòi hỏi của công chúa không thể thực hiện được vì mặt trăng ở rất xa và to gấp hàng nghìn lần đất nước của nhà vua.\n\nNhà vua buồn lắm, than phiền với chú hề của ngài. Chú hề nghĩ một lát, rồi bảo:\n\n- Trước hết, phải hỏi xem công chúa nghĩ về mặt trăng như thế nào đã.\n\nNhà vua đồng ý. Thế là chú hề đến gặp cô chủ nhỏ của mình. Chú hứa sẽ mang mặt trăng về cho cô nhưng cô phải cho biết mặt trăng to bằng chừng nào. Công chúa bảo:\n\n- Chỉ to hơn móng tay ta, vì khi ta đặt ngón tay lên trước mặt trăng thì móng tay che gần khuất mặt trăng.\n\nChú hề hỏi lại:\n\n- Công chúa có biết mặt trăng treo ở đâu không?\n\nCông chúa đáp:\n\n- Ta thấy đôi khi nó đi ngang qua ngọn cây trước cửa sổ.\n\nChú hề gặng hỏi thêm:\n\n- Vậy theo công chúa, mặt trăng làm bằng gì?\n\n- Tất nhiên là bằng vàng rồi.\n\nChú hề tức tốc đến gặp thợ kim hoàn, đặt làm ngay một mặt trăng bằng vàng, lớn hơn móng tay của công chúa, rồi cho mặt trăng vào một sợi dây chuyền vàng để cô bé có thể đeo vào cổ.\n\nThấy mặt trăng, công chúa vui sướng ra khỏi giường bệnh, chạy tung tăng khắp vườn.",
+    "questions": [
+        "Công chúa nhỏ có ước muốn gì khi bị ốm?",
+        "Nhà vua đã làm gì trước ước muốn của công chúa?",
+        "Các vị đại thần và nhà khoa học nói gì với nhà vua về đòi hỏi của công chúa?",
+        "Ai là người đưa ra giải pháp đáp ứng nguyện vọng của công chúa?",
+        "Câu nào cho thấy cách nghĩ của chú hề khác biệt so với các vị đại thần và nhà khoa học?"
+    ],
+    "options": [
+        [
+            "Nếu có được váy đẹp sẽ khỏi ốm ngay.",
+            "Nếu có được ngai vàng thì sẽ khỏi ốm ngay.",
+            "Nếu có được mặt trăng thì sẽ khỏi ốm ngay.",
+            "Nếu có được hoàng tử thì sẽ khỏi ốm ngay."
+        ],
+        [
+            "Cho vời các vị đại thần, nhà khoa học tới, tìm cách lấy mặt trăng cho cô bé.",
+            "Cho công chúa một chiếc vương miện thật đẹp để thay thế mặt trăng.",
+            "Giải thích cho công chúa rằng không thể lấy được mặt trăng trên trời.",
+            "Cho với chú hề đến và tìm cách hỏi han, an ủi công chúa."
+        ],
+        [
+            "Không thể thực hiện được.",
+            "Đây là đòi hỏi tham lam và viển vông.",
+            "Đòi hỏi của công chúa thật thông minh.",
+            "Có thể thực hiện được."
+        ],
+        [
+            "Nhà khoa học.",
+            "Đại thần.",
+            "Nhà vua.",
+            "Chú hề."
+        ],
+        [
+            "Trước hết phải an ủi và giải thích cho công chúa hiểu cái đã.",
+            "Trước hết phải xây dựng tàu vũ trụ và tàu con thôi bay lên mặt trăng đã.",
+            "Trước hết phải hỏi xem công chúa nghĩ về mặt trăng như thế nào đã.",
+            "Công chúa có biết mặt trăng treo ở đâu không?"
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "A",
+        "D",
+        "C"
+    ]
+}

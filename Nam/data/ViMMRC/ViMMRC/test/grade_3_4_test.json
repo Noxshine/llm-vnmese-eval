@@ -1,0 +1,49 @@
+{
+    "article": "Mùa hoa cà phê nở, cả đất trời Đắk Lắk dường như tinh khiết hoa, đằm thắm hơn và duyên dáng hơn.\nNhững cánh hoa trắng mong manh và nhỏ bé nhưng lại tạo ra mùi hương quyến rũ đến kì diệu. Khi cà phê vào mùa trổ bông, cả đất trời Đắk Lắk đều ngan ngát một mùi thơm vừa nồng nàn, vừa tinh khiết. Đi đến đâu cũng ngửi thấy mùi thơm ngào ngạt, quyến rũ ấy. Hương cà phê len lỏi vào tận các ngõ ngách, quyện vào tóc, thấm vào từng tế bào của người dân Ban Mê, nên trong hơi thở, giọng nói của họ đều tỏa ra mùi hương kì diệu. Nếu đến đó vào mùa hoa cà phê nở rộ, bạn sẽ được hít thở mùi hương thơm nồng nàn, ngọt lịm đến đặc quánh lại ấy.\nHoa cà phê có mùi thơm đậm và ngọt nên thường bay theo gió đi rất xa. Ong bướm từ khắp nơi cứ theo cái mùi quyến rũ đó mà về hút nhụy, nhả mật. Cứ đến tháng mười một, mười hai, khi những cánh hoa bung ra một màu trắng xóa là từng đàn ong bướm từ khắp nơi đổ về vườn tạo thành một bức tranh đẹp và sinh động.",
+    "questions": [
+        "Bài viết nói về hương cà phê ở đâu?",
+        "Những cánh hoa cà phê được miêu tả trong bài như thế nào?",
+        "Vì sao lại nói trong hơi thở, giọng nói của người dân Ban Mê đều tỏa ra mùi hương kì diệu?",
+        "Hương hoa cà phê đã quyết rũ những con vật nào?",
+        "Vào mùa nào hoa cà phê nở?"
+    ],
+    "options": [
+        [
+            "Lâm Đồng.",
+            "Đắk Lắk.",
+            "Gia Lai.",
+            "Đồng Nai."
+        ],
+        [
+            "Trắng, mong manh, nhỏ bé.",
+            "Trắng và có mùi hương thoang thoảng, say mê lòng người.",
+            "Trắng, mong manh, nhỏ bé và có mùi hương quyến rũ.",
+            "Trắng và có mùi hương quyến rũ."
+        ],
+        [
+            "Vì hoa cà phê có mùi hương quyến rũ đến kì diệu.",
+            "Vì người dân Ban Mê uống rất nhiều cà phê.",
+            "Vì hương cà phê len lỏi vào tận các ngõ ngách, quyện vào tóc, thấm vào từng tế bào của người dân Ban Mê.",
+            "Vì hoa cà phê có mùi hương kì diệu."
+        ],
+        [
+            "Con ong và con bướm.",
+            "Con chim.",
+            "Con ong.",
+            "Con bướm."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa hè.",
+            "Mùa đông.",
+            "Mùa thu."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

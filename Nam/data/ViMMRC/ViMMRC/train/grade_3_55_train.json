@@ -1,0 +1,49 @@
+{
+    "article": "Các anh về \nMái ấm nhà vui,\nTiếng hát câu cười\nRộn ràng xóm nhỏ.\nCác anh về\nTưng bừng trước ngõ,\nLớp lớp đàn em hớn hở chạy theo sau.\nMẹ già bịn rịn áo nâu\nVui đàn con ở rừng sâu mới về.\nLàng tôi nghèo\nMái lá nhà tre.\nCác anh về\nXôn xao làng bé nhỏ.\nNhà lá đơn sơ\nTấm lòng rộng mở\nNồi cơm nấu dở\nBát nước chè xanh\nNgồi vui kể chuyện tâm tình bên nhau.",
+    "questions": [
+        "Sự kiện gì được miêu tả trong bài thơ?",
+        "Nội dung của bài thơ này là gì?",
+        "Nhà lá được miêu tả như thế nào?",
+        "Mẹ già được mô tả như thế nào?",
+        "Vì sao bà lão trong bài thơ này vui?"
+    ],
+    "options": [
+        [
+            "Người dân tiễn bộ đội ra chiến trường.",
+            "Các gia đình tiễn con đi bộ đội.",
+            "Bộ đội về thăm làng.",
+            "Bộ đội giúp đỡ dân tăng gia sản xuất."
+        ],
+        [
+            "Tình đồng chí, tình đồng đội keo sơn thời kháng chiến chống thực dân Pháp.",
+            "Tình cảm gắn bó, đoàn kết của người dân thời kháng chiến chống thực dân Pháp.",
+            "Tình quân dân thắm thiết, khăng khít thời kháng chiến chống thực dân Pháp.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Lộng lẫy.",
+            "Hoành tráng.",
+            "Đơn sơn.",
+            "Đẹp mơ hồ."
+        ],
+        [
+            "Bịn rịn áo nâu.",
+            "Đơn sơ.",
+            "Bé nhỏ.",
+            "Nghèo."
+        ],
+        [
+            "Vì đàn con đi lính mới về.",
+            "Vì có cơm ăn áo mặt.",
+            "Vì làng xôn xao.",
+            "Vì nồi cơm nấu dở."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "C",
+        "A",
+        "C"
+    ]
+}

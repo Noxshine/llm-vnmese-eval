@@ -1,0 +1,81 @@
+{
+    "article": "Đến thăm Văn Miếu - Quốc Tử Giám ở Thủ đô Hà Nội, ngôi trường được coi là trường đại học đầu tiên của Việt Nam, khách nước ngoài không khỏi ngạc nhiên khi biết rằng từ năm 1075, nước ta đã mở khoa thi tiến sĩ. Ngót 10 thế kỉ, tính từ khoa thi năm 1075 đến khoa thi cuối cùng năm 1919, các triều vua Việt Nam đã tổ chức được 185 khoa thi, lấy đỗ gần 3000 tiến sĩ.\n\nNgày nay, khách vào thăm Văn Miếu - Quốc Tử Giám còn thấy bên giếng Thiên Quang, dưới những hàng muỗm già cổ kính, 82 tấm bia khắc tên tuổi 1306 vị tiến sĩ từ khoa thi năm 1442 đến khoa thi năm 1779 như chứng tích về một nền văn hiến lâu đời.",
+    "questions": [
+        "Văn Miếu - Quốc Tử Giám nằm ở đâu?",
+        "Văn Miếu được coi là gì?",
+        "Đến thăm Văn Miếu, khách nước ngoài ngạc nhiên vì điều gì?",
+        "Ngót gần một thế kỉ, các triều vua đã tổ chức và lấy được bao nhiêu tiến sĩ?",
+        "Hiện ngày nay còn lại bao nhiêu tấm bia khắc tên các vị tiến sĩ?",
+        "Những tấm bia đá khắc tên các vị tiến sĩ có ý nghĩa gì?",
+        "\"Văn hiến\" có nghĩa là gì?",
+        "Bài đọc \"Nghìn năm văn hiến\" giúp em hiểu điều gì về truyền thống văn hóa Việt Nam?",
+        "Những số liệu thống kê trong bài viết cho thấy điều gì?"
+    ],
+    "options": [
+        [
+            "Thành phố Hồ Chí Minh.",
+            "Thanh Hóa.",
+            "Hòa Bình.",
+            "Hà Nội."
+        ],
+        [
+            "Cố đô của Việt Nam.",
+            "Là ngôi chùa có kiến trúc độc đáo ở Việt Nam.",
+            "Là một ngôi trường có từ lâu đời.",
+            "Trường đại học đầu tiên của Việt Nam."
+        ],
+        [
+            "Từ xa xưa, nước ta đã có trường học hiện đại.",
+            "Từ năm 1075, nước ta đã có rất nhiều tiến sĩ.",
+            "Từ năm 1075, nước ta đã mở khoa thi tiến sĩ.",
+            "Từ năm 1075, nước ta  đã có trường đại học."
+        ],
+        [
+            "Tổ chức được 185 khoa thi, lấy đỗ gần 3000 tiến sĩ.",
+            "Tổ chức gần 82 khoa thi, lấy đỗ 1306 tiến sĩ.",
+            "Tổ chức được gần 185 khoa thi, lấy đỗ được 1075 tiến sĩ.",
+            "Tổ chức gần 3000 khoa thi, lấy đỗ gần 185 tiến sĩ."
+        ],
+        [
+            "82 tấm bia.",
+            "182 tấm bia.",
+            "85 tấm bia.",
+            "185 tấm bia."
+        ],
+        [
+            "Nước ta có một nền văn hiến lâu đời.",
+            "Sự kì công của người xưa.",
+            "Một cách để vinh danh người tài giỏi.",
+            "Nước ta từ xưa đã có nhiều tiến sĩ."
+        ],
+        [
+            "Truyền thống giúp đỡ, tương trợ lẫn nhau.",
+            "Truyền thống văn hóa lâu đời và tốt đẹp.",
+            "Truyền thống thờ Khổng Tử từ xưa.",
+            "Truyền thống học đại học từ xưa."
+        ],
+        [
+            "Việt Nam có nhiều địa danh nổi tiếng.",
+            "Việt Nam rất coi trọng nhân cách của con người.",
+            "Việt Nam có nền văn hiến lâu đời, coi trọng giáo dục.",
+            "Việt Nam còn gìn giữ được nhiều hiện vật cổ."
+        ],
+        [
+            "Nước ta đã trải qua rất nhiều triều vua.",
+            "Việt Nam giàu truyền thống văn hóa.",
+            "Nước ta có truyền thống khoa cử lâu đời.",
+            "Nước ta đào tạo được rất nhiều tiến sĩ."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "C",
+        "A",
+        "A",
+        "A",
+        "B",
+        "C",
+        "C"
+    ]
+}

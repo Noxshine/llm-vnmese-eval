@@ -1,0 +1,49 @@
+{
+    "article": "Tết Trung thu đã đến. Mẹ Tâm rất bận nhưng vẫn sắm cho Tâm một mâm cỗ nhỏ: một quả bưởi có khía thành tám cánh hoa, mỗi cánh hoa cài một quả ổi chín, để bên cạnh một nải chuối ngự và bó mía tím. Tâm rất thích mâm cỗ. Em đem mấy thứ đồ chơi bày xung quanh, nom rất vui mắt.\n\nChiều rồi đêm xuống. Trẻ con bên hàng xóm bập bùng trống ếch rước đèn. Lúc đó, Tâm lại thấy không thích mâm cỗ của mình bằng đám rước đèn. Tâm bỏ mâm cỗ chạy đi xem. Tâm thích nhất cái đèn ông sao của bạn Hà bên hàng xóm. Cái đèn làm bằng giấy bóng kính đỏ, trong suốt, ngôi sao được gắn vào giữa vòng tròn có những tua giấy đủ màu sắc. Trên đỉnh ngôi sao cắm ba lá cờ con. Tâm thích cái đèn quá, cứ đi bên cạnh Hà, mắt không rời cái đèn. Hà cũng biết là bạn thích nên thỉnh thoảng lại đưa cho Tâm cầm một lúc. Có lúc cả hai cùng cầm chung cái đèn, reo: \"Tùng tùng tùng, dinh dinh!...\"",
+    "questions": [
+        "Đêm rằm Trung thu diễn ra vào tháng mấy?",
+        "Mâm cỗ Trung thu của Tâm được người nào chuẩn bị giúp?",
+        "Tâm bày tỏ niềm yêu thích của mình đối với mâm cỗ ấy ra sao?",
+        "Khi màn đêm buông xuống, đám trẻ con trong xóm có hoạt động gì?",
+        "Khi đám trẻ trong xóm lùng bùng trống ếch, Tâm có niềm yêu thích nào?"
+    ],
+    "options": [
+        [
+            "Tháng 8 Âm lịch.",
+            "Tháng 6 Âm lịch.",
+            "Tháng 7 Âm lịch.",
+            "Tháng 9 Âm lịch."
+        ],
+        [
+            "Chị.",
+            "Mẹ.",
+            "Bà.",
+            "Bố."
+        ],
+        [
+            "Em thích thú đem đội mâm cỗ lên đầu, đi lòng vòng khắp nhà.",
+            "Em hớn hở chạy đi khoe bố và bà ngoại.",
+            "Em đem mấy thứ đồ chơi bày xung quanh, nom rất vui mắt.",
+            "Em hồi hộp chờ đến đêm rằm để được phá cỗ."
+        ],
+        [
+            "Phá cỗ.",
+            "Cầu nguyện.",
+            "Rước đèn.",
+            "Hát hò."
+        ],
+        [
+            "Rước đèn.",
+            "Bày mâm cỗ.",
+            "Phá cỗ.",
+            "Chơi trò chơi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "C",
+        "A"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "article": "Loài gà cũng biết nói đấy, các em ạ!\n\nTừ khi gà con còn nằm trong vỏ trứng, gà mẹ đã nói chuyện với chúng bằng cách gõ mỏ lên vỏ trứng, còn chúng thì phát tín hiệu nũng nịu đáp lời mẹ. Khi gà mẹ thong thả dắt bầy con đi kiếm mồi, miệng kêu đều đều \"cúc ... cúc ... cúc\", thế có nghĩa là: \"Không có gì nguy hiểm. Các con kiếm mồi đi!\" Gà mẹ vừa bới vừa kêu nhanh \"cúc, cúc, cúc\", tức là nó gọi: \"Lại đây mau các con, mồi ngon lắm!\" Gà mẹ mà xù lông, miệng kêu liên tục, gấp gáp \"roóc, roóc\", gà con phải hiểu: \"Tai họa! Nấp mau!\" Đàn con đang xôn xao lập tức chui hết vào cánh mẹ, nằm im. Tới lúc mẹ lại \"cúc ... cúc ... cúc\" đều đều, chúng mới hớn hở chui ra.",
+    "questions": [
+        "Loài gà có khả năng đặc biệt gì giống người?",
+        "Khi còn trong vỏ trứng, gà mẹ và gà con tâm sự với nhau bằng cách nào?",
+        "Khi gà mẹ vừa đi thong thả vừa kêu \"cúc, cúc, cúc\" là có nghĩa gì?",
+        "Khi gà mẹ vừa bới vừa kêu nhanh: \"cúc, cúc, cúc\" là có nghĩa gì?",
+        "Khi gà mẹ xù lông, miệng kêu liên tục gấp gáp \"roóc roóc\", có ý nghĩa là gì?",
+        "Gà con sẽ làm gì khi nghe gà mẹ kêu \"roóc roóc\"?",
+        "Gà mẹ và gà con giao tiếp với nhau bằng cách nào?",
+        "Ý nghĩa của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Biết yêu.",
+            "Biết nói.",
+            "Biết viết.",
+            "Biết làm toán."
+        ],
+        [
+            "Gà mẹ gõ mỏ lên vỏ trứng.",
+            "Gà mẹ gọi điện cho gà con.",
+            "Gà mẹ đạp nhẹ vào quả trứng.",
+            "Gà mẹ kêu cục cục."
+        ],
+        [
+            "Không có gì nguy hiểm. Các con kiếm mồi đi.",
+            "Tai họa, nấp mau.",
+            "Lại đây các con, mồi ngon lắm.",
+            "Chào mừng con đến với thế giới."
+        ],
+        [
+            "Chào mừng con đến với thế giới.",
+            "Lại đây các con, mồi ngon lắm.",
+            "Không có gì nguy hiểm.",
+            "Tai họa, nấp mau."
+        ],
+        [
+            "Lại đây mau các con, mồi ngon lắm!.",
+            "Chào mừng con đến với thế giới!.",
+            "Không có gì nguy hiểm. Các con kiếm mồi đi!.",
+            "Tai họa! Nấp mau!."
+        ],
+        [
+            "Lập tức chui vào cánh mẹ, nằm im.",
+            "Xôn xao đi tìm mồi.",
+            "Phát tín hiệu nũng nịu đáp lời mẹ.",
+            "Chui ngay vào ổ."
+        ],
+        [
+            "Tiếng kêu (cục cục, roóc roóc).",
+            "Biểu hiện (thong thả, xù lông).",
+            "Tiếng kêu và biểu hiện.",
+            "Qua ngôn ngữ hình thể."
+        ],
+        [
+            "Chỉ có gà mẹ mới yêu thương và chăm sóc gà con chu đáo.",
+            "Mỗi loài động vật đều có ngôn ngữ và cách biểu hiện tình cảm riêng.",
+            "Gà mẹ và gà con giao tiếp với nhau bằng ngôn ngữ rất đặc biệt.",
+            "Mỗi loài động vật đều biết đẻ con và nuôi con."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B"
+    ]
+}

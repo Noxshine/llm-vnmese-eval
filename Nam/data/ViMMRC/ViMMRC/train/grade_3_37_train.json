@@ -1,0 +1,49 @@
+{
+    "article": "Một buổi học, bạn Lan đến lớp mặc chiếc áo rách. Mấy bạn xúm đến trêu chọc. Lan đỏ mặt rồi ngồi khóc.\n\nHôm sau, Lan không đến lớp. Buổi chiều, cả tổ đến thăm Lan. Mẹ Lan đi chợ xa bán bánh vẫn chưa về. Lan đang ngồi cắt những tàu lá chuối để tối mẹ về gói bánh. Các bạn hiểu hoàn cảnh gia đình Lan, hối hận vì sự trêu đùa vô ý hôm trước. Cô giáo và cả lớp mua một tấm áo mới tặng Lan. Cô đến thăm, ngồi gói bánh và trò chuyện cùng mẹ Lan, rồi giảng bài cho Lan.\n\nLan cảm động về tình cảm của cô giáo và các bạn đối với mình. Sáng hôm sau, Lan lại cùng các bạn tới trường.",
+    "questions": [
+        "Vì sao các bạn trêu chọc Lan?",
+        "Khi các bạn đến thăm Lan thì thấy bạn Lan đang làm gì?",
+        "Khi đã hiểu hoàn cảnh gia đình Lan, cô và các bạn đã làm gì?",
+        "Câu chuyện trên khuyên em điều gì?",
+        "Tại sao các bạn hối hận?"
+    ],
+    "options": [
+        [
+            "Vì Lan bị điểm kém.",
+            "Vì Lan mặc áo rách đi học.",
+            "Vì Lan không chơi với các bạn.",
+            "Vì Lan thường xuyên trang điểm."
+        ],
+        [
+            "Lan giúp mẹ cắt lá để gói bánh.",
+            "Lan đang học bài.",
+            "Lan đi chơi bên hàng xóm.",
+            "Lan đang tập viết chính tả."
+        ],
+        [
+            "Mua bánh giúp gia đình Lan.",
+            "Hàng ngày đến nhà giúp Lan cắt lá để gói bánh.",
+            "Góp tiền mua tặng Lan một tấm áo mới.",
+            "Góp sách cho Lan đến trường."
+        ],
+        [
+            "Cần đoàn kết giúp đỡ bạn bè, nhất là những bạn có hoàn cảnh khó khăn.",
+            "Thấy bạn mặc áo rách không nên chê cười.",
+            "Cần giúp đỡ bạn bè làm việc nhà.",
+            "Phải biết chăm sóc bản thân."
+        ],
+        [
+            "Vì ăn quá nhiều.",
+            "Vì sự trêu đùa vô ý của ngày hôm trước.",
+            "Vì nói quá nhiều.",
+            "Vì không giúp được bạn."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "A",
+        "B"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Con ong làm mật, yêu hoa\nCon cá bơi, yêu nước; con chim ca, yêu trời\nCon người muốn sống, con ơi\nPhải yêu đồng chí, yêu người anh em.\nMột ngôi sao, chẳng sáng đêm\nMột thân lúa chín, chẳng nên mùa vàng.\nMột người - đâu phải nhân gian?\nSống chăng, một đốm lửa tàn mà thôi!\nNúi cao bởi có đất bồi\nNúi chê đất thấp, núi ngồi ở đâu?\nMuôn dòng sông đổ biển sâu\nBiển chê sông nhỏ, biển đâu nước còn?",
+    "questions": [
+        "Tại sao con ong yêu hoa, con cá yêu nước, con chim yêu bầu trời?",
+        "Tại sao núi không chê đất thấp?",
+        "Tại sao biển không chê sông nhỏ?",
+        "Hai câu thơ  \"Con người muốn sống con ơi / Phải yêu đồng chí, yêu người anh em.\" đưa ra lời khuyên gì?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Vì đó đều là nguồn sống, môi trường sống của chúng.",
+            "Vì đó đều là những thứ chúng làm ra, tạo ra.",
+            "Vì đó đều là những chúng được dạy.",
+            "Vì đó đều là những thức ăn ngon lành mà chúng yêu thích."
+        ],
+        [
+            "Vì đất là nền của biển, núi muốn cao phải có biển.",
+            "Vì núi và đất là bạn thân của nhau.",
+            "Vì đất là nền của núi, núi muốn cao thì phải có nền.",
+            "Vì núi sợ đất buồn, tủi thân."
+        ],
+        [
+            "Vì biển một ngày già nua sẽ nhỏ như sông.",
+            "Vì sau này sông sẽ lớn dần thành biển.",
+            "Vì mọi dòng sông đều chảy về biển, làm cho nước biển tràn đầy.",
+            "Vì biển và sông cùng do thần sinh ra, cùng chung một mẹ."
+        ],
+        [
+            "Câu thơ khuyên ta phải biết sống kỉ luật như người đồng chí.",
+            "Câu thơ khuyên ta lớn lên phải trở thành đồng chí.",
+            "Câu thơ khuyên ta phải biết yêu thương mọi người xung quanh.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Con vật và con người đều phải sống và yêu thương nhau.",
+            "Con người phải biết làm mật yêu hoa như con ong.",
+            "Con người phải biết nhớ về cội nguồn, tổ tiên của mình.",
+            "Con người phải biết sống giữa cộng đồng và yêu thương lẫn nhau."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "C",
+        "D"
+    ]
+}

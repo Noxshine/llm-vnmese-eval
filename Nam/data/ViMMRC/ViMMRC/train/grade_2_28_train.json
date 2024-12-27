@@ -1,0 +1,65 @@
+{
+    "article": "Nghỉ hè với bố\nBé ra biển chơi\nTưởng rằng biển nhỏ\nMà to bằng trời.\n\nNhư con sông lớn\nChỉ có một bờ\nBãi giằng với sóng\nChơi trò kéo co.\n\nPhì phò như bễ \nBiển mệt thở rung\nCòng giơ gọng vó\nĐịnh khiêng sóng lừng.\n\nNghìn con sóng khỏe\nLon ta lon ton\nBiển to lớn thế\nVẫn là trẻ con.",
+    "questions": [
+        "Biển được ví to bằng cái gì?",
+        "Bé cùng bố đi đâu vào mùa hè?",
+        "Nội dung của bài thơ miêu tả về cái gì?",
+        "Bé đi chơi cùng ai vào mùa hè?",
+        "Biển được so sánh cái gì chỉ có một bờ?",
+        "Từ \"sóng lừng\" có nghĩa là gì?",
+        "Sóng lớn nhưng tính cách của sóng được xem như là gì?"
+    ],
+    "options": [
+        [
+            "Trời.",
+            "Bể.",
+            "Sông.",
+            "Núi."
+        ],
+        [
+            "Đi đền chùa.",
+            "Đi lên rừng.",
+            "Đi leo núi.",
+            "Đi biển chơi."
+        ],
+        [
+            "Miêu tả vẻ đẹp của biển.",
+            "Miêu tả cảnh đẹp núi non.",
+            "Miêu tả vẻ đẹp của mùa hè.",
+            "Miêu tả vẻ đẹp của mùa xuân."
+        ],
+        [
+            "Mẹ.",
+            "Ông.",
+            "Bà.",
+            "Cha."
+        ],
+        [
+            "Đất.",
+            "Sông.",
+            "Hồ.",
+            "Trời."
+        ],
+        [
+            "Sóng nổi tiếng ai cũng biết.",
+            "Sóng nhỏ, gợn lăn tăn lăn tăn.",
+            "Sóng lớn ở ngoài khơi xa.",
+            "Sóng thơm lừng."
+        ],
+        [
+            "Rất thân thiện.",
+            "Rất sôi nổi.",
+            "Vẫn trẻ con.",
+            "Đã già dặn."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "B",
+        "C",
+        "C"
+    ]
+}

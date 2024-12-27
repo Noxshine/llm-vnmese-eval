@@ -1,0 +1,49 @@
+{
+    "article": "Tôi và Anh vào Cung Thiếu nhi\nGặp các em\nVà xem tranh vẽ\nThành phố Hồ Chí Minh rất nhiều gương mặt trẻ\nTrẻ nhất là các em.\n\nPô-pốp bảo tôi:\n“Anh hãy nhìn xem:\nCó ở đâu đầu tôi đo được thế?\nAnh hãy nhìn xem!\nVà thế này thì “ghê gớm” thật:\nTrong đôi mắt chiếm nửa già khuôn mặt\nCác em tô lên một nửa số sao trời!”\nPô-pốp vừa xem vừa sung sướng mỉm cười\nNụ cười trẻ nhỏ\n\nNhững chú ngựa xanh lại nằm trên cỏ\nNhững chú ngựa hồng lại phi trong lửa\nQua tấm lòng các em\nCả thế giới quàng khăn đỏ\nCác anh hùng là những – đứa – trẻ - lớn – hơn.\n \nNgộ nghĩnh là các em\nSáng suốt là các em\nTôi lặng người sau lời Pô-pốp:\n“Nếu trên trái đất này, trẻ con biến mất\nThì bay hay bò\nCũng vô nghĩa như nhau”.",
+    "questions": [
+        "Hai nhân vật trong bài thơ gặp các em nhỏ ở không gian nào?",
+        "Đọc bài thơ trên và cho biết nhân vật \"tôi\" trong bài thơ là ai?",
+        "Trong bài thơ trên, dòng thơ nào được điệp lại hai lần để thể hiện cảm giác thích thú của vị khách về phòng tranh?",
+        "Vẽ ra cả thế giới quàng khăn đỏ và coi các anh hùng như những đứa trẻ lớn hơn thể hiện điều gì trong tâm hồn tác giả?",
+        "Ba dòng thơ cuối là lời của ai nói với ai?"
+    ],
+    "options": [
+        [
+            "Cung Thiếu nhi.",
+            "Cung Văn hóa.",
+            "Khu vui chơi trẻ em.",
+            "Công viên nước."
+        ],
+        [
+            "Người nghe.",
+            "Người tham gia vui chơi.",
+            "Người đọc.",
+            "Nhà thơ Đỗ Trung Lai."
+        ],
+        [
+            "Những chú ngựa xanh lại nằm trên cỏ.",
+            "Anh hãy nhìn xem.",
+            "Qua tấm lòng các em.",
+            "Những chú ngựa hồng lại phi trong lửa."
+        ],
+        [
+            "Khát vọng trẻ em được sống trong bình đẳng.",
+            "Mong ước trẻ em được sống trong tình yêu thương.",
+            "Mong ước người lớn muốn gần gũi, có tâm hồn, hồn nhiên như trẻ em.",
+            "Khát vọng trẻ em có quyền được hưởng hạnh phúc."
+        ],
+        [
+            "Lời anh hùng Pô-pốp nói với nhà thơ Đỗ Trung Lai.",
+            "Lời nhà thơ Đỗ Trung Quân nói với người đọc.",
+            "Lời nhà thơ Đỗ Rrung Lai nói về Hà Nội..",
+            "Lời nhà thơ Đỗ Trung Lai với anh hùng Pô-pốp."
+        ]
+    ],
+    "answers": [
+        "A",
+        "D",
+        "B",
+        "C",
+        "A"
+    ]
+}

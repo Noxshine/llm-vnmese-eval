@@ -1,0 +1,81 @@
+{
+    "article": "Ăng-co Vát là một công trình kiến trúc và điêu khắc tuyệt diệu của nhân dân Cam-pu-chia được xây dựng từ đầu thế kỉ XII.\n\nKhu đền chính gồm ba tầng với những ngọn tháp lớn. Muốn thăm hết khu đền chính phải đi qua ba tầng hành lang dài gần 1500 mét và vào thăm 398 gian phòng. Suốt cuộc dạo xem kì thú đó, du khách sẽ cảm thấy như lạc vào thế giới của nghệ thuật chạm khắc và kiến trúc cổ đại. Đây, những cây tháp lớn được dựng bằng đá ong và bọc ngoài bằng đá nhẵn. Đây, những bức tường buồng nhẵn bóng như mặt ghế đá, hoàn toàn được ghép bằng những tảng đá lớn đẽo gọt vuông vức và lựa ghép vào nhau kín khít như xây gạch vữa.\n\nToàn bộ khu đền quay về hướng tây. Lúc hoàng hôn, Ăng-co Vát thật huy hoàng. Mặt trời lặn, ánh sáng chiếu soi vào bóng tối cửa đền. Những ngọn tháp cao vút ở phía trên, lấp loáng giữa những chùm lá thốt nốt xòa tán tròn vượt lên hẳn những hàng muỗm già cổ kính. Ngôi đền cao với những thềm đá rêu phong, uy nghi kì lạ, càng cao càng thâm nghiêm dưới ánh trời vàng, khi đàn dơi bay tỏa ra từ các ngách.",
+    "questions": [
+        "Ăng-co Vát là công trình kiến trúc nổi tiếng của nước nào?",
+        "Khi nào Ăng-co Vát được xây dựng?",
+        "Khu đền chính của Ăng-co Vát đồ sộ như thế nào?",
+        "Khu đền chính có tất cả bao nhiêu gian phòng?",
+        "Nghệ thuật kiến trúc đền Ăng-co Vát có nét đặc trưng nổi bật nào?",
+        "Khu đền Ăng-co Vát được xây dựng bằng chất liệu gì?",
+        "Toàn bộ khu đền có hướng như thế nào?",
+        "Vẻ đẹp của Ăng-co Vát được mô tả như thế nào?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Lào.",
+            "Phi-líp-pin.",
+            "Cam-pu-chia.",
+            "Mi-an-ma."
+        ],
+        [
+            "Đầu thế kỉ X.",
+            "Đầu thế kỉ XIII.",
+            "Đầu thế kỉ XII.",
+            "Đầu thế kỉ XX."
+        ],
+        [
+            "Khu đền chính gồm ba tầng với những ngọn tháp lớn, hành lang dài gần 1500 mét và vào thăm 398 gian phòng.",
+            "Đây, những bức tường buồng nhẵn bóng như mặt ghế đá, hoàn toàn được ghép bằng những tảng đá lớn đẽo gọt vuông vức và lựa ghép vào nhau kín khít như xây gạch vữa..",
+            "Đây, những cây tháp lớn được dựng bằng đá ong và bọc ngoài bằng đá nhẵn.",
+            "Suốt cuộc dạo xem kì thú đó, du khách sẽ cảm thấy như lạc vào thế giới của nghệ thuật chạm khắc và kiến trúc cổ đại."
+        ],
+        [
+            "938 gian phòng.",
+            "398 gian phòng.",
+            "500 gian phòng.",
+            "500 gian phòng."
+        ],
+        [
+            "Là nghệ thuật chạm khắc.",
+            "Là nghệ thuật xây đắp.",
+            "Là nghệ thuật sơn mài.",
+            "Là nghệ thuật đồ gốm."
+        ],
+        [
+            "Xi-măng.",
+            "Gốm.",
+            "Đá.",
+            "Gỗ."
+        ],
+        [
+            "Hướng Nam.",
+            "Hướng Bắc.",
+            "Hướng Đông.",
+            "Hướng Tây."
+        ],
+        [
+            "Hiện đại.",
+            "Cổ kính.",
+            "Hoang tàn.",
+            "Sành điệu."
+        ],
+        [
+            "Ăng-co Vát được xây dựng khá lâu đời nên rất đổ nát, hoang tàn.",
+            "Ăng-co Vát là biểu tượng văn hóa nghệ thuật của người Cam-pu-chia.",
+            "Ăng-co Vát là công trình kiến trúc nổi tiếng của Cam-pu-chia và là một kì quan thế giới.",
+            "Ăng-co Vát là địa điểm thu hút khách du lịch của Cam-pu-chia."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "A",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "C"
+    ]
+}

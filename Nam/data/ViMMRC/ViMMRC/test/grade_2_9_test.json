@@ -1,0 +1,89 @@
+{
+    "article": "Mai giúp mẹ treo tranh Tết, chợt nghe tiếng bác đưa thư:\n\n- Nhà 58 có thư nhé!\n\nCầm phong thư trên tay, Mai ngạc nhiên:\n\n- Mẹ ơi, nhà mình có ai tên là Tường không nhỉ?\n\nMẹ dừng tay:\n\n- Nhà chỉ có ba người, làm gì có ai tên Tường nữa!\n\n- Nhưng đúng là thư gửi cho nhà mình mà.\n\nMẹ cầm phong thư xem rồi bảo:\n\n- Có lẽ người gửi đã ghi nhầm số nhà. Con đừng bóc thư, để trả lại bưu điện. À, hay là con đi hỏi bác Nga xem bác có biết ai là Tường không, chuyển giúp cho họ.\n\nCầm lá thư đi, Mai thầm mong bác tổ trưởng biết ông Tường để lá thư này không phải vòng về Hải Phòng xa xôi nữa.",
+    "questions": [
+        "Trong lúc Mai đang giúp mẹ treo tranh Tết thì xảy ra điều gì?",
+        "Vì sao Mai ngạc nhiên khi nhận lá thư từ bác đưa thư?",
+        "Mai đã quyết định làm gì khi nhận được lá thư?",
+        "Mai đã cầm lá thư và hỏi mẹ về điều gì?",
+        "Sau khi xem thư, mẹ của Mai đã đưa ra kết luận gì?",
+        "Tại sao mẹ bảo Mai đừng mở thư của ông Tường?",
+        "Cuối cùng, mẹ bảo Mai xử lý bức thư này như thế nào?",
+        "Mai mong là điều gì với bức thư?",
+        "Khi nhận được lá thư nhầm địa chỉ, chúng ta cần làm gì?",
+        "Thông tin gì cần thiết phải ghi trên bìa thư?"
+    ],
+    "options": [
+        [
+            "Có người tới thăm và tặng Mai một cành đào.",
+            "Bác đưa thư tới và đưa cho Mai một bức thư.",
+            "Bác đưa thư tới nhờ Mai nhận hộ thư cho bác hàng xóm.",
+            "Bác đưa thư cho một một gói quà."
+        ],
+        [
+            "Vì Mai không nghĩ sẽ có ai gửi mình.",
+            "Vì lá thư gửi cho người tên Tường.",
+            "Vì lá thư không đề tên người gửi.",
+            "Vì lá thư không có thư."
+        ],
+        [
+            "Vứt lá thư đi.",
+            "Chạy đi hỏi mẹ.",
+            "Trả lại bác đưa thư.",
+            "Bóc lá thư ra đọc."
+        ],
+        [
+            "Mẹ ơi, lá thư này có phải gửi cho mẹ không?.",
+            "Mẹ ơi, có một lá thư gửi cho nhà mình này.",
+            "Mẹ ơi, mẹ có biết ai tên là Tường không?.",
+            "Mẹ ơi, nhà mình có ai tên là Tường không nhỉ?."
+        ],
+        [
+            "Lá thư là của người hàng xóm.",
+            "Đây là lá thư gửi cho bác của Mai.",
+            "Đây đúng là thư gửi cho nhà mình.",
+            "Lá thư đã ghi nhầm địa chỉ."
+        ],
+        [
+            "Để trả lại bưu điện.",
+            "Để đưa cho bác hàng xóm.",
+            "Để bố về mở sau.",
+            "Để trong phòng Mai."
+        ],
+        [
+            "Hỏi bác tổ trưởng xem có biết ai tên là Tường không.",
+            "Nhờ bác Tổ trưởng đọc hộ lá thư của ông Tường.",
+            "Hỏi bác tổ trưởng xem có nên đọc bức thư không.",
+            "Chuyển bức thư ngay tới bưu điện."
+        ],
+        [
+            "Bác Nga biết ông Tường để Mai khỏi phải mang ra trả lại bưu điện.",
+            "Bác Nga biết ông Tường để lá thư không phải trở về Hải Phòng.",
+            "Bác Nga không biết ông Tường để Mai được đọc bức thư.",
+            "Bức thư này có người nhận ngay."
+        ],
+        [
+            "Không làm gì cả và bỏ bức thư đi.",
+            "Để bức thư ở nhà và chờ có người đến nhận.",
+            "Mở bức thư ra đọc, biết nội dung để trả người nhận.",
+            "Trả lại bưu điện để họ gửi trả người gửi (hoặc tìm người nhận)."
+        ],
+        [
+            "Ghi đặc điểm của người nhận để thư được gửi đến đúng người.",
+            "Ghi địa chỉ chung chung để thư có thể đi khắp mọi nơi.",
+            "Ghi chính xác địa chỉ người gửi và nhận để tránh thất lạc thư.",
+            "Chỉ cần ghi nội dung thư."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "D",
+        "D",
+        "A",
+        "A",
+        "B",
+        "D",
+        "C"
+    ]
+}

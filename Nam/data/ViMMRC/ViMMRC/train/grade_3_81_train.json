@@ -1,0 +1,73 @@
+{
+    "article": "1. Có lần, cô giáo ra cho chúng tôi một đề văn ở lớp: \"Em đã làm gì để giúp đỡ mẹ?\"\n\nTôi loay hoay mất một lúc, rồi cầm bút và bắt đầu viết: \"Em đã nhiều lần giúp đỡ mẹ. Em quét nhà và rửa bát đĩa. Đôi khi, em giặt khăn mùi soa\".\n\n2. Đến đây, tôi bỗng thấy bí. Quả thật, ở nhà, mẹ thường làm mọi việc. Thỉnh thoảng, mẹ bận, định bảo tôi giúp việc này việc kia nhưng thấy tôi đang học, mẹ lại thôi.\n\nTôi nhìn sang Liu-xi-a, thấy bạn ấy đang viết lia lịa. Thế là tôi bỗng nhớ có lần tôi giặt bít tất của mình, bèn viết thêm: \"Em còn giặt bít tất.\"\n\n3. Nhung chẳng lẽ, lại nộp một bài văn ngắn ngủn như thế này? Tôi nhìn xung quanh, mọi người vẫn viết. Lạ thật, các bạn viết gì mà nhiều thế? Tôi cố nghĩ, rồi viết tiếp: \"Em giặt cả áo lót, áo sơ mi và quần.\" Cuối cùng, tôi kết thúc bài văn của mình: \"Em muốn giúp mẹ nhiều việc hơn để mẹ đỡ vất vả.\"\n\n4. Mấy hôm sau, sáng chủ nhật, mẹ bảo tôi:\n\n- Cô-li-a này! Hôm nay con giặt áo sơ mi và quần áo lót đi nhé!\n\nTôi tròn xoe mắt. Nhưng rồi tôi vui vẻ nhận lời, vì đó là việc làm mà tôi đã nói trong bài tập làm văn.",
+    "questions": [
+        "Cô giáo cho cả lớp đề văn gì?",
+        "Nhân vật tôi đã viết bài văn ra sao?",
+        "Tại sao Cô-li-a thấy khó viết bài tập làm văn?",
+        "Tại sao Cô-li-a rất ít khi giúp đỡ mẹ việc nhà?",
+        "Thấy học sinh mình viết nhiều, Cô-li-a làm cách gì để viết dài ra?",
+        "Ban đầu, tại sao Cô-li-a lại ngạc nhiên khi thấy mẹ bảo đi giặt quần áo?",
+        "Tại sao sau đó, Cô-li-a vui vẻ làm theo lời mẹ?",
+        "Bài học qua câu chuyện này là gì?"
+    ],
+    "options": [
+        [
+            "Em có hay giúp đỡ mẹ không?",
+            "Em hãy kể lại những việc đã làm đỡ mẹ?",
+            "Em đã làm gì để giúp đỡ mẹ?",
+            "Em đã giúp mẹ những việc gì?"
+        ],
+        [
+            "Viết một mạch không ngừng nghỉ.",
+            "Nghĩ trong giây lát rồi tập trung viết.",
+            "Nhìn các bạn viết và tự hỏi các bạn viết gì mà dài thế.",
+            "Loay hoay, mãi mới cầm bút viết."
+        ],
+        [
+            "Vì Cô-li-a rất ít khi giúp đỡ mẹ.",
+            "Vì Cô-li-a không bao giờ giúp đỡ mẹ.",
+            "Vì Cô-li-a mải nhìn Liu-xi-a viết bài.",
+            "Vì Cô-li-a bị hỏng bút viết."
+        ],
+        [
+            "Vì mẹ của Cô-li-a muốn tự mình làm mọi việc.",
+            "Vì mẹ thấy Cô-li-a đang học nên không nhờ nữa.",
+            "Vì Cô-li-a mải rong chơi với các bạn trong xóm.",
+            "Vì Cô-li-a là đứa trẻ lười biếng, ham chơi."
+        ],
+        [
+            "Cô-li-a tưởng tượng ra những việc mà bạn ấy sẽ làm để giúp đỡ mẹ.",
+            "Cô-li-a bịa thêm ra những việc mà mới chỉ nhìn thấy mẹ bạn ấy làm.",
+            "Cô-li-a cố nghĩ ra những việc bạn ấy ít hoặc chưa từng làm.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Vì mẹ chưa bao giờ bảo Cô-li-a làm việc gì và đây cũng là việc bạn chưa từng làm.",
+            "Vì đây là việc mà Cô-li-a chưa từng làm bao giờ.",
+            "Vì mẹ chưa bao giờ bảo Cô-li-a phải làm việc gì cả.",
+            "Vì mẹ bảo Cô-li-a làm việc vào sáng chủ nhật."
+        ],
+        [
+            "Vì đó cũng là điều mà Cô-li-a đã viết trong bài tập làm văn.",
+            "Vì đó là điều mà Cô-li-a từng muốn làm.",
+            "Vì đó là điều mà Cô-li-a đã kể cho các bạn nghe ở trên lớp.",
+            "Vì đó là điều mà mẹ của Cô-li-a muốn bạn ấy làm."
+        ],
+        [
+            "Phải biết giúp đỡ mẹ khi rảnh rỗi.",
+            "Phải biết làm việc nhà và viết văn.",
+            "Lời nói phải đi đôi với việc làm.",
+            "Phải nghe lời mẹ khi mẹ bảo."
+        ]
+    ],
+    "answers": [
+        "C",
+        "D",
+        "A",
+        "B",
+        "C",
+        "A",
+        "A",
+        "C"
+    ]
+}

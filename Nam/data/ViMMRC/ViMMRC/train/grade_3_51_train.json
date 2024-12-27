@@ -1,0 +1,49 @@
+{
+    "article": "Thi hào người Nga Pu-skin giỏi ứng tác thơ từ thuở nhỏ. Có lần, trong giờ văn ở trường, thầy giáo bảo một học sinh làm thơ tả cảnh mặt trời mọc. Anh bạn này nghĩ mãi mới ra một câu:\n\nMặt trời mới mọc ở đằng tây...\n\nCả lớp cười ồ lên vì câu thơ vô lí quá. Ai chẳng biết đằng tây là phía mặt trời lặn.\n\nThầy giáo bảo Pu-skin tìm cách chữa cho bạn. Pu-skin liền đứng dậy đọc tiếp:\n\n...Thiên hạ ngạc nhiên chuyện lạ này\n\nNgơ ngác nhìn nhau và tự hỏi:\n\n\"Thức dậy hay là ngủ nữa đây?\"\n\nThế là tránh được điều vô lí, mà bốn câu lại hợp thành một bài thơ ngộ nghĩnh. Sau đó ít lâu, bài thơ được đăng trên báo Người đưa tin châu Âu với đề Gửi bạn làm thơ. Bạn bè trong lớp vô cùng hãnh diện về nhà thơ của lớp mình.",
+    "questions": [
+        "Ai là người được thầy bảo tìm cách chữa bài thơ lỗi của bạn trong bài đọc này?",
+        "Câu thơ của người bạn Pu-skin có gì không hợp lý?",
+        "Sự thật trong câu thơ của người bạn Pu-skin là gì?",
+        "Cách hành xử của Pu-skin cho thấy ông là người như thế nào?",
+        "Pu-skin là nhà thơ nổi tiếng của quốc gia nào?"
+    ],
+    "options": [
+        [
+            "Pu-skin.",
+            "Bạn Pu-skin.",
+            "Thầy giáo.",
+            "Cô giáo và bạn học."
+        ],
+        [
+            "Câu thơ có nội dung chưa được kiểm chứng.",
+            "Câu thơ nêu ra sự thật quá đỗi hiển nhiên.",
+            "Câu thơ có nội dung trái sự thật đã trở thành chân lí.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Mặt trời mọc ở đằng đông.",
+            "Mặt trời mọc ở đằng tây.",
+            "Mặt trời mọc ở đằng nam.",
+            "Mặt trời mọc ở đằng bắc."
+        ],
+        [
+            "Ông là người nhạy cảm và rất dễ rung động.",
+            "Ông là người nhanh trí và là một nhà thơ tài năng.",
+            "Ông là người học rất giỏi và được thầy bạn yêu mến.",
+            "Ông là người có hiểu biết rộng và tốt bụng."
+        ],
+        [
+            "Nga.",
+            "Mỹ.",
+            "Nhật.",
+            "Thái."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

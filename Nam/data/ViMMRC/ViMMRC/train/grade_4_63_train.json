@@ -1,0 +1,73 @@
+{
+    "article": "Một cậu bé xuất hiện ở cửa hàng bán chó và hỏi người chủ cửa hàng: “Giá mỗi con chó là bao nhiêu vậy bác?”\n\nNgười chủ cửa hàng trả lời: “Khoảng từ 30 tới 50 đô la một con.”\n\nCậu bé rụt rè nói: “Cháu có thể xem chúng được không ạ?”\n\nNgười chủ cửa hàng mỉm cười rồi huýt sáo ra hiệu. Từ trong chiếc cũi, năm chú chó con bé xíu như năm cuộn len chạy ra, duy chỉ có một chú bị tụt lại phía sau khá xa. Ngay lập tức, cậu bé chú ý tới chú chó chậm chạp, hơi khập khiễng đó. Cậu liền hỏi: “Con chó này bị sao vậy bác?”\n\nÔng chủ giải thích rằng nó bị tật ở khớp hông và nó sẽ bị khập khiễng suốt đời. Nghe thế, cậu bé tỏ ra xúc động: “Đó chính là con chó cháu muốn mua.”\n\nChủ cửa hàng nói: “Nếu cháu thực sự thích con chó đó, ta sẽ tặng cho cháu. Nhưng ta biết cháu sẽ không muốn mua nó đâu.”\n\nGương mặt cậu bé thoáng buồn, cậu nhìn thẳng vào mắt ông chủ cửa hàng và nói: “Cháu không muốn bác tặng nó cho cháu đâu. Con chó đó cũng có giá trị như những con chó khác mà. Cháu sẽ trả bác đúng giá. Thực ra ngay bây giờ cháu chỉ có thể trả bác 2 đô la 37 xu thôi. Sau đó, mỗi tháng cháu sẽ trả dần bác 50 xu được không ạ?”\n\n- Bác bảo thật nhé, cháu không nên mau con chó đó! – Người chủ cửa hàng khuyên. – Nó không bao giờ có thể chạy nhảy và chơi đùa như những con chó khác được đâu.\n\nÔng vừa dứt lời, cậu bé liền cúi xuống vén ống quần lên, để lộ ra cái chân trái tật nguyền, cong vẹo được đỡ bằng một thanh kim loại. Cậu ngước nhìn ông chủ cửa hàng và khẽ bảo: “Chính cháu cũng chẳng chạy nhảy được mà, và chú chó con này sẽ cần một ai đó hiểu và chơi với nó.”",
+    "questions": [
+        "Cậu bé khách hàng chú ý đến con chó nào?",
+        "Vì sao cậu bé không muốn người bán hàng tặng con chó đó cho cậu?",
+        "Tại sao cậu lại mua con chó bị tật ở chân?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Bác bảo cháu không nên mua con gì?",
+        "Bộ phận nào của cậu bé thoáng buồn?",
+        "Những con vật có giá trị như thế nào với nhau?",
+        "Trong bài, một xu đáng giá bao nhiêu?"
+    ],
+    "options": [
+        [
+            "Chú chó con lông trắng muốt.",
+            "Chú chó con bé xíu như cuộn len.",
+            "Chú chó con chậm chạp, hơi khập khiễng.",
+            "Chú chó con bé xíu và dễ thương."
+        ],
+        [
+            "Vì con chói đó bị tật ở chân.",
+            "Vì cậu cho rằng con chó đó cũng có giá trị ngang bằng những con chó mạnh khỏe khác trong cửa hàng.",
+            "Vì cậu không muốn mang ơn người bán hàng.",
+            "Vì cậu muốn mang ơn một ai đó."
+        ],
+        [
+            "Vì cậu thấy thương hại con chó đó.",
+            "Vì con chó đó rẻ tiền nhất.",
+            "Vì con chó đó có hoàn cảnh giống như cậu, nên có thể chia sẻ được với nhau.",
+            "Vì con chó đắt tiền nhất."
+        ],
+        [
+            "Hãy yêu thương những người khuyết tật.",
+            "Hãy đối xử bình đẳng với người khuyết tật.",
+            "Hãy chia sẻ và đồng cảm với người khuyết tật.",
+            "Hãy yêu thương những người xung quanh."
+        ],
+        [
+            "Con gà.",
+            "Con mèo.",
+            "Con chó.",
+            "Con heo."
+        ],
+        [
+            "Ngực.",
+            "Gương mặt cậu bé.",
+            "Thân hình.",
+            "Bàn tay."
+        ],
+        [
+            "Có giá trị ngang nhau.",
+            "Không có giá trị.",
+            "Tuỳ vào giá trị của từng con.",
+            "Con vật có tiềm năng khác nhau."
+        ],
+        [
+            "18 xu.",
+            "18.5 xu.",
+            "19 xu.",
+            "20 xu."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "C",
+        "C",
+        "B",
+        "A",
+        "B"
+    ]
+}

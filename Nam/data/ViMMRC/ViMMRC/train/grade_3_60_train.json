@@ -1,0 +1,89 @@
+{
+    "article": "Giữa cánh đồng, có một túp lều bằng phên rạ màu vàng xỉn, xung quanh xếp đầy những hàng gạch mới đóng. Đó là túp lều của gia đình bác thợ đóng gạch.\n\nTôi rất thích ra lò gạch chơi trò ú tim với thằng Cu và cái Cún, con bác. Một chiều giáp Tết, gạch vào lò, sắp nhóm lửa, thằng Cu rủ tôi nặn những chiếc chuông con to hơn quả táo, có cái núm để xâu dây, lại thêm cả một viên bi nhỏ ở trong để tạo ra tiếng kêu. Bác thợ gạch để hộ cái kho báu đó vào một góc lò nung. Khi các đồ đất nung đã nguội, bác lấy hai sợi dây thép xâu những chiếc chuông thành hai cái vòng: một vòng treo trước cửa nhà bác cho Cu và Cún chơi, vòng kia tặng tôi đem về treo lên cây nêu trước sân.\n\nTết ấy, những tiếng chuông đất nung kêu lanh canh trên cây nêu làm sân nhà tôi ấm áp và náp nức hẳn lên.",
+    "questions": [
+        "Gia đình bác thợ gạch ở nơi nào?",
+        "Nơi ở của gia đình bác thợ gạch có đặc điểm gì?",
+        "Tên những đứa con của bác thợ đóng gạch là gì?",
+        "Nhân vật tôi đã thích chơi trò gì với con của bác thợ đóng gạch?",
+        "Trò ú tim có cái tên khác là gì?",
+        "Nhân vật tôi đã cùng thằng Cu, cái Cún làm việc gì vào những ngày chiều cận Tết?",
+        "Cậu bé thích thú đem chiếc chuông gió về nhà treo ở nơi nào?",
+        "Cây nêu là gì?",
+        "Những chiếc chuông gió đã đem lại niềm vui gì đến cho gia đình cậu bé?",
+        "Đâu không phải là nội dung của bài đọc này?"
+    ],
+    "options": [
+        [
+            "Ở ngay cạnh đình làng.",
+            "Ở trên núi cao.",
+            "Ở giữa cánh đồng.",
+            "Ở trên phố huyện."
+        ],
+        [
+            "Ở giữa cánh đồng, xung quanh xếp đầy những hàng gạch mới đóng.",
+            "Là một căn nhà mái ngói cổ kính có hàng hoa ti-gôn đẹp dịu dàng.",
+            "Nơi có những tòa nhà cao tầng, phố xá đông đúc, tấp nập.",
+            "Ở trên triền đồi thoai thoải, phía bên kia là rừng cây rậm rạp, ngút ngàn."
+        ],
+        [
+            "Nhân vật tôi và cái Cún.",
+            "Nhân vật tôi và thằng Cu.",
+            "Thằng cu, cái Cún và tôi.",
+            "Thằng Cu và cái Cún."
+        ],
+        [
+            "Trò ô ăn quan.",
+            "Trò ú tim.",
+            "Trò bắn bi.",
+            "Trò đuổi bắt."
+        ],
+        [
+            "Trò kéo mo cau.",
+            "Trò bịt mắt bắt dê.",
+            "Trò chơi trốn tìm.",
+            "Trò bắn bi."
+        ],
+        [
+            "Cùng nặn và nung những viên gạch đỏ.",
+            "Cùng phụ giúp bác thợ đóng gạch làm việc.",
+            "Cùng chơi trò ú tim cạnh lò gạch.",
+            "Cùng nặn và nung những chiếc chuông gió."
+        ],
+        [
+            "Treo trước cửa sổ.",
+            "Treo ở đầu nhà.",
+            "Treo trên sân thượng.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Là cây chuối non có những búp xanh mềm mại.",
+            "Là cây có lá xanh, bóng, dùng để gói bánh chưng trong dịp Tết.",
+            "Là cây tre cao, treo trầu cau và một số vật dụng khác trong dịp Tết.",
+            "Là câu cau cao, thường trồng trước sân nhà để làm cảnh."
+        ],
+        [
+            "Làm cho sân vườn nhà cậu thêm cổ kính, xao động.",
+            "Làm cho sân nhà cậu ấm áp và náo nức hẳn lên.",
+            "Làm cho cậu thấy phấn khởi và ngày tết tưng bừng hẳn lên.",
+            "Làm cho mọi người trong nhà đều trầm trồ thán phục."
+        ],
+        [
+            "Tình cảm thắm thiết gắn bó của cậu bé với gia đình bác thợ đóng gạch.",
+            "Không khí ngày Tết trên quê hương của cậu bé và gia đình bác thợ gạch.",
+            "Món quà giản dị là chiếc chuông gió làm gia đình bác thợ gạch náo nức và ấm áp hẳn lên.",
+            "Cậu bé cùng con của bác thợ gạch nặn và nung những chiếc chuông gió."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "D",
+        "A",
+        "C",
+        "B",
+        "B"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Ngoài giờ học, chúng tôi tha thẩn bên bờ sông bắt bướm. Chao ôi, những con bướm đủ hình dáng, đủ màu sắc. Con xanh biếc pha đen như nhung bay nhanh loang loáng. Con vàng sẫm, nhiều hình mặt nguyệt, ven cánh có răng cưa, lượn lờ như trôi trong nắng. Con bướm quạ to bằng hai bàn tay người lớn, màu nâu xỉn, có hình đôi mắt tròn, vẻ dữ tợn. Bướm trắng bay theo đàn líu ríu như hoa nắng. Loại bướm nhỏ đen kịt, là là theo chiều gió, hệt như tàn than của những đám đốt nương. Còn lũ bướm vàng tươi xinh của những vườn rau thì rụt rè, nhút nhát, chẳng bao giờ dám bay ra đến bờ sông. Chúng cứ quấn quýt quanh màu vàng hoa cải và quanh những con đông tây xanh mọng nằm chờ đến lượt mình hóa bướm vàng.",
+    "questions": [
+        "Tác giả đi bắt bướm ở đâu?",
+        "Tác giả so sánh đàn bướm trắng giống như gì?",
+        "Nội dung của bài này là gì?",
+        "Có thể thay từ “mặt nguyệt” trong câu: “Con vàng sẫm, nhiều hình mặt nguyệt, ven cánh có răng cưa, lượn lờ như trôi trong nắng.” Bằng từ nào dưới đây?",
+        "Con gì to bằng hai bàn tay người lớn, màu nâu xỉn, có hình đôi mắt tròn, vẻ dữ tợn?",
+        "Con bướm quạ được mô tả như thế nào?",
+        "Chúng tôi tha thẩn bên bờ sông để làm gì?"
+    ],
+    "options": [
+        [
+            "Trên bờ đê.",
+            "Trong vườn rau.",
+            "Bên bờ sông.",
+            "Trên cánh đồng."
+        ],
+        [
+            "Hoa nắng.",
+            "Tàn than.",
+            "Mặt nguyệt.",
+            "Mặt trời."
+        ],
+        [
+            "Tả cảnh bắt bướm của tác giả.",
+            "Tả những con bướm đủ hình dáng, đủ màu sắc.",
+            "Tả cảnh đẹp bên bờ sông.",
+            "Tả cảnh thiên nhiên quanh bờ sông."
+        ],
+        [
+            "Mặt nạ.",
+            "Mặt trời.",
+            "Mặt trăng.",
+            "Ngôi sao."
+        ],
+        [
+            "Bướm quạ.",
+            "Đôi mắt.",
+            "Dữ tợn.",
+            "Con người."
+        ],
+        [
+            "Bướm trắng bay theo đàn líu ríu như hoa nắng.",
+            "Con bướm quạ to bằng hai bàn tay người lớn, màu nâu xỉn, có hình đôi mắt tròn, vẻ dữ tợn.",
+            "Còn lũ bướm vàng tươi xinh của những vườn rau thì rụt rè, nhút nhát, chẳng bao giờ dám bay ra đến bờ sông.",
+            "Con bướm đẹp tuyệt vời."
+        ],
+        [
+            "Hái hoa.",
+            "Bắt bướm.",
+            "Tìm những bông hoa xinh đẹp.",
+            "Vui đùa cùng nhau."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "B"
+    ]
+}

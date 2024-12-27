@@ -1,0 +1,57 @@
+{
+    "article": "1. Tháng ba, có giấy trên tỉnh kêu anh Núp đi dự Đại hội thi đua. Núp nói với anh Thế:\n\n- Nên để bok Pa đi. Bok kể được nhiều việc hơn tôi.\n\nAnh Thế cười:\n\n- Không, tỉnh kêu anh đi đấy. Đi để học mà.\n\n2. Núp đi Đại hội về giữa lúc Pháp càn quét lớn. Ban ngày, anh chỉ huy đánh giặc, ban đêm kể chuyện Đại hội cho cả làng nghe. Lũ làng ngồi vây quanh anh. Ông sao Rua mọc lên giữa lòng suối như một chùm hạt ngọc. Tay Núp cầm quai súng chặt hơn. Anh nói với lũ làng: Đất nước mình bây giờ mạnh hung rồi. Người Kinh, người Thượng, con gái, con trai, người già, người trẻ đoàn kết đánh giặc, làm rẫy giỏi lắm. Ở Đại hội, Núp cũng lên kể chuyện làng Kông Hoa. Nghe xong, nhiều người chạy lên, đặt Núp trên vai, công kênh đi khắp nhà, mừng không biết bao nhiêu. Cán bộ nói:\n\n- Pháp đánh một trăm năm cũng không thắng nổi đồng chí Núp và làng Kông Hoa đâu!\n\nLũ làng nghe tới đó vui quá, đứng hết dậy:\n\n- Đúng đấy! Đúng đấy!\n\n3. Núp mở những thứ Đại hội tặng cho mọi người coi: một cái ảnh Bok Hồ vác cuốc đi làm rẫy, một bộ quần áo bằng lụa của Bok Hồ, một cây cờ có thêu chữ, một huân chương cho cả làng, một huân chương cho Núp. \n\nLũ làng đi rửa tay thật sạch rồi cầm lên từng thứ, coi đi, coi lại, coi đến mãi nửa đêm.",
+    "questions": [
+        "Anh Núp được tỉnh cử đi làm gì?",
+        "Ở Đại hội về, anh Núp kể cho dân làng nghe những gì?",
+        "Khi anh Núp kể về làng Kông Hoa, đại hội cảm thấy như thế nào?",
+        "Đại hội tặng dân làng Kông Hoa gồm những gì?",
+        "Thái độ của dân làng Kông Hoa đối với những món quà mà Đại hội tặng như thế nào?",
+        "Thái độ trân trọng, vui mừng của dân làng Kông Hoa đối với món quà mà Đại hội tặng được thể hiện qua chi tiết nào?"
+    ],
+    "options": [
+        [
+            "Đi dự thi hội làng.",
+            "Đi bầu cử chính quyền.",
+            "Đi dự lễ thành lập Đảng.",
+            "Đi dự Đại hội thi đua."
+        ],
+        [
+            "Tình hình kháng chiến toàn quốc.",
+            "Những vị anh hùng dân tộc.",
+            "Những chiến công của Núp.",
+            "Sự giàu đẹp của quê hương."
+        ],
+        [
+            "Đại hội rất thích nghe anh Núp kể chuyện.",
+            "Đại hội rất khâm phục dân làng Kông Hoa.",
+            "Đại hội không tin những chuyện anh Núp kể.",
+            "Đại hội giao nhiệm vụ cho dân làng Kông Hoa đánh Pháp."
+        ],
+        [
+            "Một cây cờ có thêu chữ.",
+            "Một cái ảnh Bok Hồ vác cuốc đi làm rẫy, một bộ quần áo bằng lụa của Bok Hồ.",
+            "Một ảnh Bác, một bộ quần áo của Bác, một cây cờ và huân chương cho Núp và dân làng.",
+            "Một huân chương cho cả làng, một huân chương cho Núp."
+        ],
+        [
+            "Trân trọng, vui mừng khôn xiết.",
+            "Lạ lẫm, tròn mắt ngạc nhiên.",
+            "Coi thường, không buồn xem.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Lũ làng nghe tới đó mừng quá, đứng hết dậy: \"Đúng đấy! Đúng đấy!\".",
+            "Lũ làng ngồi vây quanh anh, anh kể chuyện Đại hội cho cả làng nghe.",
+            "Rửa tay thật sạch rồi coi đi coi lại từng thứ tới tận nửa đêm.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C"
+    ]
+}

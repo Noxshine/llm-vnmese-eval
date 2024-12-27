@@ -1,0 +1,49 @@
+{
+    "article": "Trăng cuối tháng vàng và nhọn như một chiếc ngà non đã ló ra khỏi đỉnh núi. Trời đầy sao. Gió lộng trên những ngọn cây cao nhưng trong rừng thì hoàn toàn yên tĩnh. Hoa lá, quả chín, những vạt nấm ẩm ướt và con suối chảy dưới chân đua nhau toả mùi thơm. Những đốm sáng lân tinh trên gỗ và trên lá mục lấp lánh.",
+    "questions": [
+        "Đoạn văn trên tả cảnh gì?",
+        "Những sự vật nào trong đoạn văn trên được so sánh?",
+        "Trăng cuối tháng được miêu tả như thế nào?",
+        "Những đốm sáng lân tinh trên gỗ và trên lá mục như thế nào?",
+        "Bầu trời như thế nào?"
+    ],
+    "options": [
+        [
+            "Vẻ đẹp kì ảo của trăng lúc mới lên.",
+            "Vẻ đẹp sinh động của rừng ban đêm.",
+            "Hương thơm kì diệu của rừng.",
+            "Cảnh trăng hội đêm rằm."
+        ],
+        [
+            "Chỉ có trăng được so sánh.",
+            "Chỉ có những đốm sáng lân tinh được so sánh.",
+            "Chỉ có bầu trời và ngọn gió được so sánh.",
+            "Chỉ có bầu trời."
+        ],
+        [
+            "Trăng lên cao vun vút.",
+            "Trăng đẹp nhưng không kì vĩ.",
+            "Vàng và nhọn như một chiếc ngà non đã ló ra khỏi đỉnh núi.",
+            "Sáng vằng vặt."
+        ],
+        [
+            "Lấp lánh.",
+            "Long lanh.",
+            "Đẹp.",
+            "Sang."
+        ],
+        [
+            "Đầy sao.",
+            "Đầy trăng.",
+            "Đầy mây.",
+            "Đầy gió."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

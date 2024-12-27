@@ -1,0 +1,57 @@
+{
+    "article": "Chim đại bàng chân vàng mỏ đỏ chao lượn, bóng che rợp mặt đất. Bầy thiên nga trắng muốt chen nhau bơi lộn. Những con chim cơ-púc mình đỏ chót và nhỏ như quả ớt, hót lanh lảnh như sáo. Chim piêu có bộ lông màu xanh lục. Chim vếch-ca mải mê rỉa bộ long vàng óng. Chim câu xanh, chim sa-tan nhẹ nhàng cất tiếng hót gọi đàn. Chim từ các nơi miền Trường Sơn bay về đây.",
+    "questions": [
+        "Tên những loại chim quý nào của rừng Tây Nguyên được tác giả nhắc đến trong bài đọc?",
+        "Chim đại bàng có đặc điểm gì?",
+        "Những con chim cơ-púc có đặc điểm gì?",
+        "Những loài chim của rừng Tây Nguyên từ đâu bay về?",
+        "Chim piêu có lông màu gì?",
+        "Hai loài chim nào hót ra tín hiệu gọi đàn?"
+    ],
+    "options": [
+        [
+            "Chim đại bàng, thiên nga, cơ-púc, họa mi, piêu, sáo sậu và sa-tan.",
+            "Chim đại bàng, thiên nga, cơ-púc, piêu, vếch-ca, câu xanh và sa-tan.",
+            "Chim đại bàng, thiên nga, cơ-púc, piêu, sáo sậu, sa-tan và khướu.",
+            "Đại bàng, sáo sậu và khướu."
+        ],
+        [
+            "Chân vàng mỏ đỏ.",
+            "Khi chao lượn, bóng che rợp mặt đất.",
+            "Chân vàng mỏ đỏ chao lượn, bóng che rợp mặt đất.",
+            "Chân đỏ, mỏ vàng, và bóng che phủ mặt đất."
+        ],
+        [
+            "Bộ lông màu vàng óng, hót lanh lảnh như tiếng sáo.",
+            "Mình đỏ chót và nhỏ như quả ớt, hót lanh lảnh như tiếng sáo.",
+            "Mình đỏ chót và nhỏ như quả ớt, tiếng hót nhẹ nhàng như gọi đàn.",
+            "Mình to và đỏ như quả ớt, hót như chim sáo ngày xưa."
+        ],
+        [
+            "Từ miền Bắc bay về.",
+            "Từ khu vực Trường Sơn bay về.",
+            "Từ miền Nam bay về.",
+            "Từ muôn nơi bay về."
+        ],
+        [
+            "Xanh lục.",
+            "Xanh hồng.",
+            "Xanh nước biển.",
+            "Xanh mơn mởn."
+        ],
+        [
+            "Chim sa-tan và chim câu xanh.",
+            "Chim đại bàng và chim câu xanh.",
+            "Chim câu xanh và chim cơ-púc.",
+            "Chim piêu và chim sa-tan."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "B",
+        "B",
+        "A",
+        "A"
+    ]
+}

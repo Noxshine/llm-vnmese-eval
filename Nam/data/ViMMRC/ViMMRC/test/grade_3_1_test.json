@@ -1,0 +1,49 @@
+{
+    "article": "Cây đa nghìn năm đã gắn liền với thời thơ ấu của chúng tôi. Nói đúng hơn, đó là cả một tòa cổ kính hơn là cả một thân cây. Chín, mười đứa bé chúng tôi bắt tay nhau ôm không xuể. Cành cây lớn hơn cột đình. Đỉnh chót vót giữa trời xanh, đến những con quạ đậu trên cao nhìn cũng chẳng rõ. Rễ cây nổi lên mặt đất thành những hình thù quái lạ, như những con rắn hổ mang giận dữ. Trong vòm lá, gió chiều gẩy lên những diệu nhạc li kí, có khi tưởng chừng như ai cười ai nói trong cành lá.\n\nChiều chiều, chúng tôi ra ngồi gốc đa hóng mát. Lúa vàng gợn sóng. Xa xa giữa cánh đồng, đàn trâu bắt đầu ra về, lững thững từng bước nặng nề, bóng sừng trâu dưới ánh chiều, kéo dài lan giữa ruộng đồng yên lặng.",
+    "questions": [
+        "Nghĩ về quê hương, tác giả nhớ đến hình ảnh nào?",
+        "Từ ngữ nào dưới đây tả thân cây đa?",
+        "Cây đa đã sống được bao nhiêu năm?",
+        "Buổi chiều ngồi dưới gốc đa, người ta sẽ thấy được những hình ảnh gì?",
+        "Cái gì được mô tả ví như những con rắn hổ mang giận dữ?"
+    ],
+    "options": [
+        [
+            "Cánh đồng.",
+            "Đàn trâu.",
+            "Cây đa.",
+            "Mái đình."
+        ],
+        [
+            "Rất to.",
+            "Ôm không xuể.",
+            "Lớn hơn cột đình.",
+            "Chót vót."
+        ],
+        [
+            "10 năm.",
+            "20 năm.",
+            "100 năm.",
+            "1000 năm."
+        ],
+        [
+            "Lúa vàng, cánh đồng, đàn trâu.",
+            "Con cò và cánh đồng.",
+            "Lúa vàng và đàn trâu.",
+            "Cây đa và bến nước."
+        ],
+        [
+            "Cành cây.",
+            "Thân cây.",
+            "Rễ cây.",
+            "Lá cây."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+    ]
+}

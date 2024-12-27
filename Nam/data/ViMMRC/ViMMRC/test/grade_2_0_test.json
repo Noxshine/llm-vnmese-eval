@@ -1,0 +1,49 @@
+{
+    "article": "Mỗi năm, đến Tết trung thu, Bác càng nhớ các cháu.\nCác cháu gửi thư cho Bác nhiều lắm, Bác rất vui. Nhưng vì Bác bận quá, không trả lời riêng cho từng cháu được. Nhân dịp Tết Trung thu, Bác gửi các cháu thư này:\n\nAi yêu các nhi đồng\nBằng Bác Hồ Chí Minh?\nTính các cháu ngoan ngoãn\nMặt các cháu xinh xinh.\nMong các cháu cố gắng\nThi đua học và hành.\nTuổi nhỏ làm việc nhỏ\nTùy theo sức của mình,\nĐể tham gia kháng chiến,\nĐể giữ gìn hòa bình.\nCác cháu hãy xứng đáng\nCháu Bác Hồ Chí Minh.\nHôn các cháu",
+    "questions": [
+        "Bức thư này là của ai viết cho ai?",
+        "Mỗi độ Tết Trung thu về, Bác Hồ nhớ tới ai?",
+        "Câu nào trong bức thư cho thấy Hồ Chủ tịch rất yêu thiếu nhi?",
+        "Bác Hồ mong các em thiếu nhi làm những gì?",
+        "Vì sao Bác Hồ không thể trả lời riêng cho từng cháu được?"
+    ],
+    "options": [
+        [
+            "Thư của Bác viết cho thiếu nhi.",
+            "Thư của Bác viết cho thiếu nhi.",
+            "Thư của Bác viết cho toàn thể nhân dân.",
+            "Thư của Bác Hồ viết cho toàn thể đồng bào."
+        ],
+        [
+            "Bác nhớ tới toàn thể người dân.",
+            "Bác nhớ tới quê hương.",
+            "Bác nhớ tới thiếu nhi.",
+            "Bác nhớ tới cha mẹ, gia đình."
+        ],
+        [
+            "Mong các cháu cố gắng Thi đua học và hành.",
+            "Ai yêu nhi đồng Bằng Bác Hồ Chí Minh.",
+            "Tuổi nhỏ làm việc nhỏ Tùy theo sức của mình.",
+            "Tính các cháu ngoan ngoãn Mặt các cháu xinh xinh."
+        ],
+        [
+            "Cố gắng trở thành chiến binh.",
+            "Cố gắng thi đua học và hành.",
+            "Phụ giúp cha mẹ, ông bà.",
+            "Thân ái, đoàn kết với bạn bè."
+        ],
+        [
+            "Vì Bác bận quá.",
+            "Vì Bác đi thăm đồng bào phương xa.",
+            "Vì Bác đang trong kì nghỉ.",
+            "Vì Bác đang đi đâu đó."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "B",
+        "B",
+        "A"
+    ]
+}

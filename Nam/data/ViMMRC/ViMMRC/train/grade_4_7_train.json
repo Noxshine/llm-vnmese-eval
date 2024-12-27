@@ -1,0 +1,57 @@
+{
+    "article": "50 000 bức tranh dự thi của thiếu nhi cả nước.\n\n60 tranh được trưng bày.\n\n46 giải thưởng.\n\nNhận thức và khả năng thẩm mĩ của các em rất đáng khích lệ.\n\nUNICEF Việt Nam và báo chí Thiếu niên Tiền phong vừa tổng kết cuộc thi vẽ tranh của thiếu nhi với chủ đề Em muốn sống an toàn.\n\nĐược phát động từ tháng 4 - 2001 nhằm nâng cao ý thức phòng tránh tai nạn cho trẻ em, cuộc thi đã nhận được sự hưởng ứng của đông đảo thiếu nhi cả nước. Chỉ trong vòng 4 tháng, Ban tổ chức cuộc thi đã nhận được 50 000 bức tranh gửi về từ Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng, Đà Nẵng, Sơn La, Hà Giang, Quảng Ninh, Hải Dương, Nghệ An, Đắk Lắk, Tây Ninh, Cần Thơ, Kiên Giang,...\n\nChỉ cần điểm qua tên một số tác phẩm cũng đủ thấy kiến thức của các em về an toàn, đặc biệt là an toàn giao thông, thật là phong phú: Đội mũ bảo hiểm là tốt nhất (Hoàng Minh Uyên, 10 tuổi, giải đặc biệt), Gia đình em được bảo vệ an toàn (Tạ Bích Ngọc, 9 tuổi, giải nhất), Trẻ em không nên đi xe đạp trên đường (Nguyễn Thúy Mai Dung, 7 tuổi, giải ba), Chở ba người là không được (Nguyễn Ngọc Lan Dung, 12 tuổi, giải ba),...\n\n60 bức tranh được chọn treo ở triển lãm (trong đó có 46 bức đoạt giải) đã làm nên một phòng tranh đẹp: màu sắc tươi tắn, bố cục rõ ràng, ý tưởng hồn nhiên, trong sáng mà sâu sắc. Các họa sĩ nhỏ tuổi chẳng những có những nhận thức đúng về phòng tránh tai nạn mà còn biết thể hiện bằng ngôn ngữ hội họa sáng tạo đến bất ngờ.",
+    "questions": [
+        "Cuộc thi vẽ với chủ đề là gì?",
+        "Tổ chức nào đã đánh giá và tổng kết kết quả cuộc thi vẽ này?",
+        "Có bao nhiêu bức tranh được trao giải thưởng?",
+        "Các em đã nhận thức tốt về chủ đề cuộc thi như thế nào?",
+        "Có bao nhiêu bức tranh được đem trưng bày trong triển lãm?",
+        "Các em thiếu nhi đã thể hiện nhận thức đúng đắn về phòng tránh tai nạn qua loại hình nghệ thuật nào?"
+    ],
+    "options": [
+        [
+            "An toàn là hạnh phúc của mọi nhà.",
+            "Em muốn sống hòa bình.",
+            "Chấp hành nghiêm chỉnh luật giao thông.",
+            "Em muốn sống an toàn."
+        ],
+        [
+            "Đội Thiếu niên Tiền phong.",
+            "UNICEF Việt Nam.",
+            "UNICEF thế giới.",
+            "WHO."
+        ],
+        [
+            "46 bức tranh.",
+            "60 bức tranh.",
+            "50 000 bức tranh.",
+            "50 bức tranh."
+        ],
+        [
+            "Ban tổ chức cuộc thi đã nhận được 50 000 bức tranh gửi về.",
+            "UNICEF Việt Nam và báo chí Thiếu niên Tiền phong vừa tổng kết cuộc thi vẽ tranh của thiếu nhi với chủ đề Em muốn sống an toàn.",
+            "46 giải thưởng.",
+            "Chỉ cần điểm qua tên một số tác phẩm cũng đủ thấy kiến thức của các em về an toàn, đặc biệt là an toàn giao thông, thật là phong phú."
+        ],
+        [
+            "46 bức tranh.",
+            "64 bức tranh.",
+            "60 bức tranh.",
+            "50 000 bức tranh."
+        ],
+        [
+            "Hội họa.",
+            "Âm nhạc.",
+            "Múa hát.",
+            "Thơ ca."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "A",
+        "D",
+        "C",
+        "A"
+    ]
+}

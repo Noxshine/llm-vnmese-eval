@@ -1,0 +1,65 @@
+{
+    "article": "1. Gà Rừng và Chồn là đôi bạn thân nhưng Chồn vẫn ngầm coi thường bạn. Một hôm, Chồn hỏi Gà Rừng:\n\n- Cậu có bao nhiêu trí khôn?\n\n- Mình chỉ có một thôi.\n\n- Ít thế sao? Mình thì có hàng trăm.\n\n2. Một buổi sáng, đôi bạn dạo chơi trên cánh đồng. Chợt thấy một người thợ săn, chúng cuống quýt nấp vào một cái hang. Nhưng người thợ săn đã thấy dấu chân chúng. Ông reo lên: \"Có mà trốn đằng trời!\" Nói rồi, ông lấy gậy thọc vào hang. \n\nGà Rừng thấy nguy quá, bảo Chồn:\n\n- Cậu có trăm trí khôn, nghĩ kế gì đi!\n\nChồn buồn bã:\n\n- Lúc này, trong đầu mình chẳng còn một trí khôn nào cả.\n\n3. Đắn đo một lúc, Gà Rừng nghĩ ra một mẹo, ghé tai Chồn:\n\n- Mình sẽ làm như thế, còn cậu cứ thế nhé!\n\nMọi chuyện xảy ra đúng như Gà Rừng đoán. Người thợ săn lôi Gà Rừng ra, thấy cứng đờ, tưởng Gà Rừng đã chết. Ông ta quẳng nó xuống đám cỏ, rồi thọc gậy vào hang bắt Chồn. Thình lình, Gà Rừng vùng chạy. Người thợ săn đuổi theo. Chỉ chờ thế, Chồn vọt ra, chạy biến vào rừng.\n\n4. Hôm sau, đôi bạn gặp lại nhau. Chồn bảo Gà Rừng:\n\n- Một trí khôn của cậu còn hơn cả trăm trí khôn của mình.",
+    "questions": [
+        "Chi tiết nào cho thấy Chồn thể hiện thái độ coi thường Gà Rừng?",
+        "Khi đang dạo trên chơi cánh đồng, lý do nào dẫn đến đôi bạn cuống quýt nấp vào hang?",
+        "Người thợ săn đã làm điều gì?",
+        "Gà Rừng đã làm gì để giúp cả hai thoát nạn?",
+        "Sau khi thoát khỏi thợ săn, thái độ của Chồn đối với Gà Rừng đã thay đổi ra sao?",
+        "Câu nói nào thể hiện sự thay đổi thái độ của Chồn đối với Gà Rừng?",
+        "Theo như câu chuyện này, giữa Gà Rừng và Chồn, con vật nào thông minh hơn?"
+    ],
+    "options": [
+        [
+            "Một trí khôn của cậu còn hơn cả trăm trí khôn của mình.",
+            "Ít thế sao? Mình thì có hàng trăm.",
+            "Lúc này, trong đầu mình chẳng còn một trí khôn nào cả.",
+            "Cậu có bao nhiêu trí khôn?."
+        ],
+        [
+            "Vì trời nổi cơn giông bão lớn.",
+            "Vì chúng bị gấu đuổi bắt.",
+            "Vì chúng gặp người thợ săn.",
+            "Vì chúng gặp hổ dữ ăn thịt."
+        ],
+        [
+            "Lấy gậy thọc vào hang.",
+            "Giương cung bắn Gà và Chồn.",
+            "Dùng lưới và bẫy để bắt chúng.",
+            "Bỏ đi vì chúng đã chui vào hang."
+        ],
+        [
+            "Giả chết để đánh lừa người thợ săn.",
+            "Dụ người thợ săn bắt Chồn để bỏ chốn.",
+            "Đào hang thật sâu, trốn thật kĩ.",
+            "Nhờ sự trợ giúp của chị Thỏ và bác Gấu."
+        ],
+        [
+            "Từ coi thường chuyển thành thương hại, đồng cảm.",
+            "Từ coi thường chuyển thành khinh bỉ, ghét bỏ.",
+            "Từ coi thường chuyển thành ngưỡng mộ, khâm phục.",
+            "Từ coi thường chuyển sang khinh thường hơn."
+        ],
+        [
+            "Một trí khôn của cậu còn hơn cả trăm trí khôn của mình.",
+            "Cậu có bao nhiêu trí khôn?.",
+            "Ít thế sao? Mình thì có hàng trăm.",
+            "Lúc này, trong đầu mình chẳng còn một trí khôn nào cả."
+        ],
+        [
+            "Gà Rừng.",
+            "Chồn.",
+            "Không thông minh như nhau.",
+            "Thông minh như nhau."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "A",
+        "C",
+        "A",
+        "A"
+    ]
+}

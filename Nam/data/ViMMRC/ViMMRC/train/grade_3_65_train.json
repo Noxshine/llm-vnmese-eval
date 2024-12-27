@@ -1,0 +1,49 @@
+{
+    "article": "Trên cành cây cao có một chiếc lá non bướng bỉnh đòi bay.\nTrời nổi dông bão ào ào, mặc cho anh chị níu kéo, nó quyết định thoát ra. Phựt, nó bị một cơn gió mạnh bứt lìa cành. Nó reo vui khi thấy mình bồng bềnh giữa không trung. Nhưng ngay lúc nó đang lâng lâng sung sướng, thì những hạt mưa ném tới tấp vào nó, khiến nó quay cuồng rồi rơi xuống dòng nước lũ. Một lát sau, nó bị rách tơi tả, vật vờ dạt vào bờ suối đầy bùn lầy. Nó bật khóc nức nở.\nNó chỉ muốn quay về với các anh chị ở trên cành cây cao nhưng không thể được nữa rồi.",
+    "questions": [
+        "Chiếc lá non muốn điều gì?",
+        "Sau khi bứt lìa cành, rơi xuống dòng nước, chiếc lá non như thế nào?",
+        "Cuối cùng, chiếc lá non mong muốn điều gì?",
+        "Nó reo vui được ví như gì?",
+        "Vì sao chiếc lá non bật khóc?"
+    ],
+    "options": [
+        [
+            "Đi chơi trong trời dông bão.",
+            "Bay khỏi cành.",
+            "Xuống bơi dưới dòng nước.",
+            "Bay lên bầu trời."
+        ],
+        [
+            "Nó bồng bềnh giữa không trung, bay mãi, bay mãi đến phương trời.",
+            "Lạnh buốt và tiếp tục trôi theo dòng nước lũ.",
+            "Rách tả tơi, dạt vào bờ suối đầy bùn.",
+            "Bị hư và dính đầy bùn."
+        ],
+        [
+            "Nó muốn quay về với các anh chị ở trên cành cao nhưng không được nữa.",
+            "Nó muốn trôi theo dòng nước để cuốn đi.",
+            "Nó muốn tiếp tục bồng bềnh giữa không trung.",
+            "Nó muốn quay về cội nguồn."
+        ],
+        [
+            "Nhẹ nhàng như chiếc lá mùa thu.",
+            "Vật vờ dạt vào bờ suối.",
+            "Bồng bềnh giữa không trung.",
+            "Nâng mình trên giữa con suối."
+        ],
+        [
+            "Bị rách và vật vờ dạt vào bờ suối đầy bùn.",
+            "Bị rơi khỏi cành cây.",
+            "Bị con sâu ăn.",
+            "Bị đứt một nửa."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "C",
+        "A"
+    ]
+}

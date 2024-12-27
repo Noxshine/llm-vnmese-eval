@@ -1,0 +1,65 @@
+{
+    "article": "Tuấn và Lân ra chơi muộn. Lúc đi ngang quan bàn Thanh, chợt thấy quyển sổ để trên bàn, Tuấn tò mò, toan cầm lên xem. Lân vội can:\n\n- Đừng! Sao lại xem sổ tay của bạn?\n\n   Vừa lúc ấy, Thanh bước vào. Nghe Lân nói, Thanh bảo:\n\n- Để mang ra sân cùng xem! Các bạn đang đố nhau về các nước, nhờ tớ làm trọng tài.\n\n   Cả ba cùng chạy ào ra sân. Quyển sổ được mở ra. Những dòng chữ nắn nót ghi nội dung họp, các việc cần làm, những chuyện lí thú...\n\n   Thanh lên tiếng:\n\n- Đây rồi! Mô-na-cô đúng là nước vào loại nhỏ nhất, diện tích chỉ dần bằng nửa Hồ Tây ở thủ đô Hà Nội. Nhưng Va-ti-căng còn nhỏ hơn: Quốc gia đặc biệt này rộng chưa bằng một phần năm Mô-na-cô. Nước lớn nhất là Nga, rộng hơn nước ta trên 50 lần.\n\n   Bốn, năm bạn cùng reo lên. Riêng Tùng chưa chịu thua:\n\n- Thế nước nào thì ít dân nhất?\n\n   Tất cả nhìn nhau rồi nhìn Tùng. Anh chàng vẻ rất tự tin:\n\n- Cũng là Va-ti-căng.\n\n- Đúng đấy! - Thanh giải thích - Va-ti-căng chỉ có khoảng 700 người. Còn nước đông dân nhất là Trung Quốc: hơn 1 tỉ 200 triệu.",
+    "questions": [
+        "Thanh sử dụng sổ tay để ghi chép những gì?",
+        "Tuấn đã định làm như thế nào với cuốn sổ tay của Thanh?",
+        "Người nào đã ngăn Tuấn không được xem cuốn sổ tay?",
+        "Quốc gia nào có diện tích nhỏ nhất và ít dân nhất thế giới?",
+        "Nước đông dân nhất thế giới là nước nào?",
+        "Quốc gia nào có diện tích lớn nhất thế giới?",
+        "Tại sao Lân khuyên Tuấn không nên tự ý xem sổ tay của bạn?"
+    ],
+    "options": [
+        [
+            "Nội dung họp, các việc cần làm, những chuyện lí thú...",
+            "Ghi điều riêng tư, cảm xúc và chuyện buồn của Thanh...",
+            "Những bài học trên lớp, bài tập về nhà,...",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Tuấn định cầm lên xem.",
+            "Tuấn định viết lên đó.",
+            "Tuấn định đánh cắp nó.",
+            "Tuấn định giấu nó đi."
+        ],
+        [
+            "Tùng.",
+            "Thanh.",
+            "Lân.",
+            "Lan."
+        ],
+        [
+            "Va-ti-căng.",
+            "Mô-na-cô.",
+            "Việt Nam.",
+            "Trung Quốc."
+        ],
+        [
+            "Việt Nam.",
+            "Trung Quốc.",
+            "Mô-na-cô.",
+            "Va-ti-căng."
+        ],
+        [
+            "Việt Nam.",
+            "Mô-na-cô.",
+            "Trung Quốc.",
+            "Nga."
+        ],
+        [
+            "Vì cuốn sổ đó chẳng có gì đáng xem.",
+            "Vì tự ý xem đồ là rất mất lịch sự.",
+            "Vì cuốn sổ đó có nội dung nguy hiểm.",
+            "Vì cuốn sổ đó nhìn rất xấu."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "C",
+        "A",
+        "B",
+        "D",
+        "B"
+    ]
+}

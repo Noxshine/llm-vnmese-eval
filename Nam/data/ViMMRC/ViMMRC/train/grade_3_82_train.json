@@ -1,0 +1,89 @@
+{
+    "article": "​Các em nhỏ và cụ già\n\n1. Mặt trời đã lùi dần về phía chân núi phía tây. Đàn sếu đang sải cánh trên cao. Sau một cuộc dạo chơi, đám trẻ ra về. Tiếng nói cười ríu rít.\n\n2. Bỗng các em dừng lại khi thấy một cụ già đang ngồi ở vệ cỏ ven đường. Trông cụ thật mệt mỏi, cặp mắt lộ rõ vẻ u sầu.\n\n- Chuyện gì xảy ra với ông cụ thế nhỉ? - Một em trai hỏi.\n\nĐám trẻ tiếp lời, bàn tán sôi nổi:\n\n- Chắc là cụ bị ốm?\n\n- Hay cụ đánh mất cái gì?\n\n- Chúng mình thử hỏi xem đi!\n\n3. Các em tới chỗ ông cụ, lễ phép hỏi:\n\n- Thưa cụ, chúng cháu có thể giúp gì cụ không ạ?\n\nCụ già thở nặng nhọc, nhưng đôi mắt ánh lên những tia ấm áp:\n\n- Cảm ơn các cháu. Nhưng các cháu không giúp gì ông được đâu.\n\n4. Cụ ngừng lại, rồi nghẹn ngào nói tiếp:\n\n- Ông đang rất buồn. Bà lão nhà ông nằm bệnh viện mất tháng nay rồi. Bà ốm nặng lắm, khó mà qua khỏi. Ông ngồi đây chờ xe buýt để đến bệnh viện. Ông cảm ơn lòng tốt của các cháu. Dẫu các cháu không giúp gì được, nhưng ông cũng thấy lòng nhẹ hơn.\n\n5. Đám trẻ lặng đi. Các em nhìn cụ già đầy thương cảm.\n\nMột lát sau, xe buýt đến. Giúp ông cụ lên xe rồi, các em còn đứng nhìn theo mãi rồi mới ra về.",
+    "questions": [
+        "Khi gặp người nào, các bạn nhỏ đã dừng lại?",
+        "Các em nhỏ đã gặp điều gì trên đường mà phải dừng lại?",
+        "Các bạn nhỏ rất quan tâm đến cụ già được thể hiện qua chi tiết nào?",
+        "Các em nhỏ đã nói điều gì với ông già?",
+        "Ông cụ đã gặp chuyện buồn gì?",
+        "Các em nhỏ có giúp được gì cho chuyện buồn của ông cụ không?",
+        "Tại sao trò chuyện với bạn nhỏ, ông cụ thấy lòng nhẹ hơn?",
+        "Hãy đặt một cái tên khác cho chuyện này?",
+        "Nội dung của câu chuyện này là gì?",
+        "Câu tục ngữ nào thể hiện cách ứng xử không tốt?"
+    ],
+    "options": [
+        [
+            "Em bé bị lạc.",
+            "Một con chim bị thương.",
+            "Người ăn xin.",
+            "Một cụ già."
+        ],
+        [
+            "Các bạn một bà cụ đang tìm người giúp mình qua đường.",
+            "Các bạn thấy cụ già ngồi ở vệ cỏ, khuôn mặt mệt mỏi với cặp mắt u sầu.",
+            "Các bạn thấy một con chim non bị rơi từ tổ xuống, bị gãy cánh.",
+            "Các bạn gặp một em bé bị lạc mẹ, em khóc lóc sợ sệt."
+        ],
+        [
+            "Các bạn nhìn thấy một cụ già đang ngồi ở vệ cỏ ven đường, trông mệt mỏi, u sầu.",
+            "Các bạn thảo luận nguyên nhân khiến cụ buồn và hỏi xem có thể giúp gì cho cụ.",
+            "Đám trẻ ra về sau một cuộc dạo chơi, cười nói ríu rít.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Cụ có chuyện gì mà trông buồn thế ạ?",
+            "Cụ bị ốm ạ? Trông cụ mệt mỏi quá.",
+            "Cụ vừa bị đánh mất thứ gì đó ạ?",
+            "Chúng cháu có thể giúp gì cho cụ không ạ?"
+        ],
+        [
+            "Đứa cháu ngoại vừa cãi lời dạy của ông.",
+            "Bà lão nhà ông đang nằm viện, khó mà qua khỏi.",
+            "Ông vừa đánh rơi mất chiếc ví trên xe buýt.",
+            "Ông đang bị ốm và phải nhập viện."
+        ],
+        [
+            "Các bạn cần đoàn kết thì mới giúp đỡ được ông cụ.",
+            "Không, nhưng khiến ông thấy lòng nhẹ hơn.",
+            "Các bạn có thể giúp đỡ cho chuyện buồn của ông.",
+            "Tất cả các đáp án trên."
+        ],
+        [
+            "Vì các bạn nhỏ rất ngoan ngoãn, lễ phép, trong sáng.",
+            "Vì các bạn nhỏ đã quan tâm, chia sẻ phần nào nỗi buồn cùng ông cụ.",
+            "Vì các bạn nhỏ học rất chăm chỉ, nghe lời thầy cô giáo.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Những đứa trẻ.",
+            "Bà lão bị ốm.",
+            "Những đứa trẻ tốt bụng.",
+            "Bà lão bị ốm."
+        ],
+        [
+            "Các bạn nhỏ biết lễ phép đều là những đứa trẻ ngoan.",
+            "Trẻ con cần phải ngoan ngoãn và lễ phép.",
+            "Sự quan tâm, chia sẻ có thể giúp con người xua tan muộn phiền, lo âu.",
+            "Mỗi người đều có những nỗi buồn, sự lo lắng riêng."
+        ],
+        [
+            "Lá lành đùm lá rách.",
+            "Cháy nhà hàng xóm, bình chân như vại.",
+            "Ăn quả nhớ kẻ trồng cây.",
+            "Uống nước nhớ nguồn."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "C",
+        "D",
+        "B",
+        "B",
+        "B",
+        "C",
+        "C",
+        "B"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "article": "1. Một hôm, Tôm Càng đang tập búng càng dưới đáy sông thì thấy một con vật lạ bơi đến. Con vật thân dẹt, trên đầu có hai mắt tròn xoe, khắp người phủ một lớp vẩy bạc óng ánh.\n\nThấy Tôm Càng ngó mình trân trân, con vật nói:\n\n- Chào bạn. Tôi là Cá Con.\n\n- Chào Cá Con. Bạn cũng ở sông này sao?\n\n- Chúng tôi cũng sống dưới nước như nhà tôm các bạn. Có loài cá ở sông ngòi, có loài ở hồ ao, có loài ở biển cả.\n\n2. Thấy đuôi Cá Con lượn nhẹ nhàng, Tôm Càng nắc nỏm khen. Cá Con khoe:\n\n- Đuôi tôi vừa là mái chèo, vừa là bánh lái đấy. Bạn xem này!\n\nNói rồi, Cá Con lao về phía trước, đuôi ngoắt sang trái. Vút cái, nó đã quẹo phải. Bơi một lát, Cá Con lại uốn đuôi sang phải. Thoắt cái, nó lại quẹo trái. Tôm Càng thấy vậy phục lăn.\n\n3. Cá Con sắp vọt lên thì Tôm Càng thấy một con cá to mắt đỏ ngầu, nhằm Cá Con lao tới. Tôm Càng vội búng càng, xô tới, xô bạn vào một ngách nhỏ. Cú xô làm Cá Con bị va vào vách đá. Mất mồi, con cá dữ tức tối bỏ đi.\n\n4. Tôm Càng xuýt xoa hỏi bạn có đau không. Cá Con cười:\n\n- Cảm ơn bạn. Toàn thân tôi phủ một lớp vẩy. Đó là bộ áo giáp bảo vệ nên tôi có va vào đá cũng không đau.\n\nCá con biết tài búng càng của Tôm Càng, rất nể trọng bạn. Cả hai từ đấy kết bạn cùng nhau.",
+    "questions": [
+        "Những con vật nào được kể trong câu chuyện?",
+        "Tôm càng gặp chuyện gì khi tập búng càng dưới lòng sông?",
+        "Đuôi Cá Con được miêu tả như thế nào?",
+        "Đuôi cá con có tác dụng gì?",
+        "Khi Cá Con đang trình diễn, Tôm Càng đã nhận ra điều gì?",
+        "Tôm Càng có điều gì đáng khen?"
+    ],
+    "options": [
+        [
+            "Cua và ốc.",
+            "Tôm và hến.",
+            "Cá và tôm.",
+            "Cá và nòng nọc."
+        ],
+        [
+            "Có lưỡi câu có chú giun béo mập.",
+            "Thấy có con vật lạ bơi đến.",
+            "Có cá dữ lao đến tấn công.",
+            "Có người bạn cũ tới thăm."
+        ],
+        [
+            "Lượn nhẹ nhàng.",
+            "Vẩy bạc óng ánh.",
+            "Tròn xoe.",
+            "Búng tanh tách."
+        ],
+        [
+            "Là lớp áo giáp bảo vệ.",
+            "Vừa là mái chèo vừa là bánh lái.",
+            "Làm đẹp cho cá.",
+            "Giúp cá giữ thăng bằng."
+        ],
+        [
+            "Có đàn nòng nọc nhỏ nhắn đang bơi qua.",
+            "Có chiếc lưới đang thả xuống nhằm vớt Cá Con.",
+            "Có con bạch tuộc đang trườn mình bò tới.",
+            "Có con cá to mắt đỏ ngầu nhằm Cá Con lao tới."
+        ],
+        [
+            "Tôm Càng khen và khâm phục vẻ đẹp của bạn.",
+            "Tôm Càng rất thích trổ tài cho Cá Con xem.",
+            "Tôm Càng đã dũng cảm liều mình cứu bạn.",
+            "Tôm Càng rất khỏe và có bộ áo giáp đẹp."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "A",
+        "B",
+        "D",
+        "C"
+    ]
+}

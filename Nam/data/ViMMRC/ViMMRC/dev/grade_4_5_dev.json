@@ -1,0 +1,65 @@
+{
+    "article": "Tương truyền vào thời vua Lê - chúa Trịnh có ông Trạng Quỳnh là người rất thông minh. Trạng thường dùng lối nói hài hước hoặc những cách độc đáo để châm biếm thói xấu của vua chúa, quan lại và bênh vực dân lành.\n\nMột hôm, Trạng túc trực trong phủ chúa. Chúa bảo:\n\n- Ta ăn đủ của ngon vật lạ trên đời mà vẫn không thấy ngon miệng. Ngươi có biết thứ gì ngon thì mách cho ta.\n\n   Trạng bẩm:\n\n- Chúa đã xơi \"mầm đá\" chưa ạ?\n\nNghe có món lạ, chúa bèn sai Trạng dâng lên. Trạng Quỳnh cho người đi lấy đá đem về ninh, còn mình thì về nhà kiếm một lọ tương thật ngon đem giấu trong phủ chúa. Lọ tương được bịt thật kĩ, ngoài đề hai chữ \"đại phong\".\n\nBữa ấy, chúa đợi món \"mầm đá\" đã quá bữa, thấy đói bụng bèn hỏi:\n\n- \"Mầm đá\" đã chín chưa?\n\nTrạng đáp:\n\n- Dạ, chưa ạ.\n\nChốc chốc, đói quá, chúa lại hỏi, Trạng lại tâu:\n\n- Thứ ấy phải ninh thật kĩ, không thì khó tiêu.\n\nĐã khuya, chúa lại hỏi. Trạng Quỳnh biết chúa đã đói lả, mới tâu:\n\n- Xin chúa hãy xơi tạm vài thứ dã vị này, còn \"mầm đá\" thần xin dâng sau.\n\nRồi Trạng truyền dọn cơm với tương lên. Chúa đang đói lên ăn rất ngon miệng. Thấy chiếc lọ đề hai chữ \"đại phong\", chúa lấy làm lạ, bèn hỏi:\n\n- Mắm \"đại phong\" là mắm gì mà ngon thế?\n\n- Bẩm, là tương ạ!\n\n- Vậy ngươi đề hai chữ \"đại phong\" là nghĩa làm sao?\n\n- Bẩm, \"đại phong\" là gió lớn. Gió lớn thì đổ chùa, đổ chùa thì tượng lo, tượng lo là lọ tương ạ.\n\nChúa bật cười:\n\n- Lâu nay ta không ăn, quên cả vị. Sao tương ngon thế?\n\n- Bẩm chúa, lúc đói, ăn cơm muối cũng ngon, no thì chẳng có gì vừa miệng đâu ạ.",
+    "questions": [
+        "Truyện được kể dưới thời đại nào?",
+        "Trạng Quỳnh là người như thế nào?",
+        "Người nào được xem là nổi tiếng thông minh và có tài châm biếm hài hước?",
+        "Khi chúa đã chán các món sơn hào hải vị, Trạng Quỳnh đã dâng cho chúa món ăn nào?",
+        "Cuối cùng chúa có được ăn món \"mầm đá\" được chúa thưởng thức như thế nào?",
+        "Tại sao chúa ăn sơn hào hải vị thì không thấy ngon mà ăn cơm với tương lại thấy ngon miệng?",
+        "Chúng ta có nhận xét gì về nhân vật Trạng Quỳnh?"
+    ],
+    "options": [
+        [
+            "Thời vua Lê - chúa Trịnh.",
+            "Triều đại Nguyễn Ánh.",
+            "Thời Hồ Quý Ly.",
+            "Thời nhà Nguyễn."
+        ],
+        [
+            "Rất thông minh.",
+            "Bình thường như bao người.",
+            "Chăm chỉ và siêng năng.",
+            "Làm việc chăm chỉ."
+        ],
+        [
+            "Trạng Bùng.",
+            "Trạng Lường.",
+            "Trạng Lợn.",
+            "Trạng Quỳnh."
+        ],
+        [
+            "Món \"rau luộc\".",
+            "Món \"cơm muối\".",
+            "Món \"mầm đá\".",
+            "Món \"cơm trắng\"."
+        ],
+        [
+            "Món ăn tuyệt ngon.",
+            "Không có thưởng thức.",
+            "Chúa thưởng thức hết món ăn này.",
+            "Không nhắc đến."
+        ],
+        [
+            "Vì chúa đã đói lả.",
+            "Vì món tương có tên rất hay, \"đại phong\".",
+            "Vì chúa đã ăn qua nhiều lần.",
+            "Vì chưa có người nấu ngon."
+        ],
+        [
+            "Trạng Quỳnh là người thông minh tài trí, thường dùng lối nói hài hước để châm biếm thói xấu của vua chúa và bệnh vực dân lành.",
+            "Trạng Quỳnh thường dùng lối nói hài hước để châm biếm thói xấu của vua chúa.",
+            "Trạng Quỳnh là một người ích kỷ, xấu tính.",
+            "Trạng Quỳnh là người độc tài."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "A"
+    ]
+}

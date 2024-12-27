@@ -1,0 +1,73 @@
+{
+    "article": "Ở phương nam nắng gió thừa thãi này, được chứng kiến những mầm đa còn non tơ, quả thật là giây phút hiếm hoi.\n\nBan sáng, lộc cây vừa mới nhú. Lá non còn cuộn tròn trong búp, chỉ hơi hé mở. Đến trưa lá đã xòe tung. Sáng hôm sau, lá đã xanh đậm lẫn vào màu xanh bình thường của các loài cây khác.\n\nTôi ngẩn ngơ nhìn vòm đa bên kia đường đang nảy lộc. Không có mưa bụi lất phất như rây bột. Không có một chút rét ngọt. Trời vẫn chang chang nắng. Những vòm lộc non đang đung đưa kia vẫn ru tôi nhè nhẹ trở lại quê nhà trong thoáng chốc. Lòng đường vẫn loang loáng bóng người, xe qua lại. Chẳng ai để ý đến vòm cây đang lặng lẽ chuyển mùa.\n\nNhưng kìa, một cô bé đang đạp xe đi tới. Cô ngước nhìn vòm cây, mỉm cười. Xe chầm chậm dừng lại. Vẫn ngồi trên yên xe, cô ngửa cổ nheo mắt nhìn lên vòm xanh. Có một đợt gió, cây rung cành, rủ xuống lả tả những vỏ búp màu hồng nhạt. Cô bé rụt cổ lại cười thích thú, cái cười không thành tiếng. Cô dang tay, cố tóm bắt những chiếc vỏ búp xinh xinh. Cứ thế, cô bé đứng dưới gốc đa một lát rồi chầm chậm đạp xe đi. Vừa đạp, cô bé vừa ngoái đầu lại như bịn rịn... Rồi bóng cô chìm dần giữa dòng người.\n\nLòng tôi vừa ấm lại trong phút chốc, chợt nao nao buồn.",
+    "questions": [
+        "Chi tiết nào cho thấy lộc cây phát triển rất nhanh?",
+        "Vì sao tác giả ngẩn ngơ nhìn vòm đa?",
+        "Vì sao tác giả lại cảm thấy “lòng tôi vừa ấm lại trong phút chốc” và “chợt nao nao buồn”?",
+        "Dòng nào dưới đây chỉ gồm từ láy?",
+        "Cái gì đang đung đưa kia vẫn ru tôi nhè nhẹ trở lại quê nhà trong thoáng chốc?",
+        "Ở phương nam nắng gió thừa thãi này, được chứng kiến điều gì?",
+        "Cô ngửa cổ để làm gì?",
+        "Cô ngửa cổ nheo mắt nhìn lên nhìn lên vòm xanh khi ngồi ở đâu?"
+    ],
+    "options": [
+        [
+            "Ở phương nam nắng gió thừa thãi này, được chứng kiến những mầm đa còn non tơ, quả thật là giây phút hiếm hoi.",
+            "Ban sáng, lộc cây vừa mới nhú; đến trưa, lá đã xòe tung và hôm sau, lá đã xanh đậm.",
+            "Những vòm lộc non đang đung đưa ru tôi nhè nhẹ trở lại quê nhà.",
+            "Ban đêm, lộc cây vừa mới nhú; đến trưa, lá đã xòe tung và hôm sau, lá đã xanh đậm."
+        ],
+        [
+            "Vì thấy lộc đa biến đổi nhanh quá.",
+            "Vì vòm lộc đa làm tác giả chạnh nhớ quê nhà ở miền Bắc.",
+            "Vì tác giả chưa bao giờ nhìn thấy vòm đa.",
+            "Vì thấy lộc đa biến đổi chậm quá."
+        ],
+        [
+            "Vì lộc non làm tác giả thấy lòng ấm áp nhưng nó trở thành chiếc lá quá nhanh.",
+            "Vì cô bé đạp xe đến rồi đi lẫn vào dòng người quá nhanh.",
+            "Vì đó là tâm trạng khi nghĩ về quê hương: quê hương có bao điều ấm áp nhưng xa quê, nhớ quê nên nao nao buồn.",
+            "Vì cô bé đi bộ đến rồi đi lẫn vào dòng người quá nhanh."
+        ],
+        [
+            "Vắng lặng, hiếm hoi, ngẩn ngơ, chang chang.",
+            "Lất phất, đung đưa, loang loáng, lặng lẽ.",
+            "Nhỏ nhẹ, chang chang, nhè nhẹ, bịn rịn.",
+            "Đung đưa, loang loáng, bịn rịn, tươi tốt."
+        ],
+        [
+            "Những vòm lộc non.",
+            "Những vòm lộc non đang đung đưa.",
+            "Những vòm lộc non đang đung đưa kia.",
+            "Những vòm lộc non đang đung đưa kia vẫn ru tôi nhè nhẹ."
+        ],
+        [
+            "Mầm non.",
+            "Sự sống.",
+            "Những mầm đa còn non tơ, quả thật là giây phút hiếm hoi.",
+            "Mần non và sự sống."
+        ],
+        [
+            "Cô ngửa cổ nheo mắt nhìn lên vòm xanh.",
+            "Lòng tôi vừa ấm lại trong phút chốc, chợt nao nao buồn.",
+            "Tôi biết trời vẫn chang chang nắng.",
+            "Ban sáng, lộc cây vừa mới nhú."
+        ],
+        [
+            "Ngồi dưới đất.",
+            "Ngồi trong nhà.",
+            "Ngồi ngoài trời.",
+            "Ngồi trên yên xe."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "C",
+        "C",
+        "C",
+        "C",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "article": "Trái đất này là của chúng mình\nQuả bóng xanh bay giữa trời xanh\nBồ câu ơi, tiếng chim gù thương mến\nHải âu ơi, cánh chim vờn sóng biển\nCùng bay nào, cho trái đất quay!\nCùng bay nào, cho trái đất quay!\n\nTrái đất trẻ của bạn trẻ năm châu\nVàng, trắng, đen ... dù da khác màu\nTa là nụ, là hoa của đất\nGió đẫm hương thơm, nắng tô thắm sắc\nMàu hoa nào cũng quý, cũng thơm!\nMàu hoa nào cũng quý, cũng thơm!\n\nKhói hình nấm là tai họa đấy\nBom H, bom A không phải bạn ta\nTiếng hát vui giữ bình yên trái đất\nTiếng cười ran cho trái đất không già\nHành tinh này là của chúng ta!\nHành tinh này là của chúng ta",
+    "questions": [
+        "Chủ đề của bài thơ là gì?",
+        "Hình ảnh trái đất có gì đẹp?",
+        "Ai là chủ sở hữu của \"trái đất trẻ\"?",
+        "\"Khói hình nấm\" trong câu \"Khói hình nấm là tai họa đấy\" mang nội dung gì?",
+        "Hai câu thơ \"Khói hình nấm là tai họa đấy Bom H, bom A không phải bạn ta\" nói lên nội dung là gì?",
+        "Điều gì giúp giữ sự bình yên cho trái đất và khiến trái đất không già?",
+        "Chúng ta phải làm gì để giữ bình yên cho trái đất?",
+        "Em hiểu hai câu thơ cuối gì về hai câu thơ : \"Màu hoa nào cũng quý, cũng thơm!  Màu hoa nào cũng quý, cũng thơm!\"?",
+        "Nội dung của bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Hương hoa.",
+            "Bóng bay.",
+            "Hòa bình.",
+            "Màu sắc."
+        ],
+        [
+            "Trái đất có nhiều màu da khác nhau.",
+            "Trái đất như quả bóng xanh bay giữa trời xanh, có tiếng chim gù thương mến, có cánh chim vờn sóng biển.",
+            "Trái đất như quả bóng xanh bay giữa trời xanh.",
+            "Trái đất có tiếng chim gù thương mến, có cánh chim vờn sóng biển."
+        ],
+        [
+            "Của người da trắng.",
+            "Của bạn trẻ năm châu.",
+            "Của người giàu có.",
+            "Của người trẻ tuổi."
+        ],
+        [
+            "Một hình dạng của khói.",
+            "Cột khói có hình nấm.",
+            "Một hiện tượng thời tiết.",
+            "Chiến tranh hạt nhân, bom nguyên tử."
+        ],
+        [
+            "Chỉ ra tên các loại bom trong chiến tranh.",
+            "Khẳng định chiến tranh là phi nghĩa, kẻ thù.",
+            "Chỉ ra cột khói là thảm họa bom nguyên tử.",
+            "Liệt kê các loại vũ khí trong chiến tranh."
+        ],
+        [
+            "Bom đạn chiến tranh.",
+            "Màu da khác biệt.",
+            "Tiếng hát, tiếng cười.",
+            "Cột khói hình nấm."
+        ],
+        [
+            "Chúng ta phải đoàn kết, không được phân biệt chủng tộc hay khác biệt màu da.",
+            "Chúng ta phải đoàn kết, chống chiến tranh, dùng tiếng hát, tiếng cười để giữ bình yên cho trái đất.",
+            "Chúng ta phải kiên quyết chống chiến tranh hạt nhân và sử dụng vũ lực chiến tranh.",
+            "Chúng ta phải duy trì và phát huy tiếng hát, tiếng cười để giữ bình yên cho trái đất."
+        ],
+        [
+            "Mỗi loài hoa đều có vẻ đẹp riêng như con người có nhiều màu da.",
+            "Mỗi loài hoa đều có vẻ đẹp riêng như mỗi màu da trên trái đất đều khác nhau.",
+            "Mỗi loài hoa đều có vẻ đẹp riêng, như mỗi màu da đều bình đẳng, đáng quý như nhau.",
+            "Mỗi loài hoa đều có vẻ đẹp riêng, loài nào cũng quý cũng thơm."
+        ],
+        [
+            "Ca ngợi vẻ đẹp của trái đất và khẳng định trên trái đất có nhiều màu da, nhiều loại hoa.",
+            "Ca ngợi vẻ đẹp của trái đất và đề cao sức mạnh của tiếng hát, tiếng cười hòa bình.",
+            "Ca ngợi vẻ đẹp của trái đất và kêu gọi mọi người cùng chung sống, giữ gìn hòa bình.",
+            "Ca ngợi vẻ đẹp của trái đất và nhắc tới thảm họa, sự tàn phá của chiến tranh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "B",
+        "D",
+        "B",
+        "C",
+        "B",
+        "C",
+        "C"
+    ]
+}

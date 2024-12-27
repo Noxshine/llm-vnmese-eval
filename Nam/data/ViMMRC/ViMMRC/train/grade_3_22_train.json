@@ -1,0 +1,73 @@
+{
+    "article": "Ở gần tổ của một chú sẻ non đang tập bay có một cây bằng lăng. Mùa hoa này, bằng lăng nở hoa mà không vui vì bé Thơ, bạn của cây, phải nằm viện. Sẻ non biết bằng lăng đã giữ lại một bông hoa cuối cùng để đợi bé Thơ. \n\nSáng hôm ấy, bé Thơ về, bông bằng lăng cuối cùng đã nở. Nhưng bông hoa lại nở cao hơn cửa sổ nên bé không nhìn thấy nó. Bé cứ ngỡ là mùa hoa đã qua.\n\nSẻ non rất yêu bằng lăng và bé Thơ. Nó muốn giúp bông hoa. Nó chắp cánh, bay vù về phía cành bằng lăng mảnh mai. Nó nhìn kĩ cành hoa rồi đáp xuống. Cành hoa chao qua, chao lại. Sẻ non cố đứng vững. Thế là bông hoa chúc hẳn xuống, lọt vào khuôn cửa sổ.\n\nLập tức, sẻ nghe thấy tiếng reo từ trong gian phòng tràn ngập ánh nắng:\n\n- Ôi, đẹp quá! Sao lại có bông bằng lăng nở muộn thế kia?",
+    "questions": [
+        "Bằng lăng để dành bông hoa cuối cùng cho người nào?",
+        "Chuyện gì đã xảy ra với bé Thơ?",
+        "Tại sao bé Thơ nghĩ mùa hoa đã qua?",
+        "Sẻ non yêu quý thứ gì và ai?",
+        "Sẻ non đã làm như thế nào để giúp đỡ hai bạn mình?",
+        "Bằng lăng và chim sẻ dành cho bé Thơ tình cảm gì?",
+        "Nội dung của câu chuyện này là gì?",
+        "Những nhân vật nào được nhắc đến trong câu chuyện này?"
+    ],
+    "options": [
+        [
+            "Cho chú sẻ non.",
+            "Cho bé Thơ.",
+            "Cho mùa hoa.",
+            "Cho bé nắng."
+        ],
+        [
+            "Bé Thơ phải về quê.",
+            "Bé Thơ bận đi du lịch.",
+            "Bé Thơ phải đi học.",
+            "Bé Thơ phải nằm viện."
+        ],
+        [
+            "Vì bông hoa cuối cùng của mùa hoa đã tàn, những cánh hoa héo rũ, rơi rụng.",
+            "Vì bông hoa cuối cùng nở cao hơn cửa sổ, bé không nhìn thấy nó.",
+            "Vì chim sẻ chuyền cành khiến bông bằng lăng cuối cùng đã rơi xuống.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Bằng lăng và bé Thơ.",
+            "Cây bằng lăng trong vườn.",
+            "Gia đình bé Thơ.",
+            "Bé Thơ và gia đình của bé."
+        ],
+        [
+            "Hót se sẻ để bé Thơ chú ý và nhìn ra ngoài cửa sổ.",
+            "Đáp xuống cửa sổ và cất tiếng gọi bé Thơ đến bên bậu cửa sổ.",
+            "Đậu trên cành hoa làm cho bông hoa chúc xuống để bé Thơ nhìn thấy.",
+            "Ngắt những cánh bằng lăng tha vào phòng cho bé Thơ."
+        ],
+        [
+            "Rất muốn bé chú ý.",
+            "Rất căm hận bé.",
+            "Rất quý mến bé.",
+            "Rất muốn được bé yêu thương."
+        ],
+        [
+            "Bé Thơ phải đi viện và chỉ có Chim Sẻ và bằng lăng làm bạn.",
+            "Bé Thơ phải đi viện và chỉ có chim sẻ và bằng lăng nhớ nhung, mong ngóng.",
+            "Tình cảm ngưỡng mộ mà bằng lăng và chim sẻ đã dành cho bé Thơ.",
+            "Tình cảm đẹp đẽ, cảm động mà bằng lăng và chim sẻ dành cho bé Thơ."
+        ],
+        [
+            "Bé Thơ và bông hoa bằng lăng.",
+            "Chú sẻ, bằng lăng và bé Thơ.",
+            "Bé Thơ và chú sẻ.",
+            "Chú sẻ và bằng lăng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "B",
+        "A",
+        "C",
+        "C",
+        "D",
+        "B"
+    ]
+}

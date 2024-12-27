@@ -1,0 +1,49 @@
+{
+    "article": "Niềm tự hào chính đáng của chúng ta trong nền văn hóa Đông Sơn chính là bộ sưu tập trống đồng hết sức phong phú.\n\nTrống đồng Đông Sơn đa dạng không chỉ về hình dáng, kích thước mà cả về phong cách trang trí, sắp xếp hoa văn. Giữa mặt trống bao giờ cũng có hình ngôi sao nhiều cánh tỏa ra xung quanh. Tiếp đến là những hình tròn đồng tâm, hình vũ công nhảy múa, chèo thuyền, hình chim bay, hươu nai có gạc,...\n\nNổi bật trên hoa văn trống đồng là hình ảnh con người hòa với thiên nhiên. Con người lao động cầm vũ khí bảo vệ quê hương và tưng bừng nhảy múa mừng chiến công hay cảm tạ thần linh,... Đó là con người thuần hậu, hiền hòa, mang tính nhân bản sâu sắc. Bên cạnh và xung quanh con người đầy ý thức làm chủ ấy là những cánh cò bay lả bay la, những chim Lạc, chim Hồng, những đàn cá lội tung tăng,... Đó đây, hình tượng ghép đôi muông thú, nam nữ còn nói lên sự khát khao cuộc sống ấm no, yên vui của người dân.",
+    "questions": [
+        "Tên của chiếc trống đồng được nhắc trong bài đọc là gì?",
+        "Trống đồng Đông Sơn khác nhau như thế nào?",
+        "Mặt giữa của trống đồng có hoa văn gì?",
+        "Ngoài họa tiết ngôi sao ở giữa, vòng ngoài trên mặt trống đồng được trang trí bằng những họa tiết nào?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Trống đồng Ngọc Lũ.",
+            "Trống đồng Đông Sơn.",
+            "Trống đồng Hoàng Hạ.",
+            "Trống đồng Lạng Sơn."
+        ],
+        [
+            "Đa dạng về hình dáng.",
+            "Đa dạng về tên gọi.",
+            "Đa dạng về chất liệu và kiểu dáng.",
+            "Đa dạng về hoa văn."
+        ],
+        [
+            "Có ngôi sao nhiều cánh tỏa ra xung quanh.",
+            "Có hình chim bay, hươu nai có gạc.",
+            "Có những hình tròn đồng tâm.",
+            "Có hình vũ công nhảy múa, chèo thuyền."
+        ],
+        [
+            "Hình cây cối, hoa lá, hang động.",
+            "Hình vũ công nhảy múa, chèo thuyền.",
+            "Hình ngôi nhà, đền chùa, mái ngói.",
+            "Hình tòa bảo tháp."
+        ],
+        [
+            "Thể hiện niềm tự hào dân tộc thông qua truyền thống đúc đồng, làm gốm, trang sức,...",
+            "Thể hiện niềm tự hào dân tộc thông qua truyền thống cần cù, thương người như thể thương thân.",
+            "Thể hiện niềm tự hào dân tộc thông qua truyền thống uống nước nhớ nguồn.",
+            "Thể hiện niềm tự hào dân tộc thông qua nền văn hóa Đông Sơn và bộ sưu tập trống đồng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "D"
+    ]
+}

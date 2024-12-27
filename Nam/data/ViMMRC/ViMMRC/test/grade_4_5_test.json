@@ -1,0 +1,49 @@
+{
+    "article": "\"Đôi khi một cử chỉ nhỏ của bạn cũng có thể làm thay đổi\n\nHoặc tạo nên sự khác biệt cho cuộc sống của người khác\".\n\nTôi đứng xếp hàng ở bưu điện để mua tem gửi thư. Ngay sau tôi là một người phụ nữ với hai đứa con còn rất nhỏ. Hai đứa nhỏ khóc lóc, không chịu đứng yên trong hàng. Bà mẹ trông cũng mệt mỏi và nhếch nhác như mấy đứa trẻ. Thấy thế, tôi liền nhường chỗ của tôi cho bà. Bà cảm ơn tôi rồi vội vã bước lên.\n\nNhưng đến lượt tôi thì bưu điện đóng cửa. Khi đó tôi cảm thấy thực sự rất bực mình và hối hận vì đã nhường chỗ cho người khác. Chợt người phụ nữ quay sang tôi nói: \"Tôi cảm thấy rất ái ngại! Chỉ vì nhường chỗ cho tôi mà cô lại gặp khó khăn như vậy. Cô biết không, nếu hôm nay tôi không gửi phiếu thanh toán tiền gas, thì công ti điện và gas sẽ cắt hết nguồn sưởi ấm của gia đình tôi.\"\n\nTôi sững người, không ngờ rằng chỉ đơn giản bằng một hành động nhường chỗ của mình, tôi đã giúp người phụ nữ ấy và hai đứa trẻ qua được một đêm giá rét. Tôi rời khỏi bưu điện với niềm vui trong lòng. Tôi không còn có cảm giác khó chịu khi nghĩ đến việc lại phải lái xe đến bưu điện, tìm chỗ đậu xe và đứng xếp hàng nữa mà thay vào đó là cảm giác thanh thản, phấn chấn.\n\nKể từ ngày hôm đó, tôi cảm nhận được sự quan tâm của mình đến mọi người có giá trị như thế nào. Tôi bắt đầu biết quên mình đi và biết chia sẻ với người khác vì tôi nhận ra đôi khi chỉ một cử chỉ nhỏ, bình dị của mình cũng có thể làm ấm lòng, làm thay đổi hoặc tạo nên sự khác biệt và ý nghĩa cho cuộc sống của một người khác.",
+    "questions": [
+        "Vì sao nhân vật tôi biết chia sẻ với người khác?",
+        "Sau khi nhường chỗ, vì sao nhân vật \"tôi\" lại cảm thấy bực mình và hối hận?",
+        "Việc gì xảy ra khiến nhân vật \"tôi\" lại rời khỏi bưu điện với \"niềm vui trong lòng\"?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Tại bưu điện, nhân vật tôi thấy hai đứa bé khóc thì thực hiện hành động gì?"
+    ],
+    "options": [
+        [
+            "Vì nhận ra đôi khi một cử chỉ nhỏ, bình dị của mình cũng có thể làm ấm lòng và ý nghĩa cho cuộc sống của người khác.",
+            "Vì đó là điều cần thiết.",
+            "Vì con người cần phải yêu thương và gắn liền với đời sống.",
+            "Vì con người nên quan tâm và giúp đỡ người khác."
+        ],
+        [
+            "Vì thấy mẹ con họ không cảm ơn mình.",
+            "Vì thấy mãi không đến lượt mình.",
+            "Vì bưu điện chỉ làm việc đến mẹ con người phụ nữ là họ đóng cửa.",
+            "Vì bưu điện không làm việc đến 12 giờ."
+        ],
+        [
+            "Vì biết rằng việc làm của mình đã giúp cho một gia đình tránh được một đêm đông giá rét.",
+            "Vì đã mua được tem thư.",
+            "Vì đã không phải quay lại bưu điện vào ngày hôm sau.",
+            "Vì đã có nhiều tem thư."
+        ],
+        [
+            "Cần phải biết quan tâm, chia sẻ, giúp đỡ người khác.",
+            "Muốn được người khác quan tâm, cần phải biết quan tâm giúp đỡ người khác.",
+            "Giúp đỡ người khác sẽ được trả ơn.",
+            "Giúp đỡ những con người yêu thương nhau."
+        ],
+        [
+            "Nhường chỗ cho mẹ của hai đứa bé.",
+            "Giúp bà mẹ chơi cùng với hai đứa bé.",
+            "Cho hai đứa bé bánh.",
+            "Dạy hai đứa bé."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "A",
+        "A",
+        "A"
+    ]
+}

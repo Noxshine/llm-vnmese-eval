@@ -1,0 +1,49 @@
+{
+    "article": "Sáng đầu thu trong xanh\nEm mặc quần áo mới\nĐi đón ngày khai trường\nVui như là đi hội.\n\nGặp bạn cười hớn hở\nĐứa tay bắt mặt mừng\nĐứa ôm vai bá cổ\nCặp sách đùa trên lưng.\n\nNhìn các thầy, các cô\nAi cũng như trẻ lại\nSân trường vàng nắng mới\nLá cờ bay như reo.\n\nTừng nhóm đứng đo nhau\nThấy bạn nào cũng lớn\nNăm xưa bé tí teo\nGiờ lớp ba, lớp bốn.\n\nTiếng trống trường gióng giả\nNăm học mới đến rồi\nChúng em đi vào lớp\nKhăn quàng bay đỏ tươi.",
+    "questions": [
+        "Ngày khai trường trong bài thơ này có gì mới lạ?",
+        "Tiếng trống trường trong khổ thơ cuối thúc giục các bạn nhỏ bước vào năm học mới với thái độ ra sao?",
+        "Nội dung của bài thơ này là gì?",
+        "Tiếng trống khai trường muốn truyền thông điệp gì với chúng ta?",
+        "Bối cảnh này diễn ra ở đâu?"
+    ],
+    "options": [
+        [
+            "Các bạn đi học cười hớn hở.",
+            "Ngày khai trường như ngày hội.",
+            "Các bạn ai cũng lớn hơn.",
+            "Sớm đầu thu trong xanh."
+        ],
+        [
+            "Phấn khởi.",
+            "Chán nản.",
+            "Băn khoăn.",
+            "Sợ hãi."
+        ],
+        [
+            "Niềm trăn trở của học sinh trong ngày khai trường.",
+            "Niềm sợ hãi của học sinh trong ngày khai trường.",
+            "Niềm chán nản của học sinh trong ngày khai trường.",
+            "Niềm vui sướng của học sinh trong ngày khai trường."
+        ],
+        [
+            "Thông báo năm học cũ đã kết thúc.",
+            "Phấn khởi khi trời vào thu.",
+            "Giục giã đón các em vào năm học mới.",
+            "Nhắc các em hãy mua sách vở mới."
+        ],
+        [
+            "Trường học.",
+            "Nhà.",
+            "Chợ.",
+            "Siêu thị."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "C",
+        "A"
+    ]
+}

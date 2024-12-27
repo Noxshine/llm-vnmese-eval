@@ -1,0 +1,65 @@
+{
+    "article": "Chim gõ kiến nổi mõ\nGà rừng gọi vòng quanh\nSáng rồi, đừng ngủ nữa\nNào, đi hội rừng xanh!\n\nTre, trúc thổi nhạc sáo\nKhe suối gảy nhạc đàn\nCây rủ nhau thay áo   \nKhoác bao màu tươi non.\n\nCông dẫn đầu đội múa\nKhướu lĩnh xướng dàn ca\nKì nhông diễn ảo thuật\nThay đổi hoài màu da.\n\nNấm mang ô đi hội\nTới suối, nhìn mê say:\nƠ kìa, anh cọn nước\nĐang chơi trò đu quay!",
+    "questions": [
+        "Ngày hội rừng xanh không dành cho đối tượng nào?",
+        "Biện pháp nhân hóa được sử dụng trong bài thơ như thế nào?",
+        "Con vật nào đã gọi cả rừng thức dậy đi hội rừng xanh?",
+        "Con vật nào dẫn đầu đoàn múa?",
+        "Biện pháp nhân hóa được sử dụng để miêu tả cái cọn nước như thế nào?",
+        "Sinh vật nào được liên tưởng như chiếc ô trong hội rừng xanh?",
+        "Nội dung của bài đọc này là gì?"
+    ],
+    "options": [
+        [
+            "Kì nhông.",
+            "Con người.",
+            "Công, Khướu.",
+            "Gà rừng."
+        ],
+        [
+            "Sử dụng những từ ngữ tả hoạt động, tính cách của người để tả vật.",
+            "Sử dụng những từ ngữ xưng hô và tả người để tả vật.",
+            "Sử dụng những từ ngữ để xưng hô với người như với vật.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Công.",
+            "Kì nhông.",
+            "Chim gõ kiến.",
+            "Gà rừng."
+        ],
+        [
+            "Kì nhông.",
+            "Công.",
+            "Chim gõ kiến.",
+            "Khướu."
+        ],
+        [
+            "Sử dụng hoạt động của người để tả cọn nước: \"chơi trò đu quay\".",
+            "Sử dụng từ ngữ xưng hô và từ tả hoạt động của người để tả cọn nước: \"anh cọn nước\", \"chơi trò đu quay\".",
+            "Sử dụng từ ngữ xưng hô \"anh\" để gọi cái cọn nước.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Nấm.",
+            "Mặt trời.",
+            "Gấu.",
+            "Gà rừng."
+        ],
+        [
+            "Trong ngày hội rừng xanh, các loài vật mang tính cách và nói chuyện như người.",
+            "Sự sinh động của các loài vật, sự vật trong ngày hội rừng xanh.",
+            "Con người cùng quan sát và tham gia vào ngày hội rừng xanh cùng các loài vật.",
+            "Chúa tể rừng xanh tổ chức ngày hội cho các loài vật và cây cối."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "D",
+        "B",
+        "B",
+        "A",
+        "B"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Ngày xưa, ở bản kia có một chú bé tuy nhỏ người nhưng ăn một lúc hết chín chõ xôi. Dân bản đặt tên cho chú là Cẩu Khây. Cẩu Khây lên mười tuổi, sức đã bằng trai mười tám; mười lăm tuổi đã tinh thông võ nghệ.\n\nHồi ấy, trong vùng xuất hiện một con yêu tinh chuyên bắt người và súc vật. Chẳng mấy chốc, làng bản tan hoang, nhiều nơi không còn ai sống sót. Thương dân bản, Cẩu Khây quyết chí lên đường diệt trừ yêu tinh.\n\nĐến một cánh đồng khô cạn, Cẩu Khây thấy một cậu bé vạm vỡ đang dùng tay làm vồ đóng cọc để đắp đập dẫn nước vào ruộng. Mỗi quả đấm của cậu giáng xuống, cọc tre thụt sâu hàng gang tay. Hỏi chuyện, Cẩu Khây biết tên cậu là Nắm Tay Đóng Cọc. Nắm Tay Đóng Cọc sốt sắng xin được cùng Cẩu Khây đi diệt trừ yêu tinh.\n\nĐến một vùng khác, hai người nghe có tiếng tát nước ầm ầm. Họ ngạc nhiên thấy một cậu bé đang lấy vành tai tát nước suối lên một thửa ruộng cao bằng mái nhà. Nghe Cẩu Khây nói chuyện, Lấy Tai Tát Nước hăm hở cùng hai bạn lên đường.\n\nĐi được ít lâu, ba người lại gặp một cậu bé đang ngồi dưới gốc cây, lấy móng tay đục gỗ thành lòng máng dẫn nước vào ruộng. Cẩu Khây cùng các bạn đến làm quen và nói rõ chí hướng của ba người. Móng Tay Đục Máng hăng hái xin được làm em út đi theo.",
+    "questions": [
+        "Để cứu quê hương, Cẩu Khây đã làm gì ?",
+        "Đến cánh đồng khô hạn, Cẩu Khây đã gặp người nào?",
+        "Đến vùng nghe có tiếng tát nước ầm ầm, Cẩu Khây đã gặp người nào?",
+        "Đến một vùng khác, Cẩu Khây đã gặp người nào đang ngồi dưới gốc cây?",
+        "Cẩu Khây đã cùng những người bạn của mình đi đến nơi nào?"
+    ],
+    "options": [
+        [
+            "Cậu quyết gây dựng lại làng mạc quê hương.",
+            "Cậu quyết định lên đường diệt trừ yêu tinh.",
+            "Cậu quyết vận động dân làng sinh sống tại quê hương.",
+            "Cậu giúp đỡ người dân trồng trọ, xây cất nhà cửa."
+        ],
+        [
+            "Lấy Tai Tát Nước.",
+            "Nắm Tay Đóng Cọc.",
+            "Móng Tay Đục Máng.",
+            "Đầu Cua Tai Nheo."
+        ],
+        [
+            "Lấy Tai Tát Nước.",
+            "Móng Tay Đục Máng.",
+            "Nắm Tay Đóng Cọc.",
+            "Đầu Cua Tai Nheo."
+        ],
+        [
+            "Nắm Tay Đóng Cọc.",
+            "Lấy Tai Tát Nước.",
+            "Móng Tay Đục Máng.",
+            "Đầu Cua Tai Nheo."
+        ],
+        [
+            "Cứu giúp người dân.",
+            "Diệt trừ yêu tinh.",
+            "Xây dựng làng mạc.",
+            "Đánh giặc cứu nước."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "A",
+        "C",
+        "B"
+    ]
+}

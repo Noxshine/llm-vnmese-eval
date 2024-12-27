@@ -1,0 +1,49 @@
+{
+    "article": "Nhà nọ có hai vợ chồng và một cô con gái. Một hôm, có ba người đàn ông râu dài bạc trắng đến ngồi trước cửa nhà họ. Họ không hề quen ai trong số ba người này. Tuy nhiên vốn là những người tốt bụng, họ nói: “Chúng tôi không biết các ông nhưng chắc là các ông đang rất đói, xin mời các ông vào nhà ăn một chút gì đó.”\n\nBa chúng tôi không thể vào nhà ông cùng một lúc được. – Họ trả lời.\nSao lại thế? – Cả hai vợ chồng ngạc nhiên hỏi.\nMột người giải thích: “Tên tôi là Tình Yêu, ông này là Giàu sang, còn ông kia là Thành Công. Bây giờ xin các vị quyết định xem ai trong chúng tôi sẽ được mời vào nhà.”\n\nTuyệt thật! – Người chồng vui mừng. – Đây đúng là một cơ hội tốt. Chúng\nTa hãy mời ngài Giàu Sang. Ngài sẽ ban cho chúng ta thật nhiều tiền bạc và của cải!\n\nNgười vợ không đồng ý: “Thế tại sao chúng ta lại không mời ngài Thành Công nhỉ? Chúng ta sẽ có quyền cao chức trọng và được mọi người kính nể.”\n\nHai vợ chồng tranh cãi nhau một lúc lâu mà vẫn chưa ai quyết định được. Cô con gái nãy giờ đứng yên lặng nghe bỗng lên tiếng đề nghị : “Chúng ta nên mời ngài Tình Yêu là tốt hơn cả. Nhà mình tràn ngập tình yêu thương ấm áp và ngài sẽ cho chúng ta thật nhiều hạnh phúc.”\n\nCó lẽ chúng ta nên nghe lời khuyên của con gái. – Người chồng suy nghĩ rồi\n nói với vợ. – Em hãy mời ngài Tình Yêu, đây là người khách chúng ta mong muốn.\n\nNgười phụ nữ ra ngoài và hỏi: “Ai trong ba vị là thần Tình Yêu, xin mời hãy vào và trở thành khách của chúng tôi!”\n\nThần Tình Yêu đứng dậy và đi vào ngôi nhà. Hai vị thần còn lại cũng đứng dậy và đi theo vị thần Tình Yêu.\n\nVô cùng ngạc nhiên, người phụ nữ hỏi: “Tôi chỉ mời ngài Tình Yêu, tại sao các ông cũng vào?  Các ông nói không thể vào cùng một lúc kia mà?”\n\nHai người cùng nhau trả lời: “Nếu bà mời ngài Giàu sang hoặc Thành Công thì chỉ có một người khách được mời vào. Nhưng vì bà mời Tình Yêu nên cả ba chúng tôi đều vào. Bởi vì ở đâu có Tình Yêu thì ở đó sẽ có Thành Công và Giàu Sang”.",
+    "questions": [
+        "Tại sao khi được mời vào nhà, ba vị thần lại không vào?",
+        "“Mời vị thần Tình Yêu” là ý kiến của ai?",
+        "Câu nói: “Bởi vì ở đâu có Tình Yêu thì ở đó sẽ có Thành Công và Giàu Sang”. có nghĩa gì ?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Khi mời Tình Yêu thì sẽ có những ai sẽ vào cùng?"
+    ],
+    "options": [
+        [
+            "Vì họ không thể vào cùng một lúc.",
+            "Vì họ không biết ai sẽ được mời.",
+            "Vì họ không đói.",
+            "Vì họ có việc bận."
+        ],
+        [
+            "Của người vợ.",
+            "Của người chồng.",
+            "Của người con gái.",
+            "Của người mẹ."
+        ],
+        [
+            "Tình Yêu là quan trọng nhất. Nó là cội nguồn sinh ra giàu sang và sự thành công.",
+            "Nếu không Giàu Sang và Thành Công thì không có hạnh phúc, không có tình yêu.",
+            "Sẽ không thể hạnh phúc nếu không có Tình Yêu, Giàu Sang và Thành Công.",
+            "Sẽ không thể vui nếu không có Tình Yêu."
+        ],
+        [
+            "Hãy sống tốt bụng với tất cả mọi người để luôn được tình yêu, giàu sang và thành công đến “gõ cửa” nhà mình.",
+            "Hãy luôn sống trong tình yêu thương lẫn nhau. Nơi đâu tràn ngập tình yêu thương ấm áp, nơi đó sẽ có tràn đầy hạnh phúc, giàu sang và sự thành công.",
+            "Sống trên đời cần thiết phải có cả ba thứ Tình Yêu, Giàu Sang và Thành Công.",
+            "Không nói điều gì cả."
+        ],
+        [
+            "Thành Công và Giàu Sang.",
+            "Thành Công.",
+            "Giàu Sang.",
+            "Tình Yêu và Thành Công."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

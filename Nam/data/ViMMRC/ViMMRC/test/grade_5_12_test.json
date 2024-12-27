@@ -1,0 +1,57 @@
+{
+    "article": "Một hôm, anh Ba Chẩn gọi tôi vào trong buồng, đúng cái nơi anh giao việc cho ba tôi ngày trước. Anh lấy từ mái nhà xuống bó giấy lớn, rồi hỏi tôi:\n\n- Út có dám rải truyền đơn không?\n\nTôi vừa mừng vừa lo, nói:\n\n- Được, nhưng rải thế nào anh phải chỉ vẽ, em mới làm chớ!\n\nAnh Ba cười, rồi dặn dò tôi tỉ mỉ. Cuối cùng, anh nhắc:\n\n- Rủi địch nó bắt tận tay thì em một mực nói rằng có một anh bảo đây là giấy quảng cáo thuốc. Em không biết chữ nên không biết giấy gì.\n\nNhận công việc vinh dự đầu tiên này, tôi thấy trong người cứ bồn chồn, thấp thỏm. Đêm đó, tôi ngủ không yên, lục đục dậy từ nữa đêm, ngồi nghĩ cách giấu truyền đơn. Khoảng ba giờ sáng, tôi giả đi bán cá như mọi hôm. Tay tôi bê rổ cá, còn bó truyền đơn thì dắt trên lưng quần. Tôi rảo bước và truyền đơn cứ từ từ rơi xuống đất. Gần tới chợ thì vừa hết, trời cũng vừa sáng tỏ.\n\nĐộ tám giờ, nhân dân xì xào ầm lên: “Cộng sản rải giấy nhiều quá!”\n\nMấy tên lính mã tà hớt hải xách súng chạy rầm rầm.\n\nVề đến nhà, tôi khoe ngay kết quả với anh Ba. Anh tôi khen:\n\n- Út làm khá lắm, cứ làm như vậy rồi quen, em ạ!\n\nLần sau, anh tôi lại giao rải truyền đơn tại chợ Mỹ Lồng. Tôi cũng hoàn thành. Làm được một vài việc, tôi bắt đầu ham hoạt động. Tôi tâm sự với anh Ba:\n\n- Em chỉ muốn làm thật nhiều việc cho Cách mạng. Anh cho em thoát li hẳn nghe anh!",
+    "questions": [
+        "Công việc đầu tiên anh Ba Chẩn giao cho chị Út là gì?",
+        "Chị Út đã nghĩ ra cách gì để rải hết truyền đơn?",
+        "Vì sao chị Út muốn được thoát li?",
+        "Chị Út tên thật là?",
+        "Câu nêu đúng nghĩa của từ “trung hậu”  là gì?",
+        "Những chữ còn thiếu trong câu tục ngữ, ca dao là: Cá không ăn muối .....................;  Con cãi cha mẹ trăm đường con hư."
+    ],
+    "options": [
+        [
+            "Rải truyền đơn.",
+            "Rải giấy báo.",
+            "Rải thư báo.",
+            "Bán báo."
+        ],
+        [
+            "Giả đi bán bánh.",
+            "Giả đi bán cá.",
+            "Giả đi bán báo.",
+            "Giả đi bán rau."
+        ],
+        [
+            "Vì Út thích đi chơi.",
+            "Vì Út thích rải truyền đơn.",
+            "Vì Út  muốn làm nhiều việc cho cách mạng.",
+            "Vì Út không thích đi học."
+        ],
+        [
+            "Nguyễn Thị Út.",
+            "Nguyễn Thị Định.",
+            "Nguyễn Thị Sen.",
+            "Nguyễn Thị Sáu."
+        ],
+        [
+            "Biết gánh vác, lo toan mọi việc.",
+            "Có tài năng, khí phách, làm nên những việc phi thường.",
+            "Trung thực, thẳng thắn, giàu lòng nhân ái và tốt bụng với mọi người.",
+            "Có tài và luôn giúp đỡ mọi người."
+        ],
+        [
+            "Cá ươn.",
+            "Cá ngon.",
+            "Cá hư.",
+            "Cá hôi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "C",
+        "B",
+        "C",
+        "A"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "article": "Trên sông Đà \nMột đêm trăng chơi vơi \nTôi đã nghe tiếng đàn Ba-la-lai-ca như thế \nMột cô gái Nga mái tóc màu hạt dẻ \nNgón tay đan trên những sợi dây đồng. \n\nLúc ấy \nCả công trường say ngủ cạnh dòng sông \nNhững tháp khoan nhô lên trời ngẫm nghĩ \nNhững xe ủi, xe ben sóng vai nhau nằm nghỉ \nChỉ còn tiếng đàn ngân nga \nVới một dòng trăng lấp loáng sông Đà. \nNgày mai \nChiếc đập lớn nối liền hai khối núi \nBiển sẽ nằm bỡ ngỡ giữa cao nguyên \nSông Đà gửi ánh sáng đi muôn ngả \nTừ công trình thuỷ điện lớn đầu tiên",
+    "questions": [
+        "Tiếng đàn ba-la-lai-ca gắn với hình ảnh cô gái nước nào?",
+        "Biện pháp nghệ thuật nào được sử dụng trong ba câu thơ sau:  Cả công trường say ngủ cạnh dòng sông  Những tháp khoan nhô lên trời ngẫm nghĩ  Những xe ủi, xe ben sóng vai nhau nằm nghỉ",
+        "Những sự vật được nhân hóa trong ba câu thơ sau là:  Cả ​công trường say ngủ cạnh dòng sông  Những tháp khoan nhô lên trời ngẫm nghĩ  Những xe ủi, xe ben sóng vai nhau nằm nghỉ",
+        "Tiếng đàn ba-la-lai-ca được cảm nghe thấy trong không gian nào?",
+        "Nội dung của bài thơ là gì?"
+    ],
+    "options": [
+        [
+            "Cô gái Anh.",
+            "Cô gái Nga.",
+            "Cô gái Ba Lan.",
+            "Cô gái Đức."
+        ],
+        [
+            "Nhân hóa.",
+            "Liệt kê.",
+            "So sánh.",
+            "Cách điệu."
+        ],
+        [
+            "Công trường, tháp khoan, xe ủi, xe ben.",
+            "Công trường, xe ủi, xe ben.",
+            "Xe ủi, tháp khoan, công trường.",
+            "Tháp khoan, xe ben."
+        ],
+        [
+            "Đêm trăng tròn.",
+            "Đêm trăng rằm.",
+            "Đêm trăng chơi vơi.",
+            "Đêm trăng khuyết."
+        ],
+        [
+            "Ca ngợi vẻ đẹp của sông Đà.",
+            "Ca ngợi vẻ đẹp kì vĩ của công trình thủy điện lớn đầu tiên.",
+            "Niềm sung sướng, tự hào khi được nghe tiếng đàn ba-la-lai-ca giữa đêm trăng.",
+            "Ca ngợi vẻ đẹp của đêm trăng."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "A",
+        "C",
+        "B"
+    ]
+}

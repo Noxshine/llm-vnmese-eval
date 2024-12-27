@@ -1,0 +1,49 @@
+{
+    "article": "1. Ngày xửa ngày xưa có một tiều phu tên là Cuội. Một hôm, Cuội vào rừng, bỗng đâu gặp một con hổ con xông đến. Không kịp tránh, anh đành liều mạng vung rìu lên đánh nhau với hổ. Hổ còn non nên thua sức người, bị Cuội bổ một rìu lăn quay ra đất. Vừa lúc đó, hổ mẹ về tới nơi. Cuội chỉ kịp quăng rìu, leo tót lên cây. Từ trên cao nhìn xuống, Cuội thấy hổ mẹ chạy đến một bụi cây gần đó, đớp một ít lá về nhai mớm cho con. Khoảng giập bã trầu, hổ con tự nhiên cựa quậy, vẫy đuôi rồi sống lại. Chờ cho hổ mẹ tha con đi nơi khác, Cuội tìm đến bụi cây kia, đào gốc mang về.\n\n2. Từ khi có cây thuốc quý, Cuội cứu sống được rất nhiều người. Một lần, Cuội cứu được con gái một phú ông, được phú ông gả cô gái ấy cho. Vợ chồng Cuội sống với nhau thật êm ấm. Nhưng một lần, vợ Cuội trượt chân ngã vỡ đầu, Cuội rịt lá thuốc cho mà mãi không tỉnh lại. Thương vợ, Cuội nặn thử bộ óc bằng đất cho vợ rồi rịt thuốc lại. Không ngờ vợ Cuội sống lại, tươi tỉnh như thường. Nhưng từ đó, người vợ mắc chứng bệnh hay quên.\n\nMột lần, vợ Cuội quên lời chồng dặn, đem nước giải tưới cho cây thuốc. Vừa tưới xong, ai ngờ cây thuốc lừng lững bay lên trời. Thấy thế, Cuội vội nhảy bổ đến, túm vào rễ cây. Nhưng cây thuốc cứ bay lên, kéo theo cả Cuội lên tít cung trăng.\n\nNgày nay, mỗi khi nhìn lên mặt trăng, ta vẫn thấy chú Cuội ngồi dưới gốc cây thuốc quý.",
+    "questions": [
+        "Nghề nghiệp của chú Cuội là gì?",
+        "Chú Cuội đã sử dụng cây thuốc quý để làm gì?",
+        "Tại sao chú Cuội lấy được con gái phú ông?",
+        "Theo em, chú Cuội sống trên mặt trăng thế nào?",
+        "Ngày nay, chúng ta thấy hình ảnh gì trên mặt trăng?"
+    ],
+    "options": [
+        [
+            "Bốc thuốc.",
+            "Tiều phu.",
+            "Nông dân.",
+            "Thợ săn."
+        ],
+        [
+            "Buôn bán thuốc tiên.",
+            "Đem dâng nhà vua.",
+            "Sống trường sinh.",
+            "Cứu sống nhiều người."
+        ],
+        [
+            "Vì Cuội giải được câu đố của phú ông và được phú ông gả con gái cho.",
+            "Vì Cuội dùng thuốc quý cứu được phú ông nên được phú ông gả con gái cho.",
+            "Vì Cuội dùng thuốc quý cứu con gái phú ông và được phú ông gả cô gái ấy cho.",
+            "Vì Cuội dùng thuốc quý cứu người, kiếm được rất nhiều tiền, trở nên giàu có."
+        ],
+        [
+            "Rất sung sướng vì cung trăng là chốn thần tiên.",
+            "Rất khổ vì mọi thứ trên mặt trăng rất khắc nghiệt.",
+            "Rất buồn vì nhớ nhà, nhớ vợ..",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chú Cuội ngồi dưới cây thuốc quý.",
+            "Chị Hằng ngồi dưới cây thuốc quý.",
+            "Thỏ ngọc.",
+            "Chị Hằng và thỏ Ngọc."
+        ]
+    ],
+    "answers": [
+        "B",
+        "D",
+        "C",
+        "C",
+        "A"
+    ]
+}

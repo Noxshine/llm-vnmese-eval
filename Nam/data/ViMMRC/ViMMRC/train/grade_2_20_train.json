@@ -1,0 +1,65 @@
+{
+    "article": "Có một cậu bé được bà sai đi chợ. Bà đưa cho cậu hai đồng và hai cái bát, dặn:\n\n- Cháu mua một đồng tương, một đồng mắm nhé!\n\nCậu bé vâng dạ, đi ngay. Gần tới chợ, cậu bỗng hớt hải chạy về hỏi bà:\n\n- Bà ơi, bát nào đựng tương, bát nào đựng mắm?\n\nBà phì cười:\n\n- Bát nào đựng tương, bát nào đựng mắm mà chẳng được.\n\nCậu bé lại ra đi. Đến chợ, cậu lại ba chân bốn cẳng chạy về, hỏi:\n\n- Nhưng đồng nào mua mắm, đồng nào mua tương ạ?",
+    "questions": [
+        "Người bà đã sai cậu bé đi đâu?",
+        "Cậu bé đã mua gì khi đi chợ?",
+        "Bà nhờ cậu bé đi chợ và đưa cho cậu bé những thứ gì?",
+        "Lần thứ nhất, tại sao gần đến chợ, cậu bé lại chạy về hỏi bà?",
+        "Vì sao, bà lại cười khi nghe cậu hỏi?",
+        "Lần thứ hai, cậu bé lại quay về hỏi bà điều gì?",
+        "Chúng ta hãy thay bà trả lời cậu bé câu hỏi ở cuối chuyện?"
+    ],
+    "options": [
+        [
+            "Đi học.",
+            "Đi chợ.",
+            "Đi chơi.",
+            "Đi làm."
+        ],
+        [
+            "Tương và mắm.",
+            "Cau và trầu​.",
+            "Rau và thịt.",
+            "Kẹo và bánh."
+        ],
+        [
+            "Cái làn và túi đựng tiền.",
+            "Hai đồng và hai cái bát.",
+            "Hai cái bát và túi tiền.",
+            "Hai đồng và cái làn."
+        ],
+        [
+            "Vì cậu không biết bát nào đựng tương, bát nào đựng mắm.",
+            "Vì cậu không biết đồng nào mua mắm, đồng nào mua tương.",
+            "Vì cậu không biết đâu là tương đâu là mắm.",
+            "Vì cậu không biết dùng tiền để mua gì."
+        ],
+        [
+            "Vì điều cậu bé hỏi buồn cười đến ngớ ngẩn.",
+            "Vì bà cậu bé đang buồn cười một chuyện khác.",
+            "Vì cậu bé trông hài hước quá.",
+            "Vì thấy cậu bé quá nghiêm túc."
+        ],
+        [
+            "Bát nào là bát tương, bát nào là bát mắm.",
+            "Bát nào đựng mắm, bát nào đựng tương.",
+            "Đồng nào mua mắm, đồng nào mua tương.",
+            "Chọn mắm và tương như thế nào là ngon."
+        ],
+        [
+            "Bà cũng không biết nữa!.",
+            "Cháu bờm quá đấy!.",
+            "Đồng nào mua mắm, đồng nào mua tương mà chẳng được hở cháu!.",
+            "Đồng này để mua mắm, đồng này để mua muối."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "C",
+        "A",
+        "A",
+        "C",
+        "C"
+    ]
+}

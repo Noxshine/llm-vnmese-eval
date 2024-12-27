@@ -1,0 +1,49 @@
+{
+    "article": "Cơn mưa bất chợt đổ xuống. Hoa vội vàng khi sực nhớ ra mình không mang áo mưa. Nhưng rồi em liền cho cặp sách vào túi ni lông, lên xe và phóng thẳng vào nhà. Trời mưa to và lạnh quá. Hoa cố nhấn bàn đạp thật mạnh. Bánh xe lăn đều trên những con đường ướt phát ra những âm thanhh nghe thật vui tai. Về đến nhà thì cả người ướt sũng. Hoa thấy trước cửa có một ông lão đang đứng trú mưa. Ông lão nói: “Cho ông đừng nhờ đây một tí nhé!”. Hoa chỉ kịp nói: “Vâng ạ!” rồi vội vã vào nhà. Em run lên vì rét và hắt hơi liên tục. Chợt, Hoa nhớ đến ông lão đang đứng trú mưa ngoài cửa, em vội lấy chiếc áo mưa trong tủ, chạy ra đưa cho ông và nói: “Ông ơi, ông mặc áo mưa rồi về nhà đi kẻo muộn”. Ông lão nhìn Hoa trìu mến và nói lời cảm ơn. Hoa thấy lòng vui vui.",
+    "questions": [
+        "Tan học, trời mưa mà Hoa lại quên áo mưa, bạn đã làm gì để về nhà?",
+        "Thấy ông lão đang trú mưa trước cửa nhà mình, Hoa đã làm gì?",
+        "Vì sao Hoa thấy lòng vui vui?",
+        "Ai đang đứng trú mưa ngoài nửa?",
+        "Bối cảnh diễn ra trong câu chuyện là gì?"
+    ],
+    "options": [
+        [
+            "Mua áo mưa rồi về nhà.",
+            "Đi chung áo mưa với bạn.",
+            "Cho cặp vào túi ni lông và phóng xe về nhà.",
+            "Tắm dưới mưa."
+        ],
+        [
+            "Mời ông lão vào trong nhà trú mưa.",
+            "Vào nhà lấy cho ông lão áo mưa.",
+            "Mặc kệ ông lão đứng đó.",
+            "Đưa cho ông lão một cái bánh."
+        ],
+        [
+            "Vì trời đã hết mưa.",
+            "Vì ông lão không còn đứng trước cửa nhà Hoa nữa.",
+            "Vì Hoa đã làm được một việc tốt.",
+            "Vì Hoa đã kiếm được tiền."
+        ],
+        [
+            "Ông lão.",
+            "Bé Hoa.",
+            "Mẹ Hoa.",
+            "Ba Hoa."
+        ],
+        [
+            "Trời mưa.",
+            "Trời nắng.",
+            "Trời rét.",
+            "Trời trong xanh."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "A"
+    ]
+}

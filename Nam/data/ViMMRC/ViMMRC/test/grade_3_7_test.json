@@ -1,0 +1,49 @@
+{
+    "article": "Páp–lốp (nhà sinh học người Nga) thường đến phòng thí nghiệm với bộ quần áo đã sờn cũ. Các đồng nghiệp góp tiền đưa cho ông, yêu cầu nhà bác học nên đi may bộ quần áo mới cho lịch sự.\n- Rất cảm ơn các bạn! Páp–lốp cầm tiền, cảm động vì lòng tốt của bạn bè.\nSau đó, ông đến phòng thí nghiệm vẫn với bộ quần áo sờn cũ nhưng lại dắt theo cả một đàn chó mới. Páp–lốp rất vui sướng. Ông nói với các bạn đồng nghiệp:\n- Các bạn ơi, tiền của các bạn đóng góp rất đúng lúc. Những thí nghiệm của chúng ta nên tiến hành nhiều hơn nữa.",
+    "questions": [
+        "Vì sao các bạn đồng nghiệp góp tiền yêu cầu Páp–lốp mua bộ quần áo mới?",
+        "Nhận được tiền của các bạn, Páp–lốp cảm thấy thế nào?",
+        "Vì sao Páp–lốp không mua quần áo mới?",
+        "Páp-lốp là người nước nào?",
+        "Vì sao Páp-lốp nói rằng số tiền được bạn của ông đóng góp rất đúng thời điểm?"
+    ],
+    "options": [
+        [
+            "Vì Páp – lốp đang thiếu tiền để mua quần áo.",
+            "Vì Páp – lốp thường đến phòng thí nghiệm với bộ quần áo sờn cũ.",
+            "Vì Páp – lốp cần tiền để làm thí nghiệm.",
+            "Vì Páp-lốp cần tiền để mua đồ ăn."
+        ],
+        [
+            "Buồn vì các bạn cho ít tiền.",
+            "Vui mừng vì được cho tiền.",
+            "Cảm động vì lòng tốt của bạn bè.",
+            "Lo lắng vì lòng tốt của bạn."
+        ],
+        [
+            "Vì Páp–lốp dùng số tiền ấy để mua đàn chó mới làm thí nghiệm.",
+            "Vì Páp–lốp thích mặc quần áo cũ.",
+            "Vì số tiền ấy không đủ để mua một bộ quần áo mới.",
+            "Vì Páp-lốp muốn tiết kiệm."
+        ],
+        [
+            "Nước Pháp.",
+            "Nước Nga.",
+            "Nước Nhật.",
+            "Nước Mỹ."
+        ],
+        [
+            "Vì sẽ có nhiều thí nghiệm sẽ được tiến hành.",
+            "Vì ông cần mua quần áo.",
+            "Vì ông muốn mua thức ăn cho chó.",
+            "Vì ông cần tiền chi tiêu hằng ngày."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "A"
+    ]
+}

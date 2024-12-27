@@ -1,0 +1,57 @@
+{
+    "article": "Màn đêm đã buông xuống. Trong không gian yên ắng chỉ còn nghe thấy tiếng tí tách của những hạt mưa rơi. Nằm trong nhà bếp ghé mắt ra cửa sổ, anh Đũa Kều hỏi bác Tủ Gỗ.\n\n- Bác Tủ Gỗ ơi, nước thì có hình gì bác nhỉ? Không kịp để bác Tủ Gỗ lên tiếng, Cốc Nhỏ nhanh nhảu:\n\n- Tất nhiên là nước có hình chiếc cốc rồi. Anh Đũa Kều chưa bao giờ nhìn thấy nước được đựng vừa in trong những chiếc cốc xinh xắn à? Bát Sứ không đồng tình, ngúng nguẩy:\n\n- Cốc Nhỏ nói sai rồi! Nước có hình giống một chiếc bát. Mọi người vẫn đựng nước canh trong những chiếc bát mà.\n\nChai Nhựa gần đấy cũng không chịu thua:\n\n- Nước có hình dáng giống tôi. Cô chủ nhỏ lúc nào chẳng dùng tôi để đựng nước uống.\n\nCuộc tranh cãi ngày càng gay gắt. Bác Tủ Gỗ lúc này mới lên tiếng:\n\n- Các cháu đừng cãi nhau nữa! Nước không có hình dạng cố định. Trong tự nhiên nước tồn tại ba thể: rắn, lỏng, khí. Ở thể rắn nước tồn tại dưới dạng băng. Ở thể khí nước tồn tại ở dạng hơi nước và nước chúng ta sử dụng hàng ngày để sinh hoạt là thể lỏng.\n\nTất cả mọi người lắng nghe chăm chú và nhìn nhau gật gù:\n\n- Ô! Hóa ra là như vậy. Chúng cháu cảm ơn bác Tủ Gỗ.",
+    "questions": [
+        "Cốc Nhỏ, Chai Nhựa và Bát Sứ tranh cãi nhau về điều gì?",
+        "Ý kiến của Cốc Nhỏ, Chai Nhựa và Bát Sứ về hình dáng của nước có gì giống nhau?",
+        "Lời giải thích của bác Tử Gỗ giúp ba bạn Bát Sứ, Cốc Nhỏ và Chai Nhựa hiểu được điều gì về hình dáng của nước?",
+        "Vì sao ba bạn Cốc Nhỏ, Chai Nhựa và Bát Sứ đã tranh cãi gay gắt?",
+        "Từ nào điền được vào chỗ trống trong câu sau: Đũa Kêu chưa bao giờ nhìn thấy nước được đựng vừa in trong những chiếc cốc.....................à?",
+        "Ai lúc nào cũng dùng tôi để đựng nước uống?"
+    ],
+    "options": [
+        [
+            "Tác dụng của nước.",
+            "Hình dáng của nước.",
+            "Mùi vị của nước.",
+            "Màu sắc của nước."
+        ],
+        [
+            "Nước có hình chiếc cốc.",
+            "Nước có hình cái bát.",
+            "Nước có hình như vật chứa nó.",
+            "Nước có hình cái chai."
+        ],
+        [
+            "Nước không có hình dáng cố định.",
+            "Nước có hình dáng giống với vật chứa đựng nó.",
+            "Nước tồn tại ở thể rắn và thê lỏng và khí.",
+            "Nước tồn tại ở thể thể lỏng và thể khí."
+        ],
+        [
+            "Các bạn không giữ được bình tĩnh khi có ý kiến khác mình.",
+            "Các bạn không nhìn sự việc từ góc nhìn của người khác.",
+            "Các bạn không có hiểu biết đầy đủ về điều đang được bàn luận.",
+            "Thiếu hiểu biết, thiếu bình tĩnh và thiếu kiến thức."
+        ],
+        [
+            "Nhỏ xinh.",
+            "Xinh xinh.",
+            "Xinh tươi.",
+            "Xinh xắn."
+        ],
+        [
+            "Cô chủ.",
+            "Cô chủ nhỏ.",
+            "Cô chủ nhỏ lúc nào.",
+            "Cô chủ nhỏ lúc nào cũng dùng tôi."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "D",
+        "B"
+    ]
+}

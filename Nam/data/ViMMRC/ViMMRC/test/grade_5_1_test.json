@@ -1,0 +1,41 @@
+{
+    "article": "Một người đàn ông dừng xe trước cửa hàng hoa để mua hoa gửi tặng mẹ qua dịch vụ bưu điện. Mẹ anh sống cách chỗ anh khoảng hơn trăm ki-lô-mét. Vừa bước ra khỏi ô tô, anh thấy một cô bé đầm đìa nước mắt đang lặng lẽ khóc bên vỉa hè. Anh đến gần hỏi cô bé vì sao cô khóc. Cô bé nức nở:\n\n- Cháu muốn mua tặng mẹ cháu một bông hồng. Nhưng cháu chỉ có 75 xu mà giá một bông hồng những 2 đô la. Người đàn ông mỉm cười:\n\n- Đừng khóc nữa! Chú sẽ mua cho cháu một bông. Người đàn ông cẩn thận chọn mua một bông hồng cho cô bé và đặt một bó hồng gửi tặng mẹ qua dịch vụ. Xong anh hỏi cô bé có cần đi nhờ xe về nhà không. Cô bé cảm ơn, rồi chỉ đường cho anh lái xe đến một nghĩa trang, nơi có một ngôi mộ mới đắp. Cô bé chỉ ngôi mộ và nói:\n\n- Đây là nhà của mẹ cháu.\n\nNói xong, cô bé nhẹ nhàng đặt bông hồng lên mộ mẹ. Ngay sau đó, người đàn ông vội vã quay lại cửa hàng hoa. Anh huỷ bỏ dịch vụ gửi hoa và mua một bó hồng thật đẹp. Anh lái xe một mạch về nhà mẹ để trao tận tay bà bó hoa.",
+    "questions": [
+        "Câu chuyện kể về lời nói, suy nghĩ, hành động của những nhân vật nào?",
+        "Vì sao cô bé khóc?",
+        "Người đàn ông đã làm gì giúp cô bé?",
+        "Vì sao người đàn ông quyết định không gửi hoa tặng mẹ qua dịch vụ bưu điện nữa?"
+    ],
+    "options": [
+        [
+            "Người đàn ông, cô bé.",
+            "Người đàn ông, mẹ của ông ta, cô bé.",
+            "Người đàn ông, cô bé và mẹ của cô.",
+            "Người đàn ông."
+        ],
+        [
+            "Vì cô bé không có đủ tiền mua hoa tặng mẹ.",
+            "Vì mẹ cô bé đã mất.",
+            "Vì không có ai đi cùng.",
+            "Vì cô bé có điểm thấp."
+        ],
+        [
+            "Mua cho cô một bông hồng và chở cô bé đến chỗ cô sẽ tặng hoa cho mẹ.",
+            "Mua cho cô bé một cây bút.",
+            "Chở cô bé đến nhà bạn.",
+            "Dạy cô bé học."
+        ],
+        [
+            "Vì ông muốn thăm mẹ.",
+            "Vì ông không muốn gửi hoa tươi qua dịch vụ bưu điện.",
+            "Vì qua việc làm của cô bé, ông cảm động và thấy cần phải tự tay trao bó hoa tặng mẹ.",
+            "Vì ông cảm thấy có lỗi."
+        ]
+    ],
+    "answers": [
+        "A",
+        "A",
+        "A",
+        "C"
+    ]
+}

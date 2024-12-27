@@ -1,0 +1,57 @@
+{
+    "article": "Sầu riêng là loại trái quý của miền Nam. Hương vị nó hết sức đặc biệt, mùi thơm đậm, bay rất xa, lâu tan trong không khí. Còn hàng chục mét mới tới nơi để sầu riêng, hương đã ngào ngạt xông vào cánh mũi. Sầu riêng thơm mùi của mít chín quyện với hương bưởi, béo cái béo của trứng gà, ngọt cái vị của mật ong già hạn. Hương vị quyến rũ đến kì lạ.\n\nHoa sầu riêng trổ vào cuối năm. Gió đưa hương thơm ngát như hương cau, hương bưởi tỏa khắp khu vườn. Hoa đậu từng chùm, màu trắng ngà. Cánh hoa nhỏ như vảy cá, hao hao giống cánh sen con, lác đác vài nhụy, li ti giữa những cánh hoa. Mỗi cuống hoa ra một trái. Nhìn trái sầu riêng lủng lẳng dưới cành trông giống những tổ kiến. Mùa trái rộ vào tháng tư, tháng năm ta.\n\nĐứng ngắm cây sầu riêng, tôi cứ nghĩ mãi về cái dáng cây kì lạ này. Thân nó khẳng khiu, cao vút, cành ngang thẳng đuột, thiếu cái dáng cong, dáng nghiêng, chiều quằn, chiều lượn của cây xoài, cây nhãn. Lá nhỏ xanh vàng, hơi khép lại, tưởng như lá héo. Vậy mà khi trái chín, hương tỏa ngạt ngào, vị ngọt đến đam mê.",
+    "questions": [
+        "Sầu riêng là đặc sản của miền nào?",
+        "Hương vị của sầu riêng có gì đặc biệt?",
+        "Hương vị của sầu riêng được so sánh với mùi của những loại quả nào?",
+        "Hương vị của sầu riêng được thể hiện bằng cụm từ nào dưới đây?",
+        "Hoa sầu riêng nở vào thời gian nào?",
+        "Hương hoa sầu riêng có mùi thơm như thế nào?"
+    ],
+    "options": [
+        [
+            "Cả nước.",
+            "Miền Bắc.",
+            "Miền Trung.",
+            "Miền Nam."
+        ],
+        [
+            "Mùi thơm thoang thoảng, ngọt lành và nhẹ dịu như mùi gió.",
+            "Mùi thơm đậm, ngào ngạt, bay xa và lâu tan trong không khí.",
+            "Mùi thơm hăng hắc, nồng nặc đến khó chịu.",
+            "Mùi thơm của hoa trái chín ngẫu, để lâu quá."
+        ],
+        [
+            "Hồng, lê, mận.",
+            "Mít, ổi, đu đủ.",
+            "Mít, bưởi, trứng gà.",
+            "Măng cụt, dứa, vải."
+        ],
+        [
+            "Đậm đặc đến khó phai.",
+            "Đau đầu choáng váng.",
+            "Thơm đến ngây ngất.",
+            "Quyến rũ đến kì lạ."
+        ],
+        [
+            "Mùa hạ.",
+            "Cuối năm.",
+            "Tháng 4, 5.",
+            "Giữa năm."
+        ],
+        [
+            "Thơm ngào ngạt, đậm đặc như hoa sữa, hoa huệ.",
+            "Thơm ngát như hương cau, hương bưởi.",
+            "Thơm nhè nhẹ như hoa bàng, hoa dừa.",
+            "Thơm thoang thoảng như hoa hồng, hoa sen."
+        ]
+    ],
+    "answers": [
+        "D",
+        "B",
+        "C",
+        "D",
+        "B",
+        "B"
+    ]
+}

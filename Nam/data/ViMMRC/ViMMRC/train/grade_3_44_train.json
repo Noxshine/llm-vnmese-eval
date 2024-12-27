@@ -1,0 +1,81 @@
+{
+    "article": "Hai bàn tay em\nNhư hoa đầu cành\nHoa hồng hồng nụ\nCánh tròn ngón xinh.\n\nĐêm em nằm ngủ\nHai hoa ngủ cùng\nHoa thì bên má\nHoa ấp cạnh lòng.\n\nTay em đánh răng\nRăng trắng hoa nhài.\nTay em chải tóc\nTóc ngời ánh mai.\n\nGiờ em ngồi học\nBàn tay siêng năng\nNở hoa trên giấy\nTừng hàng giăng giăng.\n\nCó khi một mình\nNhìn tay thủ thỉ\nEm yêu em quý\nHai bàn tay em.",
+    "questions": [
+        "Trong khổ thơ 1, hai bàn tay của bé được so sánh giống với gì?",
+        "Bài thơ được chia làm mấy khổ thơ?",
+        "Câu thơ so sánh bàn tay bé với hoa đầu cành?​",
+        "Trong khổ thơ thứ 2, đêm bé nằm ngủ thì bàn tay làm gì?",
+        "Trong khổ thơ thứ 3, bàn tay đã cùng bé làm gì?",
+        "Trong khổ thơ thứ 4, bàn tay đã cùng bạn nhỏ làm điều gì?",
+        "Trong khổ thơ cuối, khi có một mình, bạn nhỏ đã đã làm gì với đôi bàn tay của mình?",
+        "Tình cảm của bạn nhỏ dành cho đôi bàn tay như thế nào?",
+        "Nội dung bài thơ này là gì?"
+    ],
+    "options": [
+        [
+            "Bông.",
+            "Chậu.",
+            "Cây.",
+            "Hoa."
+        ],
+        [
+            "Ba.",
+            "Bốn.",
+            "Năm.",
+            "Sáu."
+        ],
+        [
+            "Em yêu em quý - Hai bàn tay em.",
+            "Bàn tay siêng năng - Nở hoa trên giấy.",
+            "Hoa hồng hồng nụ - Cánh tròn ngón xinh.",
+            "Tay em đánh răng - Răng trắng hoa nhài."
+        ],
+        [
+            "Tay thì bên lòng, tay thì ôm mẹ.",
+            "Tay thì bên má, tay thì ôm gối.",
+            "Tay thì ôm gấu bông, tay thì để vào lòng.",
+            "Tay thì bên má, tay ấp cạnh lòng."
+        ],
+        [
+            "Đánh răng, tết tóc.",
+            "Đánh răng, chải tóc.",
+            "Soi gương, chải tóc.",
+            "Hái hoa nhài, ngắm ban mai."
+        ],
+        [
+            "Vẽ hoa trên giấy.",
+            "Ngồi học.",
+            "Đọc sách, vẽ hoa.",
+            "Học bài, viết bài."
+        ],
+        [
+            "Trò chuyện.",
+            "Xoa bóp đôi bàn tay.",
+            "Vẽ lên đôi bàn tay.",
+            "Ngắm nghía, thủ thỉ."
+        ],
+        [
+            "Thương sót.",
+            "Sợ hãi.",
+            "Yêu quý.",
+            "Căm thù."
+        ],
+        [
+            "Bàn tay em làm rất nhiều việc có ích.",
+            "Hai bàn tay em đẹp như đóa hoa hồng.",
+            "Hai bàn tay em rất đẹp, có ích và đáng yêu.",
+            "Hai bàn tay em rất giống với đóa hoa hồng."
+        ]
+    ],
+    "answers": [
+        "D",
+        "C",
+        "C",
+        "D",
+        "B",
+        "D",
+        "D",
+        "C",
+        "C"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "article": "Cảnh trí: - Một ngôi nhà ở Xóm Chiếu, Sài Gòn. Dưới ngọn đèn dầu lù mù, anh Thành đang ngồi ghi chép. Anh Lê vào.\n\nLê: - Anh Thành! Mọi thứ tôi thu xếp xong rồi. Sáng mai anh có thể đến nhận việc đấy.\n\nThành: - Có lẽ thôi, anh ạ.\n\nLê: - Sao lại thôi? Anh chỉ cần cơm nuôi và mỗi tháng một đồng. Tôi đã đòi thêm cho anh mỗi năm hai bộ quần áo và mỗi tháng thêm một hào... (Nói nhỏ) Vì tôi nói với họ: anh biết chữ Tàu, lại có thể viết phắc - tuya bằng tiếng Tây.\n\nThành: - Nếu chỉ cần miếng cơm manh áo thì tôi ở Phan Thiết cũng đủ sống...\n\nLê: - Vậy anh vào Sài Gòn này làm gì?\n\nThành: - Anh Lê này! Anh học trường Sa-xơ-lu Lô-ba... thì.... ờ... anh là người nước nào?\n\nLê: - Anh hỏi lạ thật. Anh người nước nào thì tôi là người nước ấy.\n\nThành: - Đúng! Chúng ta là đồng bào. Cùng máu đỏ da vàng với nhau. Nhưng... anh có khi nào nghĩ đến đồng bào không?\n\nLê:       - Sao lại không? Hôm qua ông đốc học nhắc lại nghị định của giám đốc Phú Lãng Sa tháng 5 năm 1881 về việc người bản xứ muốn vào làng Tây....\n\nThành: - À... Vào làng Tây để có tên Tây, đi lại, ăn ở, làm việc, lương bổng như Tây... Anh đã làm đơn chưa?\n\nLê: - Không bao giờ! Không bao giờ tôi quên dòng máu chảy trong cánh tay này là của họ Lê, anh hiểu không? Nhưng tôi chưa hiểu vì sao anh thay đổi ý kiến, không định xin việc làm ở Sài Gòn này nữa.\n\nThành: - Anh Lê ạ, vì đèn dầu ta không sáng bằng đèn hoa kì. Đèn hoa kì lại không sáng bằng đèn tọa đăng. Hôm qua, tôi đi xem chớp bóng lại thấy ngọn đèn điện mới thật là sáng nhất. Sáng như ban ngày mà không có mùi, không có khói.\n\nLê: - Anh kể chuyện đó để làm gì?\n\nThành: - Vì anh với tôi... chúng ta là công dân nước Việt...",
+    "questions": [
+        "Trong lập luận của anh Thành, đèn nào sáng nhất?",
+        "Không nghĩ đến chuyện xin việc, thực chất anh Thành nghĩ đến chuyện gì?"
+    ],
+    "options": [
+        [
+            "Đèn tọa đăng.",
+            "Đèn điện.",
+            "Đèn hoa kì.",
+            "Đèn dầu."
+        ],
+        [
+            "Chuyện anh Lê là người nước nào.",
+            "Chuyện cứu nước, cứu dân.",
+            "Chuyện đèn nào sáng hơn.",
+            "Chuyện làm giàu."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Mấy ngày mẹ vắng nhà \nLà mấy ngày bão nổi \nCon đường mẹ đi về \nCơn mưa dài chặn lối.\n\nHai chiếc giường ướt một \nBa bố con nằm chung \nVẫn thấy trống phía trong \nNằm ấm mà thao thức.\n\nNghĩ giờ này ở quê \nMẹ cũng không ngủ được \nThương bố con vụng về \nCủi mùn thì lại ướt.\n\nNhưng chị vẫn hái lá \nCho thỏ mẹ, thỏ con \nEm thì chăm đàn ngan \nSáng lại chiều no bữa \nBố đội nón đi chợ \nMua cá về nấu chua....\n\nThế rồi cơn bão qua \nBầu trời xanh trở lại \nMẹ về như nắng mới \nSáng ấm cả gian nhà.",
+    "questions": [
+        "Ngày bão vắng mẹ, ba cha con vất vả như thế nào?",
+        "Những khổ thơ nào thể hiện rằng cả nhà luôn nghĩ đến nhau?",
+        "Câu thơ nào thể hiện niềm vui của cả nhà khi mẹ về?",
+        "Khi mẹ đi vắng, hai chị em đã làm những việc gì?",
+        "Câu thơ nào có hình ảnh so sánh?",
+        "Câu thơ \"Bố đội nón đi chợ\" sử dụng mẫu câu nào?",
+        "Câu \"Bố đội nón đi chợ\" có mấy từ chỉ hoạt động?"
+    ],
+    "options": [
+        [
+            "Giường có hai chiếc thì một chiếc bị ướt, ba bố con phải nằm chung.",
+            "Củi mùn cũng bị ướt.",
+            "Chị hái lá cho thỏ ăn, em thì chăm đàn ngan, bố đi chợ và nấu cơm.",
+            "Cả ba ý trên đều đúng."
+        ],
+        [
+            "Khổ thơ 1 và khổ thơ 2.",
+            "Khổ thơ 2 và khổ thơ 3.",
+            "Khổ thơ 3 và khổ thơ 4.",
+            "Khổ thơ 4 và khổ thơ 5."
+        ],
+        [
+            "Thế rồi cơn bão qua.",
+            "Bầu trời xanh trở lại.",
+            "Mẹ về như nắng mới.",
+            "Mẹ về nhưng bình thường."
+        ],
+        [
+            "Hai chị em giúp bố nấu cơm.",
+            "Hai chị em giúp bố nấu cơm và chăm đàn ngan.",
+            "Chị hái lá cho thỏ, em thì chăm đàn ngan.",
+            "Chi và em ra vườn chăm cây cối."
+        ],
+        [
+            "Cơn mưa dài chặn lối.",
+            "Mẹ về như nắng mới.",
+            "Bố đội nón đi chợ.",
+            "Thế rồi cơn bão qua."
+        ],
+        [
+            "Ai là gì?",
+            "Ai làm gì?",
+            "Ai thế nào?",
+            "Ai như thế nào?"
+        ],
+        [
+            "1 từ.",
+            "2 từ.",
+            "3 từ.",
+            "4 từ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "B",
+        "C",
+        "C",
+        "B",
+        "B",
+        "B"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "article": "Tin từ Hồng Công cho biết: vận động viên Việt Nam Nguyễn Thúy Hiền vừa đoạt Huy chương Vàng môn trường quyền nữ tại Giải vô địch thế giới về võ thuật lần thứ năm tổ chức ở đây.\n\nTại cuộc họp ngày 28 - 3 - 2002, Ban tổ chức SEA Games 22 đã chọn chú Trâu Vàng, sáng tác của họa sĩ Nguyễn Thái Hùng, làm biểu tượng của hoạt động thể thao lớn nhất khu vực đầu tiên tổ chức ở nước ta. Trong trang phục của môn vật truyền thống, chú Trâu Vàng tượng trưng cho ấm no, hạnh phúc, sức mạnh và tinh thần thượng võ.\n\nNgười khuyết tật nổi tiếng Ních Vôi-chếch sẽ đến Việt Nam ngày 22 - 5 - 2013 để nói chuyện với các bạn trẻ. Cuộc đời Ních là một tấm gương về nghị lực phi thường. Từ lúc chào đời, anh đã không có tay chân như người bình thường. Anh chỉ có một cái chân nhỏ xíu với hai ngón. Nhưng anh chơi gôn, đá bóng, nhảy dù, bơi lội, lướt ván rất cừ khôi. Ních tốt nghiệp đại học năm 23 tuổi. Anh đã tới 24 nước, nói chuyện với hơn 4 triệu người.",
+    "questions": [
+        "Bản tin có mấy nội dung?",
+        "Bản tin có mấy nội dung?",
+        "Thông tin \"Do họa sĩ Nguyễn Thái Hùng sáng tác, được chọn làm biểu tượng của SEA Games 22 (2013). Là biểu tượng của ước mong no ấm, hạnh phúc, sức mạnh và tinh thần thượng võ.\" liên quan đến nhân vật nào?",
+        "Ai là người khuyết tật giàu nghị lực, tốt nghiệp đại học năm 23 tuổi, từng đi 24 nước và nói chuyện với 4 triệu người và đến Việt Nam năm 2013?",
+        "Tấm gương của Ních biểu tượng cho tinh thần gì?",
+        "Ngoài thông tin về thể thao, báo chí còn cung cấp cho chúng ta những thể loại báo chí nào?",
+        "Thông tin trong bản tin của báo chí là những thông tin như thế nào?"
+    ],
+    "options": [
+        [
+            "Một.",
+            "Hai.",
+            "Ba.",
+            "Bốn."
+        ],
+        [
+            "Một.",
+            "Hai.",
+            "Ba.",
+            "Bốn."
+        ],
+        [
+            "Ních Vôi-chếch.",
+            "Nguyễn Thúy Hiền.",
+            "Chú Trâu Vàng.",
+            "Nguyễn Thái Hùng."
+        ],
+        [
+            "Nguyễn Thúy Hiền.",
+            "Chú Trâu Vàng.",
+            "Nguyễn Thái Hùng.",
+            "Ních Vôi-chếch."
+        ],
+        [
+            "Tinh thần tỉnh táo và chiến thắng chính mình.",
+            "Tinh thần lạc quan và chiến thắng bệnh tật.",
+            "Tinh thần dũng cảm và vượt qua chiến tranh.",
+            "Tinh thần lạc quan và vượt nghèo vượt khó."
+        ],
+        [
+            "Thông tinh về chính trị.",
+            "Mọi thông tin trong các lĩnh vực khác.",
+            "Thông tin về văn hóa.",
+            "Thông tin về kinh tế."
+        ],
+        [
+            "Thông tin mới mẻ, mang tính thời sự và trong mọi lĩnh vực.",
+            "Thông tin cũ, không cập nhật, tất cả mọi người đều biết.",
+            "Thông tin không hữu ích, thừa thãi, rườm rà.",
+            "Tất cả các ý trên."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "C",
+        "D",
+        "B",
+        "B",
+        "A"
+    ]
+}

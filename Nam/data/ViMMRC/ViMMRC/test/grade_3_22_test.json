@@ -1,0 +1,73 @@
+{
+    "article": "Bút chì xanh đỏ\nEm gọt hai đầu\nEm thử hai màu\nXanh tươi, đỏ thắm.\n\nEm vẽ làng xóm\nTre xanh, lúa xanh\nSông máng lượn quanh\nMột dòng xanh mát\n\nTrời mây bát ngát\nXanh ngắt mùa thu\nXanh màu ước mơ...\nEm quay đầu đỏ\n\nVẽ nhà em ở\nNgói mới đỏ tươi\nTrường học trên đồi\nEm tô đỏ thắm\n\nCây gạo đầu xóm\nHoa nở chói ngời\nA, nắng lên rồi\nMặt trời đỏ chót\n\nLá cờ Tổ quốc\nBay giữa trời xanh...\nChị ơi bức tranh\nQuê ta đẹp quá!",
+    "questions": [
+        "Bạn nhỏ đã sử dụng những màu nào để vẽ về quê hương?",
+        "Làng xóm, tre, lúa, sông được bạn nhỏ sử dụng màu sắc nào để vẽ?",
+        "Mây trời mùa thu được bé sử dụng màu nào để vẽ?",
+        "Mái ngói, nhà ở được vẽ bằng màu sắc nào?",
+        "Hoa gạo đầu xóm được vẽ bởi màu nào?",
+        "Mặt trời được miêu tả bằng màu sắc nào?",
+        "Tại sao bức tranh quê hương đẹp?",
+        "Bài thơ vẽ quê hương đã sử dụng thể thơ nào để viết?"
+    ],
+    "options": [
+        [
+            "Đỏ tươi, tím biếc.",
+            "Xanh thắm, hồng rực.",
+            "Đỏ thắm, vàng tươi.",
+            "Xanh tươi, đỏ thắm."
+        ],
+        [
+            "Tím biếc.",
+            "Vàng rực.",
+            "Đỏ thẳm.",
+            "Xanh tươi."
+        ],
+        [
+            "Màu đỏ.",
+            "Màu xanh.",
+            "Màu trắng.",
+            "Màu vàng."
+        ],
+        [
+            "Đen huyền.",
+            "Đỏ tươi.",
+            "Xanh mát.",
+            "Trắng ngần."
+        ],
+        [
+            "Hồng (hồng thắm).",
+            "Đỏ (chói ngời).",
+            "Xanh (xanh mát).",
+            "Vàng (vàng chói)."
+        ],
+        [
+            "Đỏ ngầu.",
+            "Đỏ ối.",
+            "Đỏ chót.",
+            "Đỏ tươi."
+        ],
+        [
+            "Vì bạn nhỏ rất giỏi vẽ.",
+            "Vì màu vẽ của bạn nhỏ rất tốt.",
+            "Vì bạn nhỏ rất yêu quê hương.",
+            "Vì quê hương vốn đẹp."
+        ],
+        [
+            "Lục bát.",
+            "Tự do.",
+            "Năm chữ.",
+            "Bốn chữ."
+        ]
+    ],
+    "answers": [
+        "D",
+        "D",
+        "B",
+        "B",
+        "B",
+        "C",
+        "C",
+        "D"
+    ]
+}

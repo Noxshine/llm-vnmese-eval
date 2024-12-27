@@ -1,0 +1,57 @@
+{
+    "article": "Thuở đi học, Cao Bá Quát viết chữ rất xấu nên nhiều bài văn dù hay vẫn bị thầy cho điểm kém.\nMột hôm, có bà cụ hàng xóm sang khẩn khoản:\n- Gia đình già có việc oan uổng muốn kêu quan, nhờ cậu viết giúp cho lá đơn, có được không?\nCao Bá Quát vui vẻ trả lời:\n- Tưởng việc gì khó, chứ việc ấy cháu xin sẵn lòng.\nLá đơn viết lí lẽ rõ ràng, Cao Bá Quát yên trí quan sẽ xét nỗi oan cho bà cụ. Nào ngờ, chữ ông xấu quá, quan đọc không được nên thét lính đuổi bà ra khỏi huyện đường. Về nhà, bà kể lại câu chuyện khiến Cao Bá Quát vô cùng ân hận. Ông biết dù văn hay đến đâu mà chữ không ra chữ cũng chẳng ích gì. Từ đó, ông dốc sức luyện viết chữ sao cho đẹp.\nSáng sáng, ông cầm que vạch lên cột nhà luyện chữ cho cứng cáp. Mỗi buổi tối, ông viết xong mười trang vở mới chịu đi ngủ. Chữ viết đã tiến bộ, ông lại mượn những cuốn sách chữ viết đẹp làm mẫu để luyện nhiều kiểu chữ khác nhau.\nKiên trì luyện tập suốt mấy năm, chữ ông mỗi ngày mỗi đẹp. Ông nổi danh khắp nước là người văn hay chữ tốt.",
+    "questions": [
+        "Vì sao thuở đi học Cao Bá Quát thường bị điểm kém?",
+        "Quan thét lính đuổi bà cụ ra khỏi huyện đường vì:",
+        "Cao Bá Quát đã rút ra bài học gì sau khi nghe bà cụ kể lại sự việc?",
+        "Tại sao Cao Bá Quát phải luyện viết?",
+        "Tại sao bài văn của Cao Bá Quát hay nhưng vẫn bị thầy cho điểm thấp?",
+        "Cao Bá Quát đã ân hận vì điều gì?"
+    ],
+    "options": [
+        [
+            "Vì Cao Bá Quát lười học.",
+            "Vì Cao Bá Quát mải chơi.",
+            "Vì Cao Bá Quát viết chữ rất xấu.",
+            "Vì Cao Bá Quát rất siêng năng."
+        ],
+        [
+            "Bà cụ không bị oan.",
+            "Bà cụ nói năng không rõ ràng.",
+            "Chữ Cao Bá Quát xấu quá quan đọc không được.",
+            "Cao Bá Quát viết chữ rất đẹp."
+        ],
+        [
+            "Văn hay phải đi liền với chữ đẹp.",
+            "Văn hay mà chữ không ra chữ thì chẳng ích gì.",
+            "Chữ đẹp quan trọng hơn văn hay.",
+            "Chữ đẹp chưa chắc văn đã hay."
+        ],
+        [
+            "Vì muốn văn mình hay.",
+            "Vì muốn chữ mình đẹp.",
+            "Vì muốn thi đỗ trạng.",
+            "Vì muốn đi học cùng bạn bè."
+        ],
+        [
+            "Vì viết hơi không liên quan.",
+            "Vì không tôn trọng thầy.",
+            "Vì chữ xấu.",
+            "Vì chữ đẹp."
+        ],
+        [
+            "Vì lá đơn do ông viết có chữ quá xấu, quan đọc không được và cái kết là bà lão bị đuổi ra khỏi huyện đường.",
+            "Vì ông không học giỏi.",
+            "Vì văn của ông không hay.",
+            "Vì ông có nhiều điều kiện nhưng không giúp được gì cho bà lão."
+        ]
+    ],
+    "answers": [
+        "C",
+        "C",
+        "B",
+        "B",
+        "C",
+        "B"
+    ]
+}

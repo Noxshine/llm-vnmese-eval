@@ -1,0 +1,81 @@
+{
+    "article": "Một hôm, qua một vùng cỏ xước xanh dài. Tôi chợt nghe tiếng khóc tỉ tê. Đi được vài bước nữa, tôi gặp chị Nhà Trò ngồi gục đầu bên tảng đá cuội.\n\nChị Nhà Trò đã bé nhỏ lại gầy yếu quá, người bự những phấn, như mới lột. Chị mặc áo thâm dài, đôi chỗ chấm điểm vàng, hai cánh mỏng như cánh bướm non, lại ngắn chùn chùn. Hình như cánh yếu quá, chưa quen mở, mà cho dù có khỏe cũng chẳng bay được xa. Tôi đến gần, chị Nhà Trò vẫn khóc. Nức nở mãi chị mới kể:\n\n- Năm trước, gặp khi trời làm đói kém, mẹ em phải vay lương ăn của bọn nhện. Sau đấy, không may mẹ em mất đi, còn lại thui thủi có mình em. Mà em ốm yếu, kiếm bữa cũng chẳng đủ. Bao năm nghèo túng vẫn hoàn nghèo túng. Mấy bọn nhện đã đánh em. Hôm nay bọn chúng chăng tơ ngang đường đe bắt em, vặt chân, vặt cánh ăn thịt em. \n\nTôi xòe cả hai càng ra, bảo Nhà Trò:\n\n- Em đừng sợ. Hãy trở về cùng với tôi đây. Đứa độc ác không thể cậy khỏe ăn hiếp kẻ yếu.\n\nRồi tôi dắt Nhà Trò đi. Được một quãng thì tới chỗ mai phục của bọn nhện.",
+    "questions": [
+        "Hãy chỉ ra tên nhân vật nào xuất hiện trong bài đọc?",
+        "Khi đi ngang qua vùng cỏ xước xanh dài, Dế Mèn đã nghe thấy tiếng gì?",
+        "Âm thanh tiếng khóc tỉ tê ấy là của nhân vật nào?",
+        "Vì sao chị Nhà Trò lại khóc?",
+        "Bọn nhện đã ức hiếp và đe dọa chị Nhà Trò như thế nào?",
+        "Lời nói nào cho thấy tấm lòng nghĩa hiệp của Dế Mèn?",
+        "Cử chỉ nào cho thấy tấm lòng nghĩa hiệp của Dế Mèn?",
+        "Mẹ con chị Nhà trọ đã vay lương ăn của ai?",
+        "Ai là người đã bênh vực chị Nhà Trò"
+    ],
+    "options": [
+        [
+            "Chị Cốc.",
+            "Anh Gọng Vó.",
+            "Chị Nhà Trò.",
+            "Dế Choắt."
+        ],
+        [
+            "Tiếng khóc tỉ tê.",
+            "Tiếng kêu cứu thất thanh.",
+            "Tiếng lễ hội rộn ràng.",
+            "Tiếng hát tươi vui."
+        ],
+        [
+            "Chị Cốc.",
+            "Chị Cào Cào.",
+            "Anh Gọng Vó.",
+            "Chị Nhà Trò."
+        ],
+        [
+            "Vì đói mà không có gì ăn.",
+            "Vì mẹ mất, nhớ mẹ.",
+            "Vì ngồi buồn một mình.",
+            "Vì bị lũ nhện bắt nạt."
+        ],
+        [
+            "Bọn chúng đã chăng tơ chăng bẫy để bắt chị trả nợ.",
+            "Bọn nhện đã đánh chị, chăng tơ ngang đường đe bắt chị, vặt chân vặt cánh, ăn thịt chị.",
+            "Bọn nhện đã nhốt chị lại để dọa.",
+            "Húng chặn đường, bắt chị treo lên mạng nhện bỏ đói."
+        ],
+        [
+            "Ai bảo nợ nần thì cho chết, anh mặc kệ.",
+            "Đi với anh, anh sẽ xử tội chúng nó. Sao lại dám ỉ mạnh bắt nạt yếu cơ chứ.",
+            "Em đừng sợ. Hãy trở về cùng với tôi đây. Đứa độc ác không thể cậy khỏe ăn hiếp yếu.",
+            "Đi với anh, anh sẽ trả nợ hết cho em và bảo chúng không bao giờ được bắt nạt em nữa."
+        ],
+        [
+            "Đứa độc ác không thể cậy khỏe ăn hiếp kẻ yếu.",
+            "Dế Mèn dắt chị Nhà Trò tới chỗ mai phục của bọn nhện.",
+            "Em đừng sợ. Hãy trở về cùng với tôi đây.",
+            "Tôi đến gần chị Nhà Trò và nghe chị nức nở..."
+        ],
+        [
+            "Bọn nhện.",
+            "Dế Mèn.",
+            "Chú Kiến.",
+            "Những kẻ độc ác nhất."
+        ],
+        [
+            "Bọn nhện.",
+            "Dế Mèn.",
+            "Mẹ chị Nhà Trò.",
+            "Chủ nợ."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "D",
+        "D",
+        "B",
+        "C",
+        "B",
+        "A",
+        "B"
+    ]
+}

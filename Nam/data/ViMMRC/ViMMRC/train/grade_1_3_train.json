@@ -1,0 +1,65 @@
+{
+    "article": "Trưa mùa hè, nắng vàng như mật ong trải nhẹ trên khắp các cánh đồng cỏ. Những con sơn ca đang nhảy nhót trên sườn đồi. Chúng bay lên cao và cất tiếng hót. Tiếng hót lúc trầm, lúc bổng, lảnh lót vang mãi đi xa. Bỗng dưng lũ sơn ca không hót nữa mà bay vút lên nền trời xanh thẳm.",
+    "questions": [
+        "Những con sơn ca đang nhảy nhót ở đâu?",
+        "Mùa nào được nhắc đến trong bài đọc?",
+        "Tiếng hót của chim sơn ca như thế nào?",
+        "Sau khi ngưng hót, bầy chim sơn ca đã làm gì?",
+        "Cảnh vật được mô tả lúc tiết trời của mùa nào?",
+        "Thời tiết trong bài được được miêu tả như thế nào?",
+        "Những từ nào mô tả tiếng hót của chim sơn ca?"
+    ],
+    "options": [
+        [
+            "Trên cánh đồng lúa.",
+            "Trên sườn đồi.",
+            "Trên mái hiên nhà.",
+            "Trên đồng cỏ bao la."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa hè.",
+            "Mùa thu.",
+            "Mùa đông."
+        ],
+        [
+            "Cao chót vót.",
+            "Lảnh lót.",
+            "Xanh thẩm trời xanh.",
+            "Vút lên."
+        ],
+        [
+            "Nhảy thẳng lên trời xanh.",
+            "Bay thẳng lên bầu trời.",
+            "Luyện xuống đất kiếm ăn.",
+            "Tiếp tục hót vang xa hơn nữa."
+        ],
+        [
+            "Mùa xuân.",
+            "Mùa hạ.",
+            "Mùa thu.",
+            "Mùa đông."
+        ],
+        [
+            "Nắng vàng và trời xanh thẳm.",
+            "Nắng hanh vàng như chuối.",
+            "Nóng ôi bức trong người.",
+            "Cái nắng lảnh lót."
+        ],
+        [
+            "Lãnh lót và bổng.",
+            "Bổng, trầm và lãnh lót.",
+            "Hay, trầm và lãnh lót.",
+            "Lãnh lót và trầm."
+        ]
+    ],
+    "answers": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "A",
+        "B"
+    ]
+}

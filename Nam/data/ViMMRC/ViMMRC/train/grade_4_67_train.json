@@ -1,0 +1,89 @@
+{
+    "article": "Kéo co là một trò chơi thể hiện tinh thần thượng võ của dân ta. Tục kéo co mỗi vùng một khác, nhưng bao giờ cũng là cuộc đấu tài, đấu sức giữa hai bên. \n\nKéo co phải đủ ba keo. Bên nào kéo được đối phương ngã về phía mình nhiều keo hơn là bên ấy thắng.\n\nHội làng Hữu Trấp thuộc huyện Quế Võ, tỉnh Bắc Ninh thường tổ chức thi kéo co giữa nam và nữ. Có năm bên nam thắng, có năm bên nữ thắng. Nhưng dù bên nào nào thắng thì cuộc thi cũng rất là vui. Vui ở sự ganh đua, vui ở những tiếng hò reo khuyến khích của người xem hội.\n\nLàng Tích Sơn thuộc thị xã Vĩnh Yên, tỉnh Vĩnh Phúc lại có tục thi kéo co giữa trai tráng hai giáp trong làng. Số người của mỗi bên không hạn chế. Nhiều khi, có giáp thua keo đầu, tới keo thứ hai, đàn ông trong giáp kéo đến đông hơn, thế là chuyển bại thành thắng. Sau cuộc thi, dân làng nổi trống mừng bên thắng. Các cô gái làng cũng không ngớt lời ngợi khen những chàng trai thắng cuộc.",
+    "questions": [
+        "Bài đọc nói về trò chơi dân gian nào?",
+        "Kéo co là trò chơi có ý nghĩa gì đối với nhân dân ta?",
+        "Kéo co là một trò chơi như thế nào?",
+        "Đối tượng chơi kéo co của làng Hữu Trấp?",
+        "Có mấy làng được nhắc đến trong bài đọc này?",
+        "Cách chơi kéo co ở làng Tích Sơn có gì đặc biệt so với làng Hữu Trấp?",
+        "Kéo co là trò chơi thuộc truyền thống hay hiện đại?",
+        "Làng Hữu Trấp thuộc tỉnh nào?",
+        "Nội dung của bài Kéo co là gì?",
+        "Làng Hữu Trấp thuộc tỉnh nào?"
+    ],
+    "options": [
+        [
+            "Kéo co.",
+            "Thả diều.",
+            "Đấu vật.",
+            "Trốn tìm."
+        ],
+        [
+            "Thể hiện truyền thống tôn sư trọng đạo.",
+            "Thể hiện tinh thần yêu nước.",
+            "Thể hiện tinh thần thượng võ.",
+            "Thể hiện truyền thống uống nước nhớ nguồn."
+        ],
+        [
+            "Là cuộc đấu trí và thể hiện sự thông minh.",
+            "Là cuộc đấu khẩu và thể hiện tài ăn nói.",
+            "Là cuộc đấu tài và đấu sức giữa hai bên.",
+            "Là cuộc thi sức trên mặt nước."
+        ],
+        [
+            "Chỉ dành cho nam.",
+            "Chỉ dành cho nữ.",
+            "Dành cho cả nam và nữ.",
+            "Không dành cho nam và nữ."
+        ],
+        [
+            "Hai.",
+            "Ba.",
+            "Bốn.",
+            "Năm."
+        ],
+        [
+            "Kéo co là cuộc thi giữa trai tráng hai giáp trong làng.",
+            "Dù bên nào thắng cũng rất vui, mọi người đều hò reo.",
+            "Nhiều khi thua keo đầu nhưng keo sau nhiều người hơn, lại chuyển bại thành thắng.",
+            "Kéo co tổ chức thi kéo giữa nam và nữ."
+        ],
+        [
+            "Truyền thống.",
+            "Hiện đại.",
+            "Vừa truyền thống vừa hiện đại.",
+            "Du nhập từ nước ngoài."
+        ],
+        [
+            "Bến Tre.",
+            "Ninh Thuận.",
+            "Bắc Ninh.",
+            "TP. HCM."
+        ],
+        [
+            "Kéo co giúp cho con người khỏe mạnh hơn và năng động hơn.",
+            "Kéo co vừa là trò trí tuệ vừa là trò chơi giúp rèn luyện sức khỏe.",
+            "Kéo co là trò chơi dân gian thể hiện tinh thần thượng võ của dân tộc.",
+            "Kéo co giúp phát triển chiều cao và cân nặng."
+        ],
+        [
+            "Bắc Ninh.",
+            "TP.HCM.",
+            "Bến Tre.",
+            "Hà Nội."
+        ]
+    ],
+    "answers": [
+        "A",
+        "C",
+        "C",
+        "C",
+        "A",
+        "A",
+        "A",
+        "C",
+        "C",
+        "A"
+    ]
+}

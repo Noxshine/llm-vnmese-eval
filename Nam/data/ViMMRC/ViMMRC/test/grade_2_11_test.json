@@ -1,0 +1,65 @@
+{
+    "article": "Ở Bắc Cực, hầu hết các con vật đều có bộ lông trắng: chim ưng trắng, cú trắng, thỏ trắng, đến gấu cũng trắng nốt. Gấu trắng là con vật to khỏe nhất. Nó cao gần 3 mét và nặng tới 800 ki-lô-gam.\n\nĐặc biệt, gấu trắng rất tò mò. Có lần, một thủy thủ rời tàu đi dạo. Trên đường trở về, thấy một con gấu trắng đang xông tới, anh khiếp đảm bỏ chạy. Gấu đuổi theo. Sực nhớ là con vật này có tính tò mò, anh ném lại cái mũ. Thấy mũ, gấu dừng lại, đánh rơi, lấy chân lật qua lật lại chiếc mũ. Xong, nó lại đuổi. Anh thủy thủ vứt tiếp găng tay, khăn, áo choàng... Mỗi lần như vậy, gấu đều dừng lại , tò mò xem xét. Nhưng vì nó chạy rất nhanh nên suýt nữa thì tóm được anh. May mà anh đã kịp nhảy lên tàu, vừa sợ vừa rét run cầm cập.",
+    "questions": [
+        "Gấu trắng sinh sống ở vùng nào?",
+        "Gấu trắng có hình dáng như thế nào?",
+        "Tính cách của gấu trắng có gì đặc biệt?",
+        "Sự tò mò của gấu liên quan đến nhân vật (người) nào?",
+        "Anh thủy thủ đang đi thì chuyện gì đã xảy ra với anh?",
+        "Anh thủy thủ đã làm cách nào để tránh bị gấu vồ?",
+        "Gấu trắng là đại diện của loài vật có tính cách gì?"
+    ],
+    "options": [
+        [
+            "Hàn Quốc.",
+            "Trung Quốc.",
+            "Châu Phi.",
+            "Bắc Cực."
+        ],
+        [
+            "To khỏe, cao lớn.",
+            "Thấp bé, nhẹ cân.",
+            "Yếu, nhỏ bé.",
+            "To khoẻ nhưng không cao."
+        ],
+        [
+            "Rất tò mò.",
+            "Rất dữ tợn.",
+            "Rất thân thiện.",
+            "Rất nũng nịu."
+        ],
+        [
+            "Nhà du hành.",
+            "Anh thủy thủ.",
+            "Bác thợ săn.",
+            "Người đánh cá."
+        ],
+        [
+            "Có con gấu trắng bị thương, chảy rất nhiều máu.",
+            "Có con gấu trắng xông tới, đuổi theo anh.",
+            "Có đàn gấu con bị lạc mẹ.",
+            "Con gấu ôm hôn anh."
+        ],
+        [
+            "Ném đồ lại khiến con gấu tò mò và chạy thoát.",
+            "Kêu cứu và tìm người dân giúp đỡ mình.",
+            "Ném lại xâu cá vừa câu được ở hố băng.",
+            "Tấn công con gấu bằng tay của chính mình."
+        ],
+        [
+            "Thân thiện.",
+            "Nhút nhát.",
+            "Tò mò.",
+            "Kêu căng."
+        ]
+    ],
+    "answers": [
+        "D",
+        "A",
+        "A",
+        "B",
+        "B",
+        "A",
+        "C"
+    ]
+}

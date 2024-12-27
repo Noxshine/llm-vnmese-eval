@@ -1,0 +1,73 @@
+{
+    "article": "Năm 1948, bác sĩ Đặng Văn Ngữ rời Nhật Bản về nước tham gia kháng chiến chống thực dân Pháp. Để tránh bị địch phát hiện, ông phải vòng từ Nhật Bản qua Thái Lan, sang Lào, về Nghệ An, rồi từ Nghệ An lên Việt Bắc. Dù băng qua rừng rậm hay suối sâu, lúc nào ông cũng giữ bên mình chiếc va li đựng nấm pê-ni-xi-lin mà ông gây được từ bên Nhật. Nhờ va li nấm này, bộ đội ta đã chế được thuốc chữa cho thương binh.\n\nNăm 1967, lúc đã gần 60 tuổi, ông lại lên đường ra mặt trận chống Mĩ cứu nước. Ở chiến trường, bệnh sốt rét hoành hành, đồng bào và chiến sĩ cần có ông. Sau nhiều ngày khổ công nghiên cứu, ông chế ra thuốc chống sốt rét và tự tiêm thử vào cơ thể mình những liều thuốc đầu tiên. Thuốc sản xuất ra, bước đầu có hiệu quả cao. Nhưng giữa lúc ấy, một trận bom của kẻ thù đã cướp đi người trí thức yêu nước và tận tụy của chúng ta.",
+    "questions": [
+        "Giáo sư Đặng Văn Ngữ có nghề nghiệp gì?",
+        "Tinh thần yêu nước của bác sĩ Đặng Văn Ngữ được thể hiện qua chi tiết nào?",
+        "Dù băng qua rừng rậm suối sâu, ông luôn giữ bên mình thứ gì?",
+        "Chiếc va li đựng nấm của Đặng Văn ngữ có gì quý giá trong đó?",
+        "Năm 1967, mặc dù đã gần 60 tuổi, bác sĩ Đặng Văn Ngữ vẫn lên đường đi đâu?",
+        "Trong những năm chống Mĩ cứu nước, bác sĩ Đặng Văn Ngữ đã đạt được thành tựu quan trọng gì?",
+        "Bác sĩ Đặng Văn Ngữ rất dũng cảm được thể hiện qua chi tiết nào?",
+        "Cái gì đã cướp đi người trí thức yêu nước và tận tụy Đặng Văn Ngữ?"
+    ],
+    "options": [
+        [
+            "Giáo viên.",
+            "Chiến sĩ.",
+            "Bác sĩ.",
+            "Trí thức yêu nước."
+        ],
+        [
+            "Năm 1967, khi gần 60 tuổi, ông vẫn lên đường ra mặt trận chống Mĩ.",
+            "Ông là vị bác sĩ giỏi, từng được cử sang Nhật Bản du học.",
+            "Để tránh bị địch phát hiện, ông phải đi vòng từ Nhật sáng Thái Lan, Lào rồi về nước.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Những lá thư và những bí mật của quân đội ta.",
+            "Chiếc va li đựng nấm pê-ni-xi-lin mà ông gây được từ bên Nhật.",
+            "Những giấy tờ sách vở ông học được khi còn ở Nhật.",
+            "Tài sản và đồ dùng mà ông vẫn hay sử dụng khi ở bên Nhật."
+        ],
+        [
+            "Vì thứ nấm này giúp chế ra thuốc chữa bệnh cho thương binh.",
+            "Vì thứ nấm này rất độc, có thể gây nguy hiểm nếu bị phát tán.",
+            "Vì thứ nấm này rất đắt đỏ.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Ông vẫn lên đường đi du lịch.",
+            "Quyết tâm Nam tiến để phát triển và nghiên cứu về nấm pê-ni-xi-lin.",
+            "Ra mặt trận, tham gia kháng chiến chống Mĩ cứu nước.",
+            "Tất cả các ý trên."
+        ],
+        [
+            "Chế ra nhiều dụng cụ y học.",
+            "Chế ra nhiều dụng cụ y học.",
+            "Chế ra thuốc chống sốt rét.",
+            "Nhân rộng thành công nấm pê-ni-xi-lin."
+        ],
+        [
+            "Nhờ nấm của ông, bộ đội ta đã chế tạo được thuốc chữa bệnh cho thương binh.",
+            "Ông đã rời Nhật Bản về Việt Nam để tham gia kháng chiến.",
+            "Ông chế ra thuốc chống sốt rét và tự tiêm vào cơ thể mình để thử nghiệm.",
+            "Ông đi đường vòng từ Nhật về Thái, Lào, Nghệ An rồi mới lên Tây Bắc để tránh bị địch phát hiện."
+        ],
+        [
+            "Sự dụ dỗ của kẻ địch.",
+            "Bom đạn của kẻ thù.",
+            "Bệnh tật và tuổi già.",
+            "Sự hấp dẫn của Nhật Bản."
+        ]
+    ],
+    "answers": [
+        "C",
+        "A",
+        "B",
+        "A",
+        "C",
+        "C",
+        "C",
+        "B"
+    ]
+}

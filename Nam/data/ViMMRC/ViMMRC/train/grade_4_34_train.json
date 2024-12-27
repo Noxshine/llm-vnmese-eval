@@ -1,0 +1,73 @@
+{
+    "article": "Hai người bột trong lọ buồn tênh. Bỗng một đêm, có con chuột cạy nắp lọ, tha nàng công chúa và cái lầu đi mất. Chàng kị sĩ sợ quá, thúc ngựa chạy vọt ra, chạy đến miệng cống. Một con chuột già phục sẵn. Nó bảo chàng để ngựa lại, xuống thuyền vào cống tìm công chúa. Gặp công chúa trong cái hang tối, chàng hỏi:\n\n- Kẻ nào đã bắt nàng tới đây?\n\n- Chuột.\n\n- Lầu son của nàng đâu?\n\n- Chuột ăn rồi!\n\nChàng kị sĩ hoảng hốt, biết mình bị lừa, vội dìu công chúa chạy trốn.\n\nChiếc thuyền mảnh trôi qua cống ra con ngòi. Gặp nước xoáy, thuyền lật, cả hai bị ngấm nước, nhũn cả chân tay.\n\nLúc ấy, Đất Nung đang đi dọc bờ con ngòi. Thấy hai người bị nạn, chú liền nhảy xuống, vớt lên bờ phơi nắng cho se bột lại.\n\nHai người bột tỉnh dần, nhận ra bạn cũ thì lạ quá, kêu lên:\n\n- Ôi, chính anh đã cứu chúng tôi đấy ư? Sao trông anh khác thế?\n\n- Có gì đâu, tại tớ nung trong lửa. Bây giờ có thể phơi nắng, phơi mưa hàng đời người.\n\nNàng công chúa phục quá, thì thào với chàng kị sĩ:\n\n- Thế mà chúng mình mới chìm xuống nước đã vữa ra.\n\nĐất Nung đánh một câu cộc tuếch:\n\n- Vì các đằng ấy đựng trong lọ thủy tinh mà.",
+    "questions": [
+        "Nàng công chúa đã bị ai bắt mất?",
+        "Chàng kị sĩ đã làm như thế nào khi nàng công chúa bị bọn chuột bắt mất?",
+        "Hai người chạy thoát khỏi lũ chuột thì lại gặp tai nạn gì?",
+        "Ai là người đã vớt và phơi khô chàng kị sĩ và nàng công chúa?",
+        "Đất Nung đã làm như thế nào khi thấy hai người bột gặp nạn?",
+        "Câu nói cộc tuếch nào mà Đất Nung đã nói với hai người bột?",
+        "Câu nói cộc tuếch của Đất Nung có ý nghĩa như thế nào?",
+        "Câu nói nào bên dưới phù hợp với nội dung của bài?"
+    ],
+    "options": [
+        [
+            "Chàng kị sĩ.",
+            "Chuột.",
+            "Bọn trộm.",
+            "Đất Nung."
+        ],
+        [
+            "Đuổi theo cứu nàng.",
+            "Cầu cứu cu Chắt và Đất Nung.",
+            "Mặc kệ nàng công chúa.",
+            "Chạy đi tìm người giúp."
+        ],
+        [
+            "Thuyền không có mui và gặp cơn mưa lớn và hai người ướt hết.",
+            "Thuyền lật nhào khiến hai người ngấm nước và nhũn cả chân tay.",
+            "Hai người bị bọn mèo tha đi và lưu lạc đến một vùng đất khác.",
+            "Bị chó sói ăn thịt."
+        ],
+        [
+            "Cu Chắt.",
+            "Chú bé Đất Nung.",
+            "Ông Hòn Rấm.",
+            "Bọn chuột."
+        ],
+        [
+            "Mặc kệ hai người bột vì họ không chơi với mình.",
+            "Chạy đi gọi cu Chắt cứu hai người bột.",
+            "Nhảy xuống vớt hai người lên và phơi cho bột se lại.",
+            "Cho ăn uống rồi cứu thương."
+        ],
+        [
+            "Không có gì đâu, hai người đã thấy hối hận chưa?",
+            "Vì các đằng ấy đựng trong lọ thủy tinh mà.",
+            "Có gì đâu, tại tớ nung trong lửa nên có thể phơi mưa phơi nắng hàng đời người.",
+            "Thế mà chúng mình mới chìm xuống nước đã vữa ra."
+        ],
+        [
+            "Vì hai người bột chỉ là những món đồ chơi yếu đuối, vô dụng.",
+            "Chỉ có Đất Nung đi đây đi đó thì mới giỏi giang, mạnh mẽ.",
+            "Phải chịu khó rèn luyện, vượt qua khó khăn thì mới trở nên cứng rắn.",
+            "Cảm ơn hai người."
+        ],
+        [
+            "Ngọc càng mài càng sáng, vàng càng luyện càng trong.",
+            "Hạnh phúc không phải ở đích đến mà nằm ở hành trình.",
+            "Nếu cho tôi một điểm tựa, tôi có thể nâng bổng được cả trái đất.",
+            "Thất bại là mẹ thành công."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "B",
+        "B",
+        "C",
+        "B",
+        "C",
+        "A"
+    ]
+}

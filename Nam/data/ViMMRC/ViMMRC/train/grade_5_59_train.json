@@ -1,0 +1,73 @@
+{
+    "article": "Các em học sinh, \n\nNgày hôm nay là ngày khai trường đầu tiên ở nước Việt Nam dân chủ Cộng hòa. Tôi đã tưởng tượng thấy trước mắt cái cảnh nhộn nhịp tưng bừng của ngày tựu trường ở khắp các nơi. Các em hết thảy đều vui vẻ vì sau mấy tháng giời nghỉ học, sau bao nhiêu cuộc chuyển biến khác thường, các em lại được gặp thầy gặp bạn. Nhưng sung sướng hơn nữa, từ giờ phút này giở đi, các em bắt đầu được nhận một nền giáo dục hoàn toàn Việt Nam. Các em được hưởng sự may mắn đó là nhờ sự hi sinh của biết bao nhiêu đồng bào các em. Vậy các em nghĩ sao?\n\nTrong năm học tới đây, các em hãy cố gắng, siêng năng học tập, ngoan ngoãn, nghe thầy, yêu bạn. Sau 80 năm giời nô lệ làm cho nước nhà bị yếu hèn, ngày nay chúng ta cần phải xây dựng lại cơ đồ mà tổ tiên đã để lại cho chúng ta, làm sao cho chúng ta theo kịp các nước khác trên hoàn cầu. Trong công cuộc kiến thiết đó, nước nhà trông mong chờ đợi ở các em rất nhiều. Non sông Việt Nam có trở nên tươi đẹp hay không, dân tộc Việt Nam có bước tới đài vinh quang để sánh vai với các cường quốc năm châu được hay không, chính là nhờ một phần lớn ở công học tập của các em. Ngày hôm nay, nhân buổi tựu trường của các em, tôi chỉ biết chúc các em một năm đầy vui vẻ và đầy kết quả tốt đẹp.\n\nChào các em thân yêu.",
+    "questions": [
+        "Ngày khai trường tháng 9 năm 1945 có gì đặc biệt so với những ngày khai trường khác?",
+        "Bác Hồ đã tưởng tượng ra cảnh gì trong ngày tựu trường của các em?",
+        "Bác đã khẳng định từ giờ phút này giở đi các em sẽ được làm điều gì?",
+        "Bác khẳng định các em được hưởng sự may mắn đó là nhờ đâu?",
+        "Bác khẳng định học sinh có trách nhiệm như thế nào trong công cuộc kiến thiết đất nước?",
+        "Nội dung của bài \"Thư gửi các học sinh\" là gì?",
+        "\"80 năm giời nô lệ\" là Bác muốn nhắc tới sự đô hộ của nước nào?",
+        "\"Kiến thiết đất nước\" có nghĩa là gì?"
+    ],
+    "options": [
+        [
+            "Đây là ngày khai trường của riêng Việt Nam.",
+            "Từ đây, các em được hưởng một nền giáo dục hoàn toàn Việt Nam.",
+            "Đây là ngày khai giảng của một năm học mới.",
+            "Đây là ngày toàn dân đưa trẻ tới trường."
+        ],
+        [
+            "Ở khắp các trường, thầy cô vui vẻ đón các em quay trở lại học tập.",
+            "Các em trở lại trường, nhanh chóng thích ứng và học hành chăm chỉ.",
+            "Ở khắp nơi, các em đều náo nức tới trường, gặp bạn gặp thầy.",
+            "Các em mới tới trường, bỡ ngỡ, run sợ, rụt rè."
+        ],
+        [
+            "Các thầy cô sẽ như người mẹ thứ hai của các em.",
+            "Các em được tới trường và được học những tri thức mới.",
+            "Các em sẽ được tham dự buổi khai trường của nước Việt Nam Dân chủ Cộng hòa.",
+            "Các em sẽ được nhận một nền giáo dục hoàn toàn Việt Nam."
+        ],
+        [
+            "Nhờ sự yêu thương, che chở, quan tâm của cha mẹ các em.",
+            "Nhờ những người thầy tâm huyết mở trường, mở lớp.",
+            "Nhờ những người thầy cô tận tụy, yêu mến học sinh.",
+            "Nhờ sự hi sinh của biết bao đồng bào các em."
+        ],
+        [
+            "Ngoan ngoãn, vâng lời bố mẹ, lễ phép với người lớn tuổi.",
+            "Cố gắng, siêng năng học tập, ngoan ngoãn, nghe thầy yêu bạn.",
+            "Học để xóa nạn mù chữ, để không chỉ diệt giặc đói mà còn diệt giặc dốt..",
+            "Học bài, làm bài tập đầy đủ, đi học đúng giờ, không trốn học, bỏ học.."
+        ],
+        [
+            "Khẳng định sự hi sinh xương máu của cha ông để có nền độc lập hôm nay.",
+            "Khuyên cha mẹ các em hãy đưa con em tới dự lễ tựu trường.",
+            "Khuyên các em nên ngoan ngoãn siêng năng học tập để kiến thiết đất nước.",
+            "Chúc mừng các em tới dự lễ tựu trường đầu tiên của dân tộc Việt Nam."
+        ],
+        [
+            "Trung Quốc.",
+            "Phát xít Nhật.",
+            "Thực dân Pháp.",
+            "Đế quốc Mĩ."
+        ],
+        [
+            "Trông, nhìn đất nước.",
+            "Xây dựng đất nước.",
+            "Tin tưởng đất nước.",
+            "Thấy được tầm quan trọng của đất nước."
+        ]
+    ],
+    "answers": [
+        "B",
+        "C",
+        "D",
+        "D",
+        "B",
+        "C",
+        "C",
+        "B"
+    ]
+}

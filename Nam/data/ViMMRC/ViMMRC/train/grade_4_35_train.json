@@ -1,0 +1,49 @@
+{
+    "article": "Con chim chiền chiện\nBay vút, vút cao\nLòng đầy yêu mến\nKhúc hát ngọt ngào.\n\nCánh đập trời xanh\nCao hoài, cao vợi\nTiếng hót long lanh\nNhư cành sương chói.\n\nChim ơi, chim nói\nChuyện chi, chuyện chi?\nLòng vui bối rối\nĐời lên đến thì...\n\nTiếng ngọc trong veo\nChim gieo từng chuỗi\nLòng chim vui chiều\nHót không biết mỏi.\n\nChim bay, chim sà\nLúa tròn bụng sữa\nĐồng quê chan chứa\nNhững lời chim ca\n\nBay cao, cao vút\nChim biến mất rồi\nChỉ còn tiếng hót\nLàm xanh da trời...",
+    "questions": [
+        "Bài thơ này mô tả về con chim nào?",
+        "Con chim chiền chiện bay lượn trong khung cảnh thiên nhiên được miêu tả như thế nào?",
+        "Tiếng hót của chiền chiện gợi cho ta những cảm giác ra sao?",
+        "Trong khổ thơ cuối, tác dụng của tiếng hót của chim chiền chiện là gì?",
+        "Con chim chiền chiện bay lượn giữa khung cảnh thiên nhiên như thế nào?"
+    ],
+    "options": [
+        [
+            "Sáo.",
+            "Chiền chiện.",
+            "Cú.",
+            "Khướu."
+        ],
+        [
+            "Bay lượn giữa khung cảnh bao la rộng lớn của đất trời.",
+            "Bay lượn trong chiếc lồng sắt và nhìn ngắm thiên nhiên.",
+            "Bay lượn giữa khung cảnh nhỏ hẹp.",
+            "Bay lượn giữa khung cảnh thiên nhiên đầy bão giông, hoang tàn."
+        ],
+        [
+            "Sôi sục, giục giã và gấp gáp.",
+            "Lo lắng, tức tối và buồn rầu.",
+            "Ồn ào, náo nhiệt và phiền phức.",
+            "Thanh bình, tự do và yêu đời."
+        ],
+        [
+            "Làm xanh da trời.",
+            "Khiến cây lúa trổ bông.",
+            "Gọi bình minh tới.",
+            "Làm vạn vật thức giấc."
+        ],
+        [
+            "Bay lượn giữa khung cảnh nhỏ hẹp.",
+            "Bay lượn giữa khung cảnh bao la rộng lớn của đất trời.",
+            "Bay lượn trong chiếc lồng sắt và nhìn ngắm thiên nhiên..",
+            "Bay lượn giữa khung cảnh thiên nhiên đầy bão giông, hoang tàn."
+        ]
+    ],
+    "answers": [
+        "B",
+        "A",
+        "D",
+        "A",
+        "B"
+    ]
+}

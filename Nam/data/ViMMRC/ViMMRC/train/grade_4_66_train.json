@@ -1,0 +1,49 @@
+{
+    "article": "Một cậu bé người Ba Lan muốn học đàn dương cầm, thế nhưng cha cậu lại bảo mấy ngón tay của cậu múp míp và ngắn quá, không thể nào chơi đàn hay được. Ông khuyên cậu hãy thử học chơi kèn, thế rồi sau đó một nhạc công chuyên nghiệp lại nói rằng cậu không có được đôi môi thích hợp.\n\nMột ngày kia, cậu được gặp gỡ nhạc sĩ dương cầm lừng danh An-tôn Ru-bin-xtên. Con người nổi tiếng này đã trao cho cậu một lời khích lệ mà trước đây cậu chưa từng được nghe: “Này chú bé, chú có thể chơi pi-a-nô được đấy! Ta nghĩ là chú có thể chơi được… nếu như chú chịu khó luyện tập 7 tiếng mỗi ngày.”\n\nÔi chao, đó mới thực sự là nguồn cổ vũ lớn lao mà cậu cần đến. Ru-bin-xtên vĩ đại đã bảo là cậu có thể chơi đàn được! Cậu sẽ phải bỏ rất nhiều thời gian để luyện tập nếu muốn chơi đàn, nhưng mà cậu có thể chơi được! Thậm chí có thể chơi giỏi! An – tôn Ru-bin-xtên đã nói như vậy mà!\n\nCậu bé về miệt mài tập luyện, cậu bỏ ra nhiều giờ mỗi ngày, và sau nhiều năm, công lao khó nhọc của cậu đã được tặng thưởng: Gian Pa-đơ –riêu-xki trở thành một trong những nghệ sĩ dương cầm lừng danh nhất thời bấy giờ. Một lời động viên đơn giản đã mang đến nội lực làm bừng lên ngọn lửa đam mê trong lòng một cậu bé, ngọn lửa ấy vẫn cháy sáng mãi trong nhiều năm trời.\n\nHãy nhớ rằng những lới động viên mà bạn đang trao gởi hôm nay đôi khi làm thay đổi được mãi mãi cuộc đời của người đã đón nhận nó.",
+    "questions": [
+        "Cậu bé người Ba Lan trong câu chuyện đã học chơi những loại nhạc cụ nào?",
+        "Vì sao cha cậu khuyên cậu không nên học đàn dương cầm?",
+        "Nguyên nhân nào dẫn đến sau này cậu trở thành một nghệ sĩ dương cầm lừng danh?",
+        "Câu chuyện muốn nói với em điều gì?",
+        "Cậu bé là người nước nào?"
+    ],
+    "options": [
+        [
+            "Dương cầm, kèn.",
+            "Kèn, vi-ô-lông.",
+            "Vi-ô-lông, dương cầm.",
+            "Dương cầm."
+        ],
+        [
+            "Vì cậu không có đôi môi thích hợp.",
+            "Vì các ngón tay của cậu múp míp và ngắn quá.",
+            "Vì cậu không có năng khiếu.",
+            "Vì các ngón tay của cậu bé quá to."
+        ],
+        [
+            "Vì lời động viên lớn lao của nghệ sĩ pi-a-nô An-tôn Ru-bin-xtên đã khiến cậu tự tin và luyện tập miệt mài.",
+            "Vì cậu có năng khiếu đặc biệt.",
+            "Vì cậu có thầy giáo giỏi.",
+            "Vì cậu có người thầy quá xuất sắc."
+        ],
+        [
+            "Hãy biết khen mọi người, những lời khen ấy làm cho người khác phấn khởi và tự tin trong cuộc sống.",
+            "Hãy biết nói những lời động viên mọi người vì có thể những lời động viên đó sẽ làm thay đổi cuộc đời của một con người.",
+            "Hãy miệt mài học tập thì sẽ đạt được thành công.",
+            "Hãy chăm chỉ và siêng năng để làm được nhiều việc hơn."
+        ],
+        [
+            "Ba Lan.",
+            "Hà Lan.",
+            "Mỹ.",
+            "Pháp."
+        ]
+    ],
+    "answers": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "A"
+    ]
+}
