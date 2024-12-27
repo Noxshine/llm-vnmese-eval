@@ -66,9 +66,9 @@ def calculate_wed(predicted, reference):
 
     # The WED is the number of errors divided by the number of words in the reference
     total_errors = matrix[len_ref][len_pred]
-    wed_value = total_errors / len_ref
+    # wed_value = total_errors / len_ref
 
-    return wed_value
+    return total_errors
 
 def calculate_ppl():
     pass
