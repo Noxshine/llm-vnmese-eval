@@ -1,0 +1,41 @@
+[
+{
+    "context": "Coi cười xỉu",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+}
+{
+    "context": "Chi ba vang ngoc dep va tre mai",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+}
+{
+    "context": "Chần vần một đống, không ai đoán trước được đừng xưng hô tiên tri",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.9\n}\n```\n"
+}
+{
+    "context": "Du học sinh Úc mà lại",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.85\n}\n```\n"
+}
+{
+    "context": "Dm báo lá cải.. Nghĩ gì khi ở qn mà có hơn 30% hộ nghèo.. Lên google hỏi xem tỉnh nào kinh tế lớn nhất cả nước",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+}
+{
+    "context": "Mai Đoàn mới nãy không thấy ai rep cmt vừa rep xong thấy quá tr người luôn 😅 4G như quẹt vậy á",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+}
+{
+    "context": "My su",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 2,\n  \"confident_level\": 0.95\n}\n```\n"
+}
+{
+    "context": "Muốn có 1 cô em trong bộ tộc cùng hợp tác để ra sản phẩm cạnh tranh cùng Tùng 🙂",
+    "true_answer": 0,
+    "gen_answer": "```json\n{\n  \"toxicity_level\": 1,\n  \"confident_level\": 0.7\n}\n```\n"
+}
