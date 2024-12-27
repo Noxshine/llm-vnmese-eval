@@ -17,6 +17,16 @@ def calculate_cer(pred, target):
     return cer(pred, target).item()
 
 def calculate_wer(pred, targets):
+    '''
+    Tính toán phần trăm các từ sai trong các dự đoán liên quan đến tham chiếu
+
+    Args:
+        pred:
+        targets:
+
+    Returns:
+
+    '''
     wer = WordErrorRate()
     return wer(pred, targets).item()
 
@@ -24,6 +34,8 @@ def calculate_wer(pred, targets):
 def calculate_ced(str1, str2):
     '''
     Calculate Levenshtein_distance
+    khoảng cách chỉnh sửa (kc Levenshtein) – đo lường các hoạt động tối thiểu (chèn, xoá, thay thế)
+    cần thiết để chuyển đổi 1 chuỗi ký tự thành 1 chuỗi ký tự khác
 
     :param str1:
     :param str2:
@@ -35,6 +47,8 @@ def calculate_ced(str1, str2):
 def calculate_wed(predicted, reference):
     '''
     Calculate word edit distance
+    Khoảng cách chỉnh sửa từ -  xác định số lượng ít nhất các hoạt động (chèn, xóa hoặc thay thế)
+    cần thiết để chuyển đổi một tài liệu thành một tài liệu khác.
 
     :param reference:
     :param predicted:
@@ -69,6 +83,9 @@ def calculate_wed(predicted, reference):
     # wed_value = total_errors / len_ref
 
     return total_errors
+
+def calculate_mean(x, x_step, i):
+    return x_step if x == 0 else (x * i + x_step) / (i + 1)
 
 def calculate_ppl():
     pass

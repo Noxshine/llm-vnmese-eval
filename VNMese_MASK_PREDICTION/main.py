@@ -7,6 +7,8 @@ import google.generativeai as genai
 import pandas as pd
 from dotenv import load_dotenv
 
+from metric import calculate_mean, calculate_cer, calculate_wer, calculate_ced, calculate_wed
+
 load_dotenv()
 
 MLQA_PATH = '../data/mlqa-vi.json'
@@ -131,8 +133,8 @@ def convert_txt_to_json(file_path, output_path):
     with open(output_path, 'w') as json_file:
         json.dump(result, json_file, indent=4)
 
-LOG_FILE_VSEC = 'log/MLQA_mask_prediction.txt'
-LOG_FILE_VSEC_JSON = 'log/MLQA_mask_prediction.json'
+LOG_FILE_MLQA = 'log/MLQA_mask_prediction.txt'
+LOG_FILE_MLQA_JSON = 'log/MLQA_mask_prediction.json'
 
 if __name__ == '__main__':
 
@@ -158,5 +160,37 @@ if __name__ == '__main__':
     Test 
     '''
     # eval_MLQA(MLQA_MASKED_PATH)
+    # convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
 
-    convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
+    '''
+        @metric - fix to last value whenever continue running
+        '''
+    EM = 0
+    CER = 0
+    WER = 0
+    CED = 0
+    WED = 0
+
+    df = pd.read_json(LOG_FILE_MLQA_JSON)
+
+    for index, row in df.iterrows():
+        wr = row["wrong"]
+        trh = row["truth"]
+        pred = row["pred"]
+
+        CER = calculate_mean(CER, calculate_cer(pred, trh), index)
+        WER = calculate_mean(WER, calculate_wer(pred, trh), index)
+        CED = calculate_mean(CED, calculate_ced(pred, trh), index)
+        WED = calculate_mean(WED, calculate_wed(pred, trh), index)
+
+    print(CER)
+    print(WER)
+    print(CED)
+    print(WED)
+
+'''
+    0.03526852446032104
+    0.04661472028270032
+    34.60753880266073
+    9.63414634146341
+'''

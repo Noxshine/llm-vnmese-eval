@@ -1,9 +1,11 @@
 import json
 import os
 import time
-
+import pandas as pd
 import google.generativeai as genai
 from dotenv import load_dotenv
+
+from metric import calculate_cer, calculate_wer, calculate_ced, calculate_wed, calculate_mean
 
 load_dotenv()
 
@@ -54,15 +56,6 @@ def VSEC_evaluate(dataset):
     if not os.path.exists(LOG_FILE_VSEC):
         os.makedirs(os.path.dirname(LOG_FILE_VSEC), exist_ok=True)
 
-    '''
-    @metric - fix to last value whenever continue running
-    '''
-    EM = 0
-    CER = 0
-    WER = 0
-    CED = 0
-    WED = 0
-
     for i in range(600, 800):
         wr_num = 0
 
@@ -103,9 +96,6 @@ def VSEC_evaluate(dataset):
 
         time.sleep(20)
 
-
-def calculate_mean(x, x_step, i):
-    return x_step if x == 0 else (x * i + x_step) / (i + 1)
 
 def calculate_em(pred, target, wr_num):
 
@@ -170,8 +160,41 @@ if __name__ == '__main__':
     # VSEC_evaluate(dataset)
 
     # save txt to json file
-    convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
+    # convert_txt_to_json(LOG_FILE_VSEC, LOG_FILE_VSEC_JSON)
 
-    # df = pd.read_json(LOG_FILE_VSEC_JSON)
+    '''
+     @metric - fix to last value whenever continue running
+     '''
+    EM = 0
+    CER = 0
+    WER = 0
+    CED = 0
+    WED = 0
 
-    # print(df.iloc[0]["pred"])
+    df = pd.read_json(LOG_FILE_VSEC_JSON)
+
+    for index, row in df.iterrows():
+
+        if index > 10 :
+            break
+
+        wr = row["wrong"]
+        trh = row["truth"]
+        pred = row["pred"]
+
+        CER = calculate_mean(CER, calculate_cer(pred, trh), index)
+        WER = calculate_mean(WER, calculate_wer(pred, trh), index)
+        CED = calculate_mean(CED, calculate_ced(pred, trh), index)
+        WED = calculate_mean(WED, calculate_wed(pred, trh), index)
+
+    print(CER)
+    print(WER)
+    print(CED)
+    print(WED)
+
+    '''
+    0.0044814339754256334
+    0.019886363636363636
+    0.6363636363636364
+    0.6363636363636364
+    '''

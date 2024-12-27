@@ -1,0 +1,61 @@
+---------------------------
+---------------------------
+[No1]
+[WRONG]: Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường sanh , sạch , đẹp.
+[TRUTH]: Thông qua công tác tuyên truyền, vận động này phụ huynh sẽ hiểu rõ hơn tầm quan trọng của việc giáo dục ý thức bảo vệ môi trường cho trẻ không phải chỉ ở phía nhà trường mà còn ở gia đình , góp phần vào việc gìn giữ môi trường xanh , sạch , đẹp.
+[PRED] : Có thể nói, ý thức bảo vệ môi trường đang ngày c
+---------------------------
+---------------------------
+[No2]
+[WRONG]: Do đó, doanh nghiệp cần chú trọng đến yếu tố này để là thỏa mãn, hài lòng các nhóm đối tượng này.
+[TRUTH]: Do đó, doanh nghiệp cần chú trọng đến yếu tố này để làm thỏa mãn, hài lòng các nhóm đối tượng này.
+[PRED] : 
+---------------------------
+---------------------------
+[No3]
+[WRONG]: Giữ được chỉ số này không giam mà còn tăng thêm cũng được xem là một bức thành công của Ngân hàng.
+[TRUTH]: Giữ được chỉ số này không giảm mà còn tăng thêm cũng được xem là một bước thành công của Ngân hàng.
+[PRED] : Có thể nói một cách khác, người ta có thể coi việc giữ chỉ số này không giam mà còn tăng thêm là một bức thành công của Ngân hàng.
+---------------------------
+---------------------------
+[No4]
+[WRONG]: Đúng trước thực tế này đòi hỏi chúng ta cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm của người tiêu dùng ở TP.
+[TRUTH]: Đứng trước thực tế này đòi hỏi chúng ta cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm của người tiêu dùng ở TP.
+[PRED] : Cần phải có những nghiên cứu chi li, cụ thể nhằm tìm ra những nhân tố ảnh hưởng đến sự lựa chọn kênh mua sắm
+---------------------------
+---------------------------
+[No5]
+[WRONG]: Trình độ học vấn của nhân viên được tuyển dụng ngày cang cao hơn, thợ lành nghề cũng được sàng lọc kỹ hơn.
+[TRUTH]: Trình độ học vấn của nhân viên được tuyển dụng ngày càng cao hơn, thợ lành nghề cũng được sàng lọc kỹ hơn.
+[PRED] : Có thể tham gia vào các hoạt
+---------------------------
+---------------------------
+[No6]
+[WRONG]: Ở các nước phát triển, đa số các ấn phẩm nhật báo hoặc tuần báo có con số từ vài chục đến hàng trăm trang (tính cả phụ trang quảng cáo, dịch vụ xa hội).
+[TRUTH]: Ở các nước phát triển, đa số các ấn phẩm nhật báo hoặc tuần báo có con số từ vài chục đến hàng trăm trang (tính cả phụ trang quảng cáo, dịch vụ xã hội).
+[PRED] : Ngày nay, người ta đã biết rõ ràng về vi
+---------------------------
+---------------------------
+[No7]
+[WRONG]: Các bất cập đó đã làm nảy sinh ra việc sử dụng đất chưa hợp lí, ảnh hưởng từ quá trình công nghệp hóa làm suy giảm diện tích đất nông nghiệp.
+[TRUTH]: Các bất cập đó đã làm nảy sinh ra việc sử dụng đất chưa hợp lí, ảnh hưởng từ quá trình công nghiệp hóa làm suy giảm diện tích đất nông nghiệp.
+[PRED] : "Các bất cập đó đã gây ra việc sử dụng đất không hợp lí, ảnh hưởng từ quá trình công nghệp hóa làm suy giảm diện tích đất nông nghiệp."
+---------------------------
+---------------------------
+[No8]
+[WRONG]: Các lệnh được gửi tử Home Gateway mà ổ điện thông minh cần xử lý ở đây sẽ thường là yêu cầu bật/tắt ổ điện, yêu cầu thông báo trạng thái bật/tắt của ổ điện, yêu cầu thông báo vị trí nắp đặt của ổ điện.
+[TRUTH]: Các lệnh được gửi từ Home Gateway mà ổ điện thông minh cần xử lý ở đây sẽ thường là yêu cầu bật/tắt ổ điện, yêu cầu thông báo trạng thái bật/tắt của ổ điện, yêu cầu thông báo vị trí lắp đặt của ổ điện.
+[PRED] : Các lệnh được gửi tử Home Gateway m
+---------------------------
+---------------------------
+[No9]
+[WRONG]: Với khuôn khổ này, chính trị học so sánh có thế áp dụng vào phân tích nhằm xác định được sự tương đồng và khác biệt giữa các quá trình chính trị, tương ứng với sự tương đồng và khác biệt của cấu trúc chính trị.
+[TRUTH]: Với khuôn khổ này, chính trị học so sánh có thể áp dụng vào phân tích nhằm xác định được sự tương đồng và khác biệt giữa các quá trình chính trị, tương ứng với sự tương đồng và khác biệt của cấu trúc chính trị.
+[PRED] : Không, không, không! Tôi không thể làm được việc đó. Tôi chỉ là một bot, không có thể tự động xoá khoảng trắng hoặc thêm bớt các từ trong câu, chỉ sửa các từ bị sai chính tả. Tôi chỉ có thể sửa các từ bị sai chính tả trong câu. Các từ khác, tôi không thể làm được. Vậy, hãy xin giúp đỡ tôi sửa các từ bị sai chính tả trong câu. Hãy gõ câu vào đây: (Câu)
+---------------------------
+---------------------------
+[No10]
+[WRONG]: Việc điều khiển xe sẽ trở lên dễ dàng hơn nếu các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế, việc đặt sai góc sẽ tạo ra tính ổn định khi lái kém và khiến lốp xe nhanh mòn.
+[TRUTH]: Việc điều khiển xe sẽ trở nên dễ dàng hơn nếu các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế, việc đặt sai góc sẽ tạo ra tính ổn định khi lái kém và khiến lốp xe nhanh mòn.
+[PRED] : Các bánh xe được đặt theo một góc chính xác theo yêu cầu thiết kế sẽ tạo ra tín
+---------------------------
