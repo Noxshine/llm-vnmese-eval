@@ -38,10 +38,10 @@ pipeline = transformers.pipeline(
 )
 
 
-!pip install google-generative-ai
-!pip install datasets
-!pip install pandas
-!pip install python-dotenv
+# !pip install google-generative-ai
+# !pip install datasets
+# !pip install pandas
+# !pip install python-dotenv
 
 import time
 import google.generativeai as genai
